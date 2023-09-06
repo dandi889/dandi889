@@ -6,4 +6,4 @@ Allow: /
 User-agent: *
 Allow: /
 
-Sitemap: https://ikanjambi.unja.ac.id/gallery/sitemap.xml
+Sitemap: https://lms.polimedia.ac.id/.well-known/-/sitemap.xml
