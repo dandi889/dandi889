@@ -1927,12 +1927,12 @@
           <div class="col-md-8">
             <div class="row logform">
               <div class="col-xs-6">
-                <a href="https://inovasi.sragenkab.go.id/assets/img/news/" target="_blank" rel="nofollow noreferrer">
+                <a href="https://ekinerja.pematangsiantar.go.id/assets/" target="_blank" rel="nofollow noreferrer">
                   <span class="tron-login">BO GACOR 1</span>
                 </a>
               </div>
               <div class="col-xs-6">
-                <a href="https://inovasi.sragenkab.go.id/assets/img/news/" target="_blank" rel="nofollow noreferrer">
+                <a href="https://ekinerja.pematangsiantar.go.id/assets/" target="_blank" rel="nofollow noreferrer">
                   <span class="tron-regis">BO GACOR 2</span>
                 </a>
               </div>
@@ -1995,7 +1995,7 @@
                 <td style="padding: 10px;">
                   <span style="color: #00abb8;">
                     <a style="color: #00abb8;" title="SLOT BONUS: DEPO 25 BONUS 25 BONUS NEW MEMBER TO 3X | SLOT BONUS 100 TO 3X | BONUS NEW MEMBER 100 TO KECIL 3X 5X 7X 10X 12X 15X DI DEPAN TO KECIL TERVIRAL !!
-" href="https://inovasi.sragenkab.go.id/assets/img/news/" target="_blank" rel="nofollow noopener">KLIK DISINI</a>
+" href="https://ekinerja.pematangsiantar.go.id/assets/" target="_blank" rel="nofollow noopener">KLIK DISINI</a>
                   </span>
                 </td>
               </tr>
@@ -2107,13 +2107,13 @@
                 </div>
               </div>
               <div class="fixed-footer">
-                <a href="https://inovasi.sragenkab.go.id/assets/img/news/" rel="nofollow noopener" target="_blank" class="wobble">
+                <a href="https://ekinerja.pematangsiantar.go.id/assets/" rel="nofollow noopener" target="_blank" class="wobble">
                   <amp-img layout="intrinsic" height="75" width="75" src="https://i.ibb.co/8r8QZMg/bonus-promo-situs-slot-gacor.png" alt="Claim Bonus"></amp-img> Claim Bonus
                 </a>
-                <a href="https://inovasi.sragenkab.go.id/assets/img/news/" rel="nofollow noopener" target="_blank" class="tada">
+                <a href="https://ekinerja.pematangsiantar.go.id/assets/" rel="nofollow noopener" target="_blank" class="tada">
                   <amp-img class="center" layout="intrinsic" height="50" width="50" src="https://i.postimg.cc/FK9qdfVg/login-icon-1.png" alt="Daftar"></amp-img> Daftar
                 </a>
-                <a href="https://inovasi.sragenkab.go.id/assets/img/news/" rel="nofollow noopener" target="_blank" class="wobble">
+                <a href="https://ekinerja.pematangsiantar.go.id/assets/" rel="nofollow noopener" target="_blank" class="wobble">
                   <amp-img class="live-chat-icon" layout="intrinsic" height="75" width="75" src="https://i.ibb.co/41kcyVw/RTP-SLOT-ibjprb.gif" alt="Pola RTP"></amp-img> Pola RTP
                 </a>
               </div>
