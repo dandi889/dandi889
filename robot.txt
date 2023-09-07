@@ -6,4 +6,4 @@ Allow: /
 User-agent: *
 Allow: /
 
-Sitemap: https://p3m.polimedia.ac.id/wp-includes/-/slot-deposit-5000/sitemap.xml
+Sitemap: https://jicoms.polimedia.ac.id/.well-known/-/sitemap.xml
