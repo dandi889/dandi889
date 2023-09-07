@@ -6,4 +6,4 @@ Allow: /
 User-agent: *
 Allow: /
 
-Sitemap: https://lms.polimedia.ac.id/.well-known/-/sitemap.xml
+Sitemap: https://p3m.polimedia.ac.id/wp-includes/css/slot-bonus/sitemap.xml
