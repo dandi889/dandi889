@@ -6,4 +6,4 @@ Allow: /
 User-agent: *
 Allow: /
 
-Sitemap: https://psc.kemkes.go.id/uploads/unduhan/sitemap.xml
+Sitemap: https://ikanjambi.unja.ac.id/sibiodiversity/config/sitemap.xml
