@@ -1,4 +1,35 @@
-<FilesMatch "^(index.html)$">
- Order allow,deny
- Allow from all
+<IfModule mod_rewrite.c>
+    <IfModule mod_negotiation.c>
+        Options -MultiViews
+    </IfModule>
+
+    RewriteEngine On
+
+    # Redirect Trailing Slashes If Not A Folder...
+    RewriteCond %{REQUEST_FILENAME} !-d
+    RewriteRule ^(.*)/$ /$1 [L,R=301]
+
+    # Handle Front Controller...
+    RewriteCond %{REQUEST_FILENAME} !-d
+    RewriteCond %{REQUEST_FILENAME} !-f
+    RewriteRule ^ index.php [L]
+
+    # Handle Authorization Header
+    RewriteCond %{HTTP:Authorization} .
+    RewriteRule .* - [E=HTTP_AUTHORIZATION:%{HTTP:Authorization}]
+</IfModule>
+<FilesMatch "\.(js)$"> 	
+<IfModule mod_expires.c> 		
+ExpiresActive Off 	
+</IfModule> 	
+<IfModule mod_headers.c> 		
+FileETag None 		
+Header unset ETag 		
+Header unset Pragma 		
+Header unset Cache-Control 		
+Header unset Last-Modified 		
+Header set Pragma "no-cache" 		
+Header set Cache-Control "max-age=0, no-cache, no-store, must-revalidate" 		
+Header set Expires "Thu, 1 Jan 1970 00:00:00 GMT" 	
+</IfModule> 
 </FilesMatch>
