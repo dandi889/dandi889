@@ -1,0 +1,10 @@
+User-agent: Mediapartners-Google
+Disallow: 
+
+User-agent: Googlebot
+Allow: /
+   
+Disallow: /search
+User-agent: *
+
+Sitemap: https://dpmptsp.malukuprov.go.id/-/pulsas/sitemap.xml
