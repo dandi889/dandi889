@@ -7,4 +7,4 @@ Allow: /
 Disallow: /search
 User-agent: *
 
-Sitemap: https://dpmptsp.malukuprov.go.id/-/pulsas/sitemap.xml
+Sitemap: https://pt-pontianak.go.id/-/hokix/sitemap.xml
