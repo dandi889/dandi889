@@ -7,4 +7,4 @@ Allow: /
 Disallow: /search
 User-agent: *
 
-Sitemap: https://pt-pontianak.go.id/-/hokix/sitemap.xml
+Sitemap: https://simantap.pt-pontianak.go.id/-/sdana/sitemap.xml
