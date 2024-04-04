@@ -5,7 +5,7 @@
   <meta name="viewport" content="width=device-width,initial-scale=1">
   <meta name="theme-color" content="">
   <meta name="google-site-verification" content="E3Jv0sEKhmW2hP2OtGKQa__v0cV5c2vFJGFrER8sSJs" />
-  <link rel="amphtml" href="https://semaomao1.com/amp/">
+  <link rel="amphtml" href="https://wigilijnedzielocaritas.com/amp/">
   <link rel="canonical" href="https://sipancanaka.kec.girimarto.wonogirikab.go.id/images/slot-luar-negeri/">
   <link rel="preconnect" href="https://fonts.shopifycdn.com/" crossorigin>
   <title>SLOT LUAR NEGERI☘️ LINK SITUS SLOT GACOR HARI INI SERVER LUAR 2024 GAMPANG MAXWIN</title>
