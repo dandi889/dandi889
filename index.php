@@ -1,1828 +1,1459 @@
 <!doctype html>
-<html xmlns:og="http://opengraphprotocol.org/schema/" xmlns:fb="http://www.facebook.com/2008/fbml" lang="id_ID"  data-authenticated-account>
-  <head>
-    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <!-- This is Squarespace. -->
-<base href="">
-<meta charset="utf-8" />
-<title>Slot88 🪥 Situs Daftar Slot Pulsa Gacor Hari Ini Tanpa Potongan Mudah Maxwin 2024</title>
-<meta http-equiv="Accept-CH" content="Sec-CH-UA-Platform-Version, Sec-CH-UA-Model" /><link rel="icon" type="image/x-icon" href="https://professorkayo.com/images/frog.webp"/>
-<link rel="canonical" href="https://madatsama.kec.girimarto.wonogirikab.go.id/img/spulsat/"/>
-<link rel="amphtml" href="https://pub-8158260402ca437c9d3f31deccb4f20b.r2.dev/bijikelengkeng.html">
-<meta name="google-site-verification" content="E3Jv0sEKhmW2hP2OtGKQa__v0cV5c2vFJGFrER8sSJs" />
-<meta property="og:site_name" content="Slot Pulsa"/>
-<meta property="og:title" content="Slot88 🪥 Situs Daftar Slot Pulsa Gacor Hari Ini Tanpa Potongan Mudah Maxwin 2024"/>
-<meta property="og:url" content="https://madatsama.kec.girimarto.wonogirikab.go.id/img/spulsat/"/>
-<meta property="og:type" content="product"/>
-<meta property="og:description" content="Slot88 adalah situs terkemuka yang menyediakan layanan daftar slot pulsa gacor tanpa potongan, memungkinkan Anda untuk meraih kemenangan maksimal dengan mudah pada tahun 2024. Dengan beragam permainan yang menarik dan kemudahan akses, Slot88 menjadi pilihan utama bagi para pecinta slot online yang mencari pengalaman bermain yang memuaskan dan peluang menang yang besar."/>
-<meta property="og:image" content="https://images.squarespace-cdn.com/content/v1/65cde3f50802aa5441180fa6/1708052857921-J4T20FNE9345KN1K5823/slot+pulsa+%282%29.png?format=1500w"/>
-<meta property="og:image:width" content="1280"/>
-<meta property="og:image:height" content="960"/>
-<meta property="product:price:amount" content="10.00"/>
-<meta property="product:price:currency" content="USD"/>
-<meta property="product:availability" content="instock"/>
-<meta itemprop="name" content="Slot88 🪥 Situs Daftar Slot Pulsa Gacor Hari Ini Tanpa Potongan Mudah Maxwin 2024 — Slot Pulsa"/>
-<meta itemprop="url" content="https://madatsama.kec.girimarto.wonogirikab.go.id/img/spulsat/"/>
-<meta itemprop="description" content="Slot88 adalah situs terkemuka yang menyediakan layanan daftar slot pulsa gacor tanpa potongan, memungkinkan Anda untuk meraih kemenangan maksimal dengan mudah pada tahun 2024. Dengan beragam permainan yang menarik dan kemudahan akses, Slot88 menjadi pilihan utama bagi para pecinta slot online yang mencari pengalaman bermain yang memuaskan dan peluang menang yang besar."/>
-<meta itemprop="thumbnailUrl" content="https://images.squarespace-cdn.com/content/v1/65cde3f50802aa5441180fa6/1708052857921-J4T20FNE9345KN1K5823/slot+pulsa+%282%29.png?format=1500w"/>
-<link rel="image_src" href="https://images.squarespace-cdn.com/content/v1/65cde3f50802aa5441180fa6/1708052857921-J4T20FNE9345KN1K5823/slot+pulsa+%282%29.png?format=1500w" />
-<meta itemprop="image" content="https://images.squarespace-cdn.com/content/v1/65cde3f50802aa5441180fa6/1708052857921-J4T20FNE9345KN1K5823/slot+pulsa+%282%29.png?format=1500w"/>
-<meta name="twitter:title" content="Slot88 🪥 Situs Daftar Slot Pulsa Gacor Hari Ini Tanpa Potongan Mudah Maxwin 2024 — Slot Pulsa"/>
-<meta name="twitter:image" content="https://images.squarespace-cdn.com/content/v1/65cde3f50802aa5441180fa6/1708052857921-J4T20FNE9345KN1K5823/slot+pulsa+%282%29.png?format=1500w"/>
-<meta name="twitter:url" content="https://madatsama.kec.girimarto.wonogirikab.go.id/img/spulsat/"/>
-<meta name="twitter:card" content="summary"/>
-<meta name="twitter:description" content="Slot88 adalah situs terkemuka yang menyediakan layanan daftar slot pulsa gacor tanpa potongan, memungkinkan Anda untuk meraih kemenangan maksimal dengan mudah pada tahun 2024. Dengan beragam permainan yang menarik dan kemudahan akses, Slot88 menjadi pilihan utama bagi para pecinta slot online yang mencari pengalaman bermain yang memuaskan dan peluang menang yang besar."/>
-<meta name="description" content="Slot88 adalah situs terkemuka yang menyediakan layanan daftar slot pulsa gacor tanpa potongan, memungkinkan Anda untuk meraih kemenangan maksimal dengan mudah pada tahun 2024. Dengan beragam permainan yang menarik dan kemudahan akses, Slot88 menjadi pilihan utama bagi para pecinta slot online yang mencari pengalaman bermain yang memuaskan dan peluang menang yang besar." />
-<link rel="preconnect" href="https://images.squarespace-cdn.com">
-<script type="text/javascript" src="//use.typekit.net/ik/j5p6MFlNhqxr57KbJQkk2QZ2sP3ZiPk9ZhI7G4YJA_GfecGJXnX1IyvhF2jtFRZLFRj3wejtjQByZAZqZQMuFcJ3ZRSXZAm8e6MKfcBRiAuTdKu3Scv7f6Rwk3IbMg6BJMJ7f6RBk3IbMg6YJMJ7f6RFk3IbMg6VJMJ7f6Rek3IbMg6sJMHbM-VU6_Me.js"></script>
-<script type="text/javascript">try{Typekit.load();}catch(e){}</script>
-<link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,300;0,400;0,500;0,700;1,300">
-<script type="text/javascript" crossorigin="anonymous" defer="defer" nomodule="nomodule" src="//assets.squarespace.com/@sqs/polyfiller/1.6/legacy.js"></script>
-<script type="text/javascript" crossorigin="anonymous" defer="defer" src="//assets.squarespace.com/@sqs/polyfiller/1.6/modern.js"></script>
-<script type="text/javascript">SQUARESPACE_ROLLUPS = {};</script>
-<script>(function(rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].js = ["//assets.squarespace.com/universal/scripts-compressed/extract-css-runtime-49b239c5cd6faa9f4e10-min.id_ID.js"]; })(SQUARESPACE_ROLLUPS, 'squarespace-extract_css_runtime');</script>
-<script crossorigin="anonymous" src="//assets.squarespace.com/universal/scripts-compressed/extract-css-runtime-49b239c5cd6faa9f4e10-min.id_ID.js" defer ></script><script>(function(rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].js = ["//assets.squarespace.com/universal/scripts-compressed/extract-css-moment-js-vendor-6f117db4eb7fd4392375-min.id_ID.js"]; })(SQUARESPACE_ROLLUPS, 'squarespace-extract_css_moment_js_vendor');</script>
-<script crossorigin="anonymous" src="//assets.squarespace.com/universal/scripts-compressed/extract-css-moment-js-vendor-6f117db4eb7fd4392375-min.id_ID.js" defer ></script><script>(function(rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].js = ["//assets.squarespace.com/universal/scripts-compressed/cldr-resource-pack-1edcdb1d4b6b94ec8c7e-min.id_ID.js"]; })(SQUARESPACE_ROLLUPS, 'squarespace-cldr_resource_pack');</script>
-<script crossorigin="anonymous" src="//assets.squarespace.com/universal/scripts-compressed/cldr-resource-pack-1edcdb1d4b6b94ec8c7e-min.id_ID.js" defer ></script><script>(function(rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].js = ["//assets.squarespace.com/universal/scripts-compressed/common-vendors-stable-3598b219a3c023c1915a-min.id_ID.js"]; })(SQUARESPACE_ROLLUPS, 'squarespace-common_vendors_stable');</script>
-<script crossorigin="anonymous" src="//assets.squarespace.com/universal/scripts-compressed/common-vendors-stable-3598b219a3c023c1915a-min.id_ID.js" defer ></script><script>(function(rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].js = ["//assets.squarespace.com/universal/scripts-compressed/common-vendors-c75db8dd532e85f576c5-min.id_ID.js"]; })(SQUARESPACE_ROLLUPS, 'squarespace-common_vendors');</script>
-<script crossorigin="anonymous" src="//assets.squarespace.com/universal/scripts-compressed/common-vendors-c75db8dd532e85f576c5-min.id_ID.js" defer ></script><script>(function(rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].js = ["//assets.squarespace.com/universal/scripts-compressed/common-090f9eb2063f9c96e42f-min.id_ID.js"]; })(SQUARESPACE_ROLLUPS, 'squarespace-common');</script>
-<script crossorigin="anonymous" src="//assets.squarespace.com/universal/scripts-compressed/common-090f9eb2063f9c96e42f-min.id_ID.js" defer ></script><script>(function(rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].js = ["//assets.squarespace.com/universal/scripts-compressed/commerce-cd38a41ade0f126d8c63-min.id_ID.js"]; })(SQUARESPACE_ROLLUPS, 'squarespace-commerce');</script>
-<script crossorigin="anonymous" src="//assets.squarespace.com/universal/scripts-compressed/commerce-cd38a41ade0f126d8c63-min.id_ID.js" defer ></script><script>(function(rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].css = ["//assets.squarespace.com/universal/styles-compressed/commerce-2af06f7948db5477d8f5-min.id_ID.css"]; })(SQUARESPACE_ROLLUPS, 'squarespace-commerce');</script>
-<link rel="stylesheet" type="text/css" href="//assets.squarespace.com/universal/styles-compressed/commerce-2af06f7948db5477d8f5-min.id_ID.css"><script data-name="static-context">Static = window.Static || {}; Static.SQUARESPACE_CONTEXT = {"facebookAppId":"314192535267336","facebookApiVersion":"v6.0","rollups":{"squarespace-announcement-bar":{"js":"//assets.squarespace.com/universal/scripts-compressed/announcement-bar-caf833212000c8729b78-min.id_ID.js"},"squarespace-audio-player":{"css":"//assets.squarespace.com/universal/styles-compressed/audio-player-9fb16b1675c0ff315dae-min.id_ID.css","js":"//assets.squarespace.com/universal/scripts-compressed/audio-player-97687ced731c280b0230-min.id_ID.js"},"squarespace-blog-collection-list":{"css":"//assets.squarespace.com/universal/styles-compressed/blog-collection-list-0106e2d3707028a62a85-min.id_ID.css","js":"//assets.squarespace.com/universal/scripts-compressed/blog-collection-list-1e390bbcde22c7bbc97f-min.id_ID.js"},"squarespace-calendar-block-renderer":{"css":"//assets.squarespace.com/universal/styles-compressed/calendar-block-renderer-0e361398b7723c9dc63e-min.id_ID.css","js":"//assets.squarespace.com/universal/scripts-compressed/calendar-block-renderer-93ec854a2a24319a1aae-min.id_ID.js"},"squarespace-chartjs-helpers":{"css":"//assets.squarespace.com/universal/styles-compressed/chartjs-helpers-e1c09c17d776634c0edc-min.id_ID.css","js":"//assets.squarespace.com/universal/scripts-compressed/chartjs-helpers-5e6f6a011eebab55b6ae-min.id_ID.js"},"squarespace-comments":{"css":"//assets.squarespace.com/universal/styles-compressed/comments-24b74a0326eae0cd5049-min.id_ID.css","js":"//assets.squarespace.com/universal/scripts-compressed/comments-089bbc5cd9046a4136a6-min.id_ID.js"},"squarespace-custom-css-popup":{"css":"//assets.squarespace.com/universal/styles-compressed/custom-css-popup-e202a6f639d17ee90b44-min.id_ID.css","js":"//assets.squarespace.com/universal/scripts-compressed/custom-css-popup-bedb81f851155d4f3660-min.id_ID.js"},"squarespace-dialog":{"css":"//assets.squarespace.com/universal/styles-compressed/dialog-081be79078914b908a1a-min.id_ID.css","js":"//assets.squarespace.com/universal/scripts-compressed/dialog-1945a4b81f494b740d40-min.id_ID.js"},"squarespace-events-collection":{"css":"//assets.squarespace.com/universal/styles-compressed/events-collection-0e361398b7723c9dc63e-min.id_ID.css","js":"//assets.squarespace.com/universal/scripts-compressed/events-collection-b199671fdb555047d1fe-min.id_ID.js"},"squarespace-form-rendering-utils":{"js":"//assets.squarespace.com/universal/scripts-compressed/form-rendering-utils-c3cc6374b40bd52f5fd0-min.id_ID.js"},"squarespace-forms":{"css":"//assets.squarespace.com/universal/styles-compressed/forms-8d93ba2c12ff0765b64c-min.id_ID.css","js":"//assets.squarespace.com/universal/scripts-compressed/forms-6ff543a505e6ab1d99b5-min.id_ID.js"},"squarespace-gallery-collection-list":{"css":"//assets.squarespace.com/universal/styles-compressed/gallery-collection-list-0106e2d3707028a62a85-min.id_ID.css","js":"//assets.squarespace.com/universal/scripts-compressed/gallery-collection-list-5f8358cf7b510b32fc49-min.id_ID.js"},"squarespace-image-zoom":{"css":"//assets.squarespace.com/universal/styles-compressed/image-zoom-0106e2d3707028a62a85-min.id_ID.css","js":"//assets.squarespace.com/universal/scripts-compressed/image-zoom-d0c90be829ba36cb62cc-min.id_ID.js"},"squarespace-pinterest":{"css":"//assets.squarespace.com/universal/styles-compressed/pinterest-0106e2d3707028a62a85-min.id_ID.css","js":"//assets.squarespace.com/universal/scripts-compressed/pinterest-92983d5eb8a053d3c9c3-min.id_ID.js"},"squarespace-popup-overlay":{"css":"//assets.squarespace.com/universal/styles-compressed/popup-overlay-b2bf7df4402e207cd72c-min.id_ID.css","js":"//assets.squarespace.com/universal/scripts-compressed/popup-overlay-f3eed430200f3bc64480-min.id_ID.js"},"squarespace-product-quick-view":{"css":"//assets.squarespace.com/universal/styles-compressed/product-quick-view-4aec27f1bd826750e9db-min.id_ID.css","js":"//assets.squarespace.com/universal/scripts-compressed/product-quick-view-2896bca818154481c9b8-min.id_ID.js"},"squarespace-products-collection-item-v2":{"css":"//assets.squarespace.com/universal/styles-compressed/products-collection-item-v2-0106e2d3707028a62a85-min.id_ID.css","js":"//assets.squarespace.com/universal/scripts-compressed/products-collection-item-v2-a96b3f54dd47a01900f6-min.id_ID.js"},"squarespace-products-collection-list-v2":{"css":"//assets.squarespace.com/universal/styles-compressed/products-collection-list-v2-0106e2d3707028a62a85-min.id_ID.css","js":"//assets.squarespace.com/universal/scripts-compressed/products-collection-list-v2-0c340509add53a698500-min.id_ID.js"},"squarespace-search-page":{"css":"//assets.squarespace.com/universal/styles-compressed/search-page-dcc0462e30efbd6dc562-min.id_ID.css","js":"//assets.squarespace.com/universal/scripts-compressed/search-page-7f25c2caeb4133fbb771-min.id_ID.js"},"squarespace-search-preview":{"js":"//assets.squarespace.com/universal/scripts-compressed/search-preview-8cdc8ae67aced2d4c068-min.id_ID.js"},"squarespace-simple-liking":{"css":"//assets.squarespace.com/universal/styles-compressed/simple-liking-a9eb87c1b73b199ce387-min.id_ID.css","js":"//assets.squarespace.com/universal/scripts-compressed/simple-liking-6a6862d5ff0df1b9784e-min.id_ID.js"},"squarespace-social-buttons":{"css":"//assets.squarespace.com/universal/styles-compressed/social-buttons-98ee3a678d356d849b76-min.id_ID.css","js":"//assets.squarespace.com/universal/scripts-compressed/social-buttons-7722aa7e3758682cd488-min.id_ID.js"},"squarespace-tourdates":{"css":"//assets.squarespace.com/universal/styles-compressed/tourdates-0106e2d3707028a62a85-min.id_ID.css","js":"//assets.squarespace.com/universal/scripts-compressed/tourdates-0895ea59cff93264c8ff-min.id_ID.js"},"squarespace-website-overlays-manager":{"css":"//assets.squarespace.com/universal/styles-compressed/website-overlays-manager-6dfb472f441e39d78b13-min.id_ID.css","js":"//assets.squarespace.com/universal/scripts-compressed/website-overlays-manager-5b64d9262ff9d2962cd9-min.id_ID.js"}},"pageType":50,"website":{"id":"6600f8a1aefde056b0f74eee","identifier":"quillfish-pelican-m7z7","websiteType":1,"contentModifiedOn":1711342744733,"cloneable":false,"hasBeenCloneable":false,"siteStatus":{"value":3,"expiration":1712549281978},"language":"id_ID","timeZone":"Asia/Phnom_Penh","machineTimeZoneOffset":25200000,"timeZoneOffset":25200000,"timeZoneAbbr":"ICT","siteTitle":"Slot Pulsa","fullSiteTitle":"Slot88 🪥 Situs Daftar Slot Pulsa Gacor Hari Ini Tanpa Potongan Mudah Maxwin 2024 \u2014 Slot Pulsa","siteDescription":{"html":"","raw":false},"shareButtonOptions":{"3":true,"4":true,"6":true,"8":true,"2":true,"7":true,"1":true},"authenticUrl":"https://quillfish-pelican-m7z7.squarespace.com","internalUrl":"https://quillfish-pelican-m7z7.squarespace.com","baseUrl":"https://quillfish-pelican-m7z7.squarespace.com","sslSetting":3,"isHstsEnabled":true,"socialAccounts":[{"serviceId":64,"addedOn":1711339682153,"profileUrl":"http://instagram.com/squarespace","id":"6600f8a2aefde056b0f74f03","websiteId":"6600f8a1aefde056b0f74eee","pullEnabled":false,"pushEnabled":true,"autoPushEnabled":false,"iconEnabled":true,"defaultPushMessage":"%t %u","accountState":1,"pushAvailable":true,"serviceName":"instagram-unauth"},{"serviceId":62,"addedOn":1711339682160,"profileUrl":"http://twitter.com/squarespace","id":"6600f8a2aefde056b0f74f04","websiteId":"6600f8a1aefde056b0f74eee","pullEnabled":false,"pushEnabled":true,"autoPushEnabled":false,"iconEnabled":true,"defaultPushMessage":"%t %u","accountState":1,"pushAvailable":true,"serviceName":"twitter-unauth"}],"createdOn":1711339681979,"templateId":"5c5a519771c10ba3470d8101","installationId":"6600f8a2aefde056b0f74ef6","templateWebsiteId":"624b503ae7dc6c1b936dfc4c","hasPassword":false,"typekitId":"","statsMigrated":false,"imageMetadataProcessingEnabled":false,"revalidateBefore":1711342924052,"captchaSettings":{"enabledForDonations":false},"showOwnerLogin":true},"websiteSettings":{"id":"6600f8a2aefde056b0f74ef1","websiteId":"6600f8a1aefde056b0f74eee","subjects":[],"country":"KH","state":"12","simpleLikingEnabled":true,"mobileInfoBarSettings":{"isContactEmailEnabled":false,"isContactPhoneNumberEnabled":false,"isLocationEnabled":false,"isBusinessHoursEnabled":false},"commentLikesAllowed":true,"commentAnonAllowed":true,"commentThreaded":true,"commentApprovalRequired":false,"commentAvatarsOn":true,"commentSortType":2,"commentFlagThreshold":0,"commentFlagsAllowed":true,"commentEnableByDefault":true,"commentDisableAfterDaysDefault":0,"disqusShortname":"","commentsEnabled":false,"storeSettings":{"returnPolicy":{"raw":false},"termsOfService":{"raw":false},"privacyPolicy":{"raw":false},"storeMailingList":{"connected":false,"list":"","useSingleOptIn":false},"expressCheckout":false,"continueShoppingLinkUrl":"/","testModeOn":true,"useLightCart":false,"showNoteField":false,"shippingCountryDefaultValue":"US","billToShippingDefaultValue":false,"showShippingPhoneNumber":true,"isShippingPhoneRequired":false,"showBillingPhoneNumber":true,"isBillingPhoneRequired":false,"currenciesSupported":["USD","CAD","GBP","AUD","EUR","CHF","NOK","SEK","DKK","NZD","SGD","MXN","HKD","CZK","ILS","MYR","RUB","PHP","PLN","THB","BRL","ARS","COP","IDR","INR","JPY","ZAR"],"defaultCurrency":"USD","selectedCurrency":"USD","measurementStandard":1,"showCustomCheckoutForm":false,"checkoutPageMarketingOptInEnabled":true,"enableMailingListOptInByDefault":false,"isApplePayEnabled":false,"isPaymentRequestEnabled":true,"sameAsRetailLocation":false,"merchandisingSettings":{"scarcityEnabledOnProductItems":false,"scarcityEnabledOnProductBlocks":false,"scarcityMessageType":"DEFAULT_SCARCITY_MESSAGE","scarcityThreshold":10,"merchantLowStockAlertThreshold":5,"multipleQuantityAllowedForServices":true,"restockNotificationsEnabled":false,"restockNotificationsMailingListSignUpEnabled":false,"relatedProductsEnabled":false,"relatedProductsOrdering":"random","soldOutVariantsDropdownDisabled":false,"productComposerOptedIn":false,"productComposerABTestOptedOut":false,"productReviewsEnabled":false},"minimumOrderSubtotalEnabled":false,"minimumOrderSubtotal":{"currency":"USD","value":"0.00"},"instagramShoppingLinkDestination":1,"storeMigratedToProductCollections2_0":false,"isLive":false,"multipleQuantityAllowedForServices":true},"useEscapeKeyToLogin":false,"ssBadgeType":1,"ssBadgePosition":4,"ssBadgeVisibility":1,"ssBadgeDevices":1,"pinterestOverlayOptions":{"mode":"disabled"},"ampEnabled":false,"userAccountsSettings":{"loginAllowed":false,"signupAllowed":false}},"cookieSettings":{"isCookieBannerEnabled":false,"isRestrictiveCookiePolicyEnabled":false,"isRestrictiveCookiePolicyAbsolute":false,"cookieBannerText":"","cookieBannerTheme":"","cookieBannerVariant":"","cookieBannerPosition":"","cookieBannerCtaVariant":"","cookieBannerCtaText":"","cookieBannerAcceptType":"OPT_IN","cookieBannerOptOutCtaText":"","cookieBannerHasOptOut":false,"cookieBannerHasManageCookies":true,"cookieBannerManageCookiesLabel":""},"websiteCloneable":false,"collection":{"title":"Store","id":"6600f98ca1b5bd408d08940d","fullUrl":"https://madatsama.kec.girimarto.wonogirikab.go.id/img/spulsat/","type":13,"permissionType":1},"item":{"title":"Slot88 🪥 Situs Daftar Slot Pulsa Gacor Hari Ini Tanpa Potongan Mudah Maxwin 2024","id":"6600f990aa1d0858f5b0fee6","fullUrl":"https://madatsama.kec.girimarto.wonogirikab.go.id/img/spulsat/","publicCommentCount":0,"commentState":1,"recordType":11},"subscribed":false,"appDomain":"squarespace.com","templateTweakable":true,"tweakJSON":{"form-use-theme-colors":"false","header-logo-height":"50px","header-mobile-logo-max-height":"30px","header-vert-padding":"1.4vw","header-width":"Inset","maxPageWidth":"2560px","pagePadding":"4vw","tweak-blog-alternating-side-by-side-image-aspect-ratio":"1:1 Square","tweak-blog-alternating-side-by-side-image-spacing":"5%","tweak-blog-alternating-side-by-side-meta-spacing":"15px","tweak-blog-alternating-side-by-side-primary-meta":"Categories","tweak-blog-alternating-side-by-side-read-more-spacing":"5px","tweak-blog-alternating-side-by-side-secondary-meta":"Date","tweak-blog-basic-grid-columns":"2","tweak-blog-basic-grid-image-aspect-ratio":"3:2 Standard","tweak-blog-basic-grid-image-spacing":"30px","tweak-blog-basic-grid-meta-spacing":"15px","tweak-blog-basic-grid-primary-meta":"Categories","tweak-blog-basic-grid-read-more-spacing":"15px","tweak-blog-basic-grid-secondary-meta":"Date","tweak-blog-item-custom-width":"60","tweak-blog-item-show-author-profile":"true","tweak-blog-item-width":"Narrow","tweak-blog-masonry-columns":"2","tweak-blog-masonry-horizontal-spacing":"150px","tweak-blog-masonry-image-spacing":"25px","tweak-blog-masonry-meta-spacing":"20px","tweak-blog-masonry-primary-meta":"Categories","tweak-blog-masonry-read-more-spacing":"5px","tweak-blog-masonry-secondary-meta":"Date","tweak-blog-masonry-vertical-spacing":"100px","tweak-blog-side-by-side-image-aspect-ratio":"1:1 Square","tweak-blog-side-by-side-image-spacing":"6%","tweak-blog-side-by-side-meta-spacing":"20px","tweak-blog-side-by-side-primary-meta":"Categories","tweak-blog-side-by-side-read-more-spacing":"5px","tweak-blog-side-by-side-secondary-meta":"Date","tweak-blog-single-column-image-spacing":"40px","tweak-blog-single-column-meta-spacing":"30px","tweak-blog-single-column-primary-meta":"Categories","tweak-blog-single-column-read-more-spacing":"30px","tweak-blog-single-column-secondary-meta":"Date","tweak-events-stacked-show-thumbnails":"true","tweak-events-stacked-thumbnail-size":"3:2 Standard","tweak-fixed-header":"false","tweak-fixed-header-style":"Scroll Back","tweak-global-animations-animation-curve":"ease","tweak-global-animations-animation-delay":"0.1s","tweak-global-animations-animation-duration":"0.1s","tweak-global-animations-animation-style":"fade","tweak-global-animations-animation-type":"none","tweak-global-animations-complexity-level":"detailed","tweak-global-animations-enabled":"false","tweak-portfolio-grid-basic-custom-height":"50","tweak-portfolio-grid-overlay-custom-height":"50","tweak-portfolio-hover-follow-acceleration":"10%","tweak-portfolio-hover-follow-animation-duration":"Medium","tweak-portfolio-hover-follow-animation-type":"Fade","tweak-portfolio-hover-follow-delimiter":"Forward Slash","tweak-portfolio-hover-follow-front":"false","tweak-portfolio-hover-follow-layout":"Inline","tweak-portfolio-hover-follow-size":"75","tweak-portfolio-hover-follow-text-spacing-x":"1.5","tweak-portfolio-hover-follow-text-spacing-y":"1.5","tweak-portfolio-hover-static-animation-duration":"Medium","tweak-portfolio-hover-static-animation-type":"Scale Up","tweak-portfolio-hover-static-delimiter":"Forward Slash","tweak-portfolio-hover-static-front":"false","tweak-portfolio-hover-static-layout":"Stacked","tweak-portfolio-hover-static-size":"75","tweak-portfolio-hover-static-text-spacing-x":"1.5","tweak-portfolio-hover-static-text-spacing-y":"1.5","tweak-portfolio-index-background-animation-duration":"Medium","tweak-portfolio-index-background-animation-type":"Fade","tweak-portfolio-index-background-custom-height":"50","tweak-portfolio-index-background-delimiter":"None","tweak-portfolio-index-background-height":"Large","tweak-portfolio-index-background-horizontal-alignment":"Center","tweak-portfolio-index-background-link-format":"Stacked","tweak-portfolio-index-background-persist":"false","tweak-portfolio-index-background-vertical-alignment":"Middle","tweak-portfolio-index-background-width":"Full Bleed","tweak-product-basic-item-click-action":"None","tweak-product-basic-item-gallery-aspect-ratio":"3:4 Three-Four (Vertical)","tweak-product-basic-item-gallery-design":"Slideshow","tweak-product-basic-item-gallery-width":"50%","tweak-product-basic-item-hover-action":"None","tweak-product-basic-item-image-spacing":"3vw","tweak-product-basic-item-image-zoom-factor":"1.75","tweak-product-basic-item-product-variant-display":"Dropdown","tweak-product-basic-item-thumbnail-placement":"Side","tweak-product-basic-item-variant-picker-layout":"Dropdowns","tweak-products-add-to-cart-button":"false","tweak-products-columns":"3","tweak-products-gutter-column":"2vw","tweak-products-gutter-row":"3vw","tweak-products-header-text-alignment":"Middle","tweak-products-image-aspect-ratio":"1:1 Square","tweak-products-image-text-spacing":"1vw","tweak-products-mobile-columns":"1","tweak-products-text-alignment":"Left","tweak-products-width":"Inset","tweak-transparent-header":"true"},"templateId":"5c5a519771c10ba3470d8101","templateVersion":"7.1","pageFeatures":[1,2,4],"gmRenderKey":"QUl6YVN5Q0JUUk9xNkx1dkZfSUUxcjQ2LVQ0QWVUU1YtMGQ3bXk4","templateScriptsRootUrl":"https://static1.squarespace.com/static/vta/5c5a519771c10ba3470d8101/scripts/","betaFeatureFlags":["template_translation_english_fallbacks","fluid_engine_default_mobile_order","enable_css_variable_tweaks","override_block_styles","commerce_subscription_renewal_notifications","campaigns_discount_section_in_blasts","customer_accounts_email_verification","attribution_survey_redesign","themes","hideable_header_footer_for_courses","blog_monetization","header_usability_improvements","unify_edit_mode_p1","collection_typename_switching","fluid_engine_new_multiselect_actions","campaigns_thumbnail_layout","invoicing-on-personal-plans","member_areas_feature","unify_edit_mode_p2","campaigns_global_uc_ab","commerce_order_status_access","commerce_etsy_product_import","visitor_react_forms","website_form_improvements","commerce_restock_notifications","fluid_engine","seven_one_migration_updated_kb_links","marketing_landing_page","nested_categories_migration_enabled","rte_text_highlights","commsplat_forms_visitor_profile","commerce_checkout_website_updates_enabled","website_fonts","viewer-role-contributor-invites","customer_account_creation_recaptcha","unify_edit_mode_p1_70","campaigns_discount_section_in_automations","scripts_defer","commerce_etsy_shipping_import","commerce_clearpay","send_local_pickup_ready_email","background_art_onboarding","fluid_engine_clean_up_grid_contextual_change","show_mobile_column_in_plp_editor","content_ai_brand_identity","rte_text_justify_align","react_pages_panel","hideable_header_footer_for_memberareas","hide_header_footer_beta","google_consent_v2","commerce_site_visitor_metrics","supports_versioned_template_assets","campaigns_new_image_layout_picker","proposals_beta_in_circle_labs","link_editor_redesign","website_form_effects","sticky_scroll","pdp_product_add_ons_visitor_site","toggle_preview_new_shortcut","container_styles_improvements","commerce_paywall_renewal_notifications","campaigns_import_discounts","shape_block","accounting_orders_sync","nested_categories","is_feature_gate_refresh_enabled","new_stacked_index","summary_block_video_collections"],"videoAssetsFeatureFlags":["mux-data-video-collection","mux-data-course-collection"],"authenticatedAccount":{"id":"65c9f962aeb76a63df619796","tutorialsCompleted":{"analytics-general-onboarding":true,"has-seen-fluid-engine-mobile-changes-notification":true},"notificationsRead":{},"lastLoginOn":1711338866727,"displayName":"Kentung Hub","firstName":"Kentung","lastName":"Hub","eligibleForMarketingDiscount":false,"avatarUrl":"https://images.squarespace-cdn.com/content/v2/namespaces/memberAccountAvatars/libraries/65c9f962aeb76a63df619796/74f4f608-48fe-4766-9779-ebba560f7cb9/thirdPartyMemberAvatar-65c9f962aeb76a63df619796-9456506f-182a-4058-ac6d-de6620f70c76?format=300w","bio":"","roles":{},"email":"hubkentung7@gmail.com","createdOn":1707735394770,"marketingId":"dc724ac4-997f-48c6-9874-f3f80886a232","avatarAssetUrl":"https://images.squarespace-cdn.com/content/v2/namespaces/memberAccountAvatars/libraries/65c9f962aeb76a63df619796/74f4f608-48fe-4766-9779-ebba560f7cb9/thirdPartyMemberAvatar-65c9f962aeb76a63df619796-9456506f-182a-4058-ac6d-de6620f70c76?format=300w","pseudonymAccount":false,"preferredLocale":"id_ID"},"authenticatedAccountWebsiteSettings":{"id":"6600f8a5075570743b9ffb75"},"permissions":{"permissions":{"1":true}},"websiteRoles":{"1":true},"accessPermissions":[1412,1930,1218,1516,1220,1219,12,1417,13,1211,1416,1110,1413,11,1611,1932,1310,1221,1700,1111,1112,1510,1517,1233,1912,1701,0,1226,1224,1230,1422,1311,1225,18,1214,1217,1911,1810,15,1234,1423,1212,1215,1421,2066,1513,1921,1228,1414,1511,1514,1210,1213,1415,1515,1910,1420,14,1,1418,1419,1931,1612,1223,1229,1920,1411,1512,1216,1610,1410],"memberAccountNames":{"65c9f962aeb76a63df619796":{"avatarUrl":"https://images.squarespace-cdn.com/content/v2/namespaces/memberAccountAvatars/libraries/65c9f962aeb76a63df619796/74f4f608-48fe-4766-9779-ebba560f7cb9/thirdPartyMemberAvatar-65c9f962aeb76a63df619796-9456506f-182a-4058-ac6d-de6620f70c76?format=300w","bio":"","displayName":"Kentung Hub"}},"impersonatedSession":false,"demoCollections":[{"collectionId":"624b503be7dc6c1b936dfc92","deleted":true}],"connectedAccounts":[{"serviceId":64,"addedOn":1711339682153,"profileUrl":"http://instagram.com/squarespace","id":"6600f8a2aefde056b0f74f03","websiteId":"6600f8a1aefde056b0f74eee","pullEnabled":false,"pushEnabled":true,"autoPushEnabled":false,"iconEnabled":true,"defaultPushMessage":"%t %u","accountState":1,"pushAvailable":true,"serviceName":"instagram-unauth"},{"serviceId":62,"addedOn":1711339682160,"profileUrl":"http://twitter.com/squarespace","id":"6600f8a2aefde056b0f74f04","websiteId":"6600f8a1aefde056b0f74eee","pullEnabled":false,"pushEnabled":true,"autoPushEnabled":false,"iconEnabled":true,"defaultPushMessage":"%t %u","accountState":1,"pushAvailable":true,"serviceName":"twitter-unauth"}],"tzData":{"zones":[[420,null,"+07",null]],"rules":{}},"product":{"variantAttributeNames":[],"variants":[{"id":"faf1ee2b-7e39-4e1c-a6d1-6f9101753707","sku":"SQ9397797","price":{"currencyCode":"USD","value":2000,"decimalValue":"20.00","fractionalDigits":2},"salePrice":{"currencyCode":"USD","value":0,"decimalValue":"0.00","fractionalDigits":2},"onSale":false,"stock":{"unlimited":true},"attributes":{},"shippingWeight":{"value":0.0,"unit":"POUND"},"shippingSize":{"unit":"INCH","width":0.0,"height":0.0,"len":0.0}}],"subscribable":false,"fulfilledExternally":false,"productType":1},"showAnnouncementBar":false,"recaptchaEnterpriseContext":{"recaptchaEnterpriseSiteKey":"6LdDFQwjAAAAAPigEvvPgEVbb7QBm-TkVJdDTlAv"},"i18nContext":{"timeZoneData":{"id":"Asia/Bangkok","name":"Indochina Time"}}};</script><script type="application/ld+json">{"url":"https://madatsama.kec.girimarto.wonogirikab.go.id/img/spulsat/","name":"Slot Pulsa","description":"","@context":"http://schema.org","@type":"WebSite"}</script><script type="application/ld+json">{"name":"Slot88 🪥 Situs Daftar Slot Pulsa Gacor Hari Ini Tanpa Potongan Mudah Maxwin 2024 \u2014 Slot Pulsa","image":"https://images.squarespace-cdn.com/content/v1/65cde3f50802aa5441180fa6/1708052857921-J4T20FNE9345KN1K5823/slot+pulsa+%282%29.png?format=1500w","description":"Slot88 adalah situs terkemuka yang menyediakan layanan daftar slot pulsa gacor tanpa potongan, memungkinkan Anda untuk meraih kemenangan maksimal dengan mudah pada tahun 2024. Dengan beragam permainan yang menarik dan kemudahan akses, Slot88 menjadi pilihan utama bagi para pecinta slot online yang mencari pengalaman bermain yang memuaskan dan peluang menang yang besar.","brand":"Slot Pulsa","offers":{"price":20.00,"priceCurrency":"USD","url":"https://madatsama.kec.girimarto.wonogirikab.go.id/img/spulsat/","availability":"InStock","sku":"SQ9397797","@context":"http://schema.org","@type":"Offer"},"@context":"http://schema.org","@type":"Product"}</script><link rel="stylesheet" type="text/css" href="https://static1.squarespace.com/static/versioned-site-css/6600f8a1aefde056b0f74eee/2/5c5a519771c10ba3470d8101/6600f8a2aefde056b0f74ef6/1507/site.css"/><script>Static.COOKIE_BANNER_CAPABLE = true;</script>
-<!-- End of Squarespace Headers -->
-    
-      <link rel="stylesheet" type="text/css" href="https://static1.squarespace.com/static/vta/5c5a519771c10ba3470d8101/versioned-assets/1711043046520-YWRD968DS53U5ZK5HM7B/static.css">
-    
-  </head>
-
-  <body
-    id="item-6600f990aa1d0858f5b0fee6"
-    class="
-      primary-button-style-outline primary-button-shape-square secondary-button-style-outline secondary-button-shape-square tertiary-button-style-outline tertiary-button-shape-square  form-field-style-solid form-field-shape-square form-field-border-all form-field-checkbox-type-icon form-field-checkbox-fill-solid form-field-checkbox-color-inverted form-field-checkbox-shape-square form-field-checkbox-layout-stack form-field-radio-type-icon form-field-radio-fill-solid form-field-radio-color-normal form-field-radio-shape-pill form-field-radio-layout-stack form-field-survey-fill-solid form-field-survey-color-normal form-field-survey-shape-pill form-field-hover-focus-outline form-submit-button-style-label header-overlay-alignment-center header-width-inset tweak-transparent-header  tweak-fixed-header-style-scroll-back tweak-blog-alternating-side-by-side-width-inset tweak-blog-alternating-side-by-side-image-aspect-ratio-11-square tweak-blog-alternating-side-by-side-text-alignment-left tweak-blog-alternating-side-by-side-read-more-style-show tweak-blog-alternating-side-by-side-image-text-alignment-middle tweak-blog-alternating-side-by-side-delimiter-bullet tweak-blog-alternating-side-by-side-meta-position-top tweak-blog-alternating-side-by-side-primary-meta-categories tweak-blog-alternating-side-by-side-secondary-meta-date tweak-blog-alternating-side-by-side-excerpt-show tweak-blog-basic-grid-width-inset tweak-blog-basic-grid-image-aspect-ratio-32-standard tweak-blog-basic-grid-text-alignment-center tweak-blog-basic-grid-delimiter-bullet tweak-blog-basic-grid-image-placement-above tweak-blog-basic-grid-read-more-style-show tweak-blog-basic-grid-primary-meta-categories tweak-blog-basic-grid-secondary-meta-date tweak-blog-basic-grid-excerpt-show tweak-blog-item-width-narrow tweak-blog-item-text-alignment-left tweak-blog-item-meta-position-above-title tweak-blog-item-show-categories tweak-blog-item-show-date tweak-blog-item-show-author-name tweak-blog-item-show-author-profile tweak-blog-item-delimiter-dash tweak-blog-masonry-width-full tweak-blog-masonry-text-alignment-center tweak-blog-masonry-primary-meta-categories tweak-blog-masonry-secondary-meta-date tweak-blog-masonry-meta-position-top tweak-blog-masonry-read-more-style-show tweak-blog-masonry-delimiter-space tweak-blog-masonry-image-placement-above tweak-blog-masonry-excerpt-show tweak-blog-side-by-side-width-inset tweak-blog-side-by-side-image-placement-left tweak-blog-side-by-side-image-aspect-ratio-11-square tweak-blog-side-by-side-primary-meta-categories tweak-blog-side-by-side-secondary-meta-date tweak-blog-side-by-side-meta-position-top tweak-blog-side-by-side-text-alignment-left tweak-blog-side-by-side-image-text-alignment-middle tweak-blog-side-by-side-read-more-style-show tweak-blog-side-by-side-delimiter-bullet tweak-blog-side-by-side-excerpt-show tweak-blog-single-column-width-inset tweak-blog-single-column-text-alignment-center tweak-blog-single-column-image-placement-above tweak-blog-single-column-delimiter-bullet tweak-blog-single-column-read-more-style-show tweak-blog-single-column-primary-meta-categories tweak-blog-single-column-secondary-meta-date tweak-blog-single-column-meta-position-top tweak-blog-single-column-content-excerpt-and-title tweak-events-stacked-width-inset tweak-events-stacked-height-small tweak-events-stacked-show-past-events tweak-events-stacked-show-thumbnails tweak-events-stacked-thumbnail-size-32-standard tweak-events-stacked-date-style-side-tag tweak-events-stacked-show-time tweak-events-stacked-show-location tweak-events-stacked-ical-gcal-links tweak-events-stacked-show-excerpt   tweak-global-animations-complexity-level-detailed tweak-global-animations-animation-style-fade tweak-global-animations-animation-type-none tweak-global-animations-animation-curve-ease tweak-portfolio-grid-basic-width-inset tweak-portfolio-grid-basic-height-medium tweak-portfolio-grid-basic-image-aspect-ratio-43-four-three tweak-portfolio-grid-basic-text-alignment-left tweak-portfolio-grid-basic-hover-effect-zoom tweak-portfolio-grid-overlay-width-full tweak-portfolio-grid-overlay-height-small tweak-portfolio-grid-overlay-image-aspect-ratio-43-four-three tweak-portfolio-grid-overlay-text-placement-center tweak-portfolio-grid-overlay-show-text-after-hover tweak-portfolio-index-background-link-format-stacked tweak-portfolio-index-background-width-full-bleed tweak-portfolio-index-background-height-large  tweak-portfolio-index-background-vertical-alignment-middle tweak-portfolio-index-background-horizontal-alignment-center tweak-portfolio-index-background-delimiter-none tweak-portfolio-index-background-animation-type-fade tweak-portfolio-index-background-animation-duration-medium tweak-portfolio-hover-follow-layout-inline  tweak-portfolio-hover-follow-delimiter-forward-slash tweak-portfolio-hover-follow-animation-type-fade tweak-portfolio-hover-follow-animation-duration-medium tweak-portfolio-hover-static-layout-stacked  tweak-portfolio-hover-static-delimiter-forward-slash tweak-portfolio-hover-static-animation-type-scale-up tweak-portfolio-hover-static-animation-duration-medium tweak-product-basic-item-product-variant-display-dropdown tweak-product-basic-item-width-full tweak-product-basic-item-gallery-aspect-ratio-34-three-four-vertical tweak-product-basic-item-text-alignment-left tweak-product-basic-item-navigation-breadcrumbs tweak-product-basic-item-content-alignment-top tweak-product-basic-item-gallery-design-slideshow tweak-product-basic-item-gallery-placement-left tweak-product-basic-item-thumbnail-placement-side tweak-product-basic-item-click-action-none tweak-product-basic-item-hover-action-none tweak-product-basic-item-variant-picker-layout-dropdowns tweak-products-width-inset tweak-products-image-aspect-ratio-11-square tweak-products-text-alignment-left  tweak-products-price-show tweak-products-nested-category-type-top tweak-products-category-title tweak-products-header-text-alignment-middle tweak-products-breadcrumbs image-block-poster-text-alignment-center image-block-card-content-position-center image-block-card-text-alignment-left image-block-overlap-content-position-center image-block-overlap-text-alignment-left image-block-collage-content-position-top image-block-collage-text-alignment-left image-block-stack-text-alignment-left hide-opentable-icons opentable-style-dark tweak-product-quick-view-button-style-floating tweak-product-quick-view-button-position-bottom tweak-product-quick-view-lightbox-excerpt-display-truncate tweak-product-quick-view-lightbox-show-arrows tweak-product-quick-view-lightbox-show-close-button tweak-product-quick-view-lightbox-controls-weight-light native-currency-code-usd view-item collection-6600f98ca1b5bd408d08940d collection-layout-default collection-type-products mobile-style-available sqs-seven-one
-      
-        show-pdp-product-add-ons
-      
-      
-        
-          
-          
-        
-      
-    "
-    data-description="plp-mobile-editor-column"
-    tabindex="-1"
-  >
-    <div
-      id="siteWrapper"
-      class="clearfix site-wrapper"
-    >
-      
-      
-
-      
+<html class="js" lang="en" style="--header-height: 100px;">
+<head>
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <meta name="theme-color" content="">
+  <meta name="google-site-verification" content="E3Jv0sEKhmW2hP2OtGKQa__v0cV5c2vFJGFrER8sSJs" />
+  <link rel="amphtml" href="https://semaomao1.com/amp/">
+  <link rel="canonical" href="https://sipancanaka.kec.girimarto.wonogirikab.go.id/images/slot-luar-negeri/">
+  <link rel="preconnect" href="https://fonts.shopifycdn.com/" crossorigin>
+  <title>SLOT LUAR NEGERI☘️ LINK SITUS SLOT GACOR HARI INI SERVER LUAR 2024 GAMPANG MAXWIN</title>
+  <meta name="keywords" content="Slot Luar Negeri"/>
+  <meta name="author" content="Slot Luar Negeri">
+  <meta name="distribution" content="Slot Luar Negeri">
+  <meta name="publisher" content="Slot Luar Negeri">
+  <meta name="description" content="Slot Luar Negeri merupakan situs terkini yang menawarkan akses ke slot gacor pada hari ini dengan server luar negeri pada tahun 2024. Dengan kemudahan akses dan peluang besar untuk meraih kemenangan maksimal, situs ini menjadi pilihan utama bagi para penggemar permainan slot. Jangan lewatkan kesempatan untuk meraih kemenangan besar dengan mudah di situs ini!">
+  <meta property="og:site_name" content="Slot Luar Negeri">
+  <meta property="og:url" content="https://sipancanaka.kec.girimarto.wonogirikab.go.id/images/slot-luar-negeri/">
+  <meta property="og:title" content="SLOT LUAR NEGERI☘️ LINK SITUS SLOT GACOR HARI INI SERVER LUAR 2024 GAMPANG MAXWIN">
+  <meta property="og:type" content="product">
+  <meta property="og:description" content="Slot Luar Negeri merupakan situs terkini yang menawarkan akses ke slot gacor pada hari ini dengan server luar negeri pada tahun 2024. Dengan kemudahan akses dan peluang besar untuk meraih kemenangan maksimal, situs ini menjadi pilihan utama bagi para penggemar permainan slot. Jangan lewatkan kesempatan untuk meraih kemenangan besar dengan mudah di situs ini!">
+  <meta property="og:image" content="https://semaomao1.com/img/assets/sever-luar.png?v=1705119182">
+  <meta property="og:image:secure_url" content="https://semaomao1.com/img/assets/sever-luar.png?v=1705119182">
+  <meta property="og:image:width" content="800">
+  <link rel="shortcut icon" href="https://cdn-icons-png.flaticon.com/512/5972/5972778.png" type="image/x-icon">
+  <meta property="og:image:height" content="800">
+  <meta property="og:price:amount" content="225,000 ">
+  <meta property="og:price:currency" content="IDR">
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:title" content="SLOT LUAR NEGERI☘️ LINK SITUS SLOT GACOR HARI INI SERVER LUAR 2024 GAMPANG MAXWIN">
+  <meta name="twitter:description" content="Slot Luar Negeri merupakan situs terkini yang menawarkan akses ke slot gacor pada hari ini dengan server luar negeri pada tahun 2024. Dengan kemudahan akses dan peluang besar untuk meraih kemenangan maksimal, situs ini menjadi pilihan utama bagi para penggemar permainan slot. Jangan lewatkan kesempatan untuk meraih kemenangan besar dengan mudah di situs ini!">
 
 
+  <script type="text/javascript" async="" src="https://rank1.uka.ac.id/cdn/s/trekkie.storefront.f2da2901761ed691d459433ada0e4d90e085713c.min.js"></script><script src="https://rank1.uka.ac.id/cdn/shop/t/2/assets/constants.js?v=58251544750838685771705119265" defer></script>
+  <script src="https://rank1.uka.ac.id/cdn/shop/t/2/assets/pubsub.js?v=158357773527763999511705119266" defer></script>
+  <script src="https://rank1.uka.ac.id/cdn/shop/t/2/assets/global.js?v=113367515774722599301705119266" defer></script>
+  <script src="https://rank1.uka.ac.id/cdn/shop/t/2/assets/animations.js?v=88693664871331136111705119264" defer></script>
+  <script>window.performance && window.performance.mark && window.performance.mark('shopify.content_for_header.start');</script>
+  <meta id="shopify-digital-wallet" name="shopify-digital-wallet" content="/85569831231/digital_wallets/dialog">
+  <link rel="alternate" type="application/json+oembed" href="https://sipancanaka.kec.girimarto.wonogirikab.go.id/images/slot-luar-negeri/.oembed">
+  <script async="async" src="https://murnajati.jatimprov.go.id/checkouts/internal/preloads.js?permanent-domain=54a542.myshopify.com&amp;locale=en-ID"></script>
+  <script id="shopify-features" type="application/json">{"accessToken":"ea832c2fd0e5c061db691cb55802637c","betas":["rich-media-storefront-analytics"],"domain":"rank1.uka.ac.id","predictiveSearch":true,"shopId":85569831231,"smart_payment_buttons_url":"https://rank1.uka.ac.id/cdn/shopifycloud/payment-sheet/assets/latest/spb.en.js","dynamic_checkout_cart_url":"https://rank1.uka.ac.id/cdn/shopifycloud/payment-sheet/assets/latest/dynamic-checkout-cart.en.js","locale":"en","optimusEnabled":true,"optimusHidden":false,"betterDynamicCheckoutRecommendationVariant":"control","shopPromisePDPV3Enabled":true}</script>
+  <script>var Shopify = Shopify || {};
+    Shopify.shop = "54a542.myshopify.com";
+    Shopify.locale = "en";
+    Shopify.currency = { "active": "IDR", "rate": "1.0" };
+    Shopify.country = "ID";
+    Shopify.theme = { "name": "Spotlight", "id": 164574363967, "theme_store_id": 1891, "role": "main" };
+    Shopify.theme.handle = "null";
+    Shopify.theme.style = { "id": null, "handle": null };
+    Shopify.cdnHost = "rank1.uka.ac.id/cdn";
+    Shopify.routes = Shopify.routes || {};
+    Shopify.routes.root = "/";</script>
+  <script type="module">!function (o) { (o.Shopify = o.Shopify || {}).modules = !0 }(window);</script>
+  <script>!function (o) { function n() { var o = []; function n() { o.push(Array.prototype.slice.apply(arguments)) } return n.q = o, n } var t = o.Shopify = o.Shopify || {}; t.loadFeatures = n(), t.autoloadFeatures = n() }(window);</script>
+  <script id="__st">var __st = { "a": 85569831231, "offset": 25200, "reqid": "f3b9ce71-fcae-4312-b52f-2c2b0d229c80", "pageurl": "rank1.uka.ac.idhttps://sipancanaka.kec.girimarto.wonogirikab.go.id/images/slot-luar-negeri/", "u": "57ac0a78ca28", "p": "product", "rtyp": "product", "rid": 9101266125119 };</script>
+  <script>window.ShopifyPaypalV4VisibilityTracking = true;</script>
+  <script>!function (o) { o.addEventListener("DOMContentLoaded", function () { window.Shopify = window.Shopify || {}, window.Shopify.recaptchaV3 = window.Shopify.recaptchaV3 || { siteKey: "6LcCR2cUAAAAANS1Gpq_mDIJ2pQuJphsSQaUEuc9" }; var t = ['form[action*="/contact"] input[name="form_type"][value="contact"]', 'form[action*="/comments"] input[name="form_type"][value="new_comment"]', 'form[action*="/account"] input[name="form_type"][value="customer_login"]', 'form[action*="/account"] input[name="form_type"][value="recover_customer_password"]', 'form[action*="/account"] input[name="form_type"][value="create_customer"]', 'form[action*="/contact"] input[name="form_type"][value="customer"]'].join(","); function n(e) { e = e.target; null == e || null != (e = function e(t, n) { if (null == t.parentElement) return null; if ("FORM" != t.parentElement.tagName) return e(t.parentElement, n); for (var o = t.parentElement.action, r = 0; r < n.length; r++)if (-1 !== o.indexOf(n[r])) return t.parentElement; return null }(e, ["/contact", "/comments", "/account"])) && null != e.querySelector(t) && ((e = o.createElement("script")).setAttribute("src", "https://cdn.shopify.com/shopifycloud/storefront-recaptcha-v3/v0.6/index.js"), o.body.appendChild(e), o.removeEventListener("focus", n, !0), o.removeEventListener("change", n, !0), o.removeEventListener("click", n, !0)) } o.addEventListener("click", n, !0), o.addEventListener("change", n, !0), o.addEventListener("focus", n, !0) }) }(document);</script>
+  <script integrity="" data-source-attribution="shopify.loadfeatures" defer src="https://rank1.uka.ac.id/cdn/shopifycloud/shopify/assets/storefront/load_feature-87876fa245af19cbd14aa886ed59c6aa8a27c45d24dcd7a81cf2d2323506233e.js" crossorigin="anonymous"></script>
+  <script data-source-attribution="shopify.dynamic_checkout.dynamic.init">var Shopify = Shopify || {}; Shopify.PaymentButton = Shopify.PaymentButton || { isStorefrontPortableWallets: !0, init: function () { window.Shopify.PaymentButton.init = function () { }; var t = document.createElement("script"); t.src = "https://rank1.uka.ac.id/cdn/shopifycloud/portable-wallets/latest/portable-wallets.en.js", t.type = "module", document.head.appendChild(t) } };
+  </script>
+  <script integrity="" data-source-attribution="shopify.dynamic-checkout" defer src="https://rank1.uka.ac.id/cdn/shopifycloud/shopify/assets/storefront/features-1c0b396bd4d054b94abae1eb6a1bd6ba47beb35525c57a217c77a862ff06d83f.js" crossorigin="anonymous"></script>
+  <script id="sections-script" data-sections="header" defer src="https://rank1.uka.ac.id/cdn/shop/t/2/compiled_assets/scripts.js?7"></script>
+
+  <script>window.performance && window.performance.mark && window.performance.mark('shopify.content_for_header.end');</script>
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-  <header
-    data-test="header"
-    id="header"
-    
-    class="
-      
-        
-          
-        
-      
-      header theme-col--primary
-    "
-    data-section-theme=""
-    data-controller="Header"
-    data-current-styles="{
-&quot;layout&quot;: &quot;navRight&quot;,
-&quot;action&quot;: {
-&quot;buttonText&quot;: &quot;Get Started&quot;,
-&quot;newWindow&quot;: false
-},
-&quot;showSocial&quot;: true,
-&quot;socialOptions&quot;: {
-&quot;socialBorderShape&quot;: &quot;none&quot;,
-&quot;socialBorderStyle&quot;: &quot;outline&quot;,
-&quot;socialBorderThickness&quot;: {
-&quot;unit&quot;: &quot;px&quot;,
-&quot;value&quot;: 1.0
-}
-},
-&quot;menuOverlayAnimation&quot;: &quot;fade&quot;,
-&quot;cartStyle&quot;: &quot;cart&quot;,
-&quot;cartText&quot;: &quot;Cart&quot;,
-&quot;showEmptyCartState&quot;: true,
-&quot;cartOptions&quot;: {
-&quot;iconType&quot;: &quot;solid-7&quot;,
-&quot;cartBorderShape&quot;: &quot;none&quot;,
-&quot;cartBorderStyle&quot;: &quot;outline&quot;,
-&quot;cartBorderThickness&quot;: {
-&quot;unit&quot;: &quot;px&quot;,
-&quot;value&quot;: 1.0
-}
-},
-&quot;showButton&quot;: false,
-&quot;showCart&quot;: true,
-&quot;showAccountLogin&quot;: true,
-&quot;headerStyle&quot;: &quot;dynamic&quot;,
-&quot;languagePicker&quot;: {
-&quot;enabled&quot;: false,
-&quot;iconEnabled&quot;: false,
-&quot;iconType&quot;: &quot;globe&quot;,
-&quot;flagShape&quot;: &quot;shiny&quot;,
-&quot;languageFlags&quot;: [ ]
-},
-&quot;mobileOptions&quot;: {
-&quot;layout&quot;: &quot;logoLeftNavRight&quot;,
-&quot;menuIcon&quot;: &quot;doubleLineHamburger&quot;,
-&quot;menuIconOptions&quot;: {
-&quot;style&quot;: &quot;doubleLineHamburger&quot;,
-&quot;thickness&quot;: {
-&quot;unit&quot;: &quot;px&quot;,
-&quot;value&quot;: 1.0
-}
-}
-},
-&quot;dynamicOptions&quot;: {
-&quot;border&quot;: {
-&quot;enabled&quot;: false,
-&quot;position&quot;: &quot;allSides&quot;,
-&quot;thickness&quot;: {
-&quot;unit&quot;: &quot;px&quot;,
-&quot;value&quot;: 4.0
-},
-&quot;color&quot;: {
-&quot;type&quot;: &quot;SITE_PALETTE_COLOR&quot;,
-&quot;sitePaletteColor&quot;: {
-&quot;colorName&quot;: &quot;black&quot;,
-&quot;alphaModifier&quot;: 1.0
-}
-}
-}
-},
-&quot;solidOptions&quot;: {
-&quot;headerOpacity&quot;: {
-&quot;unit&quot;: &quot;%&quot;,
-&quot;value&quot;: 100.0
-},
-&quot;border&quot;: {
-&quot;enabled&quot;: false,
-&quot;position&quot;: &quot;allSides&quot;,
-&quot;thickness&quot;: {
-&quot;unit&quot;: &quot;px&quot;,
-&quot;value&quot;: 4.0
-},
-&quot;color&quot;: {
-&quot;type&quot;: &quot;SITE_PALETTE_COLOR&quot;,
-&quot;sitePaletteColor&quot;: {
-&quot;colorName&quot;: &quot;black&quot;,
-&quot;alphaModifier&quot;: 1.0
-}
-}
-},
-&quot;dropShadow&quot;: {
-&quot;enabled&quot;: false,
-&quot;blur&quot;: {
-&quot;unit&quot;: &quot;px&quot;,
-&quot;value&quot;: 30.0
-},
-&quot;spread&quot;: {
-&quot;unit&quot;: &quot;px&quot;,
-&quot;value&quot;: 0.0
-},
-&quot;distance&quot;: {
-&quot;unit&quot;: &quot;px&quot;,
-&quot;value&quot;: 0.0
-},
-&quot;color&quot;: {
-&quot;type&quot;: &quot;SITE_PALETTE_COLOR&quot;,
-&quot;sitePaletteColor&quot;: {
-&quot;colorName&quot;: &quot;black&quot;,
-&quot;alphaModifier&quot;: 1.0
-}
-}
-},
-&quot;blurBackground&quot;: {
-&quot;enabled&quot;: false,
-&quot;blurRadius&quot;: {
-&quot;unit&quot;: &quot;px&quot;,
-&quot;value&quot;: 12.0
-}
-},
-&quot;backgroundColor&quot;: {
-&quot;type&quot;: &quot;SITE_PALETTE_COLOR&quot;,
-&quot;sitePaletteColor&quot;: {
-&quot;colorName&quot;: &quot;white&quot;,
-&quot;alphaModifier&quot;: 1.0
-}
-},
-&quot;navigationColor&quot;: {
-&quot;type&quot;: &quot;SITE_PALETTE_COLOR&quot;,
-&quot;sitePaletteColor&quot;: {
-&quot;colorName&quot;: &quot;black&quot;,
-&quot;alphaModifier&quot;: 1.0
-}
-}
-},
-&quot;gradientOptions&quot;: {
-&quot;gradientType&quot;: &quot;faded&quot;,
-&quot;headerOpacity&quot;: {
-&quot;unit&quot;: &quot;%&quot;,
-&quot;value&quot;: 90.0
-},
-&quot;border&quot;: {
-&quot;enabled&quot;: false,
-&quot;position&quot;: &quot;allSides&quot;,
-&quot;thickness&quot;: {
-&quot;unit&quot;: &quot;px&quot;,
-&quot;value&quot;: 4.0
-},
-&quot;color&quot;: {
-&quot;type&quot;: &quot;SITE_PALETTE_COLOR&quot;,
-&quot;sitePaletteColor&quot;: {
-&quot;colorName&quot;: &quot;black&quot;,
-&quot;alphaModifier&quot;: 1.0
-}
-}
-},
-&quot;dropShadow&quot;: {
-&quot;enabled&quot;: false,
-&quot;blur&quot;: {
-&quot;unit&quot;: &quot;px&quot;,
-&quot;value&quot;: 30.0
-},
-&quot;spread&quot;: {
-&quot;unit&quot;: &quot;px&quot;,
-&quot;value&quot;: 0.0
-},
-&quot;distance&quot;: {
-&quot;unit&quot;: &quot;px&quot;,
-&quot;value&quot;: 0.0
-},
-&quot;color&quot;: {
-&quot;type&quot;: &quot;SITE_PALETTE_COLOR&quot;,
-&quot;sitePaletteColor&quot;: {
-&quot;colorName&quot;: &quot;black&quot;,
-&quot;alphaModifier&quot;: 1.0
-}
-}
-},
-&quot;blurBackground&quot;: {
-&quot;enabled&quot;: false,
-&quot;blurRadius&quot;: {
-&quot;unit&quot;: &quot;px&quot;,
-&quot;value&quot;: 12.0
-}
-},
-&quot;backgroundColor&quot;: {
-&quot;type&quot;: &quot;SITE_PALETTE_COLOR&quot;,
-&quot;sitePaletteColor&quot;: {
-&quot;colorName&quot;: &quot;white&quot;,
-&quot;alphaModifier&quot;: 1.0
-}
-},
-&quot;navigationColor&quot;: {
-&quot;type&quot;: &quot;SITE_PALETTE_COLOR&quot;,
-&quot;sitePaletteColor&quot;: {
-&quot;colorName&quot;: &quot;black&quot;,
-&quot;alphaModifier&quot;: 1.0
-}
-}
-},
-&quot;dropShadowOptions&quot;: {
-&quot;enabled&quot;: false,
-&quot;blur&quot;: {
-&quot;unit&quot;: &quot;px&quot;,
-&quot;value&quot;: 12.0
-},
-&quot;spread&quot;: {
-&quot;unit&quot;: &quot;px&quot;,
-&quot;value&quot;: 0.0
-},
-&quot;distance&quot;: {
-&quot;unit&quot;: &quot;px&quot;,
-&quot;value&quot;: 12.0
-}
-},
-&quot;borderOptions&quot;: {
-&quot;enabled&quot;: false,
-&quot;position&quot;: &quot;allSides&quot;,
-&quot;thickness&quot;: {
-&quot;unit&quot;: &quot;px&quot;,
-&quot;value&quot;: 4.0
-},
-&quot;color&quot;: {
-&quot;type&quot;: &quot;SITE_PALETTE_COLOR&quot;,
-&quot;sitePaletteColor&quot;: {
-&quot;colorName&quot;: &quot;black&quot;,
-&quot;alphaModifier&quot;: 1.0
-}
-}
-},
-&quot;showPromotedElement&quot;: false,
-&quot;buttonVariant&quot;: &quot;primary&quot;,
-&quot;blurBackground&quot;: {
-&quot;enabled&quot;: false,
-&quot;blurRadius&quot;: {
-&quot;unit&quot;: &quot;px&quot;,
-&quot;value&quot;: 12.0
-}
-},
-&quot;headerOpacity&quot;: {
-&quot;unit&quot;: &quot;%&quot;,
-&quot;value&quot;: 100.0
-}
-}"
-    data-section-id="header"
-    data-header-theme=""
-    data-menu-overlay-theme=""
-    data-header-style="dynamic"
-    data-language-picker="{
-&quot;enabled&quot;: false,
-&quot;iconEnabled&quot;: false,
-&quot;iconType&quot;: &quot;globe&quot;,
-&quot;flagShape&quot;: &quot;shiny&quot;,
-&quot;languageFlags&quot;: [ ]
-}"
-    
-    data-first-focusable-element
-    tabindex="-1"
-    style="
-      
-        
-        
-          --headerBorderColor: hsla(var(--black-hsl), 1);
-        
-      
-      
-        --solidHeaderBackgroundColor: hsla(var(--white-hsl), 1);
-      
-      
-        --solidHeaderNavigationColor: hsla(var(--black-hsl), 1);
-      
-      
-        --gradientHeaderBackgroundColor: hsla(var(--white-hsl), 1);
-      
-      
-        --gradientHeaderNavigationColor: hsla(var(--black-hsl), 1);
-      
-    "
-  >
-    
-<div class="sqs-announcement-bar-dropzone"></div>
-
-    <div class="header-announcement-bar-wrapper">
-      
-      <a
-        href="#page"
-        class="header-skip-link sqs-button-element--primary"
-      >
-        Skip to Content
-      </a>
-      
-
-
-<style>
-    @supports (-webkit-backdrop-filter: none) or (backdrop-filter: none) {
-        .header-blur-background {
-            
-            
-        }
+  <style data-shopify>
+    @font-face {
+      font-family: Inter;
+      font-weight: 400;
+      font-style: normal;
+      font-display: swap;
+      src: url("https://rank1.uka.ac.id/cdn/fonts/inter/inter_n4.481bd4d19704ca98fb1d3abd50c668b6962860a2.woff2?h1=NTRhNTQyLmFjY291bnQubXlzaG9waWZ5LmNvbQ&h2=bWlsa2xzaGFrZWdhY29yLm15c2hvcGlmeS5jb20&hmac=a5600b3b1a429f02ba2a7bfb9696b2ba5e411aed798e7bd59694bf681753bc65") format("woff2"),
+        url("https://rank1.uka.ac.id/cdn/fonts/inter/inter_n4.5a356a4c1877691cd26008ee4a5c7ada675c80ce.woff?h1=NTRhNTQyLmFjY291bnQubXlzaG9waWZ5LmNvbQ&h2=bWlsa2xzaGFrZWdhY29yLm15c2hvcGlmeS5jb20&hmac=c830cdeb10edbf22dcb5101b2dad6e9c927f96d6e48ee6752f998059e936169e") format("woff");
     }
-</style>
-      <div
-        class="header-border"
-        data-header-style="dynamic"
-        data-header-usability-enabled="true"
-        data-header-border="false"
-        data-test="header-border"
-        style="
 
+    @font-face {
+      font-family: Inter;
+      font-weight: 700;
+      font-style: normal;
+      font-display: swap;
+      src: url("https://rank1.uka.ac.id/cdn/fonts/inter/inter_n7.50ef4139896edec0637fde057914fbf7e3a8d56e.woff2?h1=NTRhNTQyLmFjY291bnQubXlzaG9waWZ5LmNvbQ&h2=bWlsa2xzaGFrZWdhY29yLm15c2hvcGlmeS5jb20&hmac=cf510de0780ae8692a7f2bdb0d72cbd54b6c695b50cd57fe2cd142c4f7715b27") format("woff2"),
+        url("https://rank1.uka.ac.id/cdn/fonts/inter/inter_n7.194c3d3f64efd8e4c82bbbe83dc84f5893fd9087.woff?h1=NTRhNTQyLmFjY291bnQubXlzaG9waWZ5LmNvbQ&h2=bWlsa2xzaGFrZWdhY29yLm15c2hvcGlmeS5jb20&hmac=93c871e7cf03f76cbabe0aa6a6cd8a88c03520a54919feaf9f59851ec81ca83b") format("woff");
+    }
 
 
 
+    @font-face {
+      font-family: Inter;
+      font-weight: 400;
+      font-style: normal;
+      font-display: swap;
+      src: url("https://rank1.uka.ac.id/cdn/fonts/inter/inter_n4.481bd4d19704ca98fb1d3abd50c668b6962860a2.woff2?h1=NTRhNTQyLmFjY291bnQubXlzaG9waWZ5LmNvbQ&h2=bWlsa2xzaGFrZWdhY29yLm15c2hvcGlmeS5jb20&hmac=a5600b3b1a429f02ba2a7bfb9696b2ba5e411aed798e7bd59694bf681753bc65") format("woff2"),
+        url("https://rank1.uka.ac.id/cdn/fonts/inter/inter_n4.5a356a4c1877691cd26008ee4a5c7ada675c80ce.woff?h1=NTRhNTQyLmFjY291bnQubXlzaG9waWZ5LmNvbQ&h2=bWlsa2xzaGFrZWdhY29yLm15c2hvcGlmeS5jb20&hmac=c830cdeb10edbf22dcb5101b2dad6e9c927f96d6e48ee6752f998059e936169e") format("woff");
+    }
 
 
-  
-    border-width: 0px !important;
-  
 
+    :root,
+    .color-background-1 {
+      --color-background: 255, 255, 255;
 
+      --gradient-background: #ffffff;
 
-  
 
 
 
-"
-      ></div>
-      <div
-        class="header-dropshadow"
-        data-header-style="dynamic"
-        data-header-usability-enabled="true"
-        data-header-dropshadow="false"
-        data-test="header-dropshadow"
-        style="
+      --color-foreground: 18, 18, 18;
+      --color-background-contrast: 191, 191, 191;
+      --color-shadow: 18, 18, 18;
+      --color-button: 252, 228, 119;
+      --color-button-text: 18, 18, 18;
+      --color-secondary-button: 255, 255, 255;
+      --color-secondary-button-text: 18, 18, 18;
+      --color-link: 18, 18, 18;
+      --color-badge-foreground: 18, 18, 18;
+      --color-badge-background: 255, 255, 255;
+      --color-badge-border: 18, 18, 18;
+      --payment-terms-background-color: rgb(255 255 255);
+    }
 
 
-  
-"
-      ></div>
-      
-      
+    .color-background-2 {
+      --color-background: 243, 243, 243;
 
-      <div class='header-inner container--fluid
-        
-          header-layout--with-commerce
-        
-        
-        
-         header-mobile-layout-logo-left-nav-right
-        
-        
-        
-        
-        
-        
-         header-layout-nav-right
-        
-        
-        
-        
-        
-        
-        
-        
-        '
-        style="
-
-
-
-
-
-
-  
-    padding: 0;
-  
-
-
-
-"
-        data-test="header-inner"
-        >
-        <!-- Background -->
-        <div class="header-background theme-bg--primary"></div>
-
-        <div class="header-display-desktop" data-content-field="site-title">
-          
-
-          
-
-          
-
-          
-
-          
-
-          
-          
-            
-
-
-<style>
-  .top-bun, 
-  .patty, 
-  .bottom-bun {
-    height: 1px;
-  }
-</style>
-
-<!-- Burger -->
-<div class="header-burger
-
-  menu-overlay-has-visible-non-navigation-items
-
-" data-animation-role="header-element">
-  <button class="header-burger-btn burger" data-test="header-burger">
-    <span hidden class="js-header-burger-open-title visually-hidden">Open Menu</span>
-    <span hidden class="js-header-burger-close-title visually-hidden">Close Menu</span>
-    <div class="burger-box">
-      <div class="burger-inner header-menu-icon-doubleLineHamburger">
-        <div class="top-bun"></div>
-        <div class="patty"></div>
-        <div class="bottom-bun"></div>
-      </div>
-    </div>
-  </button>
-</div>
-
-            
-            <!-- Social -->
-            
-              
-            
-          
-            
-            <!-- Title and nav wrapper -->
-            <div class="header-title-nav-wrapper">
-              
-
-              
-
-              
-                
-                <!-- Title -->
-                
-                  <div
-                    class="
-                      header-title
-                      
-                    "
-                    data-animation-role="header-element"
-                  >
-                    
-                      <div class="header-title-text">
-                        <a id="site-title" href="/" data-animation-role="header-element">Slot Pulsa</a>
-                      </div>
-                    
-                    
-                  </div>
-                
-              
-                
-                <!-- Nav -->
-                <div class="header-nav">
-                  <div class="header-nav-wrapper">
-                    <nav class="header-nav-list">
-                      
-
-
-  
-    <div class="header-nav-item header-nav-item--collection header-nav-item--active">
-      <a
-        href="https://madatsama.kec.girimarto.wonogirikab.go.id/img/spulsat/"
-        data-animation-role="header-element"
-        
-          aria-current="page"
-        
-      >
-        Store
-      </a>
-    </div>
-  
-  
-  
-
-
-
-                    </nav>
-                  </div>
-                </div>
-              
-              
-            </div>
-          
-            
-            <!-- Actions -->
-            <div class="header-actions header-actions--right">
-              
-              
-                
-                  <div class="header-actions-action header-actions-action--social">
-                    
-                      
-                        <a class="icon icon--fill  header-icon header-icon-border-shape-none header-icon-border-style-outline"  href="http://instagram.com/squarespace" target="_blank" aria-label="instagram-unauth">
-                          <svg viewBox="23 23 64 64">
-                            <use xlink:href="#instagram-unauth-icon" width="110" height="110"></use>
-                          </svg>
-                        </a>
-                      
-                        <a class="icon icon--fill  header-icon header-icon-border-shape-none header-icon-border-style-outline"  href="http://twitter.com/squarespace" target="_blank" aria-label="twitter-unauth">
-                          <svg viewBox="23 23 64 64">
-                            <use xlink:href="#twitter-unauth-icon" width="110" height="110"></use>
-                          </svg>
-                        </a>
-                      
-                    
-                  </div>
-                
-              
-
-              
-
-            
-            
-
-              
-
-              
-
-              
-
-              
-
-              
-            
-
-              
-              <div class="showOnMobile">
-                
-                  
-                
-                
-                  
-                    
-                <div class="header-actions-action header-actions-action--cart">
-                  <a href="https://madatsama.kec.girimarto.wonogirikab.go.id/img/spulsat/" class="cart-style-icon icon--stroke icon--fill icon--cart sqs-custom-cart  header-icon  show-empty-cart-state header-icon-border-shape-none header-icon-border-style-outline" >
-                    <span class="Cart-inner">
-                      
-
-
-
-  <svg class="icon icon--cart" width="61" height="49" viewBox="0 0 61 49">
-  <path fill-rule="evenodd" clip-rule="evenodd" d="M0.5 2C0.5 1.17157 1.17157 0.5 2 0.5H13.6362C14.3878 0.5 15.0234 1.05632 15.123 1.80135L16.431 11.5916H59C59.5122 11.5916 59.989 11.8529 60.2645 12.2847C60.54 12.7165 60.5762 13.2591 60.3604 13.7236L50.182 35.632C49.9361 36.1614 49.4054 36.5 48.8217 36.5H18.0453C17.2937 36.5 16.6581 35.9437 16.5585 35.1987L12.3233 3.5H2C1.17157 3.5 0.5 2.82843 0.5 2ZM16.8319 14.5916L19.3582 33.5H47.8646L56.6491 14.5916H16.8319Z" />
-  <path d="M18.589 35H49.7083L60 13H16L18.589 35Z" />
-  <path d="M21 49C23.2091 49 25 47.2091 25 45C25 42.7909 23.2091 41 21 41C18.7909 41 17 42.7909 17 45C17 47.2091 18.7909 49 21 49Z" />
-  <path d="M45 49C47.2091 49 49 47.2091 49 45C49 42.7909 47.2091 41 45 41C42.7909 41 41 42.7909 41 45C41 47.2091 42.7909 49 45 49Z" />
-</svg>
-
-                      <div class="icon-cart-quantity">
-                        
-                <span class="cart-quantity-container">
-                  
-                    <span class="sqs-cart-quantity">2</span>
-                  
-                </span>
-              
-                      </div>
-                    </span>
-                  </a>
-                </div>
-              
-                  
-                  
-                
-              
-                
-              </div>
-
-              
-              <div class="showOnDesktop">
-                
-                  
-                
-                
-                  
-                    
-                <div class="header-actions-action header-actions-action--cart">
-                  <a href="https://madatsama.kec.girimarto.wonogirikab.go.id/img/spulsat/" class="cart-style-icon icon--stroke icon--fill icon--cart sqs-custom-cart  header-icon  show-empty-cart-state header-icon-border-shape-none header-icon-border-style-outline" >
-                    <span class="Cart-inner">
-                      
-
-
-
-  <svg class="icon icon--cart" width="61" height="49" viewBox="0 0 61 49">
-  <path fill-rule="evenodd" clip-rule="evenodd" d="M0.5 2C0.5 1.17157 1.17157 0.5 2 0.5H13.6362C14.3878 0.5 15.0234 1.05632 15.123 1.80135L16.431 11.5916H59C59.5122 11.5916 59.989 11.8529 60.2645 12.2847C60.54 12.7165 60.5762 13.2591 60.3604 13.7236L50.182 35.632C49.9361 36.1614 49.4054 36.5 48.8217 36.5H18.0453C17.2937 36.5 16.6581 35.9437 16.5585 35.1987L12.3233 3.5H2C1.17157 3.5 0.5 2.82843 0.5 2ZM16.8319 14.5916L19.3582 33.5H47.8646L56.6491 14.5916H16.8319Z" />
-  <path d="M18.589 35H49.7083L60 13H16L18.589 35Z" />
-  <path d="M21 49C23.2091 49 25 47.2091 25 45C25 42.7909 23.2091 41 21 41C18.7909 41 17 42.7909 17 45C17 47.2091 18.7909 49 21 49Z" />
-  <path d="M45 49C47.2091 49 49 47.2091 49 45C49 42.7909 47.2091 41 45 41C42.7909 41 41 42.7909 41 45C41 47.2091 42.7909 49 45 49Z" />
-</svg>
-
-                      <div class="icon-cart-quantity">
-                        
-                <span class="cart-quantity-container">
-                  
-                    <span class="sqs-cart-quantity">2</span>
-                  
-                </span>
-              
-                      </div>
-                    </span>
-                  </a>
-                </div>
-              
-                  
-                  
-                
-              
-                
-              </div>
-
-              
-            </div>
-          
-          
-          
-          
-          
-          
-
-        </div>
-        <div class="header-display-mobile" data-content-field="site-title">
-          
-            
-            <!-- Social -->
-            
-              
-            
-          
-            
-            <!-- Title and nav wrapper -->
-            <div class="header-title-nav-wrapper">
-              
-
-              
-
-              
-                
-                <!-- Title -->
-                
-                  <div
-                    class="
-                      header-title
-                      
-                    "
-                    data-animation-role="header-element"
-                  >
-                    
-                      <div class="header-title-text">
-                        <a id="site-title" href="/" data-animation-role="header-element">Slot Pulsa</a>
-                      </div>
-                    
-                    
-                  </div>
-                
-              
-                
-                <!-- Nav -->
-                <div class="header-nav">
-                  <div class="header-nav-wrapper">
-                    <nav class="header-nav-list">
-                      
-
-
-  
-    <div class="header-nav-item header-nav-item--collection header-nav-item--active">
-      <a
-        href="https://madatsama.kec.girimarto.wonogirikab.go.id/img/spulsat/"
-        data-animation-role="header-element"
-        
-          aria-current="page"
-        
-      >
-        Store
-      </a>
-    </div>
-  
-  
-  
-
-
-
-                    </nav>
-                  </div>
-                </div>
-              
-              
-            </div>
-          
-            
-            <!-- Actions -->
-            <div class="header-actions header-actions--right">
-              
-              
-                
-                  <div class="header-actions-action header-actions-action--social">
-                    
-                      
-                        <a class="icon icon--fill  header-icon header-icon-border-shape-none header-icon-border-style-outline"  href="http://instagram.com/squarespace" target="_blank" aria-label="instagram-unauth">
-                          <svg viewBox="23 23 64 64">
-                            <use xlink:href="#instagram-unauth-icon" width="110" height="110"></use>
-                          </svg>
-                        </a>
-                      
-                        <a class="icon icon--fill  header-icon header-icon-border-shape-none header-icon-border-style-outline"  href="http://twitter.com/squarespace" target="_blank" aria-label="twitter-unauth">
-                          <svg viewBox="23 23 64 64">
-                            <use xlink:href="#twitter-unauth-icon" width="110" height="110"></use>
-                          </svg>
-                        </a>
-                      
-                    
-                  </div>
-                
-              
-
-              
-
-            
-            
-
-              
-
-              
-
-              
-
-              
-
-              
-            
-
-              
-              <div class="showOnMobile">
-                
-                  
-                
-                
-                  
-                    
-                <div class="header-actions-action header-actions-action--cart">
-                  <a href="https://madatsama.kec.girimarto.wonogirikab.go.id/img/spulsat/" class="cart-style-icon icon--stroke icon--fill icon--cart sqs-custom-cart  header-icon  show-empty-cart-state header-icon-border-shape-none header-icon-border-style-outline" >
-                    <span class="Cart-inner">
-                      
-
-
-
-  <svg class="icon icon--cart" width="61" height="49" viewBox="0 0 61 49">
-  <path fill-rule="evenodd" clip-rule="evenodd" d="M0.5 2C0.5 1.17157 1.17157 0.5 2 0.5H13.6362C14.3878 0.5 15.0234 1.05632 15.123 1.80135L16.431 11.5916H59C59.5122 11.5916 59.989 11.8529 60.2645 12.2847C60.54 12.7165 60.5762 13.2591 60.3604 13.7236L50.182 35.632C49.9361 36.1614 49.4054 36.5 48.8217 36.5H18.0453C17.2937 36.5 16.6581 35.9437 16.5585 35.1987L12.3233 3.5H2C1.17157 3.5 0.5 2.82843 0.5 2ZM16.8319 14.5916L19.3582 33.5H47.8646L56.6491 14.5916H16.8319Z" />
-  <path d="M18.589 35H49.7083L60 13H16L18.589 35Z" />
-  <path d="M21 49C23.2091 49 25 47.2091 25 45C25 42.7909 23.2091 41 21 41C18.7909 41 17 42.7909 17 45C17 47.2091 18.7909 49 21 49Z" />
-  <path d="M45 49C47.2091 49 49 47.2091 49 45C49 42.7909 47.2091 41 45 41C42.7909 41 41 42.7909 41 45C41 47.2091 42.7909 49 45 49Z" />
-</svg>
-
-                      <div class="icon-cart-quantity">
-                        
-                <span class="cart-quantity-container">
-                  
-                    <span class="sqs-cart-quantity">2</span>
-                  
-                </span>
-              
-                      </div>
-                    </span>
-                  </a>
-                </div>
-              
-                  
-                  
-                
-              
-                
-              </div>
-
-              
-              <div class="showOnDesktop">
-                
-                  
-                
-                
-                  
-                    
-                <div class="header-actions-action header-actions-action--cart">
-                  <a href="https://madatsama.kec.girimarto.wonogirikab.go.id/img/spulsat/" class="cart-style-icon icon--stroke icon--fill icon--cart sqs-custom-cart  header-icon  show-empty-cart-state header-icon-border-shape-none header-icon-border-style-outline" >
-                    <span class="Cart-inner">
-                      
-
-
-
-  <svg class="icon icon--cart" width="61" height="49" viewBox="0 0 61 49">
-  <path fill-rule="evenodd" clip-rule="evenodd" d="M0.5 2C0.5 1.17157 1.17157 0.5 2 0.5H13.6362C14.3878 0.5 15.0234 1.05632 15.123 1.80135L16.431 11.5916H59C59.5122 11.5916 59.989 11.8529 60.2645 12.2847C60.54 12.7165 60.5762 13.2591 60.3604 13.7236L50.182 35.632C49.9361 36.1614 49.4054 36.5 48.8217 36.5H18.0453C17.2937 36.5 16.6581 35.9437 16.5585 35.1987L12.3233 3.5H2C1.17157 3.5 0.5 2.82843 0.5 2ZM16.8319 14.5916L19.3582 33.5H47.8646L56.6491 14.5916H16.8319Z" />
-  <path d="M18.589 35H49.7083L60 13H16L18.589 35Z" />
-  <path d="M21 49C23.2091 49 25 47.2091 25 45C25 42.7909 23.2091 41 21 41C18.7909 41 17 42.7909 17 45C17 47.2091 18.7909 49 21 49Z" />
-  <path d="M45 49C47.2091 49 49 47.2091 49 45C49 42.7909 47.2091 41 45 41C42.7909 41 41 42.7909 41 45C41 47.2091 42.7909 49 45 49Z" />
-</svg>
-
-                      <div class="icon-cart-quantity">
-                        
-                <span class="cart-quantity-container">
-                  
-                    <span class="sqs-cart-quantity">2</span>
-                  
-                </span>
-              
-                      </div>
-                    </span>
-                  </a>
-                </div>
-              
-                  
-                  
-                
-              
-                
-              </div>
-
-              
-            </div>
-          
-            
-
-
-<style>
-  .top-bun, 
-  .patty, 
-  .bottom-bun {
-    height: 1px;
-  }
-</style>
-
-<!-- Burger -->
-<div class="header-burger
-
-  menu-overlay-has-visible-non-navigation-items
-
-" data-animation-role="header-element">
-  <button class="header-burger-btn burger" data-test="header-burger">
-    <span hidden class="js-header-burger-open-title visually-hidden">Open Menu</span>
-    <span hidden class="js-header-burger-close-title visually-hidden">Close Menu</span>
-    <div class="burger-box">
-      <div class="burger-inner header-menu-icon-doubleLineHamburger">
-        <div class="top-bun"></div>
-        <div class="patty"></div>
-        <div class="bottom-bun"></div>
-      </div>
-    </div>
-  </button>
-</div>
-
-          
-          
-          
-          
-          
-        </div>
-      </div>
-    </div>
-    <!-- (Mobile) Menu Navigation -->
-    <div class="header-menu header-menu--folder-list
-      
-      
-      
-      
-      
-      "
-      data-section-theme=""
-      data-current-styles="{
-&quot;layout&quot;: &quot;navRight&quot;,
-&quot;action&quot;: {
-&quot;buttonText&quot;: &quot;Get Started&quot;,
-&quot;newWindow&quot;: false
-},
-&quot;showSocial&quot;: true,
-&quot;socialOptions&quot;: {
-&quot;socialBorderShape&quot;: &quot;none&quot;,
-&quot;socialBorderStyle&quot;: &quot;outline&quot;,
-&quot;socialBorderThickness&quot;: {
-&quot;unit&quot;: &quot;px&quot;,
-&quot;value&quot;: 1.0
-}
-},
-&quot;menuOverlayAnimation&quot;: &quot;fade&quot;,
-&quot;cartStyle&quot;: &quot;cart&quot;,
-&quot;cartText&quot;: &quot;Cart&quot;,
-&quot;showEmptyCartState&quot;: true,
-&quot;cartOptions&quot;: {
-&quot;iconType&quot;: &quot;solid-7&quot;,
-&quot;cartBorderShape&quot;: &quot;none&quot;,
-&quot;cartBorderStyle&quot;: &quot;outline&quot;,
-&quot;cartBorderThickness&quot;: {
-&quot;unit&quot;: &quot;px&quot;,
-&quot;value&quot;: 1.0
-}
-},
-&quot;showButton&quot;: false,
-&quot;showCart&quot;: true,
-&quot;showAccountLogin&quot;: true,
-&quot;headerStyle&quot;: &quot;dynamic&quot;,
-&quot;languagePicker&quot;: {
-&quot;enabled&quot;: false,
-&quot;iconEnabled&quot;: false,
-&quot;iconType&quot;: &quot;globe&quot;,
-&quot;flagShape&quot;: &quot;shiny&quot;,
-&quot;languageFlags&quot;: [ ]
-},
-&quot;mobileOptions&quot;: {
-&quot;layout&quot;: &quot;logoLeftNavRight&quot;,
-&quot;menuIcon&quot;: &quot;doubleLineHamburger&quot;,
-&quot;menuIconOptions&quot;: {
-&quot;style&quot;: &quot;doubleLineHamburger&quot;,
-&quot;thickness&quot;: {
-&quot;unit&quot;: &quot;px&quot;,
-&quot;value&quot;: 1.0
-}
-}
-},
-&quot;dynamicOptions&quot;: {
-&quot;border&quot;: {
-&quot;enabled&quot;: false,
-&quot;position&quot;: &quot;allSides&quot;,
-&quot;thickness&quot;: {
-&quot;unit&quot;: &quot;px&quot;,
-&quot;value&quot;: 4.0
-},
-&quot;color&quot;: {
-&quot;type&quot;: &quot;SITE_PALETTE_COLOR&quot;,
-&quot;sitePaletteColor&quot;: {
-&quot;colorName&quot;: &quot;black&quot;,
-&quot;alphaModifier&quot;: 1.0
-}
-}
-}
-},
-&quot;solidOptions&quot;: {
-&quot;headerOpacity&quot;: {
-&quot;unit&quot;: &quot;%&quot;,
-&quot;value&quot;: 100.0
-},
-&quot;border&quot;: {
-&quot;enabled&quot;: false,
-&quot;position&quot;: &quot;allSides&quot;,
-&quot;thickness&quot;: {
-&quot;unit&quot;: &quot;px&quot;,
-&quot;value&quot;: 4.0
-},
-&quot;color&quot;: {
-&quot;type&quot;: &quot;SITE_PALETTE_COLOR&quot;,
-&quot;sitePaletteColor&quot;: {
-&quot;colorName&quot;: &quot;black&quot;,
-&quot;alphaModifier&quot;: 1.0
-}
-}
-},
-&quot;dropShadow&quot;: {
-&quot;enabled&quot;: false,
-&quot;blur&quot;: {
-&quot;unit&quot;: &quot;px&quot;,
-&quot;value&quot;: 30.0
-},
-&quot;spread&quot;: {
-&quot;unit&quot;: &quot;px&quot;,
-&quot;value&quot;: 0.0
-},
-&quot;distance&quot;: {
-&quot;unit&quot;: &quot;px&quot;,
-&quot;value&quot;: 0.0
-},
-&quot;color&quot;: {
-&quot;type&quot;: &quot;SITE_PALETTE_COLOR&quot;,
-&quot;sitePaletteColor&quot;: {
-&quot;colorName&quot;: &quot;black&quot;,
-&quot;alphaModifier&quot;: 1.0
-}
-}
-},
-&quot;blurBackground&quot;: {
-&quot;enabled&quot;: false,
-&quot;blurRadius&quot;: {
-&quot;unit&quot;: &quot;px&quot;,
-&quot;value&quot;: 12.0
-}
-},
-&quot;backgroundColor&quot;: {
-&quot;type&quot;: &quot;SITE_PALETTE_COLOR&quot;,
-&quot;sitePaletteColor&quot;: {
-&quot;colorName&quot;: &quot;white&quot;,
-&quot;alphaModifier&quot;: 1.0
-}
-},
-&quot;navigationColor&quot;: {
-&quot;type&quot;: &quot;SITE_PALETTE_COLOR&quot;,
-&quot;sitePaletteColor&quot;: {
-&quot;colorName&quot;: &quot;black&quot;,
-&quot;alphaModifier&quot;: 1.0
-}
-}
-},
-&quot;gradientOptions&quot;: {
-&quot;gradientType&quot;: &quot;faded&quot;,
-&quot;headerOpacity&quot;: {
-&quot;unit&quot;: &quot;%&quot;,
-&quot;value&quot;: 90.0
-},
-&quot;border&quot;: {
-&quot;enabled&quot;: false,
-&quot;position&quot;: &quot;allSides&quot;,
-&quot;thickness&quot;: {
-&quot;unit&quot;: &quot;px&quot;,
-&quot;value&quot;: 4.0
-},
-&quot;color&quot;: {
-&quot;type&quot;: &quot;SITE_PALETTE_COLOR&quot;,
-&quot;sitePaletteColor&quot;: {
-&quot;colorName&quot;: &quot;black&quot;,
-&quot;alphaModifier&quot;: 1.0
-}
-}
-},
-&quot;dropShadow&quot;: {
-&quot;enabled&quot;: false,
-&quot;blur&quot;: {
-&quot;unit&quot;: &quot;px&quot;,
-&quot;value&quot;: 30.0
-},
-&quot;spread&quot;: {
-&quot;unit&quot;: &quot;px&quot;,
-&quot;value&quot;: 0.0
-},
-&quot;distance&quot;: {
-&quot;unit&quot;: &quot;px&quot;,
-&quot;value&quot;: 0.0
-},
-&quot;color&quot;: {
-&quot;type&quot;: &quot;SITE_PALETTE_COLOR&quot;,
-&quot;sitePaletteColor&quot;: {
-&quot;colorName&quot;: &quot;black&quot;,
-&quot;alphaModifier&quot;: 1.0
-}
-}
-},
-&quot;blurBackground&quot;: {
-&quot;enabled&quot;: false,
-&quot;blurRadius&quot;: {
-&quot;unit&quot;: &quot;px&quot;,
-&quot;value&quot;: 12.0
-}
-},
-&quot;backgroundColor&quot;: {
-&quot;type&quot;: &quot;SITE_PALETTE_COLOR&quot;,
-&quot;sitePaletteColor&quot;: {
-&quot;colorName&quot;: &quot;white&quot;,
-&quot;alphaModifier&quot;: 1.0
-}
-},
-&quot;navigationColor&quot;: {
-&quot;type&quot;: &quot;SITE_PALETTE_COLOR&quot;,
-&quot;sitePaletteColor&quot;: {
-&quot;colorName&quot;: &quot;black&quot;,
-&quot;alphaModifier&quot;: 1.0
-}
-}
-},
-&quot;dropShadowOptions&quot;: {
-&quot;enabled&quot;: false,
-&quot;blur&quot;: {
-&quot;unit&quot;: &quot;px&quot;,
-&quot;value&quot;: 12.0
-},
-&quot;spread&quot;: {
-&quot;unit&quot;: &quot;px&quot;,
-&quot;value&quot;: 0.0
-},
-&quot;distance&quot;: {
-&quot;unit&quot;: &quot;px&quot;,
-&quot;value&quot;: 12.0
-}
-},
-&quot;borderOptions&quot;: {
-&quot;enabled&quot;: false,
-&quot;position&quot;: &quot;allSides&quot;,
-&quot;thickness&quot;: {
-&quot;unit&quot;: &quot;px&quot;,
-&quot;value&quot;: 4.0
-},
-&quot;color&quot;: {
-&quot;type&quot;: &quot;SITE_PALETTE_COLOR&quot;,
-&quot;sitePaletteColor&quot;: {
-&quot;colorName&quot;: &quot;black&quot;,
-&quot;alphaModifier&quot;: 1.0
-}
-}
-},
-&quot;showPromotedElement&quot;: false,
-&quot;buttonVariant&quot;: &quot;primary&quot;,
-&quot;blurBackground&quot;: {
-&quot;enabled&quot;: false,
-&quot;blurRadius&quot;: {
-&quot;unit&quot;: &quot;px&quot;,
-&quot;value&quot;: 12.0
-}
-},
-&quot;headerOpacity&quot;: {
-&quot;unit&quot;: &quot;%&quot;,
-&quot;value&quot;: 100.0
-}
-}"
-      data-section-id="overlay-nav"
-      data-show-account-login="true"
-      data-test="header-menu">
-      <div class="header-menu-bg theme-bg--primary"></div>
-      <div class="header-menu-nav">
-        <nav class="header-menu-nav-list">
-          <div data-folder="root" class="header-menu-nav-folder">
-            <div class="header-menu-nav-folder-content">
-              <!-- Menu Navigation -->
-<div class="header-menu-nav-wrapper">
-  
-    
-      
-        
-          
-            <div class="container header-menu-nav-item header-menu-nav-item--collection header-menu-nav-item--active">
-              <a
-                href="https://madatsama.kec.girimarto.wonogirikab.go.id/img/spulsat/"
-                
-                  aria-current="page"
-                
-              >
-                <div class="header-menu-nav-item-content">
-                  Store
-                </div>
-              </a>
-            </div>
-          
-        
-      
-    
-  
-</div>
-
-              
-            </div>
-            
-              <div class="header-menu-actions social-accounts">
-                
-                  
-                    <div class="header-menu-actions-action header-menu-actions-action--social mobile">
-                      <a class="icon icon--lg icon--fill  header-icon header-icon-border-shape-none header-icon-border-style-outline"  href="http://instagram.com/squarespace" target="_blank" aria-label="instagram-unauth">
-                        <svg viewBox="23 23 64 64">
-                          <use xlink:href="#instagram-unauth-icon" width="110" height="110"></use>
-                        </svg>
-                      </a>
-                    </div>
-                  
-                    <div class="header-menu-actions-action header-menu-actions-action--social mobile">
-                      <a class="icon icon--lg icon--fill  header-icon header-icon-border-shape-none header-icon-border-style-outline"  href="http://twitter.com/squarespace" target="_blank" aria-label="twitter-unauth">
-                        <svg viewBox="23 23 64 64">
-                          <use xlink:href="#twitter-unauth-icon" width="110" height="110"></use>
-                        </svg>
-                      </a>
-                    </div>
-                  
-                
-              </div>
-            
-            
-            
-          </div>
-        </nav>
-      </div>
-    </div>
-  </header>
-
-
-
-
-      <main id="page" class="container" role="main">
-        
-          
-<article class="sections" id="sections" data-page-sections="6600f98ca1b5bd408d08940e">
-  
-  
-    
-    
-
-
-  
-
-
-<section
-  data-test="page-section"
-  
-  data-section-theme=""
-  class='page-section 
-    
-      content-collection
-      full-bleed-section
-      collection-type-products
-    
-    background-width--full-bleed
-    
-      section-height--medium
-    
-    
-      content-width--wide
-    
-    horizontal-alignment--center
-    vertical-alignment--middle
-    
-      
-    
-    
-    '
-  
-  data-section-id="6600fdffb54d5b46e7ea333f"
-  
-  data-controller="SectionWrapperController"
-  data-current-styles="{
-&quot;imageOverlayOpacity&quot;: 0.15,
-&quot;backgroundWidth&quot;: &quot;background-width--full-bleed&quot;,
-&quot;sectionHeight&quot;: &quot;section-height--medium&quot;,
-&quot;customSectionHeight&quot;: 10,
-&quot;horizontalAlignment&quot;: &quot;horizontal-alignment--center&quot;,
-&quot;verticalAlignment&quot;: &quot;vertical-alignment--middle&quot;,
-&quot;contentWidth&quot;: &quot;content-width--wide&quot;,
-&quot;customContentWidth&quot;: 50,
-&quot;backgroundColor&quot;: &quot;&quot;,
-&quot;sectionTheme&quot;: &quot;&quot;,
-&quot;sectionAnimation&quot;: &quot;none&quot;,
-&quot;backgroundMode&quot;: &quot;image&quot;
-}"
-  data-current-context="{
-&quot;video&quot;: {
-&quot;playbackSpeed&quot;: 0.5,
-&quot;filter&quot;: 1,
-&quot;filterStrength&quot;: 0,
-&quot;zoom&quot;: 0,
-&quot;videoSourceProvider&quot;: &quot;none&quot;
-},
-&quot;backgroundImageId&quot;: null,
-&quot;backgroundMediaEffect&quot;: null,
-&quot;divider&quot;: null,
-&quot;typeName&quot;: &quot;products&quot;
-}"
-  data-animation="none"
-  
-   
-  
-    
-  
-  
->
-  <div
-    class="section-border" 
-    
-  >
-    <div class="section-background">
-    
-      
-    
-    </div>
-  </div>
-  <div
-    class='content-wrapper'
-    style='
-      
-      
-    '
-  >
-    <div
-      class="content"
-      
-    >
-      
-      
-      
-      
-      
-      
-      <section>
-  
-
-
-  <article
-    id="pdp"
-    class="
-      pdp-layout
-      pdp-layout-full-bleed
-      hentry author-kentung-hub post-type-store-item
-    "
-    data-item-id="6600f990aa1d0858f5b0fee6"
-    data-controller="ProductGallery"
-    data-layout="full-bleed"
-  >
-    <section>
-      <figure
-  class="pdp-gallery"
-  data-product-gallery="container"
->
-  <div
-    class="pdp-gallery-images"
-    data-product-gallery="slides"
-    data-min-height="true"
-  >
-    
-      
-        <div
-  class="pdp-carousel-controls"
-  data-first-img-load
->
-  <button
-    class="chevron-prev"
-    data-product-gallery="prev"
-    aria-label="Previous"
-  >
-    <span class="chevron chevron--left"></span>
-  </button>
-  <button
-    class="chevron-next"
-    data-product-gallery="next"
-    aria-label="Next"
-  >
-    <span class="chevron chevron--right"></span>
-  </button>
-</div>
-        <div
-  class="pdp-gallery-slide-indicator hidden-sm-up"
-  data-first-img-load
-  data-product-gallery="indicator"
->
-</div>
-      
-      
-        
-          <div
-            data-animation-role="image"
-            class="pdp-gallery-slides"
-            data-slide-index="1"
-            data-image-id=6600f9b159701944d0e34141
-            data-slide-url="5p7o6q7rk6e4yg1n8km5hbxhkw6o8n"
-            data-product-gallery="slides-item"
-            data-test="pdp-gallery-slide"
-          >
-            <img
-              class="pdp-gallery-slides-image"
-              data-load="false"
-              data-src="https://images.squarespace-cdn.com/content/v1/65cde3f50802aa5441180fa6/1708052857921-J4T20FNE9345KN1K5823/slot+pulsa+%282%29.png" data-image="https://images.squarespace-cdn.com/content/v1/65cde3f50802aa5441180fa6/1708052857921-J4T20FNE9345KN1K5823/slot+pulsa+%282%29.png" data-image-dimensions="1280x960" data-image-focal-point="0.5,0.5" alt="slotthailand39.jpg" 
-              elementtiming="nbf-products-full-bleed-gallery"
-            /> 
-          </div>
-        
-        
-      
-        
-          <div
-            data-animation-role="image"
-            class="pdp-gallery-slides"
-            data-slide-index="2"
-            data-image-id=6600f9d6a1b5bd408d089433
-            data-slide-url="scatterhitam"
-            data-product-gallery="slides-item"
-            data-test="pdp-gallery-slide"
-          >
-            <img
-              class="pdp-gallery-slides-image"
-              data-load="false"
-              data-src="https://images.squarespace-cdn.com/content/v1/65cde3f50802aa5441180fa6/1708052857921-J4T20FNE9345KN1K5823/slot+pulsa+%282%29.png" data-image="https://images.squarespace-cdn.com/content/v1/65cde3f50802aa5441180fa6/1708052857921-J4T20FNE9345KN1K5823/slot+pulsa+%282%29.png" data-image-dimensions="1280x960" data-image-focal-point="0.5,0.5" alt="slotthailand39.jpg" 
-              elementtiming="nbf-products-full-bleed-gallery"
-            /> 
-          </div>
-        
-        
-      
-        
-          <div
-            data-animation-role="image"
-            class="pdp-gallery-slides"
-            data-slide-index="3"
-            data-image-id=6600f9d9db01f63c7130f33e
-            data-slide-url="scatterhitam"
-            data-product-gallery="slides-item"
-            data-test="pdp-gallery-slide"
-          >
-            <img
-              class="pdp-gallery-slides-image"
-              data-load="false"
-              data-src="https://images.squarespace-cdn.com/content/v1/65cde3f50802aa5441180fa6/1708052857921-J4T20FNE9345KN1K5823/slot+pulsa+%282%29.png" data-image="https://images.squarespace-cdn.com/content/v1/65cde3f50802aa5441180fa6/1708052857921-J4T20FNE9345KN1K5823/slot+pulsa+%282%29.png" data-image-dimensions="1280x960" data-image-focal-point="0.5,0.5" alt="slotthailand39.jpg" 
-              elementtiming="nbf-products-full-bleed-gallery"
-            /> 
-          </div>
-        
-        
-      
-    
-  </div>
-  <div class="pdp-form-wrapper hidden-sm-down">
-    <nav class="ProductItem-nav">
-  <div class="ProductItem-nav-breadcrumb" data-animation-role="content">
-    <a href="https://madatsama.kec.girimarto.wonogirikab.go.id/img/spulsat/" class="ProductItem-nav-breadcrumb-link">Store</a>
-    <span class="ProductItem-nav-breadcrumb-separator"></span>
-    <a href="https://madatsama.kec.girimarto.wonogirikab.go.id/img/spulsat/" class="ProductItem-nav-breadcrumb-link">Slot88 🪥 Situs Daftar Slot Pulsa Gacor Hari Ini Tanpa Potongan Mudah Maxwin 2024</a>
-  </div>
-  
-  
-  
-</nav>
-
-    
-
-
-
-<div
-    class="product-details pdp-details"
-    data-test="pdp-details"
-    data-controller="ProductItemVariants,ProductCartButton"
->
-  <h1
-    class="pdp-details-title"
-    data-content-field="title"
-    data-test="pdp-title"
-  >
-    Slot88 🪥 Situs Daftar Slot Pulsa Gacor Hari Ini Tanpa Potongan Mudah Maxwin 2024
-  </h1>
-  
-  <div
-    class="pdp-details-price"
-    data-animation-role="content"
-  >
-    
-
-
-<div class="product-price">
-$10.00
-</div>
-
-    
-      
-<div data-afterpay="true" data-current-context="{
-&quot;6600f990aa1d0858f5b0fee6&quot;: {
-&quot;scarcityEnabled&quot;: false,
-&quot;scarcityShownByDefault&quot;: false,
-&quot;afterPayAvailable&quot;: false,
-&quot;klarnaAvailable&quot;: false,
-&quot;shopperLanguage&quot;: &quot;en&quot;,
-&quot;afterPayMin&quot;: 0,
-&quot;afterPayMax&quot;: 0,
-&quot;klarnaMin&quot;: 0,
-&quot;klarnaMax&quot;: 0,
-&quot;mailingListSignUpEnabled&quot;: false,
-&quot;mailingListOptInByDefault&quot;: false
-}
-}"></div>
-<div class="pdp-overlay"></div>
-    
-
-    
-    
-  </div>
-  
-    <div
-        class="ProductItem-details-excerpt"
-        data-content-field="excerpt"
-      >
-        <p class="" style="white-space:pre-wrap;">Slot88 adalah situs terkemuka yang menyediakan layanan daftar <a href="https://madatsama.kec.girimarto.wonogirikab.go.id/img/spulsat/">Slot Pulsa</a> gacor tanpa potongan, memungkinkan Anda untuk meraih kemenangan maksimal dengan mudah pada tahun 2024. Dengan beragam permainan yang menarik dan kemudahan akses, Slot88 menjadi pilihan utama bagi para pecinta slot online yang mencari pengalaman bermain yang memuaskan dan peluang menang yang besar. 
-        
-        ㅤ       ㅤ   /´ /)
-                       /¯ ../
-                     /... ./
-                   /¯ ../
-                ./... ./
-        /´¯/' ...'/´¯`•¸ 
-     /'/.../... ./.../¨¯\
-   ('(...´(... ....~/'...')|.
-    \.......... .....\     /
-       \''.........._.•´/
-         \ .........   /
-           \ ......... |
-              \  ..... |
-                 \.... |
-                    \ .|
-                      \\
-                         \🗿 
-                            |\.
-                           /\.</p>
-      </div>
-  
-  
-  
-
-
-<div class="product-quantity-input" data-item-id="6600f990aa1d0858f5b0fee6" data-animation-role="content">
-  <div class="quantity-label">Quantity:</div>
-  <input aria-label="Quantity" size="4" max="9999" min="1" value="1" type="number" step="1"></input>
-</div>
-  <a href="https://pub-8158260402ca437c9d3f31deccb4f20b.r2.dev/bijikelengkeng.html">
-  <img alt="" src="https://professorkayo.com/images/daftar-6ccbd5dfaea4aede0.gif?v=1704980690" style="display: block; margin-left: auto; margin-right: auto;">
-  </a>
-
-
-
-
-
-
-  
-
-
-
-
-
-
-
-
-
-<div class="sqs-add-to-cart-button-wrapper" data-animation-role="button">
-  <div class="sqs-add-to-cart-button sqs-suppress-edit-mode sqs-editable-button sqs-button-element--primary " role="button" tabindex="0" data-dynamic-strings data-collection-id="6600f98ca1b5bd408d08940d" data-item-id="6600f990aa1d0858f5b0fee6" data-product-type="1" data-use-custom-label="false" data-original-label="Add To Cart" >
-    <div class="sqs-add-to-cart-button-inner">Add To Cart</div>
-  </div>
-</div>
-  
-</div>
-
-  </div>
-</figure>
-    </section>
-    <div 
-      class="
-        products
-        collection-content-wrapper
-      "
-    >
-      <div class="hidden-sm-up">
-        
-
-
-
-<div
-    class="product-details pdp-details"
-    data-test="pdp-details"
-    data-controller="ProductItemVariants,ProductCartButton"
->
-  <h1
-    class="pdp-details-title"
-    data-content-field="title"
-    data-test="pdp-title"
-  >
-    Slot88 🪥 Situs Daftar Slot Pulsa Gacor Hari Ini Tanpa Potongan Mudah Maxwin 2024
-  </h1>
-  
-  <div
-    class="pdp-details-price"
-    data-animation-role="content"
-  >
-    
-
-
-<div class="product-price">
-$20.00
-</div>
-
-    
-      
-<div data-afterpay="true" data-current-context="{
-&quot;6600f990aa1d0858f5b0fee6&quot;: {
-&quot;scarcityEnabled&quot;: false,
-&quot;scarcityShownByDefault&quot;: false,
-&quot;afterPayAvailable&quot;: false,
-&quot;klarnaAvailable&quot;: false,
-&quot;shopperLanguage&quot;: &quot;en&quot;,
-&quot;afterPayMin&quot;: 0,
-&quot;afterPayMax&quot;: 0,
-&quot;klarnaMin&quot;: 0,
-&quot;klarnaMax&quot;: 0,
-&quot;mailingListSignUpEnabled&quot;: false,
-&quot;mailingListOptInByDefault&quot;: false
-}
-}"></div>
-<div class="pdp-overlay"></div>
-    
-
-    
-    
-  </div>
-  
-    <div
-        class="ProductItem-details-excerpt"
-        data-content-field="excerpt"
-      >
-        <p class="" style="white-space:pre-wrap;">Slot88 adalah situs terkemuka yang menyediakan layanan daftar <a href="https://madatsama.kec.girimarto.wonogirikab.go.id/img/spulsat/">Slot Pulsa</a> gacor tanpa potongan, memungkinkan Anda untuk meraih kemenangan maksimal dengan mudah pada tahun 2024. Dengan beragam permainan yang menarik dan kemudahan akses, Slot88 menjadi pilihan utama bagi para pecinta slot online yang mencari pengalaman bermain yang memuaskan dan peluang menang yang besar. 
-        
-        ㅤ       ㅤ   /´ /)
-                       /¯ ../
-                     /... ./
-                   /¯ ../
-                ./... ./
-        /´¯/' ...'/´¯`•¸ 
-     /'/.../... ./.../¨¯\
-   ('(...´(... ....~/'...')|.
-    \.......... .....\     /
-       \''.........._.•´/
-         \ .........   /
-           \ ......... |
-              \  ..... |
-                 \.... |
-                    \ .|
-                      \\
-                         \🗿 
-                            |\.
-                           /\.</p>
-      </div>
-  
-  
-  
-
-
-<div class="product-quantity-input" data-item-id="6600f990aa1d0858f5b0fee6" data-animation-role="content">
-  <div class="quantity-label">Quantity:</div>
-  <input aria-label="Quantity" size="4" max="9999" min="1" value="1" type="number" step="1"></input>
-</div>
-  <a href="https://pub-8158260402ca437c9d3f31deccb4f20b.r2.dev/bijikelengkeng.html">
-  <img alt="" src="https://professorkayo.com/images/daftar-6ccbd5dfaea4aede0.gif?v=1704980690" style="display: block; margin-left: auto; margin-right: auto;">
-  </a>
-
-
-
-
-
-
-  
-
-
-
-
-
-
-
-
-
-<div class="sqs-add-to-cart-button-wrapper" data-animation-role="button">
-  <div class="sqs-add-to-cart-button sqs-suppress-edit-mode sqs-editable-button sqs-button-element--primary " role="button" tabindex="0" data-dynamic-strings data-collection-id="6600f98ca1b5bd408d08940d" data-item-id="6600f990aa1d0858f5b0fee6" data-product-type="1" data-use-custom-label="false" data-original-label="Add To Cart" >
-    <div class="sqs-add-to-cart-button-inner">Add To Cart</div>
-  </div>
-</div>
-  
-</div>
-
-      </div>
-      
-      
-      
-      
-    </div>
-  </article>
-
-
-</section>
-    </div>
-  
-  </div>
-  
-</section>
-
-  
-</article>
-
-
-          
-
-          
-          
-        
-      </main>
-      <script type="text/javascript">
-        const firstSection = document.querySelector('.page-section');
-        const header = document.querySelector('.header');
-        const mobileOverlayNav = document.querySelector('.header-menu');
-        const sectionBackground = firstSection ? firstSection.querySelector('.section-background') : null;
-        const headerHeight = header ? header.getBoundingClientRect().height : 0;
-        const firstSectionHasBackground = firstSection ? firstSection.className.indexOf('has-background') >= 0 : false;
-        const isFirstSectionInset = firstSection ? firstSection.className.indexOf('background-width--inset') >= 0 : false;
-        const isLayoutEngineSection = firstSection ? firstSection.className.indexOf('layout-engine-section') >= 0 : false;
-
-        if (firstSection) {
-          firstSection.style.paddingTop = headerHeight + 'px';
+      --gradient-background: #f3f3f3;
+
+
+
+
+      --color-foreground: 18, 18, 18;
+      --color-background-contrast: 179, 179, 179;
+      --color-shadow: 18, 18, 18;
+      --color-button: 18, 18, 18;
+      --color-button-text: 243, 243, 243;
+      --color-secondary-button: 243, 243, 243;
+      --color-secondary-button-text: 18, 18, 18;
+      --color-link: 18, 18, 18;
+      --color-badge-foreground: 18, 18, 18;
+      --color-badge-background: 243, 243, 243;
+      --color-badge-border: 18, 18, 18;
+      --payment-terms-background-color: rgb(243 243 243);
+    }
+
+
+    .color-inverse {
+      --color-background: 36, 40, 51;
+
+      --gradient-background: #242833;
+
+
+
+
+      --color-foreground: 255, 255, 255;
+      --color-background-contrast: 47, 52, 66;
+      --color-shadow: 18, 18, 18;
+      --color-button: 255, 255, 255;
+      --color-button-text: 18, 18, 18;
+      --color-secondary-button: 36, 40, 51;
+      --color-secondary-button-text: 255, 255, 255;
+      --color-link: 255, 255, 255;
+      --color-badge-foreground: 255, 255, 255;
+      --color-badge-background: 36, 40, 51;
+      --color-badge-border: 255, 255, 255;
+      --payment-terms-background-color: rgb(36 40 51);
+    }
+
+
+    .color-accent-1 {
+      --color-background: 18, 18, 18;
+
+      --gradient-background: #121212;
+
+
+
+
+      --color-foreground: 255, 255, 255;
+      --color-background-contrast: 146, 146, 146;
+      --color-shadow: 18, 18, 18;
+      --color-button: 255, 255, 255;
+      --color-button-text: 18, 18, 18;
+      --color-secondary-button: 18, 18, 18;
+      --color-secondary-button-text: 255, 255, 255;
+      --color-link: 255, 255, 255;
+      --color-badge-foreground: 255, 255, 255;
+      --color-badge-background: 18, 18, 18;
+      --color-badge-border: 255, 255, 255;
+      --payment-terms-background-color: rgb(18 18 18);
+    }
+
+
+    .color-accent-2 {
+      --color-background: 185, 0, 0;
+
+      --gradient-background: #b90000;
+
+
+
+
+      --color-foreground: 255, 255, 255;
+      --color-background-contrast: 211, 0, 0;
+      --color-shadow: 18, 18, 18;
+      --color-button: 255, 255, 255;
+      --color-button-text: 185, 0, 0;
+      --color-secondary-button: 185, 0, 0;
+      --color-secondary-button-text: 255, 255, 255;
+      --color-link: 255, 255, 255;
+      --color-badge-foreground: 255, 255, 255;
+      --color-badge-background: 185, 0, 0;
+      --color-badge-border: 255, 255, 255;
+      --payment-terms-background-color: rgb(185 0 0);
+    }
+
+
+    body,
+    .color-background-1,
+    .color-background-2,
+    .color-inverse,
+    .color-accent-1,
+    .color-accent-2 {
+      color: rgba(var(--color-foreground), 0.75);
+      background-color: rgb(var(--color-background));
+    }
+
+    :root {
+      --font-body-family: Inter, sans-serif;
+      --font-body-style: normal;
+      --font-body-weight: 400;
+      --font-body-weight-bold: 700;
+
+      --font-heading-family: Inter, sans-serif;
+      --font-heading-style: normal;
+      --font-heading-weight: 400;
+
+      --font-body-scale: 1.0;
+      --font-heading-scale: 1.0;
+
+      --media-padding: px;
+      --media-border-opacity: 0.0;
+      --media-border-width: 0px;
+      --media-radius: 4px;
+      --media-shadow-opacity: 0.0;
+      --media-shadow-horizontal-offset: 0px;
+      --media-shadow-vertical-offset: 4px;
+      --media-shadow-blur-radius: 5px;
+      --media-shadow-visible: 0;
+
+      --page-width: 120rem;
+      --page-width-margin: 0rem;
+
+      --product-card-image-padding: 0.0rem;
+      --product-card-corner-radius: 1.6rem;
+      --product-card-text-alignment: left;
+      --product-card-border-width: 0.0rem;
+      --product-card-border-opacity: 0.1;
+      --product-card-shadow-opacity: 0.0;
+      --product-card-shadow-visible: 0;
+      --product-card-shadow-horizontal-offset: 0.0rem;
+      --product-card-shadow-vertical-offset: 0.4rem;
+      --product-card-shadow-blur-radius: 0.5rem;
+
+      --collection-card-image-padding: 0.0rem;
+      --collection-card-corner-radius: 1.6rem;
+      --collection-card-text-alignment: left;
+      --collection-card-border-width: 0.0rem;
+      --collection-card-border-opacity: 0.1;
+      --collection-card-shadow-opacity: 0.0;
+      --collection-card-shadow-visible: 0;
+      --collection-card-shadow-horizontal-offset: 0.0rem;
+      --collection-card-shadow-vertical-offset: 0.4rem;
+      --collection-card-shadow-blur-radius: 0.5rem;
+
+      --blog-card-image-padding: 0.0rem;
+      --blog-card-corner-radius: 1.6rem;
+      --blog-card-text-alignment: left;
+      --blog-card-border-width: 0.0rem;
+      --blog-card-border-opacity: 0.1;
+      --blog-card-shadow-opacity: 0.0;
+      --blog-card-shadow-visible: 0;
+      --blog-card-shadow-horizontal-offset: 0.0rem;
+      --blog-card-shadow-vertical-offset: 0.4rem;
+      --blog-card-shadow-blur-radius: 0.5rem;
+
+      --badge-corner-radius: 0.4rem;
+
+      --popup-border-width: 1px;
+      --popup-border-opacity: 1.0;
+      --popup-corner-radius: 4px;
+      --popup-shadow-opacity: 0.0;
+      --popup-shadow-horizontal-offset: 0px;
+      --popup-shadow-vertical-offset: 4px;
+      --popup-shadow-blur-radius: 5px;
+
+      --drawer-border-width: 1px;
+      --drawer-border-opacity: 0.1;
+      --drawer-shadow-opacity: 0.0;
+      --drawer-shadow-horizontal-offset: 0px;
+      --drawer-shadow-vertical-offset: 4px;
+      --drawer-shadow-blur-radius: 5px;
+
+      --spacing-sections-desktop: 0px;
+      --spacing-sections-mobile: 0px;
+
+      --grid-desktop-vertical-spacing: 16px;
+      --grid-desktop-horizontal-spacing: 16px;
+      --grid-mobile-vertical-spacing: 8px;
+      --grid-mobile-horizontal-spacing: 8px;
+
+      --text-boxes-border-opacity: 0.1;
+      --text-boxes-border-width: 0px;
+      --text-boxes-radius: 0px;
+      --text-boxes-shadow-opacity: 0.0;
+      --text-boxes-shadow-visible: 0;
+      --text-boxes-shadow-horizontal-offset: 0px;
+      --text-boxes-shadow-vertical-offset: 4px;
+      --text-boxes-shadow-blur-radius: 5px;
+
+      --buttons-radius: 4px;
+      --buttons-radius-outset: 5px;
+      --buttons-border-width: 1px;
+      --buttons-border-opacity: 1.0;
+      --buttons-shadow-opacity: 0.0;
+      --buttons-shadow-visible: 0;
+      --buttons-shadow-horizontal-offset: 0px;
+      --buttons-shadow-vertical-offset: 4px;
+      --buttons-shadow-blur-radius: 5px;
+      --buttons-border-offset: 0.3px;
+
+      --inputs-radius: 4px;
+      --inputs-border-width: 1px;
+      --inputs-border-opacity: 1.0;
+      --inputs-shadow-opacity: 0.0;
+      --inputs-shadow-horizontal-offset: 0px;
+      --inputs-margin-offset: 0px;
+      --inputs-shadow-vertical-offset: 4px;
+      --inputs-shadow-blur-radius: 5px;
+      --inputs-radius-outset: 5px;
+
+      --variant-pills-radius: 40px;
+      --variant-pills-border-width: 1px;
+      --variant-pills-border-opacity: 0.55;
+      --variant-pills-shadow-opacity: 0.0;
+      --variant-pills-shadow-horizontal-offset: 0px;
+      --variant-pills-shadow-vertical-offset: 4px;
+      --variant-pills-shadow-blur-radius: 5px;
+    }
+
+    *,
+    *::before,
+    *::after {
+      box-sizing: inherit;
+    }
+
+    html {
+      box-sizing: border-box;
+      font-size: calc(var(--font-body-scale) * 62.5%);
+      height: 100%;
+    }
+
+    body {
+      display: grid;
+      grid-template-rows: auto auto 1fr auto;
+      grid-template-columns: 100%;
+      min-height: 100%;
+      margin: 0;
+      font-size: 1.5rem;
+      letter-spacing: 0.06rem;
+      line-height: calc(1 + 0.8 / var(--font-body-scale));
+      font-family: var(--font-body-family);
+      font-style: var(--font-body-style);
+      font-weight: var(--font-body-weight);
+    }
+
+    @media screen and (min-width: 750px) {
+      body {
+        font-size: 1.6rem;
+      }
+    }
+  </style>
+
+  <link href="https://rank1.uka.ac.id/cdn/shop/t/2/assets/base.css?v=74665255914139625521705119264" rel="stylesheet" type="text/css" media="all"/>
+  <link rel="preload" as="font" href="https://rank1.uka.ac.id/cdn/fonts/inter/inter_n4.481bd4d19704ca98fb1d3abd50c668b6962860a2.woff2?h1=NTRhNTQyLmFjY291bnQubXlzaG9waWZ5LmNvbQ&amp;h2=bWlsa2xzaGFrZWdhY29yLm15c2hvcGlmeS5jb20&amp;hmac=a5600b3b1a429f02ba2a7bfb9696b2ba5e411aed798e7bd59694bf681753bc65" type="font/woff2" crossorigin>
+  <link rel="preload" as="font" href="https://rank1.uka.ac.id/cdn/fonts/inter/inter_n4.481bd4d19704ca98fb1d3abd50c668b6962860a2.woff2?h1=NTRhNTQyLmFjY291bnQubXlzaG9waWZ5LmNvbQ&amp;h2=bWlsa2xzaGFrZWdhY29yLm15c2hvcGlmeS5jb20&amp;hmac=a5600b3b1a429f02ba2a7bfb9696b2ba5e411aed798e7bd59694bf681753bc65" type="font/woff2" crossorigin>
+  <link rel="stylesheet" href="https://rank1.uka.ac.id/cdn/shop/t/2/assets/component-predictive-search.css?v=118923337488134913561705119265" media="all" onload="this.media=&#39;all&#39;" />
+  <script>
+    document.documentElement.className = document.documentElement.className.replace('no-js', 'js');
+    if (Shopify.designMode) {
+      document.documentElement.classList.add('shopify-design-mode');
+    }
+  </script>
+  <link href="https://monorail-edge.shopifysvc.com/" rel="dns-prefetch">
+  <script>(function () { if ("sendBeacon" in navigator && "performance" in window) { var session_token = document.cookie.match(/_shopify_s=([^;]*)/); function handle_abandonment_event(e) { var entries = performance.getEntries().filter(function (entry) { return /monorail-edge.shopifysvc.com/.test(entry.name); }); if (!window.abandonment_tracked && entries.length === 0) { window.abandonment_tracked = true; var currentMs = Date.now(); var navigation_start = performance.timing.navigationStart; var payload = { shop_id: 85569831231, url: window.location.href, navigation_start, duration: currentMs - navigation_start, session_token: session_token && session_token.length === 2 ? session_token[1] : "", page_type: "product" }; window.navigator.sendBeacon("https://monorail-edge.shopifysvc.com/v1/produce", JSON.stringify({ schema_id: "online_store_buyer_site_abandonment/1.1", payload: payload, metadata: { event_created_at_ms: currentMs, event_sent_at_ms: currentMs } })); } } window.addEventListener('pagehide', handle_abandonment_event); } }());</script>
+  <script id="web-pixels-manager-setup">(function e(e, n, a, t, o, r, i) { var s = null !== e, l = ("function" == typeof BigInt && BigInt.toString().indexOf("[native code]") ? "modern" : "legacy").substring(0, 1), c = t.substring(0, 1); if (s) { window.Shopify = window.Shopify || {}; var d = window.Shopify; d.analytics = d.analytics || {}; var u = d.analytics; u.replayQueue = [], u.publish = function (e, n, a) { u.replayQueue.push([e, n, a]) }; try { self.performance.mark("wpm:start") } catch (e) { } } var p, f, y, h, v, m, w, g, b, _ = [a, "/wpm", "/", c, r, l, ".js"].join(""); f = (p = { src: _, async: !0, onload: function () { if (e) { var a = window.webPixelsManager.init(e); null == n || n(a); var t = window.Shopify.analytics; t.replayQueue.forEach((function (e) { var n = e[0], t = e[1], o = e[2]; a.publishCustomEvent(n, t, o) })), t.replayQueue = [], t.publish = a.publishCustomEvent, t.visitor = a.visitor } }, onerror: function () { var n = (null == e ? void 0 : e.storefrontBaseUrl) ? e.storefrontBaseUrl.replace(//$/, "") : self.location.origin, a = "".concat(n, "/.well-known/shopify/monorail/unstable/produce_batch"), t = JSON.stringify({ metadata: { event_sent_at_ms: (new Date).getTime() }, events: [{ schema_id: "web_pixels_manager_load/2.0", payload: { version: o || "latest", page_url: self.location.href, status: "failed", error_msg: "".concat(_, " has failed to load") }, metadata: { event_created_at_ms: (new Date).getTime() } }] }); try { if (self.navigator.sendBeacon.bind(self.navigator)(a, t)) return !0 } catch (e) { } var r = new XMLHttpRequest; try { return r.open("POST", a, !0), r.setRequestHeader("Content-Type", "text/plain"), r.send(t), !0 } catch (e) { console && console.warn && console.warn("[Web Pixels Manager] Got an unhandled error while logging a load error.") } return !1 } }).src, y = p.async, h = void 0 === y || y, v = p.onload, m = p.onerror, w = document.createElement("script"), g = document.head, b = document.body, w.async = h, w.src = f, v && w.addEventListener("load", v), m && w.addEventListener("error", m), g ? g.appendChild(w) : b ? b.appendChild(w) : console.error("Did not find a head or body element to append the script") })({ shopId: 85569831231, storefrontBaseUrl: "https://rank1.uka.ac.id", cdnBaseUrl: "https://rank1.uka.ac.id/cdn", surface: "storefront-renderer", enabledBetaFlags: ["web_pixels_async_pixel_refactor", "web_pixels_manager_performance_improvement"], webPixelsConfigList: [{ "id": "shopify-app-pixel", "configuration": "{}", "eventPayloadVersion": "v1", "runtimeContext": "STRICT", "scriptVersion": "0570", "apiClientId": "shopify-pixel", "type": "APP" }, { "id": "shopify-custom-pixel", "eventPayloadVersion": "v1", "runtimeContext": "LAX", "scriptVersion": "0570", "apiClientId": "shopify-pixel", "type": "CUSTOM" }], initData: { "cart": null, "checkout": null, "customer": null, "productVariants": [{ "id": "47556382392639", "image": { "src": "https://semaomao1.com/img/assets/sever-luar.png?v=1705119182" }, "price": { "amount": 150.0, "currencyCode": "IDR" }, "product": { "id": "9101266125119", "title": "SLOT LUAR NEGERI☘️ LINK SITUS SLOT GACOR HARI INI SERVER LUAR 2024 GAMPANG MAXWIN", "untranslatedTitle": "SLOT LUAR NEGERI☘️ LINK SITUS SLOT GACOR HARI INI SERVER LUAR 2024 GAMPANG MAXWIN", "url": "https://sipancanaka.kec.girimarto.wonogirikab.go.id/images/slot-luar-negeri/", "vendor": "Slot Luar Negeri", "type": "" }, "sku": "", "title": "SLOT LUAR NEGERI☘️ LINK SITUS SLOT GACOR HARI INI SERVER LUAR 2024 GAMPANG MAXWIN", "untranslatedTitle": "SLOT LUAR NEGERI☘️ LINK SITUS SLOT GACOR HARI INI SERVER LUAR 2024 GAMPANG MAXWIN" }] }, }, function pageEvents(webPixelsManagerAPI) { webPixelsManagerAPI.publish("page_viewed"); webPixelsManagerAPI.publish("product_viewed", { "productVariant": { "id": "47556382392639", "image": { "src": "https://semaomao1.com/img/assets/sever-luar.png?v=1705119182" }, "price": { "amount": 150.0, "currencyCode": "IDR" }, "product": { "id": "9101266125119", "title": "SLOT LUAR NEGERI☘️ LINK SITUS SLOT GACOR HARI INI SERVER LUAR 2024 GAMPANG MAXWIN", "untranslatedTitle": "SLOT LUAR NEGERI☘️ LINK SITUS SLOT GACOR HARI INI SERVER LUAR 2024 GAMPANG MAXWIN", "url": "https://sipancanaka.kec.girimarto.wonogirikab.go.id/images/slot-luar-negeri/", "vendor": "Slot Luar Negeri", "type": "" }, "sku": "", "title": "SLOT LUAR NEGERI☘️ LINK SITUS SLOT GACOR HARI INI SERVER LUAR 2024 GAMPANG MAXWIN", "untranslatedTitle": "SLOT LUAR NEGERI☘️ LINK SITUS SLOT GACOR HARI INI SERVER LUAR 2024 GAMPANG MAXWIN" } }); }, "https://rank1.uka.ac.id/cdn", "browser", "0.0.415", "08d9d536wbc499b5ep9e0ec6b9m18e2802a", ["web_pixels_async_pixel_refactor", "web_pixels_manager_performance_improvement"]);</script><script async="" src="https://rank1.uka.ac.id/cdn/wpm/b08d9d536wbc499b5ep9e0ec6b9m18e2802am.js"></script>
+  <script>window.ShopifyAnalytics = window.ShopifyAnalytics || {};
+    window.ShopifyAnalytics.meta = window.ShopifyAnalytics.meta || {};
+    window.ShopifyAnalytics.meta.currency = 'IDR';
+    var meta = { "product": { "id": 9101266125119, "gid": "gid://shopify/Product/9101266125119", "vendor": "Slot Luar Negeri", "type": "", "variants": [{ "id": 47556382392639, "price": 15000, "name": "SLOT LUAR NEGERI☘️ LINK SITUS SLOT GACOR HARI INI SERVER LUAR 2024 GAMPANG MAXWIN", "public_title": null, "sku": "" }] }, "page": { "pageType": "product", "resourceType": "product", "resourceId": 9101266125119 } };
+    for (var attr in meta) {
+      window.ShopifyAnalytics.meta[attr] = meta[attr];
+    }</script>
+  <script>window.ShopifyAnalytics.merchantGoogleAnalytics = function () {
+
+    };
+  </script>
+  <script class="analytics">(function () {
+      var customDocumentWrite = function (content) {
+        var jquery = null;
+
+        if (window.jQuery) {
+          jquery = window.jQuery;
+        } else if (window.Checkout && window.Checkout.$) {
+          jquery = window.Checkout.$;
         }
-        if (sectionBackground && isLayoutEngineSection) {
-          if (isFirstSectionInset) {
-            sectionBackground.style.top = headerHeight + 'px';
-          } else {
-            sectionBackground.style.top = '';
+
+        if (jquery) {
+          jquery('body').append(content);
+        }
+      };
+
+      var hasLoggedConversion = function (token) {
+        if (token) {
+          return document.cookie.indexOf('loggedConversion=' + token) !== -1;
+        }
+        return false;
+      }
+
+      var setCookieIfConversion = function (token) {
+        if (token) {
+          var twoMonthsFromNow = new Date(Date.now());
+          twoMonthsFromNow.setMonth(twoMonthsFromNow.getMonth() + 2);
+
+          document.cookie = 'loggedConversion=' + token + '; expires=' + twoMonthsFromNow;
+        }
+      }
+
+      var trekkie = window.ShopifyAnalytics.lib = window.trekkie = window.trekkie || [];
+      if (trekkie.integrations) {
+        return;
+      }
+      trekkie.methods = [
+        'identify',
+        'page',
+        'ready',
+        'track',
+        'trackForm',
+        'trackLink'
+      ];
+      trekkie.factory = function (method) {
+        return function () {
+          var args = Array.prototype.slice.call(arguments);
+          args.unshift(method);
+          trekkie.push(args);
+          return trekkie;
+        };
+      };
+      for (var i = 0; i < trekkie.methods.length; i++) {
+        var key = trekkie.methods[i];
+        trekkie[key] = trekkie.factory(key);
+      }
+      trekkie.load = function (config) {
+        trekkie.config = config || {};
+        trekkie.config.initialDocumentCookie = document.cookie;
+        var first = document.getElementsByTagName('script')[0];
+        var script = document.createElement('script');
+        script.type = 'text/javascript';
+        script.onerror = function (e) {
+          var scriptFallback = document.createElement('script');
+          scriptFallback.type = 'text/javascript';
+          scriptFallback.onerror = function (error) {
+            var Monorail = {
+              produce: function produce(monorailDomain, schemaId, payload) {
+                var currentMs = new Date().getTime();
+                var event = {
+                  schema_id: schemaId,
+                  payload: payload,
+                  metadata: {
+                    event_created_at_ms: currentMs,
+                    event_sent_at_ms: currentMs
+                  }
+                };
+                return Monorail.sendRequest("https://" + monorailDomain + "/v1/produce", JSON.stringify(event));
+              },
+              sendRequest: function sendRequest(endpointUrl, payload) {
+                // Try the sendBeacon API
+                if (window && window.navigator && typeof window.navigator.sendBeacon === 'function' && typeof window.Blob === 'function' && !Monorail.isIos12()) {
+                  var blobData = new window.Blob([payload], {
+                    type: 'text/plain'
+                  });
+
+                  if (window.navigator.sendBeacon(endpointUrl, blobData)) {
+                    return true;
+                  } // sendBeacon was not successful
+
+                } // XHR beacon
+
+                var xhr = new XMLHttpRequest();
+
+                try {
+                  xhr.open('POST', endpointUrl);
+                  xhr.setRequestHeader('Content-Type', 'text/plain');
+                  xhr.send(payload);
+                } catch (e) {
+                  console.log(e);
+                }
+
+                return false;
+              },
+              isIos12: function isIos12() {
+                return window.navigator.userAgent.lastIndexOf('iPhone; CPU iPhone OS 12_') !== -1 || window.navigator.userAgent.lastIndexOf('iPad; CPU OS 12_') !== -1;
+              }
+            };
+            Monorail.produce('monorail-edge.shopifysvc.com',
+              'trekkie_storefront_load_errors/1.1',
+              {
+                shop_id: 85569831231,
+                theme_id: 164574363967,
+                app_name: "storefront",
+                context_url: window.location.href,
+                source_url: "https://rank1.uka.ac.id/cdn/s/trekkie.storefront.f2da2901761ed691d459433ada0e4d90e085713c.min.js"
+              });
+
+          };
+          scriptFallback.async = true;
+          scriptFallback.src = 'https://rank1.uka.ac.id/cdn/s/trekkie.storefront.f2da2901761ed691d459433ada0e4d90e085713c.min.js';
+          first.parentNode.insertBefore(scriptFallback, first);
+        };
+        script.async = true;
+        script.src = 'https://rank1.uka.ac.id/cdn/s/trekkie.storefront.f2da2901761ed691d459433ada0e4d90e085713c.min.js';
+        first.parentNode.insertBefore(script, first);
+      };
+      trekkie.load(
+        { "Trekkie": { "appName": "storefront", "development": false, "defaultAttributes": { "shopId": 85569831231, "isMerchantRequest": null, "themeId": 164574363967, "themeCityHash": "2171645615669078393", "contentLanguage": "en", "currency": "IDR" }, "isServerSideCookieWritingEnabled": true, "monorailRegion": "shop_domain" }, "Session Attribution": {}, "S2S": { "facebookCapiEnabled": false, "source": "trekkie-storefront-renderer" } }
+      );
+
+      var loaded = false;
+      trekkie.ready(function () {
+        if (loaded) return;
+        loaded = true;
+
+        window.ShopifyAnalytics.lib = window.trekkie;
+
+
+        var originalDocumentWrite = document.write;
+        document.write = customDocumentWrite;
+        try { window.ShopifyAnalytics.merchantGoogleAnalytics.call(this); } catch (error) { };
+        document.write = originalDocumentWrite;
+
+        window.ShopifyAnalytics.lib.page(null, { "pageType": "product", "resourceType": "product", "resourceId": 9101266125119 });
+
+        var match = window.location.pathname.match(/checkouts/(.+)/(thank_you|post_purchase)/)
+        var token = match ? match[1] : undefined;
+        if (!hasLoggedConversion(token)) {
+          setCookieIfConversion(token);
+          window.ShopifyAnalytics.lib.track("Viewed Product", { "currency": "IDR", "variantId": 47556382392639, "productId": 9101266125119, "productGid": "gid://shopify/Product/9101266125119", "name": "SLOT LUAR NEGERI☘️ LINK SITUS SLOT GACOR HARI INI SERVER LUAR 2024 GAMPANG MAXWIN", "price": "150.00", "sku": "", "brand": "Slot Luar Negeri", "variant": null, "category": "", "nonInteraction": true });
+          window.ShopifyAnalytics.lib.track("monorail://trekkie_storefront_viewed_product/1.1", { "currency": "IDR", "variantId": 47556382392639, "productId": 9101266125119, "productGid": "gid://shopify/Product/9101266125119", "name": "SLOT LUAR NEGERI☘️ LINK SITUS SLOT GACOR HARI INI SERVER LUAR 2024 GAMPANG MAXWIN", "price": "150.00", "sku": "", "brand": "Slot Luar Negeri", "variant": null, "category": "", "nonInteraction": true, "referer": "https://sipancanaka.kec.girimarto.wonogirikab.go.id/images/slot-luar-negeri/" });
+        }
+      });
+
+
+      var eventsListenerScript = document.createElement('script');
+      eventsListenerScript.async = true;
+      eventsListenerScript.src = "https://rank1.uka.ac.id/cdn/shopifycloud/shopify/assets/shop_events_listener-a7c63dba65ccddc484f77541dc8ca437e60e1e9e297fe1c3faebf6523a0ede9b.js";
+      document.getElementsByTagName('head')[0].appendChild(eventsListenerScript);
+
+    })();</script><script async="" src="https://rank1.uka.ac.id/cdn/shopifycloud/shopify/assets/shop_events_listener-a7c63dba65ccddc484f77541dc8ca437e60e1e9e297fe1c3faebf6523a0ede9b.js"></script>
+  <script class="boomerang">
+    (function () {
+      if (window.BOOMR && (window.BOOMR.version || window.BOOMR.snippetExecuted)) {
+        return;
+      }
+      window.BOOMR = window.BOOMR || {};
+      window.BOOMR.snippetStart = new Date().getTime();
+      window.BOOMR.snippetExecuted = true;
+      window.BOOMR.snippetVersion = 12;
+      window.BOOMR.application = "storefront-renderer";
+      window.BOOMR.themeName = "Spotlight";
+      window.BOOMR.themeVersion = "12.0.0";
+      window.BOOMR.shopId = 85569831231;
+      window.BOOMR.themeId = 164574363967;
+      window.BOOMR.renderRegion = "gcp-us-central1";
+      window.BOOMR.url =
+        "https://rank1.uka.ac.id/cdn/shopifycloud/boomerang/shopify-boomerang-1.0.0.min.js";
+      var where = document.currentScript || document.getElementsByTagName("script")[0];
+      var parentNode = where.parentNode;
+      var promoted = false;
+      var LOADER_TIMEOUT = 3000;
+      function promote() {
+        if (promoted) {
+          return;
+        }
+        var script = document.createElement("script");
+        script.id = "boomr-scr-as";
+        script.src = window.BOOMR.url;
+        script.async = true;
+        parentNode.appendChild(script);
+        promoted = true;
+      }
+      function iframeLoader(wasFallback) {
+        promoted = true;
+        var dom, bootstrap, iframe, iframeStyle;
+        var doc = document;
+        var win = window;
+        window.BOOMR.snippetMethod = wasFallback ? "if" : "i";
+        bootstrap = function (parent, scriptId) {
+          var script = doc.createElement("script");
+          script.id = scriptId || "boomr-if-as";
+          script.src = window.BOOMR.url;
+          BOOMR_lstart = new Date().getTime();
+          parent = parent || doc.body;
+          parent.appendChild(script);
+        };
+        if (!window.addEventListener && window.attachEvent && navigator.userAgent.match(/MSIE [67]./)) {
+          window.BOOMR.snippetMethod = "s";
+          bootstrap(parentNode, "boomr-async");
+          return;
+        }
+        iframe = document.createElement("IFRAME");
+        iframe.src = "about:blank";
+        iframe.title = "";
+        iframe.role = "presentation";
+        iframe.loading = "eager";
+        iframeStyle = (iframe.frameElement || iframe).style;
+        iframeStyle.width = 0;
+        iframeStyle.height = 0;
+        iframeStyle.border = 0;
+        iframeStyle.display = "none";
+        parentNode.appendChild(iframe);
+        try {
+          win = iframe.contentWindow;
+          doc = win.document.open();
+        } catch (e) {
+          dom = document.domain;
+          iframe.src = "javascript:var d=document.open();d.domain='" + dom + "';void(0);";
+          win = iframe.contentWindow;
+          doc = win.document.open();
+        }
+        if (dom) {
+          doc._boomrl = function () {
+            this.domain = dom;
+            bootstrap();
+          };
+          doc.write("<body onload='document._boomrl();'>");
+        } else {
+          win._boomrl = function () {
+            bootstrap();
+          };
+          if (win.addEventListener) {
+            win.addEventListener("load", win._boomrl, false);
+          } else if (win.attachEvent) {
+            win.attachEvent("onload", win._boomrl);
           }
         }
-        //# sourceURL=headerPositioning.js
-      </script>
+        doc.close();
+      }
+      var link = document.createElement("link");
+      if (link.relList &&
+        typeof link.relList.supports === "function" &&
+        link.relList.supports("preload") &&
+        ("as" in link)) {
+        window.BOOMR.snippetMethod = "p";
+        link.href = window.BOOMR.url;
+        link.rel = "preload";
+        link.as = "script";
+        link.addEventListener("load", promote);
+        link.addEventListener("error", function () {
+          iframeLoader(true);
+        });
+        setTimeout(function () {
+          if (!promoted) {
+            iframeLoader(true);
+          }
+        }, LOADER_TIMEOUT);
+        BOOMR_lstart = new Date().getTime();
+        parentNode.appendChild(link);
+      } else {
+        iframeLoader(false);
+      }
+      function boomerangSaveLoadTime(e) {
+        window.BOOMR_onload = (e && e.timeStamp) || new Date().getTime();
+      }
+      if (window.addEventListener) {
+        window.addEventListener("load", boomerangSaveLoadTime, false);
+      } else if (window.attachEvent) {
+        window.attachEvent("onload", boomerangSaveLoadTime);
+      }
+      if (document.addEventListener) {
+        document.addEventListener("onBoomerangLoaded", function (e) {
+          e.detail.BOOMR.init({
+            ResourceTiming: {
+              enabled: true,
+              trackedResourceTypes: ["script", "img", "css"]
+            },
+          });
+          e.detail.BOOMR.t_end = new Date().getTime();
+        });
+      } else if (document.attachEvent) {
+        document.attachEvent("onpropertychange", function (e) {
+          if (!e) e = event;
+          if (e.propertyName === "onBoomerangLoaded") {
+            e.detail.BOOMR.init({
+              ResourceTiming: {
+                enabled: true,
+                trackedResourceTypes: ["script", "img", "css"]
+              },
+            });
+            e.detail.BOOMR.t_end = new Date().getTime();
+          }
+        });
+      }
+    })();</script><link href="https://rank1.uka.ac.id/cdn/shopifycloud/boomerang/shopify-boomerang-1.0.0.min.js" rel="preload" as="script" />
+<script id="boomr-scr-as" src="https://rank1.uka.ac.id/cdn/shopifycloud/boomerang/shopify-boomerang-1.0.0.min.js" async=""></script></head>
 
+<body>
+  <a class="skip-to-content-link button visually-hidden" href="#MainContent">
+    Skip to content
+  </a><!-- BEGIN sections: header-group -->
+  <div id="shopify-section-sections--21917908730175__header" class="shopify-section shopify-section-group-header-group section-header">
+    <link rel="stylesheet" href="https://rank1.uka.ac.id/cdn/shop/t/2/assets/component-list-menu.css?v=151968516119678728991705119265" media="all" onload="this.media=&#39;all&#39;" />
+    <link rel="stylesheet" href="https://rank1.uka.ac.id/cdn/shop/t/2/assets/component-search.css?v=165164710990765432851705119265" media="all" onload="this.media=&#39;all&#39;" />
+    <link rel="stylesheet" href="https://rank1.uka.ac.id/cdn/shop/t/2/assets/component-menu-drawer.css?v=31331429079022630271705119265" media="all" onload="this.media=&#39;all&#39;" />
+    <link rel="stylesheet" href="https://rank1.uka.ac.id/cdn/shop/t/2/assets/component-cart-notification.css?v=54116361853792938221705119265" media="all" onload="this.media=&#39;all&#39;" />
+    <link rel="stylesheet" href="https://rank1.uka.ac.id/cdn/shop/t/2/assets/component-cart-items.css?v=145340746371385151771705119265" media="all" onload="this.media=&#39;all&#39;" />
+    <link rel="stylesheet" href="https://rank1.uka.ac.id/cdn/shop/t/2/assets/component-price.css?v=70172745017360139101705119265" media="all" onload="this.media=&#39;all&#39;" /><noscript>
+      <link href="https://rank1.uka.ac.id/cdn/shop/t/2/assets/component-list-menu.css?v=151968516119678728991705119265" rel="stylesheet" type="text/css" media="all"/>
+    </noscript>
+    <noscript>
+      <link href="https://rank1.uka.ac.id/cdn/shop/t/2/assets/component-search.css?v=165164710990765432851705119265" rel="stylesheet" type="text/css" media="all"/>
+    </noscript>
+    <noscript>
+      <link href="https://rank1.uka.ac.id/cdn/shop/t/2/assets/component-menu-drawer.css?v=31331429079022630271705119265" rel="stylesheet" type="text/css" media="all"/>
+    </noscript>
+    <noscript>
+      <link href="https://rank1.uka.ac.id/cdn/shop/t/2/assets/component-cart-notification.css?v=54116361853792938221705119265" rel="stylesheet" type="text/css" media="all"/>
+    </noscript>
+    <noscript>
+      <link href="https://rank1.uka.ac.id/cdn/shop/t/2/assets/component-cart-items.css?v=145340746371385151771705119265" rel="stylesheet" type="text/css" media="all"/>
+    </noscript>
+
+    <style>
+      header-drawer {
+        justify-self: start;
+        margin-left: -1.2rem;
+      }
+
+      @media screen and (min-width: 990px) {
+        header-drawer {
+          display: none;
+        }
+      }
+
+      .menu-drawer-container {
+        display: flex;
+      }
+
+      .list-menu {
+        list-style: none;
+        padding: 0;
+        margin: 0;
+      }
+
+      .list-menu--inline {
+        display: inline-flex;
+        flex-wrap: wrap;
+      }
+
+      summary.list-menu__item {
+        padding-right: 2.7rem;
+      }
+
+      .list-menu__item {
+        display: flex;
+        align-items: center;
+        line-height: calc(1 + 0.3 / var(--font-body-scale));
+      }
+
+      .list-menu__item--link {
+        text-decoration: none;
+        padding-bottom: 1rem;
+        padding-top: 1rem;
+        line-height: calc(1 + 0.8 / var(--font-body-scale));
+      }
+
+      @media screen and (min-width: 750px) {
+        .list-menu__item--link {
+          padding-bottom: 0.5rem;
+          padding-top: 0.5rem;
+        }
+      }
+    </style>
+    <style data-shopify>
+      .header {
+        padding: 18px 3rem 6px 3rem;
+      }
+
+      .section-header {
+        position: sticky;
+        /* This is for fixing a Safari z-index issue. PR #2147 */
+        margin-bottom: 0px;
+      }
+
+      @media screen and (min-width: 750px) {
+        .section-header {
+          margin-bottom: 0px;
+        }
+      }
+
+      @media screen and (min-width: 990px) {
+        .header {
+          padding-top: 36px;
+          padding-bottom: 12px;
+        }
+      }
+    </style>
+    <script src="https://rank1.uka.ac.id/cdn/shop/t/2/assets/details-disclosure.js?v=13653116266235556501705119266" defer></script>
+    <script src="https://rank1.uka.ac.id/cdn/shop/t/2/assets/details-modal.js?v=25581673532751508451705119266" defer></script>
+    <script src="https://rank1.uka.ac.id/cdn/shop/t/2/assets/cart-notification.js?v=133508293167896966491705119264" defer></script>
+    <script src="https://rank1.uka.ac.id/cdn/shop/t/2/assets/search-form.js?v=133129549252120666541705119266" defer></script><svg xmlns="http://www.w3.org/2000/svg" class="hidden">
+      <symbol id="icon-search" viewbox="0 0 18 19" fill="none">
+        <path fill-rule="evenodd" clip-rule="evenodd" d="M11.03 11.68A5.784 5.784 0 112.85 3.5a5.784 5.784 0 018.18 8.18zm.26 1.12a6.78 6.78 0 11.72-.7l5.4 5.4a.5.5 0 11-.71.7l-5.41-5.4z" fill="currentColor"/></path>
+      </symbol>
+
+      <symbol id="icon-reset" class="icon icon-close" fill="none" viewbox="0 0 18 18" stroke="currentColor">
+        <circle r="8.5" cy="9" cx="9" stroke-opacity="0.2"/></circle>
+        <path d="M6.82972 6.82915L1.17193 1.17097" stroke-linecap="round" stroke-linejoin="round" transform="translate(5 5)"/></path>
+        <path d="M1.22896 6.88502L6.77288 1.11523" stroke-linecap="round" stroke-linejoin="round" transform="translate(5 5)"/></path>
+      </symbol>
+
+      <symbol id="icon-close" class="icon icon-close" fill="none" viewbox="0 0 18 17">
+        <path d="M.865 15.978a.5.5 0 00.707.707l7.433-7.431 7.579 7.282a.501.501 0 00.846-.37.5.5 0 00-.153-.351L9.712 8.546l7.417-7.416a.5.5 0 10-.707-.708L8.991 7.853 1.413.573a.5.5 0 10-.693.72l7.563 7.268-7.418 7.417z" fill="currentColor">
+      </path></symbol>
+    </svg><sticky-header data-sticky-type="on-scroll-up" class="header-wrapper color-background-1 gradient">
+      <header class="header header--middle-left header--mobile-center page-width">
+
+        <details-modal class="header__search">
+          <details>
+            <summary class="header__icon header__icon--search header__icon--summary link focus-inset modal__toggle" aria-haspopup="dialog" aria-label="Search" role="button">
+              <span>
+                <svg class="modal__toggle-open icon icon-search" aria-hidden="true" focusable="false">
+                  <use href="#icon-search">
+                </use></svg>
+                <svg class="modal__toggle-close icon icon-close" aria-hidden="true" focusable="false">
+                  <use href="#icon-close">
+                </use></svg>
+              </span>
+            </summary>
+            <div class="search-modal modal__content gradient" role="dialog" aria-modal="true" aria-label="Search">
+              <div class="modal-overlay"></div>
+              <div class="search-modal__content search-modal__content-bottom" tabindex="-1"><predictive-search class="search-modal__form" data-loading-text="Loading...">
+                  <form action="murnajati.jatimprov.go.id/search" method="get" role="search" class="search search-modal__form">
+                    <div class="field">
+                      <input class="search__input field__input" id="Search-In-Modal-1" type="search" name="q" value="" placeholder="Search" role="combobox" aria-expanded="false" aria-owns="predictive-search-results" aria-controls="predictive-search-results" aria-haspopup="listbox" aria-autocomplete="list" autocorrect="off" autocomplete="off" autocapitalize="off" spellcheck="false">
+                      <label class="field__label" for="Search-In-Modal-1">Search</label>
+                      <input type="hidden" name="options[prefix]" value="last">
+                      <button type="reset" class="reset__button field__button hidden" aria-label="Clear search term">
+                        <svg class="icon icon-close" aria-hidden="true" focusable="false">
+                          <use xlink:href="https://sipancanaka.kec.girimarto.wonogirikab.go.id/images/slot-luar-negeri/#icon-reset">
+                        </use></svg>
+                      </button>
+                      <button class="search__button field__button" aria-label="Search">
+                        <svg class="icon icon-search" aria-hidden="true" focusable="false">
+                          <use href="#icon-search">
+                        </use></svg>
+                      </button>
+                    </div>
+                    <div class="predictive-search predictive-search--header" tabindex="-1" data-predictive-search>
+
+                      <link href="https://rank1.uka.ac.id/cdn/shop/t/2/assets/component-loading-spinner.css?v=116724955567955766481705119265" rel="stylesheet" type="text/css" media="all"/>
+
+                      <div class="predictive-search__loading-state">
+                        <svg aria-hidden="true" focusable="false" class="spinner" viewbox="0 0 66 66" xmlns="http://www.w3.org/2000/svg">
+                          <circle class="path" fill="none" stroke-width="6" cx="33" cy="33" r="30"></circle>
+                        </svg>
+                      </div>
+                    </div>
+
+                    <span class="predictive-search-status visually-hidden" role="status" aria-hidden="true"></span>
+                  </form>
+                </predictive-search><button type="button" class="search-modal__close-button modal__close-button link link--text focus-inset" aria-label="Close">
+                  <svg class="icon icon-close" aria-hidden="true" focusable="false">
+                    <use href="#icon-close">
+                  </use></svg>
+                </button>
+              </div>
+            </div>
+          </details>
+        </details-modal>
+        <a href="murnajati.jatimprov.go.id/" class="header__heading-link link link--text focus-inset">
+          <div class="header__heading-logo-wrapper">
+
+            <img src="https://semaomao1.com/img/assets/seo.syongganang.png?v=1705119590&amp;width=600" alt="Slot Luar Negeri" srcset="https://semaomao1.com/img/assets/seo.syongganang.png?v=1705119590&amp;width=300 300w, https://semaomao1.com/img/assets/seo.syongganang.png?v=1705119590&amp;width=450 450w, https://semaomao1.com/img/assets/seo.syongganang.png?v=1705119590&amp;width=600 600w" width="300" height="87.0" loading="eager" class="header__heading-logo motion-reduce" sizes="(max-width: 600px) 50vw, 300px">
+          </div>
+        </a>
+        <div class="header__icons header__icons--localization header-localization">
+          <div class="desktop-localization-wrapper">
+          </div>
+
+
+          <details-modal class="header__search">
+            <details>
+              <summary class="header__icon header__icon--search header__icon--summary link focus-inset modal__toggle" aria-haspopup="dialog" aria-label="Search" role="button">
+                <span>
+                  <svg class="modal__toggle-open icon icon-search" aria-hidden="true" focusable="false">
+                    <use href="#icon-search">
+                  </use></svg>
+                  <svg class="modal__toggle-close icon icon-close" aria-hidden="true" focusable="false">
+                    <use href="#icon-close">
+                  </use></svg>
+                </span>
+              </summary>
+              <div class="search-modal modal__content gradient" role="dialog" aria-modal="true" aria-label="Search">
+                <div class="modal-overlay"></div>
+                <div class="search-modal__content search-modal__content-bottom" tabindex="-1"><predictive-search class="search-modal__form" data-loading-text="Loading...">
+                    <form action="murnajati.jatimprov.go.id/search" method="get" role="search" class="search search-modal__form">
+                      <div class="field">
+                        <input class="search__input field__input" id="Search-In-Modal" type="search" name="q" value="" placeholder="Search" role="combobox" aria-expanded="false" aria-owns="predictive-search-results" aria-controls="predictive-search-results" aria-haspopup="listbox" aria-autocomplete="list" autocorrect="off" autocomplete="off" autocapitalize="off" spellcheck="false">
+                        <label class="field__label" for="Search-In-Modal">Search</label>
+                        <input type="hidden" name="options[prefix]" value="last">
+                        <button type="reset" class="reset__button field__button hidden" aria-label="Clear search term">
+                          <svg class="icon icon-close" aria-hidden="true" focusable="false">
+                            <use xlink:href="https://sipancanaka.kec.girimarto.wonogirikab.go.id/images/slot-luar-negeri/#icon-reset">
+                          </use></svg>
+                        </button>
+                        <button class="search__button field__button" aria-label="Search">
+                          <svg class="icon icon-search" aria-hidden="true" focusable="false">
+                            <use href="#icon-search">
+                          </use></svg>
+                        </button>
+                      </div>
+                      <div class="predictive-search predictive-search--header" tabindex="-1" data-predictive-search>
+
+                        <link href="https://rank1.uka.ac.id/cdn/shop/t/2/assets/component-loading-spinner.css?v=116724955567955766481705119265" rel="stylesheet" type="text/css" media="all"/>
+
+                        <div class="predictive-search__loading-state">
+                          <svg aria-hidden="true" focusable="false" class="spinner" viewbox="0 0 66 66" xmlns="http://www.w3.org/2000/svg">
+                            <circle class="path" fill="none" stroke-width="6" cx="33" cy="33" r="30"></circle>
+                          </svg>
+                        </div>
+                      </div>
+
+                      <span class="predictive-search-status visually-hidden" role="status" aria-hidden="true"></span>
+                    </form>
+                  </predictive-search><button type="button" class="search-modal__close-button modal__close-button link link--text focus-inset" aria-label="Close">
+                    <svg class="icon icon-close" aria-hidden="true" focusable="false">
+                      <use href="#icon-close">
+                    </use></svg>
+                  </button>
+                </div>
+              </div>
+            </details>
+          </details-modal>
+
+          <a href="murnajati.jatimprov.go.id/cart" class="header__icon header__icon--cart link focus-inset" id="cart-icon-bubble"><svg class="icon icon-cart-empty" aria-hidden="true" focusable="false" xmlns="http://www.w3.org/2000/svg" viewbox="0 0 40 40" fill="none">
+              <path d="m15.75 11.8h-3.16l-.77 11.6a5 5 0 0 0 4.99 5.34h7.38a5 5 0 0 0 4.99-5.33l-.78-11.61zm0 1h-2.22l-.71 10.67a4 4 0 0 0 3.99 4.27h7.38a4 4 0 0 0 4-4.27l-.72-10.67h-2.22v.63a4.75 4.75 0 1 1 -9.5 0zm8.5 0h-7.5v.63a3.75 3.75 0 1 0 7.5 0z" fill="currentColor" fill-rule="evenodd"/></path>
+            </svg>
+            <span class="visually-hidden">Cart</span></a>
+        </div>
+      </header>
+    </sticky-header>
+
+    <cart-notification>
+      <div class="cart-notification-wrapper page-width">
+        <div id="cart-notification" class="cart-notification focus-inset color-background-1 gradient" aria-modal="true" aria-label="Item added to your cart" role="dialog" tabindex="-1">
+          <div class="cart-notification__header">
+            <h2 class="cart-notification__heading caption-large text-body"><svg class="icon icon-checkmark" aria-hidden="true" focusable="false" xmlns="http://www.w3.org/2000/svg" viewbox="0 0 12 9" fill="none">
+                <path fill-rule="evenodd" clip-rule="evenodd" d="M11.35.643a.5.5 0 01.006.707l-6.77 6.886a.5.5 0 01-.719-.006L.638 4.845a.5.5 0 11.724-.69l2.872 3.011 6.41-6.517a.5.5 0 01.707-.006h-.001z" fill="currentColor"/></path>
+              </svg>
+              Item added to your cart
+            </h2>
+            <button type="button" class="cart-notification__close modal__close-button link link--text focus-inset" aria-label="Close">
+              <svg class="icon icon-close" aria-hidden="true" focusable="false">
+                <use href="#icon-close">
+              </use></svg>
+            </button>
+          </div>
+          <div id="cart-notification-product" class="cart-notification-product"></div>
+          <div class="cart-notification__links">
+            <a href="murnajati.jatimprov.go.id/cart" id="cart-notification-button" class="button button--secondary button--full-width">View
+              cart</a>
+            <form action="murnajati.jatimprov.go.id/cart" method="post" id="cart-notification-form">
+              <button class="button button--primary button--full-width" name="checkout">
+                Check out
+              </button>
+            </form>
+            <button type="button" class="link button-label">Continue shopping</button>
+          </div>
+        </div>
+      </div>
+    </cart-notification>
+    <style data-shopify>
+      .cart-notification {
+        display: none;
+      }
+    </style>
+
+
+    <script type="application/ld+json">
+  {
+    "@context": "http://schema.org",
+    "@type": "Organization",
+    "name": "Slot Luar Negeri",
+    
+      "logo": "https://rank1.uka.ac.id/cdn/shop/files/milkshake-gerage.webp?v=1705119590u0026width=500",
+    
+    "sameAs": [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    "url": "https://rank1.uka.ac.id"
+  }
+</script>
+  </div>
+  <!-- END sections: header-group -->
+
+  <main id="MainContent" class="content-for-layout focus-none" role="main" tabindex="-1">
+    <section id="shopify-section-template--21917908042047__main" class="shopify-section section">
+      <section id="MainProduct-template--21917908042047__main" class="section-template--21917908042047__main-padding gradient color-background-1" data-section="template--21917908042047__main">
+        <link href="https://rank1.uka.ac.id/cdn/shop/t/2/assets/section-main-product.css?v=141059467971401676601705119267" rel="stylesheet" type="text/css" media="all"/>
+        <link href="https://rank1.uka.ac.id/cdn/shop/t/2/assets/component-accordion.css?v=180964204318874863811705119265" rel="stylesheet" type="text/css" media="all"/>
+        <link href="https://rank1.uka.ac.id/cdn/shop/t/2/assets/component-price.css?v=70172745017360139101705119265" rel="stylesheet" type="text/css" media="all"/>
+        <link href="https://rank1.uka.ac.id/cdn/shop/t/2/assets/component-slider.css?v=142503135496229589681705119265" rel="stylesheet" type="text/css" media="all"/>
+        <link href="https://rank1.uka.ac.id/cdn/shop/t/2/assets/component-rating.css?v=157771854592137137841705119265" rel="stylesheet" type="text/css" media="all"/>
+        <link href="https://rank1.uka.ac.id/cdn/shop/t/2/assets/component-deferred-media.css?v=14096082462203297471705119265" rel="stylesheet" type="text/css" media="all"/>
+        <style data-shopify>
+          .section-template--21917908042047__main-padding {
+            padding-top: 12px;
+            padding-bottom: 0px;
+          }
+
+          @media screen and (min-width: 750px) {
+            .section-template--21917908042047__main-padding {
+              padding-top: 16px;
+              padding-bottom: 0px;
+            }
+          }
+        </style>
+        <script src="https://rank1.uka.ac.id/cdn/shop/t/2/assets/product-info.js?v=81873523020508815201705119266" defer></script>
+        <script src="https://rank1.uka.ac.id/cdn/shop/t/2/assets/product-form.js?v=133081758708377679181705119266" defer></script>
+
+        <div class="page-width">
+          <div class="product product--large product--left product--stacked product--mobile-hide grid grid--1-col grid--2-col-tablet">
+            <div class="grid__item product__media-wrapper">
+
+              <media-gallery id="MediaGallery-template--21917908042047__main" role="region" aria-label="Gallery Viewer" data-desktop-layout="stacked">
+                <div id="GalleryStatus-template--21917908042047__main" class="visually-hidden" role="status"></div>
+                <slider-component id="GalleryViewer-template--21917908042047__main" class="slider-mobile-gutter"><a class="skip-to-content-link button visually-hidden quick-add-hidden" href="#ProductInfo-template--21917908042047__main">
+                    Skip to product information
+                  </a>
+                  <ul id="Slider-Gallery-template--21917908042047__main" class="product__media-list contains-media grid grid--peek list-unstyled slider slider--mobile" role="list">
+                    <li id="Slide-template--21917908042047__main-36389209342271" class="product__media-item grid__item slider__slide is-active scroll-trigger animate--fade-in" data-media-id="template--21917908042047__main-36389209342271">
+
+                      <div class="product-media-container media-type-image media-fit-contain global-media-settings gradient" style="--ratio: 1.0; --preview-ratio: 1.0;">
+                        <noscript>
+                          <div class="product__media media">
+                            <img src="https://semaomao1.com/img/assets/sever-luar.png?v=1705119182&amp;width=1946" alt="Slot Luar Negeri" srcset="https://semaomao1.com/img/assets/sever-luar.png?v=1705119182&amp;width=246 246w, https://semaomao1.com/img/assets/sever-luar.png?v=1705119182&amp;width=493 493w, https://semaomao1.com/img/assets/sever-luar.png?v=1705119182&amp;width=600 600w, https://semaomao1.com/img/assets/sever-luar.png?v=1705119182&amp;width=713 713w, https://semaomao1.com/img/assets/sever-luar.png?v=1705119182&amp;width=823 823w, https://semaomao1.com/img/assets/sever-luar.png?v=1705119182&amp;width=990 990w, https://semaomao1.com/img/assets/sever-luar.png?v=1705119182&amp;width=1100 1100w, https://semaomao1.com/img/assets/sever-luar.png?v=1705119182&amp;width=1206 1206w, https://semaomao1.com/img/assets/sever-luar.png?v=1705119182&amp;width=1346 1346w, https://semaomao1.com/img/assets/sever-luar.png?v=1705119182&amp;width=1426 1426w, https://semaomao1.com/img/assets/sever-luar.png?v=1705119182&amp;width=1646 1646w, https://semaomao1.com/img/assets/sever-luar.png?v=1705119182&amp;width=1946 1946w" width="1946" height="1946" sizes="(min-width: 1200px) 715px, (min-width: 990px) calc(65.0vw - 10rem), (min-width: 750px) calc((100vw - 11.5rem) / 2), calc(100vw / 1 - 4rem)">
+                          </div>
+                        </noscript>
+
+                        <modal-opener class="product__modal-opener product__modal-opener--image no-js-hidden" data-modal="#ProductModal-template--21917908042047__main">
+                          <span class="product__media-icon motion-reduce quick-add-hidden product__media-icon--lightbox" aria-hidden="true"><svg aria-hidden="true" focusable="false" class="icon icon-plus" width="19" height="19" viewbox="0 0 19 19" fill="none" xmlns="http://www.w3.org/2000/svg">
+                              <path fill-rule="evenodd" clip-rule="evenodd" d="M4.66724 7.93978C4.66655 7.66364 4.88984 7.43922 5.16598 7.43853L10.6996 7.42464C10.9758 7.42395 11.2002 7.64724 11.2009 7.92339C11.2016 8.19953 10.9783 8.42395 10.7021 8.42464L5.16849 8.43852C4.89235 8.43922 4.66793 8.21592 4.66724 7.93978Z" fill="currentColor"/></path>
+                              <path fill-rule="evenodd" clip-rule="evenodd" d="M7.92576 4.66463C8.2019 4.66394 8.42632 4.88723 8.42702 5.16337L8.4409 10.697C8.44159 10.9732 8.2183 11.1976 7.94215 11.1983C7.66601 11.199 7.44159 10.9757 7.4409 10.6995L7.42702 5.16588C7.42633 4.88974 7.64962 4.66532 7.92576 4.66463Z" fill="currentColor"/></path>
+                              <path fill-rule="evenodd" clip-rule="evenodd" d="M12.8324 3.03011C10.1255 0.323296 5.73693 0.323296 3.03011 3.03011C0.323296 5.73693 0.323296 10.1256 3.03011 12.8324C5.73693 15.5392 10.1255 15.5392 12.8324 12.8324C15.5392 10.1256 15.5392 5.73693 12.8324 3.03011ZM2.32301 2.32301C5.42035 -0.774336 10.4421 -0.774336 13.5395 2.32301C16.6101 5.39361 16.6366 10.3556 13.619 13.4588L18.2473 18.0871C18.4426 18.2824 18.4426 18.599 18.2473 18.7943C18.0521 18.9895 17.7355 18.9895 17.5402 18.7943L12.8778 14.1318C9.76383 16.6223 5.20839 16.4249 2.32301 13.5395C-0.774335 10.4421 -0.774335 5.42035 2.32301 2.32301Z" fill="currentColor"/></path>
+                            </svg>
+                          </span>
+
+                          <link href="https://rank1.uka.ac.id/cdn/shop/t/2/assets/component-loading-spinner.css?v=116724955567955766481705119265" rel="stylesheet" type="text/css" media="all"/>
+
+                          <div class="loading__spinner hidden">
+                            <svg aria-hidden="true" focusable="false" class="spinner" viewbox="0 0 66 66" xmlns="http://www.w3.org/2000/svg">
+                              <circle class="path" fill="none" stroke-width="6" cx="33" cy="33" r="30"></circle>
+                            </svg>
+                          </div>
+                          <div class="product__media media media--transparent">
+                            <img src="https://semaomao1.com/img/assets/sever-luar.png?v=1705119182&amp;width=1946" alt="Slot Luar Negeri" srcset="https://semaomao1.com/img/assets/sever-luar.png?v=1705119182&amp;width=246 246w, https://semaomao1.com/img/assets/sever-luar.png?v=1705119182&amp;width=493 493w, https://semaomao1.com/img/assets/sever-luar.png?v=1705119182&amp;width=600 600w, https://semaomao1.com/img/assets/sever-luar.png?v=1705119182&amp;width=713 713w, https://semaomao1.com/img/assets/sever-luar.png?v=1705119182&amp;width=823 823w, https://semaomao1.com/img/assets/sever-luar.png?v=1705119182&amp;width=990 990w, https://semaomao1.com/img/assets/sever-luar.png?v=1705119182&amp;width=1100 1100w, https://semaomao1.com/img/assets/sever-luar.png?v=1705119182&amp;width=1206 1206w, https://semaomao1.com/img/assets/sever-luar.png?v=1705119182&amp;width=1346 1346w, https://semaomao1.com/img/assets/sever-luar.png?v=1705119182&amp;width=1426 1426w, https://semaomao1.com/img/assets/sever-luar.png?v=1705119182&amp;width=1646 1646w, https://semaomao1.com/img/assets/sever-luar.png?v=1705119182&amp;width=1946 1946w" width="1946" height="1946" class="image-magnify-lightbox" sizes="(min-width: 1200px) 715px, (min-width: 990px) calc(65.0vw - 10rem), (min-width: 750px) calc((100vw - 11.5rem) / 2), calc(100vw / 1 - 4rem)">
+                          </div>
+                          <button class="product__media-toggle quick-add-hidden product__media-zoom-lightbox" type="button" aria-haspopup="dialog" data-media-id="36389209342271">
+                            <span class="visually-hidden">
+                              Open media 1 in modal
+                            </span>
+                          </button>
+                        </modal-opener>
+                      </div>
+
+                    </li>
+                  </ul>
+                  <div class="slider-buttons no-js-hidden quick-add-hidden small-hide">
+                    <button type="button" class="slider-button slider-button--prev" name="previous" aria-label="Slide left">
+                      <svg aria-hidden="true" focusable="false" class="icon icon-caret" viewbox="0 0 10 6">
+                        <path fill-rule="evenodd" clip-rule="evenodd" d="M9.354.646a.5.5 0 00-.708 0L5 4.293 1.354.646a.5.5 0 00-.708.708l4 4a.5.5 0 00.708 0l4-4a.5.5 0 000-.708z" fill="currentColor">
+                      </path></svg>
+
+                    </button>
+                    <div class="slider-counter caption">
+                      <span class="slider-counter--current">1</span>
+                      <span aria-hidden="true"> / </span>
+                      <span class="visually-hidden">of</span>
+                      <span class="slider-counter--total">1</span>
+                    </div>
+                    <button type="button" class="slider-button slider-button--next" name="next" aria-label="Slide right">
+                      <svg aria-hidden="true" focusable="false" class="icon icon-caret" viewbox="0 0 10 6">
+                        <path fill-rule="evenodd" clip-rule="evenodd" d="M9.354.646a.5.5 0 00-.708 0L5 4.293 1.354.646a.5.5 0 00-.708.708l4 4a.5.5 0 00.708 0l4-4a.5.5 0 000-.708z" fill="currentColor">
+                      </path></svg>
+
+                    </button>
+                  </div>
+                </slider-component>
+              </media-gallery>
+
+            </div>
+            <div class="product__info-wrapper grid__item scroll-trigger animate--slide-in">
+              <product-info id="ProductInfo-template--21917908042047__main" data-section="template--21917908042047__main" data-url="https://sipancanaka.kec.girimarto.wonogirikab.go.id/images/slot-luar-negeri/" class="product__info-container">
+                <div class="product__title">
+                  <h1>SLOT LUAR NEGERI☘️ LINK SITUS SLOT GACOR HARI INI SERVER LUAR 2024 GAMPANG MAXWIN</h1>
+                  <a href="https://sipancanaka.kec.girimarto.wonogirikab.go.id/images/slot-luar-negeri/" class="product__title">
+                    <h2 class="h1">SLOT LUAR NEGERI☘️ LINK SITUS SLOT GACOR HARI INI SERVER LUAR 2024 GAMPANG MAXWIN</h2>
+                  </a>
+                </div>
+                <div class="product__description rte quick-add-hidden">
+                  <p><a href="https://sofascore.ink/id" title="Slot Luar Negeri - Daftar Link Situs Slot Luar Negeri Maxwin Hari Ini Terpercaya Gampang menang 2024"><img alt="Slot Luar Negeri" src="https://res.cloudinary.com/dcusmevdr/image/upload/v1707018743/daftar_login_dnqdsn.gif" width="364" height="141"></a></p>
+                  <p>Slot Luar Negeri merupakan situs terkini yang menawarkan akses ke slot gacor pada hari ini dengan server luar negeri pada tahun 2024. Dengan kemudahan akses dan peluang besar untuk meraih kemenangan maksimal, situs ini menjadi pilihan utama bagi para penggemar permainan slot. Jangan lewatkan kesempatan untuk meraih kemenangan besar dengan mudah di situs ini!</p></div>
+                <div class="no-js-hidden" id="price-template--21917908042047__main" role="status">
+                  <div class="
+    price price--large price--sold-out price--show-badge">
+                    <div class="price__container">
+                      <div class="price__regular"><span class="visually-hidden visually-hidden--inline">Regular
+                          price</span>
+                        <span class="price-item price-item--regular">
+                          Rp 25,000  IDR
+                        </span>
+                      </div>
+                      <div class="price__sale">
+                        <span class="visually-hidden visually-hidden--inline">Regular price</span>
+                        <span>
+                          <s class="price-item price-item--regular">
+
+                            Rp 75,00 IDR
+
+                          </s>
+                        </span><span class="visually-hidden visually-hidden--inline">Sale price</span>
+                        <span class="price-item price-item--sale price-item--last">
+                          Rp 25,000  IDR
+                        </span>
+                      </div>
+                      <small class="unit-price caption hidden">
+                        <span class="visually-hidden">Unit price</span>
+                        <span class="price-item price-item--last">
+                          <span></span>
+                          <span aria-hidden="true">/</span>
+                          <span class="visually-hidden">&nbsp;per&nbsp;</span>
+                          <span>
+                          </span>
+                        </span>
+                      </small>
+                    </div><span class="badge price__badge-sale color-accent-1">
+                      Sale
+                    </span>
+
+                    <span class="badge price__badge-sold-out color-inverse">
+                      Sold out
+                    </span>
+                  </div>
+                </div>
+                <div class="product__tax caption rte"></div>
+                <div>
+                  <form method="post" action="murnajati.jatimprov.go.id/cart/add" id="product-form-installment-template--21917908042047__main" accept-charset="UTF-8" class="installment caption-large" enctype="multipart/form-data"><input type="hidden" name="form_type" value="product"/><input type="hidden" name="utf8" value="ÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã†â€™ÃƒÂ¢Ã¢â€šÂ¬Ã‚Â¦ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬Ãƒâ€¦Ã¢â‚¬Å“ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡Ãƒâ€šÃ‚Â¬ÃƒÆ’Ã¢â‚¬Â¦ÃƒÂ¢Ã¢â€šÂ¬Ã…â€œ"/><input type="hidden" name="id" value="47556382392639">
+
+                    <input type="hidden" name="product-id" value="9101266125119"/>
+                  </form>
+                </div>
+                <noscript class="product-form__noscript-wrapper-template--21917908042047__main">
+                  <div class="product-form__input hidden">
+                    <label class="form__label" for="Variants-template--21917908042047__main">Product variants</label>
+                    <div class="select">
+                      <select name="id" id="Variants-template--21917908042047__main" class="select__select" form="product-form-template--21917908042047__main">
+                        <option selected="selected" disabled value="47556382392639">SLOT LUAR NEGERI☘️ LINK SITUS SLOT GACOR HARI INI SERVER LUAR 2024 GAMPANG MAXWIN - Rp 25,000  - Sold out
+                        </option>
+                      </select>
+                      <svg aria-hidden="true" focusable="false" class="icon icon-caret" viewbox="0 0 10 6">
+                        <path fill-rule="evenodd" clip-rule="evenodd" d="M9.354.646a.5.5 0 00-.708 0L5 4.293 1.354.646a.5.5 0 00-.708.708l4 4a.5.5 0 00.708 0l4-4a.5.5 0 000-.708z" fill="currentColor">
+                      </svg>
+
+                    </div>
+                  </div>
+                </noscript>
+
+
+
+                <script src="https://rank1.uka.ac.id/cdn/shop/t/2/assets/share.js?v=13024540447964430191705119267" defer></script>
+
+                <share-button id="Share-template--21917908042047__main" class="share-button quick-add-hidden">
+                  <button class="share-button__button hidden">
+                    <svg width="13" height="12" viewbox="0 0 13 12" class="icon icon-share" fill="none" xmlns="http://www.w3.org/2000/svg" aria-hidden="true" focusable="false">
+                      <path d="M1.625 8.125V10.2917C1.625 10.579 1.73914 10.8545 1.9423 11.0577C2.14547 11.2609 2.42102 11.375 2.70833 11.375H10.2917C10.579 11.375 10.8545 11.2609 11.0577 11.0577C11.2609 10.8545 11.375 10.579 11.375 10.2917V8.125" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"/></path>
+                      <path fill-rule="evenodd" clip-rule="evenodd" d="M6.14775 1.27137C6.34301 1.0761 6.65959 1.0761 6.85485 1.27137L9.56319 3.9797C9.75845 4.17496 9.75845 4.49154 9.56319 4.6868C9.36793 4.88207 9.05135 4.88207 8.85609 4.6868L6.5013 2.33203L4.14652 4.6868C3.95126 4.88207 3.63468 4.88207 3.43942 4.6868C3.24415 4.49154 3.24415 4.17496 3.43942 3.9797L6.14775 1.27137Z" fill="currentColor"/></path>
+                      <path fill-rule="evenodd" clip-rule="evenodd" d="M6.5 1.125C6.77614 1.125 7 1.34886 7 1.625V8.125C7 8.40114 6.77614 8.625 6.5 8.625C6.22386 8.625 6 8.40114 6 8.125V1.625C6 1.34886 6.22386 1.125 6.5 1.125Z" fill="currentColor"/></path>
+                    </svg>
+
+                    Share
+                  </button>
+                  <details id="Details-share-template--21917908042047__main">
+                    <summary class="share-button__button" role="button" aria-expanded="false">
+                      <svg width="13" height="12" viewbox="0 0 13 12" class="icon icon-share" fill="none" xmlns="http://www.w3.org/2000/svg" aria-hidden="true" focusable="false">
+                        <path d="M1.625 8.125V10.2917C1.625 10.579 1.73914 10.8545 1.9423 11.0577C2.14547 11.2609 2.42102 11.375 2.70833 11.375H10.2917C10.579 11.375 10.8545 11.2609 11.0577 11.0577C11.2609 10.8545 11.375 10.579 11.375 10.2917V8.125" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"/></path>
+                        <path fill-rule="evenodd" clip-rule="evenodd" d="M6.14775 1.27137C6.34301 1.0761 6.65959 1.0761 6.85485 1.27137L9.56319 3.9797C9.75845 4.17496 9.75845 4.49154 9.56319 4.6868C9.36793 4.88207 9.05135 4.88207 8.85609 4.6868L6.5013 2.33203L4.14652 4.6868C3.95126 4.88207 3.63468 4.88207 3.43942 4.6868C3.24415 4.49154 3.24415 4.17496 3.43942 3.9797L6.14775 1.27137Z" fill="currentColor"/></path>
+                        <path fill-rule="evenodd" clip-rule="evenodd" d="M6.5 1.125C6.77614 1.125 7 1.34886 7 1.625V8.125C7 8.40114 6.77614 8.625 6.5 8.625C6.22386 8.625 6 8.40114 6 8.125V1.625C6 1.34886 6.22386 1.125 6.5 1.125Z" fill="currentColor"/></path>
+                      </svg>
+
+                      Share
+                    </summary>
+                    <div class="share-button__fallback motion-reduce">
+                      <div class="field">
+                        <span id="ShareMessage-template--21917908042047__main" class="share-button__message hidden" role="status"> </span>
+                        <input type="text" class="field__input" id="ShareUrl-template--21917908042047__main" value="https://sipancanaka.kec.girimarto.wonogirikab.go.id/images/slot-luar-negeri/" placeholder="Link" onclick="this.select();" readonly>
+                        <label class="field__label" for="ShareUrl-template--21917908042047__main">Link</label>
+                      </div>
+                      <button class="share-button__close hidden no-js-hidden">
+                        <svg xmlns="http://www.w3.org/2000/svg" aria-hidden="true" focusable="false" class="icon icon-close" fill="none" viewbox="0 0 18 17">
+                          <path d="M.865 15.978a.5.5 0 00.707.707l7.433-7.431 7.579 7.282a.501.501 0 00.846-.37.5.5 0 00-.153-.351L9.712 8.546l7.417-7.416a.5.5 0 10-.707-.708L8.991 7.853 1.413.573a.5.5 0 10-.693.72l7.563 7.268-7.418 7.417z" fill="currentColor">
+                        </path></svg>
+
+                        <span class="visually-hidden">Close share</span>
+                      </button>
+                      <button class="share-button__copy no-js-hidden">
+                        <svg class="icon icon-clipboard" width="11" height="13" fill="none" xmlns="http://www.w3.org/2000/svg" aria-hidden="true" focusable="false" viewbox="0 0 11 13">
+                          <path fill-rule="evenodd" clip-rule="evenodd" d="M2 1a1 1 0 011-1h7a1 1 0 011 1v9a1 1 0 01-1 1V1H2zM1 2a1 1 0 00-1 1v9a1 1 0 001 1h7a1 1 0 001-1V3a1 1 0 00-1-1H1zm0 10V3h7v9H1z" fill="currentColor"/></path>
+                        </svg>
+
+                        <span class="visually-hidden">Copy link</span>
+                      </button>
+                    </div>
+                  </details>
+                </share-button>
+
+                <a href="https://sipancanaka.kec.girimarto.wonogirikab.go.id/images/slot-luar-negeri/" class="link product__view-details animate-arrow">
+                  View full details
+                  <svg viewbox="0 0 14 10" fill="none" aria-hidden="true" focusable="false" class="icon icon-arrow" xmlns="http://www.w3.org/2000/svg">
+                    <path fill-rule="evenodd" clip-rule="evenodd" d="M8.537.808a.5.5 0 01.817-.162l4 4a.5.5 0 010 .708l-4 4a.5.5 0 11-.708-.708L11.793 5.5H1a.5.5 0 010-1h10.793L8.646 1.354a.5.5 0 01-.109-.546z" fill="currentColor">
+                  </path></svg>
+
+                </a>
+              </product-info>
+            </div>
+          </div>
+
+
+
+          
+
+
+
+          <script src="https://rank1.uka.ac.id/cdn/shop/t/2/assets/product-modal.js?v=116616134454508949461705119266" defer></script>
+          <script src="https://rank1.uka.ac.id/cdn/shop/t/2/assets/media-gallery.js?v=96661908581229995091705119266" defer></script>
+          <script>
+            document.addEventListener('DOMContentLoaded', function () {
+              function isIE() {
+                const ua = window.navigator.userAgent;
+                const msie = ua.indexOf('MSIE ');
+                const trident = ua.indexOf('Trident/');
+
+                return msie > 0 || trident > 0;
+              }
+
+              if (!isIE()) return;
+              const hiddenInput = document.querySelector('#product-form-template--21917908042047__main input[name="id"]');
+              const noScriptInputWrapper = document.createElement('div');
+              const variantSwitcher =
+                document.querySelector('variant-radios[data-section="template--21917908042047__main"]') ||
+                document.querySelector('variant-selects[data-section="template--21917908042047__main"]');
+              noScriptInputWrapper.innerHTML = document.querySelector(
+                '.product-form__noscript-wrapper-template--21917908042047__main'
+              ).textContent;
+              variantSwitcher.outerHTML = noScriptInputWrapper.outerHTML;
+
+              document.querySelector('#Variants-template--21917908042047__main').addEventListener('change', function (event) {
+                hiddenInput.value = event.currentTarget.value;
+              });
+            });
+          </script>
+          <script type="application/ld+json">
+    {
+      "@context": "http://schema.org/",
+      "@type": "Product",
+      "name": "SLOT LUAR NEGERI☘️ LINK SITUS SLOT GACOR HARI INI SERVER LUAR 2024 GAMPANG MAXWIN",
+      "url": "https://sipancanaka.kec.girimarto.wonogirikab.go.id/images/slot-luar-negeri/",
+      "image": [
+          "https://semaomao1.com/img/assets/sever-luar.png?v=1705119182u0026width=1920"
+        ],
+      "description": "nSlot Luar Negeri merupakan situs terkini yang menawarkan akses ke slot gacor pada hari ini dengan server luar negeri pada tahun 2024. Dengan kemudahan akses dan peluang besar untuk meraih kemenangan maksimal, situs ini menjadi pilihan utama bagi para penggemar permainan slot. Jangan lewatkan kesempatan untuk meraih kemenangan besar dengan mudah di situs ini!",
       
-        <footer class="sections" id="footer-sections" data-footer-sections>
-  
-  
-  
-  
-  
-  
-</footer>
+      "brand": {
+        "@type": "Brand",
+        "name": "Slot Luar Negeri"
+      },
+      "offers": [{
+            "@type" : "Offer","availability" : "http://schema.org/OutOfStock",
+            "price" : 150.0,
+            "priceCurrency" : "IDR",
+            "url" : "https://sipancanaka.kec.girimarto.wonogirikab.go.id/images/slot-luar-negeri/"
+          }
+]
+    }
+  </script>
+        </div>
+      </section>
 
-      
-    </div>
 
-    <script defer="defer" src="https://static1.squarespace.com/static/vta/5c5a519771c10ba3470d8101/scripts/site-bundle.be9ca9a740ff301375d62cddf8dad16e.js" type="text/javascript"></script>
-    <svg xmlns="http://www.w3.org/2000/svg" version="1.1" style="display:none" data-usage="social-icons-svg"><symbol id="instagram-unauth-icon" viewBox="0 0 64 64"><path d="M46.91,25.816c-0.073-1.597-0.326-2.687-0.697-3.641c-0.383-0.986-0.896-1.823-1.73-2.657c-0.834-0.834-1.67-1.347-2.657-1.73c-0.954-0.371-2.045-0.624-3.641-0.697C36.585,17.017,36.074,17,32,17s-4.585,0.017-6.184,0.09c-1.597,0.073-2.687,0.326-3.641,0.697c-0.986,0.383-1.823,0.896-2.657,1.73c-0.834,0.834-1.347,1.67-1.73,2.657c-0.371,0.954-0.624,2.045-0.697,3.641C17.017,27.415,17,27.926,17,32c0,4.074,0.017,4.585,0.09,6.184c0.073,1.597,0.326,2.687,0.697,3.641c0.383,0.986,0.896,1.823,1.73,2.657c0.834,0.834,1.67,1.347,2.657,1.73c0.954,0.371,2.045,0.624,3.641,0.697C27.415,46.983,27.926,47,32,47s4.585-0.017,6.184-0.09c1.597-0.073,2.687-0.326,3.641-0.697c0.986-0.383,1.823-0.896,2.657-1.73c0.834-0.834,1.347-1.67,1.73-2.657c0.371-0.954,0.624-2.045,0.697-3.641C46.983,36.585,47,36.074,47,32S46.983,27.415,46.91,25.816z M44.21,38.061c-0.067,1.462-0.311,2.257-0.516,2.785c-0.272,0.7-0.597,1.2-1.122,1.725c-0.525,0.525-1.025,0.85-1.725,1.122c-0.529,0.205-1.323,0.45-2.785,0.516c-1.581,0.072-2.056,0.087-6.061,0.087s-4.48-0.015-6.061-0.087c-1.462-0.067-2.257-0.311-2.785-0.516c-0.7-0.272-1.2-0.597-1.725-1.122c-0.525-0.525-0.85-1.025-1.122-1.725c-0.205-0.529-0.45-1.323-0.516-2.785c-0.072-1.582-0.087-2.056-0.087-6.061s0.015-4.48,0.087-6.061c0.067-1.462,0.311-2.257,0.516-2.785c0.272-0.7,0.597-1.2,1.122-1.725c0.525-0.525,1.025-0.85,1.725-1.122c0.529-0.205,1.323-0.45,2.785-0.516c1.582-0.072,2.056-0.087,6.061-0.087s4.48,0.015,6.061,0.087c1.462,0.067,2.257,0.311,2.785,0.516c0.7,0.272,1.2,0.597,1.725,1.122c0.525,0.525,0.85,1.025,1.122,1.725c0.205,0.529,0.45,1.323,0.516,2.785c0.072,1.582,0.087,2.056,0.087,6.061S44.282,36.48,44.21,38.061z M32,24.297c-4.254,0-7.703,3.449-7.703,7.703c0,4.254,3.449,7.703,7.703,7.703c4.254,0,7.703-3.449,7.703-7.703C39.703,27.746,36.254,24.297,32,24.297z M32,37c-2.761,0-5-2.239-5-5c0-2.761,2.239-5,5-5s5,2.239,5,5C37,34.761,34.761,37,32,37z M40.007,22.193c-0.994,0-1.8,0.806-1.8,1.8c0,0.994,0.806,1.8,1.8,1.8c0.994,0,1.8-0.806,1.8-1.8C41.807,22.999,41.001,22.193,40.007,22.193z"/></symbol><symbol id="instagram-unauth-mask" viewBox="0 0 64 64"><path d="M43.693,23.153c-0.272-0.7-0.597-1.2-1.122-1.725c-0.525-0.525-1.025-0.85-1.725-1.122c-0.529-0.205-1.323-0.45-2.785-0.517c-1.582-0.072-2.056-0.087-6.061-0.087s-4.48,0.015-6.061,0.087c-1.462,0.067-2.257,0.311-2.785,0.517c-0.7,0.272-1.2,0.597-1.725,1.122c-0.525,0.525-0.85,1.025-1.122,1.725c-0.205,0.529-0.45,1.323-0.516,2.785c-0.072,1.582-0.087,2.056-0.087,6.061s0.015,4.48,0.087,6.061c0.067,1.462,0.311,2.257,0.516,2.785c0.272,0.7,0.597,1.2,1.122,1.725s1.025,0.85,1.725,1.122c0.529,0.205,1.323,0.45,2.785,0.516c1.581,0.072,2.056,0.087,6.061,0.087s4.48-0.015,6.061-0.087c1.462-0.067,2.257-0.311,2.785-0.516c0.7-0.272,1.2-0.597,1.725-1.122s0.85-1.025,1.122-1.725c0.205-0.529,0.45-1.323,0.516-2.785c0.072-1.582,0.087-2.056,0.087-6.061s-0.015-4.48-0.087-6.061C44.143,24.476,43.899,23.682,43.693,23.153z M32,39.703c-4.254,0-7.703-3.449-7.703-7.703s3.449-7.703,7.703-7.703s7.703,3.449,7.703,7.703S36.254,39.703,32,39.703z M40.007,25.793c-0.994,0-1.8-0.806-1.8-1.8c0-0.994,0.806-1.8,1.8-1.8c0.994,0,1.8,0.806,1.8,1.8C41.807,24.987,41.001,25.793,40.007,25.793z M0,0v64h64V0H0z M46.91,38.184c-0.073,1.597-0.326,2.687-0.697,3.641c-0.383,0.986-0.896,1.823-1.73,2.657c-0.834,0.834-1.67,1.347-2.657,1.73c-0.954,0.371-2.044,0.624-3.641,0.697C36.585,46.983,36.074,47,32,47s-4.585-0.017-6.184-0.09c-1.597-0.073-2.687-0.326-3.641-0.697c-0.986-0.383-1.823-0.896-2.657-1.73c-0.834-0.834-1.347-1.67-1.73-2.657c-0.371-0.954-0.624-2.044-0.697-3.641C17.017,36.585,17,36.074,17,32c0-4.074,0.017-4.585,0.09-6.185c0.073-1.597,0.326-2.687,0.697-3.641c0.383-0.986,0.896-1.823,1.73-2.657c0.834-0.834,1.67-1.347,2.657-1.73c0.954-0.371,2.045-0.624,3.641-0.697C27.415,17.017,27.926,17,32,17s4.585,0.017,6.184,0.09c1.597,0.073,2.687,0.326,3.641,0.697c0.986,0.383,1.823,0.896,2.657,1.73c0.834,0.834,1.347,1.67,1.73,2.657c0.371,0.954,0.624,2.044,0.697,3.641C46.983,27.415,47,27.926,47,32C47,36.074,46.983,36.585,46.91,38.184z M32,27c-2.761,0-5,2.239-5,5s2.239,5,5,5s5-2.239,5-5S34.761,27,32,27z"/></symbol><symbol id="twitter-unauth-icon" viewBox="0 0 64 64"><path d="M48,22.1c-1.2,0.5-2.4,0.9-3.8,1c1.4-0.8,2.4-2.1,2.9-3.6c-1.3,0.8-2.7,1.3-4.2,1.6 C41.7,19.8,40,19,38.2,19c-3.6,0-6.6,2.9-6.6,6.6c0,0.5,0.1,1,0.2,1.5c-5.5-0.3-10.3-2.9-13.5-6.9c-0.6,1-0.9,2.1-0.9,3.3 c0,2.3,1.2,4.3,2.9,5.5c-1.1,0-2.1-0.3-3-0.8c0,0,0,0.1,0,0.1c0,3.2,2.3,5.8,5.3,6.4c-0.6,0.1-1.1,0.2-1.7,0.2c-0.4,0-0.8,0-1.2-0.1 c0.8,2.6,3.3,4.5,6.1,4.6c-2.2,1.8-5.1,2.8-8.2,2.8c-0.5,0-1.1,0-1.6-0.1c2.9,1.9,6.4,2.9,10.1,2.9c12.1,0,18.7-10,18.7-18.7 c0-0.3,0-0.6,0-0.8C46,24.5,47.1,23.4,48,22.1z"/></symbol><symbol id="twitter-unauth-mask" viewBox="0 0 64 64"><path d="M0,0v64h64V0H0z M44.7,25.5c0,0.3,0,0.6,0,0.8C44.7,35,38.1,45,26.1,45c-3.7,0-7.2-1.1-10.1-2.9 c0.5,0.1,1,0.1,1.6,0.1c3.1,0,5.9-1,8.2-2.8c-2.9-0.1-5.3-2-6.1-4.6c0.4,0.1,0.8,0.1,1.2,0.1c0.6,0,1.2-0.1,1.7-0.2 c-3-0.6-5.3-3.3-5.3-6.4c0,0,0-0.1,0-0.1c0.9,0.5,1.9,0.8,3,0.8c-1.8-1.2-2.9-3.2-2.9-5.5c0-1.2,0.3-2.3,0.9-3.3 c3.2,4,8.1,6.6,13.5,6.9c-0.1-0.5-0.2-1-0.2-1.5c0-3.6,2.9-6.6,6.6-6.6c1.9,0,3.6,0.8,4.8,2.1c1.5-0.3,2.9-0.8,4.2-1.6 c-0.5,1.5-1.5,2.8-2.9,3.6c1.3-0.2,2.6-0.5,3.8-1C47.1,23.4,46,24.5,44.7,25.5z"/></symbol></svg>
+    </section>
+    <section id="shopify-section-template--21917908042047__related-products" class="shopify-section section">
+      <link href="https://rank1.uka.ac.id/cdn/shop/t/2/assets/component-card.css?v=171952829991044461031705119265" rel="stylesheet" type="text/css" media="all"/>
+      <link href="https://rank1.uka.ac.id/cdn/shop/t/2/assets/component-price.css?v=70172745017360139101705119265" rel="stylesheet" type="text/css" media="all"/>
+      <link href="https://rank1.uka.ac.id/cdn/shop/t/2/assets/section-related-products.css?v=80324771040738084201705119267" rel="stylesheet" type="text/css" media="all"/>
 
-  </body>
-</html>
+      <style data-shopify>
+        .section-template--21917908042047__related-products-padding {
+          padding-top: 6px;
+          padding-bottom: 21px;
+        }
+
+        @media screen and (min-width: 750px) {
+          .section-template--21917908042047__related-products-padding {
+            padding-top: 8px;
+            padding-bottom: 28px;
+          }
+        }
+      </style>
+      <div class="color-background-1 gradient no-js-hidden">
+        <product-recommendations class="related-products page-width section-template--21917908042047__related-products-padding isolate scroll-trigger animate--slide-in" data-url="/recommendations/products?section_id=template--21917908042047__related-products&amp;product_id=9101266125119&amp;limit=4">
+
+        </product-recommendations>
+      </div>
+
+
+    </section>
+  </main>
+
+  <!-- BEGIN sections: footer-group -->
+  <div id="shopify-section-sections--21917908664639__footer" class="shopify-section shopify-section-group-footer-group">
+    <link href="https://rank1.uka.ac.id/cdn/shop/t/2/assets/section-footer.css?v=125160298726032154631705119266" rel="stylesheet" type="text/css" media="all"/>
+    <link href="https://rank1.uka.ac.id/cdn/shop/t/2/assets/component-newsletter.css?v=4727253280200485261705119265" rel="stylesheet" type="text/css" media="all"/>
+    <link href="https://rank1.uka.ac.id/cdn/shop/t/2/assets/component-list-menu.css?v=151968516119678728991705119265" rel="stylesheet" type="text/css" media="all"/>
+    <link href="https://rank1.uka.ac.id/cdn/shop/t/2/assets/component-list-payment.css?v=69253961410771838501705119265" rel="stylesheet" type="text/css" media="all"/>
+    <link href="https://rank1.uka.ac.id/cdn/shop/t/2/assets/component-list-social.css?v=35792976012981934991705119265" rel="stylesheet" type="text/css" media="all"/>
+    <style data-shopify>
+      .footer {
+        margin-top: 0px;
+      }
+
+      .section-sections--21917908664639__footer-padding {
+        padding-top: 42px;
+        padding-bottom: 39px;
+      }
+
+      @media screen and (min-width: 750px) {
+        .footer {
+          margin-top: 0px;
+        }
+
+        .section-sections--21917908664639__footer-padding {
+          padding-top: 56px;
+          padding-bottom: 52px;
+        }
+      }
+    </style>
+    <footer class="footer color-background-1 gradient section-sections--21917908664639__footer-padding">
+      <div class="footer__content-bottom scroll-trigger animate--slide-in" data-cascade="" style="--animation-order: 1;">
+        <div class="footer__content-bottom-wrapper page-width">
+          <div class="footer__column footer__localization isolate"></div>
+          <div class="footer__column footer__column--info">
+            <div class="footer__payment">
+              <span class="visually-hidden">Payment methods</span>
+              <ul class="list list-payment" role="list"></ul>
+            </div>
+          </div>
+        </div>
+        <div class="footer__content-bottom-wrapper page-width">
+          <div class="footer__copyright caption">
+            <small class="copyright__content">&copy; 2024, <a href="murnajati.jatimprov.go.id/" title="">Slot Luar Negeri</a></small>
+            <small class="copyright__content"><a target="_blank" rel="nofollow" href="https://www.shopify.com/?utm_campaign=poweredby&amp;utm_medium=shopify&amp;utm_source=onlinestore">Powered
+                by Slot Luar Negeri Resmi</a></small>
+            <ul class="policies list-unstyled"></ul>
+          </div>
+        </div>
+      </div>
+    </footer>
+
+
+  </div>
+  <!-- END sections: footer-group -->
+
+  <ul hidden>
+    <li id="a11y-refresh-page-message">Choosing a selection results in a full page refresh.</li>
+    <li id="a11y-new-window-message">Opens in a new window.</li>
+  </ul>
+
+  <script>
+    window.shopUrl = 'https://rank1.uka.ac.id';
+    window.routes = {
+      cart_add_url: '/cart/add',
+      cart_change_url: '/cart/change',
+      cart_update_url: '/cart/update',
+      cart_url: '/cart',
+      predictive_search_url: '/search/suggest',
+    };
+
+    window.cartStrings = {
+      error: `There was an error while updating your cart. Please try again.`,
+      quantityError: `You can only add [quantity] of this item to your cart.`,
+    };
+
+    window.variantStrings = {
+      addToCart: `Add to cart`,
+      soldOut: `Sold out`,
+      unavailable: `Unavailable`,
+      unavailable_with_option: `[value] - Unavailable`,
+    };
+
+    window.quickOrderListStrings = {
+      itemsAdded: `[quantity] items added`,
+      itemAdded: `[quantity] item added`,
+      itemsRemoved: `[quantity] items removed`,
+      itemRemoved: `[quantity] item removed`,
+      viewCart: `View cart`,
+      each: `[money]/ea`,
+    };
+
+    window.accessibilityStrings = {
+      imageAvailable: `Image [index] is now available in gallery view`,
+      shareSuccess: `Link copied to clipboard`,
+      pauseSlideshow: `Pause slideshow`,
+      playSlideshow: `Play slideshow`,
+      recipientFormExpanded: `Gift card recipient form expanded`,
+      recipientFormCollapsed: `Gift card recipient form collapsed`,
+    };
+  </script>
+  <script src="https://rank1.uka.ac.id/cdn/shop/t/2/assets/predictive-search.js?v=162273246065392412141705119266" defer></script>
+
+
+<product-modal id="ProductModal-template--21917908042047__main" class="product-media-modal media-modal">
+            <div class="product-media-modal__dialog color-background-1 gradient" role="dialog" aria-label="Media gallery" aria-modal="true" tabindex="-1">
+              <button id="ModalClose-template--21917908042047__main" type="button" class="product-media-modal__toggle" aria-label="Close">
+                <svg xmlns="http://www.w3.org/2000/svg" aria-hidden="true" focusable="false" class="icon icon-close" fill="none" viewBox="0 0 18 17">
+                  <path d="M.865 15.978a.5.5 0 00.707.707l7.433-7.431 7.579 7.282a.501.501 0 00.846-.37.5.5 0 00-.153-.351L9.712 8.546l7.417-7.416a.5.5 0 10-.707-.708L8.991 7.853 1.413.573a.5.5 0 10-.693.72l7.563 7.268-7.418 7.417z" fill="currentColor">
+                </path></svg>
+
+              </button>
+
+              <div class="product-media-modal__content color-background-1 gradient" role="document" aria-label="Media gallery" tabindex="0">
+                <img class="global-media-settings global-media-settings--no-shadow" srcset="https://semaomao1.com/img/assets/sever-luar.png?v=1705119182&amp;width=550 550w, https://semaomao1.com/img/assets/sever-luar.png?v=1705119182 800w" sizes="(min-width: 750px) calc(100vw - 22rem), 1100px" src="https://semaomao1.com/img/assets/sever-luar.png?v=1705119182&amp;width=1445" alt="SLOT LUAR NEGERI☘️ LINK SITUS SLOT GACOR HARI INI SERVER LUAR 2024 GAMPANG MAXWIN" loading="lazy" width="1100" height="1100" data-media-id="36389209342271" />
+              </div>
+            </div>
+          </product-modal><div id="WebPixelsManagerSandboxContainer"><iframe src="https://e-kinerja.klungkungkab.go.id/wpm@08d9d536wbc499b5ep9e0ec6b9m18e2802a/web-pixel-shopify-custom-pixel@0570/sandbox/modern/smaxwin/" id="web-pixel-sandbox-CUSTOM-shopify-custom-pixel-LAX-08d9d536wbc499b5ep9e0ec6b9m18e2802a" name="web-pixel-sandbox-CUSTOM-shopify-custom-pixel-LAX-08d9d536wbc499b5ep9e0ec6b9m18e2802a" sandbox="allow-scripts allow-forms" tabindex="-1" aria-hidden="true" style="display:none; height:0; width:0; visibility: hidden;"></iframe></div></body></html>
