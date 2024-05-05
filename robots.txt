@@ -7,4 +7,4 @@ Allow: /
 Disallow: /search
 User-agent: *
 
-Sitemap: https://simantap.pt-pontianak.go.id/-/sdana/sitemap.xml
+Sitemap: https://iiq.ac.id/slot-gacor/sitemap.xml
