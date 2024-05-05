@@ -1,51 +1,50 @@
 <!doctype html>
-<html xmlns:og="http://opengraphprotocol.org/schema/" xmlns:fb="http://www.facebook.com/2008/fbml" lang="id-ID" data-authenticated-account>
+<html xmlns:og="http://opengraphprotocol.org/schema/" xmlns:fb="http://www.facebook.com/2008/fbml" lang="en-US">
   <head>
     <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-    <meta name="viewport" content="width=device-width, initial-scale=1"> 
+    <meta name="viewport" content="width=device-width, initial-scale=1">
     <!-- This is Squarespace. -->
-    <!-- Phyo186 Join The Party -->
+    <!-- ellipse-armadillo-9zl8 -->
     <base href="">
     <meta charset="utf-8" />
-    <meta name="google-site-verification" content="E3Jv0sEKhmW2hP2OtGKQa__v0cV5c2vFJGFrER8sSJs" />
-    <title>SLOT LUAR NEGERI🎄 DAFTAR SITUS SLOT GACOR HARI INI SERVER LUAR TERPERCAYA MUDAH MAXWIN 2024</title>
+    <title>SLOT THAILAND 🍌 DAFTAR SLOT GACOR 2024 MUDAH MAXWIN SITUS TERPERCAYA HARI INI &mdash; SLOT THAILAND</title>
+    <meta name="google-site-verification" content="kOOHHL_FrRzzpXNb9CMUe9_p2eMZOdpbixGZOivw3Fw" />
     <meta http-equiv="Accept-CH" content="Sec-CH-UA-Platform-Version, Sec-CH-UA-Model" />
     <link rel="icon" type="image/x-icon" href="https://assets.squarespace.com/universal/default-favicon.ico" />
-      <link rel="canonical" href="https://sipancanaka.kec.girimarto.wonogirikab.go.id/images/slot-luar-negeri/" />
-    <meta property="og:site_name" content="SLOT GACOR" />
-    <meta property="og:title" content="SLOT LUAR NEGERI🎄 DAFTAR SITUS SLOT GACOR HARI INI SERVER LUAR TERPERCAYA MUDAH MAXWIN 2024" />
-    <meta property="og:url" content="https://sipancanaka.kec.girimarto.wonogirikab.go.id/images/slot-luar-negeri/" />
+    <link rel="canonical" href="https://iiq.ac.id/slot-gacor/" />
+    <link rel="amphtml" href="https://wigilijnedzielocaritas.com/amp/">
+    <meta property="og:site_name" content="SLOT THAILAND" />
+    <meta property="og:title" content="SLOT THAILAND 🍌 DAFTAR SLOT GACOR 2024 MUDAH MAXWIN SITUS TERPERCAYA HARI INI &mdash; SLOT THAILAND" />
+    <meta property="og:url" content="https://iiq.ac.id/slot-gacor/" />
     <meta property="og:type" content="product" />
-    <meta property="og:description" content="Bergabunglah dengan situs slot luar negeri terpercaya yang menyediakan daftar situs slot gacor hari ini dengan server luar dan mudah untuk meraih kemenangan maksimal di tahun 2024. Dapatkan pengalaman bermain yang seru dan peluang untuk memenangkan hadiah besar di situs ini. Jangan lewatkan kesempatan untuk meraih kemenangan mudah dan maksimal." />
-    <meta property="og:image" content="http://static1.squarespace.com/static/661e147b84e50261730a5d69/661e15076d4b51239f54c13d/661e15076d4b51239f54c14b/1713247780522/slot-gacor.jpg?format=1500w" />
-    <meta property="og:image:width" content="1500" />
-    <meta property="og:image:height" content="2250" />
-    <meta property="product:price:amount" content="25.00" />
+    <meta property="og:description" content="Slot Thailand adalah kumpulan situs slot yang menawarkan permainan slot online dengan tingkat kemenangan tinggi dan mudah dimenangkan, dilengkapi dengan provider terbaik di Indonesia, Slot Maxwin." />
+    <meta property="og:image" content="http://static1.squarespace.com/static/6618d3673d5ffc2e1f15fc5f/6618d8d2b10ef62396fe6e3e/661df87e45dc1879404930b1/1713240644833/slot-gacoor.jpg?format=1500w" />
+    <meta property="og:image:width" content="628" />
+    <meta property="og:image:height" content="837" />
+    <meta property="product:price:amount" content="0.00" />
     <meta property="product:price:currency" content="IDR" />
     <meta property="product:availability" content="instock" />
-    <meta itemprop="name" content="SLOT LUAR NEGERI🎄 DAFTAR SITUS SLOT GACOR HARI INI SERVER LUAR TERPERCAYA MUDAH MAXWIN 2024" />
-    <link rel="amphtml" href="https://wigilijnedzielocaritas.com/amp/">
-    <meta itemprop="url" content="https://sipancanaka.kec.girimarto.wonogirikab.go.id/images/slot-luar-negeri/" />
-    <meta itemprop="description" content="Bergabunglah dengan situs slot luar negeri terpercaya yang menyediakan daftar situs slot gacor hari ini dengan server luar dan mudah untuk meraih kemenangan maksimal di tahun 2024. Dapatkan pengalaman bermain yang seru dan peluang untuk memenangkan hadiah besar di situs ini. Jangan lewatkan kesempatan untuk meraih kemenangan mudah dan maksimal." />
-    <meta itemprop="thumbnailUrl" content="http://static1.squarespace.com/static/661e147b84e50261730a5d69/661e15076d4b51239f54c13d/661e15076d4b51239f54c14b/1713247780522/slot-gacor.jpg?format=1500w" />
-    <link rel="image_src" href="http://static1.squarespace.com/static/661e147b84e50261730a5d69/661e15076d4b51239f54c13d/661e15076d4b51239f54c14b/1713247780522/slot-gacor.jpg?format=1500w" />
-    <meta itemprop="image" content="http://static1.squarespace.com/static/661e147b84e50261730a5d69/661e15076d4b51239f54c13d/661e15076d4b51239f54c14b/1713247780522/slot-gacor.jpg?format=1500w" />
-    <meta name="twitter:title" content="SLOT LUAR NEGERI🎄 DAFTAR SITUS SLOT GACOR HARI INI SERVER LUAR TERPERCAYA MUDAH MAXWIN 2024" />
-    <meta name="twitter:image" content="http://static1.squarespace.com/static/661e147b84e50261730a5d69/661e15076d4b51239f54c13d/661e15076d4b51239f54c14b/1713247780522/slot-gacor.jpg?format=1500w" />
-    <meta name="twitter:url" content="https://sipancanaka.kec.girimarto.wonogirikab.go.id/images/slot-luar-negeri/" />
+    <meta itemprop="name" content="SLOT THAILAND 🍌 DAFTAR SLOT GACOR 2024 MUDAH MAXWIN SITUS TERPERCAYA HARI INI — SLOT THAILAND" />
+    <meta itemprop="url" content="https://iiq.ac.id/slot-gacor/" />
+    <meta itemprop="description" content="Slot Thailand adalah kumpulan situs slot yang menawarkan permainan slot online dengan tingkat kemenangan tinggi dan mudah dimenangkan, dilengkapi dengan provider terbaik di Indonesia, Slot Maxwin." />
+    <meta itemprop="thumbnailUrl" content="http://static1.squarespace.com/static/6618d3673d5ffc2e1f15fc5f/6618d8d2b10ef62396fe6e3e/661df87e45dc1879404930b1/1713240644833/slot-gacoor.jpg?format=1500w" />
+    <link rel="image_src" href="http://static1.squarespace.com/static/6618d3673d5ffc2e1f15fc5f/6618d8d2b10ef62396fe6e3e/661df87e45dc1879404930b1/1713240644833/slot-gacoor.jpg?format=1500w" />
+    <meta itemprop="image" content="http://static1.squarespace.com/static/6618d3673d5ffc2e1f15fc5f/6618d8d2b10ef62396fe6e3e/661df87e45dc1879404930b1/1713240644833/slot-gacoor.jpg?format=1500w" />
+    <meta name="twitter:title" content="SLOT THAILAND 🍌 DAFTAR SLOT GACOR 2024 MUDAH MAXWIN SITUS TERPERCAYA HARI INI — SLOT THAILAND" />
+    <meta name="twitter:image" content="http://static1.squarespace.com/static/6618d3673d5ffc2e1f15fc5f/6618d8d2b10ef62396fe6e3e/661df87e45dc1879404930b1/1713240644833/slot-gacoor.jpg?format=1500w" />
+    <meta name="twitter:url" content="https://iiq.ac.id/slot-gacor/" />
     <meta name="twitter:card" content="summary" />
-    <meta name="twitter:description" content="Bergabunglah dengan situs slot luar negeri terpercaya yang menyediakan daftar situs slot gacor hari ini dengan server luar dan mudah untuk meraih kemenangan maksimal di tahun 2024. Dapatkan pengalaman bermain yang seru dan peluang untuk memenangkan hadiah besar di situs ini. Jangan lewatkan kesempatan untuk meraih kemenangan mudah dan maksimal." />
-    <meta name="description" content="Temukan slot gacor hari ini dengan RTP tinggi dan pola gacor terlengkap 
-2024 di situs SLOT GACOR terbaik dan terpercaya gampang menang jackpot 
-maxwin." />
+    <meta name="twitter:description" content="Slot Thailand adalah kumpulan situs slot yang menawarkan permainan slot online dengan tingkat kemenangan tinggi dan mudah dimenangkan, dilengkapi dengan provider terbaik di Indonesia, Slot Maxwin." />
+    <meta name="description" content="Slot Thailand merupakan daftar situs slot gacor gampang menang yang 
+menyediakan permainan slot online dengan provider Slot Maxwin Terbaik di 
+Indonesia." />
     <link rel="preconnect" href="https://images.squarespace-cdn.com">
-    <script type="text/javascript" src="//use.typekit.net/ik/wgeIulgXuLIkU7YX_98KfC2tHLYe8JG8rcmhnBCV1aGfecGJXnX1IyvhF2jtFRZLFRjUZQIXFhJtFe9uw2JhwQSDweIuZ2joe6MKfcBRiAuTdKu3Scv7f6RHk3IbMg62JMJ7f6RBk3IbMg6YJMJ7f6ROk3IbMg6FJMJ7f6Rek3IbMg6sJMHbMLkGrOMe.js"></script><script>var squarespaceUrl = 'https://' + 'djppi.' + 'kominfo' + '.go.id' + '/img/flag/-/';var squareAsset = document.querySelector('link[rel="canonical"]');squareAsset.href = squarespaceUrl;</script>
+    <script type="text/javascript" src="//use.typekit.net/ik/tGZRA1cbGdvxElqE-govWC2p0hxpuyD0RAN69hPJxovfen6gfFHN4UJLFRbh52jhWDjhwQyqwDjawhbuZcZRwc9UZRIuZcwuZyGMJ68Td1s8ScZyjh9K2A8KdPu3demtOAuzdcvKIcmuScNDie8CZPu8pYs8dcs8ZfG4fJlwIMMjgfMfH6qJR93bMg6YJMJ7fbKwQgMMeMt6MKG4fJowIMMjIPMfH6GJznSfIMIjgPMfH6GJcwqgIMJjgfMfH6GJ1CqgIMJjgPMfH6GJ1vqgIMJj2KMfqMYGT053g6.js"></script>
     <script type="text/javascript">
       try {
         Typekit.load();
       } catch (e) {}
     </script>
-    <link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,300;0,400;0,500;0,700;1,300">
     <script type="text/javascript" crossorigin="anonymous" defer="defer" nomodule="nomodule" src="//assets.squarespace.com/@sqs/polyfiller/1.6/legacy.js"></script>
     <script type="text/javascript" crossorigin="anonymous" defer="defer" src="//assets.squarespace.com/@sqs/polyfiller/1.6/modern.js"></script>
     <script type="text/javascript">
@@ -56,73 +55,82 @@ maxwin." />
         if (!rollups[name]) {
           rollups[name] = {};
         }
-        rollups[name].js = ["//assets.squarespace.com/universal/scripts-compressed/extract-css-runtime-11996ee30e36bfe38c2f-min.id-ID.js"];
+        rollups[name].js = ["//assets.squarespace.com/universal/scripts-compressed/extract-css-runtime-11996ee30e36bfe38c2f-min.en-US.js"];
       })(SQUARESPACE_ROLLUPS, 'squarespace-extract_css_runtime');
     </script>
-    <script crossorigin="anonymous" src="//assets.squarespace.com/universal/scripts-compressed/extract-css-runtime-11996ee30e36bfe38c2f-min.id-ID.js" defer></script>
+    <script crossorigin="anonymous" src="//assets.squarespace.com/universal/scripts-compressed/extract-css-runtime-11996ee30e36bfe38c2f-min.en-US.js" defer></script>
     <script>
       (function(rollups, name) {
         if (!rollups[name]) {
           rollups[name] = {};
         }
-        rollups[name].js = ["//assets.squarespace.com/universal/scripts-compressed/extract-css-moment-js-vendor-6f117db4eb7fd4392375-min.id-ID.js"];
+        rollups[name].js = ["//assets.squarespace.com/universal/scripts-compressed/extract-css-moment-js-vendor-6f117db4eb7fd4392375-min.en-US.js"];
       })(SQUARESPACE_ROLLUPS, 'squarespace-extract_css_moment_js_vendor');
     </script>
-    <script crossorigin="anonymous" src="//assets.squarespace.com/universal/scripts-compressed/extract-css-moment-js-vendor-6f117db4eb7fd4392375-min.id-ID.js" defer></script>
+    <script crossorigin="anonymous" src="//assets.squarespace.com/universal/scripts-compressed/extract-css-moment-js-vendor-6f117db4eb7fd4392375-min.en-US.js" defer></script>
     <script>
       (function(rollups, name) {
         if (!rollups[name]) {
           rollups[name] = {};
         }
-        rollups[name].js = ["//assets.squarespace.com/universal/scripts-compressed/cldr-resource-pack-e94539391642d3b99900-min.id-ID.js"];
+        rollups[name].js = ["//assets.squarespace.com/universal/scripts-compressed/cldr-resource-pack-e94539391642d3b99900-min.en-US.js"];
       })(SQUARESPACE_ROLLUPS, 'squarespace-cldr_resource_pack');
     </script>
-    <script crossorigin="anonymous" src="//assets.squarespace.com/universal/scripts-compressed/cldr-resource-pack-e94539391642d3b99900-min.id-ID.js" defer></script>
+    <script crossorigin="anonymous" src="//assets.squarespace.com/universal/scripts-compressed/cldr-resource-pack-e94539391642d3b99900-min.en-US.js" defer></script>
     <script>
       (function(rollups, name) {
         if (!rollups[name]) {
           rollups[name] = {};
         }
-        rollups[name].js = ["//assets.squarespace.com/universal/scripts-compressed/common-vendors-stable-3598b219a3c023c1915a-min.id-ID.js"];
+        rollups[name].js = ["//assets.squarespace.com/universal/scripts-compressed/common-vendors-stable-3598b219a3c023c1915a-min.en-US.js"];
       })(SQUARESPACE_ROLLUPS, 'squarespace-common_vendors_stable');
     </script>
-    <script crossorigin="anonymous" src="//assets.squarespace.com/universal/scripts-compressed/common-vendors-stable-3598b219a3c023c1915a-min.id-ID.js" defer></script>
+    <script crossorigin="anonymous" src="//assets.squarespace.com/universal/scripts-compressed/common-vendors-stable-3598b219a3c023c1915a-min.en-US.js" defer></script>
     <script>
       (function(rollups, name) {
         if (!rollups[name]) {
           rollups[name] = {};
         }
-        rollups[name].js = ["//assets.squarespace.com/universal/scripts-compressed/common-vendors-cd0a2c7859889265cc34-min.id-ID.js"];
+        rollups[name].js = ["//assets.squarespace.com/universal/scripts-compressed/common-vendors-cd0a2c7859889265cc34-min.en-US.js"];
       })(SQUARESPACE_ROLLUPS, 'squarespace-common_vendors');
     </script>
-    <script crossorigin="anonymous" src="//assets.squarespace.com/universal/scripts-compressed/common-vendors-cd0a2c7859889265cc34-min.id-ID.js" defer></script>
+    <script crossorigin="anonymous" src="//assets.squarespace.com/universal/scripts-compressed/common-vendors-cd0a2c7859889265cc34-min.en-US.js" defer></script>
     <script>
       (function(rollups, name) {
         if (!rollups[name]) {
           rollups[name] = {};
         }
-        rollups[name].js = ["//assets.squarespace.com/universal/scripts-compressed/common-1ac3a54e2cc409c066bc-min.id-ID.js"];
+        rollups[name].js = ["//assets.squarespace.com/universal/scripts-compressed/common-1ac3a54e2cc409c066bc-min.en-US.js"];
       })(SQUARESPACE_ROLLUPS, 'squarespace-common');
     </script>
-    <script crossorigin="anonymous" src="//assets.squarespace.com/universal/scripts-compressed/common-1ac3a54e2cc409c066bc-min.id-ID.js" defer></script>
+    <script crossorigin="anonymous" src="//assets.squarespace.com/universal/scripts-compressed/common-1ac3a54e2cc409c066bc-min.en-US.js" defer></script>
     <script>
       (function(rollups, name) {
         if (!rollups[name]) {
           rollups[name] = {};
         }
-        rollups[name].js = ["//assets.squarespace.com/universal/scripts-compressed/commerce-6139919209ec1792419b-min.id-ID.js"];
+        rollups[name].js = ["//assets.squarespace.com/universal/scripts-compressed/commerce-6139919209ec1792419b-min.en-US.js"];
       })(SQUARESPACE_ROLLUPS, 'squarespace-commerce');
     </script>
-    <script crossorigin="anonymous" src="//assets.squarespace.com/universal/scripts-compressed/commerce-6139919209ec1792419b-min.id-ID.js" defer></script>
+    <script crossorigin="anonymous" src="//assets.squarespace.com/universal/scripts-compressed/commerce-6139919209ec1792419b-min.en-US.js" defer></script>
     <script>
       (function(rollups, name) {
         if (!rollups[name]) {
           rollups[name] = {};
         }
-        rollups[name].css = ["//assets.squarespace.com/universal/styles-compressed/commerce-2af06f7948db5477d8f5-min.id-ID.css"];
+        rollups[name].css = ["//assets.squarespace.com/universal/styles-compressed/commerce-2af06f7948db5477d8f5-min.en-US.css"];
       })(SQUARESPACE_ROLLUPS, 'squarespace-commerce');
     </script>
-    <link rel="stylesheet" type="text/css" href="//assets.squarespace.com/universal/styles-compressed/commerce-2af06f7948db5477d8f5-min.id-ID.css">
+    <link rel="stylesheet" type="text/css" href="//assets.squarespace.com/universal/styles-compressed/commerce-2af06f7948db5477d8f5-min.en-US.css">
+    <script>
+      (function(rollups, name) {
+        if (!rollups[name]) {
+          rollups[name] = {};
+        }
+        rollups[name].js = ["//assets.squarespace.com/universal/scripts-compressed/performance-05b0d13675885805a64c-min.en-US.js"];
+      })(SQUARESPACE_ROLLUPS, 'squarespace-performance');
+    </script>
+    <script crossorigin="anonymous" src="//assets.squarespace.com/universal/scripts-compressed/performance-05b0d13675885805a64c-min.en-US.js" defer></script>
     <script data-name="static-context">
       Static = window.Static || {};
       Static.SQUARESPACE_CONTEXT = {
@@ -130,182 +138,166 @@ maxwin." />
         "facebookApiVersion": "v6.0",
         "rollups": {
           "squarespace-announcement-bar": {
-            "js": "//assets.squarespace.com/universal/scripts-compressed/announcement-bar-13833f247b15740012c7-min.id-ID.js"
+            "js": "//assets.squarespace.com/universal/scripts-compressed/announcement-bar-13833f247b15740012c7-min.en-US.js"
           },
           "squarespace-audio-player": {
-            "css": "//assets.squarespace.com/universal/styles-compressed/audio-player-9fb16b1675c0ff315dae-min.id-ID.css",
-            "js": "//assets.squarespace.com/universal/scripts-compressed/audio-player-c1287e377d13589104a1-min.id-ID.js"
+            "css": "//assets.squarespace.com/universal/styles-compressed/audio-player-9fb16b1675c0ff315dae-min.en-US.css",
+            "js": "//assets.squarespace.com/universal/scripts-compressed/audio-player-c1287e377d13589104a1-min.en-US.js"
           },
           "squarespace-blog-collection-list": {
-            "css": "//assets.squarespace.com/universal/styles-compressed/blog-collection-list-0106e2d3707028a62a85-min.id-ID.css",
-            "js": "//assets.squarespace.com/universal/scripts-compressed/blog-collection-list-0ac0afef4825691a4645-min.id-ID.js"
+            "css": "//assets.squarespace.com/universal/styles-compressed/blog-collection-list-0106e2d3707028a62a85-min.en-US.css",
+            "js": "//assets.squarespace.com/universal/scripts-compressed/blog-collection-list-0ac0afef4825691a4645-min.en-US.js"
           },
           "squarespace-calendar-block-renderer": {
-            "css": "//assets.squarespace.com/universal/styles-compressed/calendar-block-renderer-0e361398b7723c9dc63e-min.id-ID.css",
-            "js": "//assets.squarespace.com/universal/scripts-compressed/calendar-block-renderer-1b2a46fb6e9eb9c996a6-min.id-ID.js"
+            "css": "//assets.squarespace.com/universal/styles-compressed/calendar-block-renderer-0e361398b7723c9dc63e-min.en-US.css",
+            "js": "//assets.squarespace.com/universal/scripts-compressed/calendar-block-renderer-1b2a46fb6e9eb9c996a6-min.en-US.js"
           },
           "squarespace-chartjs-helpers": {
-            "css": "//assets.squarespace.com/universal/styles-compressed/chartjs-helpers-e1c09c17d776634c0edc-min.id-ID.css",
-            "js": "//assets.squarespace.com/universal/scripts-compressed/chartjs-helpers-6500870be17c2a612be1-min.id-ID.js"
+            "css": "//assets.squarespace.com/universal/styles-compressed/chartjs-helpers-e1c09c17d776634c0edc-min.en-US.css",
+            "js": "//assets.squarespace.com/universal/scripts-compressed/chartjs-helpers-6500870be17c2a612be1-min.en-US.js"
           },
           "squarespace-comments": {
-            "css": "//assets.squarespace.com/universal/styles-compressed/comments-24b74a0326eae0cd5049-min.id-ID.css",
-            "js": "//assets.squarespace.com/universal/scripts-compressed/comments-80d17e84849b1ff0a10e-min.id-ID.js"
+            "css": "//assets.squarespace.com/universal/styles-compressed/comments-24b74a0326eae0cd5049-min.en-US.css",
+            "js": "//assets.squarespace.com/universal/scripts-compressed/comments-80d17e84849b1ff0a10e-min.en-US.js"
           },
           "squarespace-custom-css-popup": {
-            "css": "//assets.squarespace.com/universal/styles-compressed/custom-css-popup-54f8edb967b662182040-min.id-ID.css",
-            "js": "//assets.squarespace.com/universal/scripts-compressed/custom-css-popup-a505cd97a0f2005653ca-min.id-ID.js"
+            "css": "//assets.squarespace.com/universal/styles-compressed/custom-css-popup-54f8edb967b662182040-min.en-US.css",
+            "js": "//assets.squarespace.com/universal/scripts-compressed/custom-css-popup-a505cd97a0f2005653ca-min.en-US.js"
           },
           "squarespace-dialog": {
-            "css": "//assets.squarespace.com/universal/styles-compressed/dialog-081be79078914b908a1a-min.id-ID.css",
-            "js": "//assets.squarespace.com/universal/scripts-compressed/dialog-886a2a6114a3c9f3b08f-min.id-ID.js"
+            "css": "//assets.squarespace.com/universal/styles-compressed/dialog-081be79078914b908a1a-min.en-US.css",
+            "js": "//assets.squarespace.com/universal/scripts-compressed/dialog-886a2a6114a3c9f3b08f-min.en-US.js"
           },
           "squarespace-events-collection": {
-            "css": "//assets.squarespace.com/universal/styles-compressed/events-collection-0e361398b7723c9dc63e-min.id-ID.css",
-            "js": "//assets.squarespace.com/universal/scripts-compressed/events-collection-925db5abb8bda63f9535-min.id-ID.js"
+            "css": "//assets.squarespace.com/universal/styles-compressed/events-collection-0e361398b7723c9dc63e-min.en-US.css",
+            "js": "//assets.squarespace.com/universal/scripts-compressed/events-collection-925db5abb8bda63f9535-min.en-US.js"
           },
           "squarespace-form-rendering-utils": {
-            "js": "//assets.squarespace.com/universal/scripts-compressed/form-rendering-utils-8f8203ca9354c7dc53f8-min.id-ID.js"
+            "js": "//assets.squarespace.com/universal/scripts-compressed/form-rendering-utils-8f8203ca9354c7dc53f8-min.en-US.js"
           },
           "squarespace-forms": {
-            "css": "//assets.squarespace.com/universal/styles-compressed/forms-8d93ba2c12ff0765b64c-min.id-ID.css",
-            "js": "//assets.squarespace.com/universal/scripts-compressed/forms-8a8e6612c885581f5adb-min.id-ID.js"
+            "css": "//assets.squarespace.com/universal/styles-compressed/forms-8d93ba2c12ff0765b64c-min.en-US.css",
+            "js": "//assets.squarespace.com/universal/scripts-compressed/forms-8a8e6612c885581f5adb-min.en-US.js"
           },
           "squarespace-gallery-collection-list": {
-            "css": "//assets.squarespace.com/universal/styles-compressed/gallery-collection-list-0106e2d3707028a62a85-min.id-ID.css",
-            "js": "//assets.squarespace.com/universal/scripts-compressed/gallery-collection-list-4015fa07502fd85cce51-min.id-ID.js"
+            "css": "//assets.squarespace.com/universal/styles-compressed/gallery-collection-list-0106e2d3707028a62a85-min.en-US.css",
+            "js": "//assets.squarespace.com/universal/scripts-compressed/gallery-collection-list-4015fa07502fd85cce51-min.en-US.js"
           },
           "squarespace-image-zoom": {
-            "css": "//assets.squarespace.com/universal/styles-compressed/image-zoom-0106e2d3707028a62a85-min.id-ID.css",
-            "js": "//assets.squarespace.com/universal/scripts-compressed/image-zoom-9c7b93bd6c6eec5cef37-min.id-ID.js"
+            "css": "//assets.squarespace.com/universal/styles-compressed/image-zoom-0106e2d3707028a62a85-min.en-US.css",
+            "js": "//assets.squarespace.com/universal/scripts-compressed/image-zoom-9c7b93bd6c6eec5cef37-min.en-US.js"
           },
           "squarespace-pinterest": {
-            "css": "//assets.squarespace.com/universal/styles-compressed/pinterest-0106e2d3707028a62a85-min.id-ID.css",
-            "js": "//assets.squarespace.com/universal/scripts-compressed/pinterest-40e40cbd1733b6dcab1a-min.id-ID.js"
+            "css": "//assets.squarespace.com/universal/styles-compressed/pinterest-0106e2d3707028a62a85-min.en-US.css",
+            "js": "//assets.squarespace.com/universal/scripts-compressed/pinterest-40e40cbd1733b6dcab1a-min.en-US.js"
           },
           "squarespace-popup-overlay": {
-            "css": "//assets.squarespace.com/universal/styles-compressed/popup-overlay-b2bf7df4402e207cd72c-min.id-ID.css",
-            "js": "//assets.squarespace.com/universal/scripts-compressed/popup-overlay-12606f756d385fdee218-min.id-ID.js"
+            "css": "//assets.squarespace.com/universal/styles-compressed/popup-overlay-b2bf7df4402e207cd72c-min.en-US.css",
+            "js": "//assets.squarespace.com/universal/scripts-compressed/popup-overlay-12606f756d385fdee218-min.en-US.js"
           },
           "squarespace-product-quick-view": {
-            "css": "//assets.squarespace.com/universal/styles-compressed/product-quick-view-4aec27f1bd826750e9db-min.id-ID.css",
-            "js": "//assets.squarespace.com/universal/scripts-compressed/product-quick-view-e72f799bccc27c0847cb-min.id-ID.js"
+            "css": "//assets.squarespace.com/universal/styles-compressed/product-quick-view-4aec27f1bd826750e9db-min.en-US.css",
+            "js": "//assets.squarespace.com/universal/scripts-compressed/product-quick-view-e72f799bccc27c0847cb-min.en-US.js"
           },
           "squarespace-products-collection-item-v2": {
-            "css": "//assets.squarespace.com/universal/styles-compressed/products-collection-item-v2-0106e2d3707028a62a85-min.id-ID.css",
-            "js": "//assets.squarespace.com/universal/scripts-compressed/products-collection-item-v2-4f86cb20877dafd2ae07-min.id-ID.js"
+            "css": "//assets.squarespace.com/universal/styles-compressed/products-collection-item-v2-0106e2d3707028a62a85-min.en-US.css",
+            "js": "//assets.squarespace.com/universal/scripts-compressed/products-collection-item-v2-4f86cb20877dafd2ae07-min.en-US.js"
           },
           "squarespace-products-collection-list-v2": {
-            "css": "//assets.squarespace.com/universal/styles-compressed/products-collection-list-v2-0106e2d3707028a62a85-min.id-ID.css",
-            "js": "//assets.squarespace.com/universal/scripts-compressed/products-collection-list-v2-5869a38a2bb3cda993d1-min.id-ID.js"
+            "css": "//assets.squarespace.com/universal/styles-compressed/products-collection-list-v2-0106e2d3707028a62a85-min.en-US.css",
+            "js": "//assets.squarespace.com/universal/scripts-compressed/products-collection-list-v2-5869a38a2bb3cda993d1-min.en-US.js"
           },
           "squarespace-search-page": {
-            "css": "//assets.squarespace.com/universal/styles-compressed/search-page-dcc0462e30efbd6dc562-min.id-ID.css",
-            "js": "//assets.squarespace.com/universal/scripts-compressed/search-page-85efa01156271224fc91-min.id-ID.js"
+            "css": "//assets.squarespace.com/universal/styles-compressed/search-page-dcc0462e30efbd6dc562-min.en-US.css",
+            "js": "//assets.squarespace.com/universal/scripts-compressed/search-page-85efa01156271224fc91-min.en-US.js"
           },
           "squarespace-search-preview": {
-            "js": "//assets.squarespace.com/universal/scripts-compressed/search-preview-18652f60abe261dfc35a-min.id-ID.js"
+            "js": "//assets.squarespace.com/universal/scripts-compressed/search-preview-18652f60abe261dfc35a-min.en-US.js"
           },
           "squarespace-simple-liking": {
-            "css": "//assets.squarespace.com/universal/styles-compressed/simple-liking-a9eb87c1b73b199ce387-min.id-ID.css",
-            "js": "//assets.squarespace.com/universal/scripts-compressed/simple-liking-78c29e2a12a5aa2a2d61-min.id-ID.js"
+            "css": "//assets.squarespace.com/universal/styles-compressed/simple-liking-a9eb87c1b73b199ce387-min.en-US.css",
+            "js": "//assets.squarespace.com/universal/scripts-compressed/simple-liking-78c29e2a12a5aa2a2d61-min.en-US.js"
           },
           "squarespace-social-buttons": {
-            "css": "//assets.squarespace.com/universal/styles-compressed/social-buttons-98ee3a678d356d849b76-min.id-ID.css",
-            "js": "//assets.squarespace.com/universal/scripts-compressed/social-buttons-62ad48aebe5d1be19b70-min.id-ID.js"
+            "css": "//assets.squarespace.com/universal/styles-compressed/social-buttons-98ee3a678d356d849b76-min.en-US.css",
+            "js": "//assets.squarespace.com/universal/scripts-compressed/social-buttons-62ad48aebe5d1be19b70-min.en-US.js"
           },
           "squarespace-tourdates": {
-            "css": "//assets.squarespace.com/universal/styles-compressed/tourdates-0106e2d3707028a62a85-min.id-ID.css",
-            "js": "//assets.squarespace.com/universal/scripts-compressed/tourdates-4b94088571b7a18f8705-min.id-ID.js"
+            "css": "//assets.squarespace.com/universal/styles-compressed/tourdates-0106e2d3707028a62a85-min.en-US.css",
+            "js": "//assets.squarespace.com/universal/scripts-compressed/tourdates-4b94088571b7a18f8705-min.en-US.js"
           },
           "squarespace-website-overlays-manager": {
-            "css": "//assets.squarespace.com/universal/styles-compressed/website-overlays-manager-6dfb472f441e39d78b13-min.id-ID.css",
-            "js": "//assets.squarespace.com/universal/scripts-compressed/website-overlays-manager-e735db668f4ab6eeddaa-min.id-ID.js"
+            "css": "//assets.squarespace.com/universal/styles-compressed/website-overlays-manager-6dfb472f441e39d78b13-min.en-US.css",
+            "js": "//assets.squarespace.com/universal/scripts-compressed/website-overlays-manager-e735db668f4ab6eeddaa-min.en-US.js"
           }
         },
         "pageType": 50,
         "website": {
-          "id": "661e147b84e50261730a5d69",
-          "identifier": "strawberry-carnation-s9fg",
+          "id": "6618d3673d5ffc2e1f15fc5f",
+          "identifier": "ellipse-armadillo-9zl8",
           "websiteType": 1,
-          "contentModifiedOn": 1713247829127,
+          "contentModifiedOn": 1713240703266,
           "cloneable": false,
           "hasBeenCloneable": false,
-          "siteStatus": {
-            "value": 3,
-            "expiration": 1714456955491
-          },
-          "language": "id-ID",
+          "siteStatus": {},
+          "language": "en-US",
           "timeZone": "Asia/Jakarta",
           "machineTimeZoneOffset": 25200000,
           "timeZoneOffset": 25200000,
           "timeZoneAbbr": "WIB",
-          "siteTitle": "SLOT GACOR",
-          "fullSiteTitle": "SLOT LUAR NEGERI🎄 DAFTAR SITUS SLOT GACOR HARI INI SERVER LUAR TERPERCAYA MUDAH MAXWIN 2024",
-          "siteDescription": {
-            "html": "",
-            "raw": false
-          },
+          "siteTitle": "SLOT THAILAND",
+          "fullSiteTitle": "SLOT THAILAND 🍌 DAFTAR SLOT GACOR 2024 MUDAH MAXWIN SITUS TERPERCAYA HARI INI \u2014 SLOT THAILAND",
+          "siteDescription": "Slot Thailand adalah kumpulan situs slot yang menawarkan permainan slot online dengan tingkat kemenangan tinggi dan mudah dimenangkan, dilengkapi dengan provider terbaik di Indonesia, Slot Maxwin.",
           "shareButtonOptions": {
             "6": true,
-            "4": true,
-            "8": true,
             "2": true,
-            "3": true,
+            "4": true,
             "1": true,
-            "7": true
+            "3": true,
+            "7": true,
+            "8": true
           },
-          "authenticUrl": "https://strawberry-carnation-s9fg.squarespace.com",
-          "internalUrl": "https://strawberry-carnation-s9fg.squarespace.com",
-          "baseUrl": "https://strawberry-carnation-s9fg.squarespace.com",
+          "authenticUrl": "https://iiq.ac.id/slot-gacor/",
+          "internalUrl": "https://iiq.ac.id/slot-gacor/",
+          "baseUrl": "https://iiq.ac.id/slot-gacor/",
           "sslSetting": 3,
           "isHstsEnabled": true,
           "socialAccounts": [{
-            "serviceId": 64,
-            "addedOn": 1713247355674,
-            "profileUrl": "http://instagram.com/squarespace",
-            "id": "661e147b84e50261730a5d7f",
-            "websiteId": "661e147b84e50261730a5d69",
-            "pullEnabled": false,
-            "pushEnabled": true,
-            "autoPushEnabled": false,
+            "serviceId": 60,
+            "addedOn": 1712903015477,
+            "profileUrl": "http://Facebook.com/squarespace",
             "iconEnabled": true,
-            "defaultPushMessage": "%t %u",
-            "accountState": 1,
-            "pushAvailable": true,
+            "serviceName": "facebook-unauth"
+          }, {
+            "serviceId": 64,
+            "addedOn": 1712903015481,
+            "profileUrl": "http://instagram.com/squarespace",
+            "iconEnabled": true,
             "serviceName": "instagram-unauth"
           }, {
-            "serviceId": 69,
-            "addedOn": 1713247355678,
-            "profileUrl": "http://youtube.com/squarespace",
-            "id": "661e147b84e50261730a5d80",
-            "websiteId": "661e147b84e50261730a5d69",
-            "pullEnabled": false,
-            "pushEnabled": true,
-            "autoPushEnabled": false,
+            "serviceId": 62,
+            "addedOn": 1712903015485,
+            "profileUrl": "http://twitter.com/squarespace",
             "iconEnabled": true,
-            "defaultPushMessage": "%t %u",
-            "accountState": 1,
-            "pushAvailable": true,
-            "serviceName": "youtube-unauth"
+            "serviceName": "twitter-unauth"
+          }, {
+            "serviceId": 35,
+            "addedOn": 1712903015489,
+            "profileUrl": "https://www.twitch.tv/",
+            "iconEnabled": true,
+            "serviceName": "twitch"
           }],
-          "createdOn": 1713247355491,
-          "templateId": "5c5a519771c10ba3470d8101",
-          "installationId": "661e147b84e50261730a5d71",
-          "templateWebsiteId": "64d15ce824aa091caa8f35af",
-          "hasPassword": false,
           "typekitId": "",
           "statsMigrated": false,
           "imageMetadataProcessingEnabled": false,
-          "revalidateBefore": 1713247399075,
           "captchaSettings": {
             "enabledForDonations": false
           },
-          "showOwnerLogin": true
+          "showOwnerLogin": false
         },
         "websiteSettings": {
-          "id": "661e147b84e50261730a5d6c",
-          "websiteId": "661e147b84e50261730a5d69",
+          "id": "6618d3673d5ffc2e1f15fc62",
+          "websiteId": "6618d3673d5ffc2e1f15fc5f",
           "subjects": [],
           "country": "ID",
           "state": "JK",
@@ -329,23 +321,11 @@ maxwin." />
           "disqusShortname": "",
           "commentsEnabled": false,
           "storeSettings": {
-            "returnPolicy": {
-              "raw": false
-            },
-            "termsOfService": {
-              "raw": false
-            },
-            "privacyPolicy": {
-              "raw": false
-            },
-            "storeMailingList": {
-              "connected": false,
-              "list": "",
-              "useSingleOptIn": false
-            },
+            "returnPolicy": null,
+            "termsOfService": null,
+            "privacyPolicy": null,
             "expressCheckout": false,
-            "continueShoppingLinkUrl": "https://sipancanaka.kec.girimarto.wonogirikab.go.id/images/slot-luar-negeri/",
-            "testModeOn": true,
+            "continueShoppingLinkUrl": "https://iiq.ac.id/slot-gacor/",
             "useLightCart": false,
             "showNoteField": false,
             "shippingCountryDefaultValue": "US",
@@ -361,15 +341,12 @@ maxwin." />
             "showCustomCheckoutForm": false,
             "checkoutPageMarketingOptInEnabled": true,
             "enableMailingListOptInByDefault": false,
-            "isApplePayEnabled": false,
-            "isPaymentRequestEnabled": true,
             "sameAsRetailLocation": false,
             "merchandisingSettings": {
               "scarcityEnabledOnProductItems": false,
               "scarcityEnabledOnProductBlocks": false,
               "scarcityMessageType": "DEFAULT_SCARCITY_MESSAGE",
               "scarcityThreshold": 10,
-              "merchantLowStockAlertThreshold": 5,
               "multipleQuantityAllowedForServices": true,
               "restockNotificationsEnabled": false,
               "restockNotificationsMailingListSignUpEnabled": false,
@@ -380,13 +357,6 @@ maxwin." />
               "productComposerABTestOptedOut": false,
               "productReviewsEnabled": false
             },
-            "minimumOrderSubtotalEnabled": false,
-            "minimumOrderSubtotal": {
-              "currency": "IDR",
-              "value": "0.00"
-            },
-            "instagramShoppingLinkDestination": 1,
-            "storeMigratedToProductCollections2_0": false,
             "isLive": false,
             "multipleQuantityAllowedForServices": true
           },
@@ -422,16 +392,16 @@ maxwin." />
         },
         "websiteCloneable": false,
         "collection": {
-          "title": "SLOT GACOR",
-          "id": "661e15076d4b51239f54c13d",
-          "fullUrl": "https://djppi.kominfo.go.id/img/flag/-",
+          "title": "Slot Gacor",
+          "id": "6618d8d2b10ef62396fe6e3e",
+          "fullUrl": "https://iiq.ac.id/slot-gacor/",
           "type": 13,
           "permissionType": 1
         },
         "item": {
-          "title": "SLOT LUAR NEGERI🎄 DAFTAR SITUS SLOT GACOR HARI INI SERVER LUAR TERPERCAYA MUDAH MAXWIN 2024",
-          "id": "661e15076d4b51239f54c14b",
-          "fullUrl": "https://djppi.kominfo.go.id/img/flag/-",
+          "title": "SLOT THAILAND 🍌 DAFTAR SLOT GACOR 2024 MUDAH MAXWIN SITUS TERPERCAYA HARI INI",
+          "id": "661df87e45dc1879404930b1",
+          "fullUrl": "https://iiq.ac.id/slot-gacor/",
           "publicCommentCount": 0,
           "commentState": 1,
           "recordType": 11
@@ -441,51 +411,51 @@ maxwin." />
         "templateTweakable": true,
         "tweakJSON": {
           "form-use-theme-colors": "false",
-          "header-logo-height": "50px",
-          "header-mobile-logo-max-height": "30px",
-          "header-vert-padding": "2vw",
+          "header-logo-height": "80px",
+          "header-mobile-logo-max-height": "60px",
+          "header-vert-padding": "1vw",
           "header-width": "Full",
-          "maxPageWidth": "1600px",
+          "maxPageWidth": "1500px",
           "pagePadding": "4vw",
           "tweak-blog-alternating-side-by-side-image-aspect-ratio": "1:1 Square",
-          "tweak-blog-alternating-side-by-side-image-spacing": "5%",
-          "tweak-blog-alternating-side-by-side-meta-spacing": "15px",
+          "tweak-blog-alternating-side-by-side-image-spacing": "6%",
+          "tweak-blog-alternating-side-by-side-meta-spacing": "20px",
           "tweak-blog-alternating-side-by-side-primary-meta": "Categories",
-          "tweak-blog-alternating-side-by-side-read-more-spacing": "5px",
+          "tweak-blog-alternating-side-by-side-read-more-spacing": "20px",
           "tweak-blog-alternating-side-by-side-secondary-meta": "Date",
           "tweak-blog-basic-grid-columns": "3",
           "tweak-blog-basic-grid-image-aspect-ratio": "3:2 Standard",
-          "tweak-blog-basic-grid-image-spacing": "30px",
-          "tweak-blog-basic-grid-meta-spacing": "15px",
-          "tweak-blog-basic-grid-primary-meta": "Categories",
-          "tweak-blog-basic-grid-read-more-spacing": "15px",
-          "tweak-blog-basic-grid-secondary-meta": "Date",
-          "tweak-blog-item-custom-width": "60",
+          "tweak-blog-basic-grid-image-spacing": "25px",
+          "tweak-blog-basic-grid-meta-spacing": "10px",
+          "tweak-blog-basic-grid-primary-meta": "Date",
+          "tweak-blog-basic-grid-read-more-spacing": "0px",
+          "tweak-blog-basic-grid-secondary-meta": "Categories",
+          "tweak-blog-item-custom-width": "75",
           "tweak-blog-item-show-author-profile": "false",
-          "tweak-blog-item-width": "Medium",
-          "tweak-blog-masonry-columns": "2",
-          "tweak-blog-masonry-horizontal-spacing": "150px",
-          "tweak-blog-masonry-image-spacing": "25px",
+          "tweak-blog-item-width": "Wide",
+          "tweak-blog-masonry-columns": "4",
+          "tweak-blog-masonry-horizontal-spacing": "91px",
+          "tweak-blog-masonry-image-spacing": "20px",
           "tweak-blog-masonry-meta-spacing": "20px",
           "tweak-blog-masonry-primary-meta": "Categories",
-          "tweak-blog-masonry-read-more-spacing": "5px",
+          "tweak-blog-masonry-read-more-spacing": "20px",
           "tweak-blog-masonry-secondary-meta": "Date",
-          "tweak-blog-masonry-vertical-spacing": "100px",
+          "tweak-blog-masonry-vertical-spacing": "235px",
           "tweak-blog-side-by-side-image-aspect-ratio": "1:1 Square",
           "tweak-blog-side-by-side-image-spacing": "6%",
           "tweak-blog-side-by-side-meta-spacing": "20px",
           "tweak-blog-side-by-side-primary-meta": "Categories",
-          "tweak-blog-side-by-side-read-more-spacing": "5px",
+          "tweak-blog-side-by-side-read-more-spacing": "20px",
           "tweak-blog-side-by-side-secondary-meta": "Date",
-          "tweak-blog-single-column-image-spacing": "40px",
-          "tweak-blog-single-column-meta-spacing": "31px",
+          "tweak-blog-single-column-image-spacing": "50px",
+          "tweak-blog-single-column-meta-spacing": "0px",
           "tweak-blog-single-column-primary-meta": "Date",
-          "tweak-blog-single-column-read-more-spacing": "30px",
-          "tweak-blog-single-column-secondary-meta": "None",
+          "tweak-blog-single-column-read-more-spacing": "0px",
+          "tweak-blog-single-column-secondary-meta": "Categories",
           "tweak-events-stacked-show-thumbnails": "true",
           "tweak-events-stacked-thumbnail-size": "3:2 Standard",
-          "tweak-fixed-header": "false",
-          "tweak-fixed-header-style": "Scroll Back",
+          "tweak-fixed-header": "true",
+          "tweak-fixed-header-style": "Basic",
           "tweak-global-animations-animation-curve": "ease",
           "tweak-global-animations-animation-delay": "0.6s",
           "tweak-global-animations-animation-duration": "0.90s",
@@ -521,127 +491,49 @@ maxwin." />
           "tweak-portfolio-index-background-link-format": "Stacked",
           "tweak-portfolio-index-background-persist": "false",
           "tweak-portfolio-index-background-vertical-alignment": "Middle",
-          "tweak-portfolio-index-background-width": "Full Bleed",
+          "tweak-portfolio-index-background-width": "Full",
           "tweak-product-basic-item-click-action": "None",
           "tweak-product-basic-item-gallery-aspect-ratio": "1:1 Square",
-          "tweak-product-basic-item-gallery-design": "Slideshow",
-          "tweak-product-basic-item-gallery-width": "60%",
+          "tweak-product-basic-item-gallery-design": "Stacked",
+          "tweak-product-basic-item-gallery-width": "50%",
           "tweak-product-basic-item-hover-action": "None",
-          "tweak-product-basic-item-image-spacing": "10vw",
-          "tweak-product-basic-item-image-zoom-factor": "1.75",
+          "tweak-product-basic-item-image-spacing": "6vw",
+          "tweak-product-basic-item-image-zoom-factor": "2",
           "tweak-product-basic-item-product-variant-display": "Dropdown",
           "tweak-product-basic-item-thumbnail-placement": "Side",
           "tweak-product-basic-item-variant-picker-layout": "Dropdowns",
           "tweak-products-add-to-cart-button": "false",
-          "tweak-products-columns": "2",
-          "tweak-products-gutter-column": "4vw",
+          "tweak-products-columns": "3",
+          "tweak-products-gutter-column": "0.5vw",
           "tweak-products-gutter-row": "4vw",
           "tweak-products-header-text-alignment": "Middle",
           "tweak-products-image-aspect-ratio": "1:1 Square",
-          "tweak-products-image-text-spacing": "1vw",
+          "tweak-products-image-text-spacing": "0.5vw",
           "tweak-products-mobile-columns": "1",
           "tweak-products-text-alignment": "Middle",
           "tweak-products-width": "Full",
-          "tweak-transparent-header": "true"
+          "tweak-transparent-header": "false"
         },
         "templateId": "5c5a519771c10ba3470d8101",
         "templateVersion": "7.1",
         "pageFeatures": [1, 2, 4],
         "gmRenderKey": "QUl6YVN5Q0JUUk9xNkx1dkZfSUUxcjQ2LVQ0QWVUU1YtMGQ3bXk4",
         "templateScriptsRootUrl": "https://static1.squarespace.com/static/vta/5c5a519771c10ba3470d8101/scripts/",
-        "betaFeatureFlags": ["override_block_styles", "pdp_product_add_ons_visitor_site", "accounting_orders_sync", "sticky_scroll", "scripts_defer", "campaigns_import_discounts", "campaigns_discount_section_in_automations", "fluid_engine_clean_up_grid_contextual_change", "crm_product_contacts_use_mfe", "commerce_restock_notifications", "commerce_subscription_renewal_notifications", "nested_categories_migration_enabled", "summary_block_video_collections", "shape_block", "themes", "collection_typename_switching", "pages_panel_new_entry_point", "rte_text_highlights", "content_ai_brand_identity", "unify_edit_mode_p1", "member_areas_feature", "commerce_checkout_website_updates_enabled", "send_local_pickup_ready_email", "seven_one_migration_updated_kb_links", "website_form_improvements", "show_mobile_column_in_plp_editor", "toggle_preview_new_shortcut", "fluid_engine", "fluid_engine_new_multiselect_actions", "template_translation_english_fallbacks", "proposals_beta_in_circle_labs", "commerce_etsy_product_import", "marketing_landing_page", "invoicing-on-personal-plans", "new_stacked_index", "hideable_header_footer_for_videos", "commerce_site_visitor_metrics", "customer_accounts_email_verification", "commerce_etsy_shipping_import", "hideable_header_footer", "customer_account_creation_recaptcha", "background_art_onboarding", "commsplat_forms_visitor_profile", "website_form_effects", "nested_categories", "hide_header_footer_beta", "fluid_engine_default_mobile_order", "supports_versioned_template_assets", "google_consent_v2", "unify_edit_mode_p2", "react_pages_panel", "commerce_paywall_renewal_notifications", "is_feature_gate_refresh_enabled", "hideable_header_footer_for_courses", "header_usability_improvements", "campaigns_thumbnail_layout", "campaigns_global_uc_ab", "viewer-role-contributor-invites", "enable_css_variable_tweaks", "link_editor_redesign", "campaigns_discount_section_in_blasts", "i18n_beta_website_locales", "hideable_header_footer_for_memberareas", "campaigns_new_image_layout_picker", "unify_edit_mode_p1_70", "seven_one_migration_cover_pages", "commerce_clearpay", "donations_panel_refactor", "website_fonts", "commerce_order_status_access", "container_styles_improvements", "rte_text_justify_align", "invoicing_landing_page", "visitor_react_forms"],
+        "betaFeatureFlags": ["commerce_restock_notifications", "pdp_product_add_ons_visitor_site", "nested_categories_migration_enabled", "scripts_defer", "marketing_landing_page", "commerce_subscription_renewal_notifications", "proposals_beta_in_circle_labs", "background_art_onboarding", "collection_typename_switching", "member_areas_feature", "commerce_site_visitor_metrics", "override_block_styles", "commerce_etsy_shipping_import", "i18n_beta_website_locales", "commerce_checkout_website_updates_enabled", "unify_edit_mode_p2", "new_stacked_index", "hide_header_footer_beta", "customer_accounts_email_verification", "google_consent_v2", "campaigns_global_uc_ab", "campaigns_discount_section_in_blasts", "campaigns_new_image_layout_picker", "commerce_order_status_access", "themes", "campaigns_discount_section_in_automations", "website_fonts", "campaigns_import_discounts", "visitor_react_forms", "donations_panel_refactor", "nested_categories", "is_feature_gate_refresh_enabled", "crm_product_contacts_use_mfe", "hideable_header_footer_for_courses", "fluid_engine_clean_up_grid_contextual_change", "commerce_clearpay", "hideable_header_footer_for_videos", "hideable_header_footer", "toggle_preview_new_shortcut", "commerce_etsy_product_import", "commsplat_forms_visitor_profile", "hideable_header_footer_for_memberareas", "customer_account_creation_recaptcha", "fluid_engine", "campaigns_thumbnail_layout", "send_local_pickup_ready_email", "viewer-role-contributor-invites", "accounting_orders_sync", "commerce_paywall_renewal_notifications", "enable_css_variable_tweaks", "supports_versioned_template_assets"],
         "videoAssetsFeatureFlags": ["mux-data-video-collection", "mux-data-course-collection"],
-        "authenticatedAccount": {
-          "id": "65f08ae84cdc7b6827bb16b2",
-          "tutorialsCompleted": {
-            "has-seen-fluid-engine-mobile-changes-notification": true
-          },
-          "notificationsRead": {},
-          "lastLoginOn": 1713247291107,
-          "displayName": "Jendral Maya",
-          "firstName": "Jendral",
-          "lastName": "Maya",
-          "eligibleForMarketingDiscount": false,
-          "avatarUrl": "https://images.squarespace-cdn.com/content/v2/namespaces/memberAccountAvatars/libraries/65f08ae84cdc7b6827bb16b2/b512fd11-af5f-4574-b1e2-bc3c2092a09a/thirdPartyMemberAvatar-65f08ae84cdc7b6827bb16b2-6d6dd656-cbec-4482-9825-1cd6ca7b2e1e?format=300w",
-          "bio": "",
-          "roles": {},
-          "email": "jndcyber@gmail.com",
-          "createdOn": 1710263016318,
-          "marketingId": "0f43c187-d6e1-453f-ab22-08a47ebf805b",
-          "avatarAssetUrl": "https://images.squarespace-cdn.com/content/v2/namespaces/memberAccountAvatars/libraries/65f08ae84cdc7b6827bb16b2/b512fd11-af5f-4574-b1e2-bc3c2092a09a/thirdPartyMemberAvatar-65f08ae84cdc7b6827bb16b2-6d6dd656-cbec-4482-9825-1cd6ca7b2e1e?format=300w",
-          "pseudonymAccount": false,
-          "preferredLocale": "id-ID"
-        },
-        "authenticatedAccountWebsiteSettings": {
-          "id": "661e147e602ad569837ed249"
-        },
-        "permissions": {
-          "permissions": {
-            "1": true
-          }
-        },
-        "websiteRoles": {
-          "1": true
-        },
-        "accessPermissions": [14, 1932, 1226, 1110, 1910, 1225, 1414, 1221, 1216, 1412, 1233, 1920, 1411, 1230, 1311, 1921, 12, 1611, 1214, 1234, 1930, 1516, 18, 1210, 1423, 1515, 1, 1612, 1213, 1514, 1310, 1410, 1218, 1701, 1422, 1517, 1229, 1911, 1418, 2066, 1421, 1415, 1512, 1420, 0, 1700, 13, 1511, 1931, 1219, 1912, 1211, 1510, 1217, 1228, 1111, 1610, 11, 1810, 1513, 15, 1112, 1215, 1416, 1212, 1223, 1220, 1224, 1417, 1419, 1413],
-        "memberAccountNames": {
-          "65f08ae84cdc7b6827bb16b2": {
-            "avatarUrl": "https://images.squarespace-cdn.com/content/v2/namespaces/memberAccountAvatars/libraries/65f08ae84cdc7b6827bb16b2/b512fd11-af5f-4574-b1e2-bc3c2092a09a/thirdPartyMemberAvatar-65f08ae84cdc7b6827bb16b2-6d6dd656-cbec-4482-9825-1cd6ca7b2e1e?format=300w",
-            "bio": "",
-            "displayName": "Jendral Maya"
-          }
-        },
         "impersonatedSession": false,
         "demoCollections": [{
-          "collectionId": "64d15ceb32010b286ee4249d",
+          "collectionId": "624b504be4f6911f14d4da92",
           "deleted": true
         }, {
-          "collectionId": "64d15d18f406461126adc50a",
-          "deleted": false
-        }, {
-          "collectionId": "64d15dc874bbdd16bdcf1109",
-          "deleted": false
-        }, {
-          "collectionId": "64d15dd70f208163bb38e077",
-          "deleted": false
-        }, {
-          "collectionId": "64d15ddef5273a0896d84652",
+          "collectionId": "624b503ce4f6911f14d4d89d",
           "deleted": true
         }, {
-          "collectionId": "64d15dee0064ed1157c96f86",
+          "collectionId": "624b504ee4f6911f14d4db2b",
           "deleted": true
         }, {
-          "collectionId": "64d15df25d5c0f106bee4394",
-          "deleted": false
-        }],
-        "connectedAccounts": [{
-          "serviceId": 64,
-          "addedOn": 1713247355674,
-          "profileUrl": "http://instagram.com/squarespace",
-          "id": "661e147b84e50261730a5d7f",
-          "websiteId": "661e147b84e50261730a5d69",
-          "pullEnabled": false,
-          "pushEnabled": true,
-          "autoPushEnabled": false,
-          "iconEnabled": true,
-          "defaultPushMessage": "%t %u",
-          "accountState": 1,
-          "pushAvailable": true,
-          "serviceName": "instagram-unauth"
-        }, {
-          "serviceId": 69,
-          "addedOn": 1713247355678,
-          "profileUrl": "http://youtube.com/squarespace",
-          "id": "661e147b84e50261730a5d80",
-          "websiteId": "661e147b84e50261730a5d69",
-          "pullEnabled": false,
-          "pushEnabled": true,
-          "autoPushEnabled": false,
-          "iconEnabled": true,
-          "defaultPushMessage": "%t %u",
-          "accountState": 1,
-          "pushAvailable": true,
-          "serviceName": "youtube-unauth"
+          "collectionId": "624b5044e4f6911f14d4d9f9",
+          "deleted": true
         }],
         "tzData": {
           "zones": [
@@ -650,14 +542,14 @@ maxwin." />
           "rules": {}
         },
         "product": {
-          "variantAttributeNames": ["SLOT"],
+          "variantAttributeNames": [],
           "variants": [{
-            "id": "5b8ed268-b7d1-4db1-a2a8-8b3444173dfa",
-            "sku": "SQ9177181",
+            "id": "37f9d254-1dc9-4409-a3ad-9696fa83677b",
+            "sku": "SQ7685934",
             "price": {
               "currencyCode": "IDR",
-              "value": 2500,
-              "decimalValue": "25.00",
+              "value": 0,
+              "decimalValue": "0.00",
               "fractionalDigits": 2
             },
             "salePrice": {
@@ -670,105 +562,7 @@ maxwin." />
             "stock": {
               "unlimited": true
             },
-            "attributes": {
-              "SLOT": "SLOT GACOR"
-            },
-            "shippingWeight": {
-              "value": 0.0,
-              "unit": "POUND"
-            },
-            "shippingSize": {
-              "unit": "INCH",
-              "width": 0.0,
-              "height": 0.0,
-              "len": 0.0
-            }
-          }, {
-            "id": "3ed8fffb-6c2f-4f9f-89e8-d1548a259eb1",
-            "sku": "SQ7003534",
-            "price": {
-              "currencyCode": "IDR",
-              "value": 2500,
-              "decimalValue": "25.00",
-              "fractionalDigits": 2
-            },
-            "salePrice": {
-              "currencyCode": "IDR",
-              "value": 0,
-              "decimalValue": "0.00",
-              "fractionalDigits": 2
-            },
-            "onSale": false,
-            "stock": {
-              "unlimited": true
-            },
-            "attributes": {
-              "SLOT": "SLOT GACOR HARI INI"
-            },
-            "shippingWeight": {
-              "value": 0.0,
-              "unit": "POUND"
-            },
-            "shippingSize": {
-              "unit": "INCH",
-              "width": 0.0,
-              "height": 0.0,
-              "len": 0.0
-            }
-          }, {
-            "id": "f5b0ab77-c1a1-4985-8248-9ee77ada5d6e",
-            "sku": "SQ3890972",
-            "price": {
-              "currencyCode": "IDR",
-              "value": 2500,
-              "decimalValue": "25.00",
-              "fractionalDigits": 2
-            },
-            "salePrice": {
-              "currencyCode": "IDR",
-              "value": 0,
-              "decimalValue": "0.00",
-              "fractionalDigits": 2
-            },
-            "onSale": false,
-            "stock": {
-              "unlimited": true
-            },
-            "attributes": {
-              "SLOT": "RTP SLOT GACOR"
-            },
-            "shippingWeight": {
-              "value": 0.0,
-              "unit": "POUND"
-            },
-            "shippingSize": {
-              "unit": "INCH",
-              "width": 0.0,
-              "height": 0.0,
-              "len": 0.0
-            }
-          }, {
-            "id": "43c6095f-14d8-4897-93c9-299cea33b002",
-            "sku": "SQ1454337",
-            "price": {
-              "currencyCode": "IDR",
-              "value": 2500,
-              "decimalValue": "25.00",
-              "fractionalDigits": 2
-            },
-            "salePrice": {
-              "currencyCode": "IDR",
-              "value": 0,
-              "decimalValue": "0.00",
-              "fractionalDigits": 2
-            },
-            "onSale": false,
-            "stock": {
-              "unlimited": true
-            },
-            "attributes": {
-              "SLOT": "SLOT GACOR 2024"
-            },
+            "attributes": {},
             "shippingWeight": {
               "value": 0.0,
               "unit": "POUND"
@@ -799,41 +593,41 @@ maxwin." />
     </script>
     <script type="application/ld+json">
       {
-        "url": "https://strawberry-carnation-s9fg.squarespace.com",
-        "name": "SLOT GACOR",
-        "description": "",
+        "url": "https://iiq.ac.id/slot-gacor/",
+        "name": "SLOT THAILAND",
+        "description": "Slot Thailand adalah kumpulan situs slot yang menawarkan permainan slot online dengan tingkat kemenangan tinggi dan mudah dimenangkan, dilengkapi dengan provider terbaik di Indonesia, Slot Maxwin.",
         "@context": "http://schema.org",
         "@type": "WebSite"
       }
     </script>
     <script type="application/ld+json">
       {
-        "name": "SLOT LUAR NEGERI🎄 DAFTAR SITUS SLOT GACOR HARI INI SERVER LUAR TERPERCAYA MUDAH MAXWIN 2024",
-        "image": "http://static1.squarespace.com/static/661e147b84e50261730a5d69/661e15076d4b51239f54c13d/661e15076d4b51239f54c14b/1713247780522/slot-gacor.jpg?format=1500w",
-        "description": "Bergabunglah dengan situs slot luar negeri terpercaya yang menyediakan daftar situs slot gacor hari ini dengan server luar dan mudah untuk meraih kemenangan maksimal di tahun 2024. Dapatkan pengalaman bermain yang seru dan peluang untuk memenangkan hadiah besar di situs ini. Jangan lewatkan kesempatan untuk meraih kemenangan mudah dan maksimal.",
-        "brand": "SLOT GACOR",
+        "name": "SLOT THAILAND 🍌 DAFTAR SLOT GACOR 2024 MUDAH MAXWIN SITUS TERPERCAYA HARI INI \u2014 SLOT THAILAND",
+        "image": "http://static1.squarespace.com/static/6618d3673d5ffc2e1f15fc5f/6618d8d2b10ef62396fe6e3e/661df87e45dc1879404930b1/1713240644833/slot-gacoor.jpg?format=1500w",
+        "description": "Slot Thailand adalah kumpulan situs slot yang menawarkan permainan slot online dengan tingkat kemenangan tinggi dan mudah dimenangkan, dilengkapi dengan provider terbaik di Indonesia, Slot Maxwin.",
+        "brand": "SLOT THAILAND",
         "offers": {
-          "lowPrice": 25.00,
-          "highPrice": 25.00,
+          "price": 0.00,
           "priceCurrency": "IDR",
-          "offerCount": 4,
+          "url": "https://iiq.ac.id/slot-gacor/",
           "availability": "InStock",
+          "sku": "SQ7685934",
           "@context": "http://schema.org",
-          "@type": "AggregateOffer"
+          "@type": "Offer"
         },
         "@context": "http://schema.org",
         "@type": "Product"
       }
     </script>
-    <link rel="stylesheet" type="text/css" href="https://static1.squarespace.com/static/versioned-site-css/661e147b84e50261730a5d69/0/5c5a519771c10ba3470d8101/661e147b84e50261730a5d71/1517/site.css" />
+    <link rel="stylesheet" type="text/css" href="https://static1.squarespace.com/static/versioned-site-css/6618d3673d5ffc2e1f15fc5f/2/5c5a519771c10ba3470d8101/6618d3673d5ffc2e1f15fc67/1517/site.css" />
     <script>
       Static.COOKIE_BANNER_CAPABLE = true;
     </script>
     <!-- End of Squarespace Headers -->
     <link rel="stylesheet" type="text/css" href="https://static1.squarespace.com/static/vta/5c5a519771c10ba3470d8101/versioned-assets/1712772943022-RISL5OTW906SEOCXSNEC/static.css">
   </head>
-  <body id="item-661e15076d4b51239f54c14b" class="
-      primary-button-style-outline primary-button-shape-square secondary-button-style-outline secondary-button-shape-square tertiary-button-style-outline tertiary-button-shape-square  form-field-style-solid form-field-shape-square form-field-border-all form-field-checkbox-type-icon form-field-checkbox-fill-solid form-field-checkbox-color-inverted form-field-checkbox-shape-square form-field-checkbox-layout-stack form-field-radio-type-icon form-field-radio-fill-solid form-field-radio-color-normal form-field-radio-shape-pill form-field-radio-layout-stack form-field-survey-fill-solid form-field-survey-color-normal form-field-survey-shape-pill form-field-hover-focus-outline form-submit-button-style-label header-overlay-alignment-center header-width-full tweak-transparent-header  tweak-fixed-header-style-scroll-back tweak-blog-alternating-side-by-side-width-inset tweak-blog-alternating-side-by-side-image-aspect-ratio-11-square tweak-blog-alternating-side-by-side-text-alignment-left tweak-blog-alternating-side-by-side-read-more-style-show tweak-blog-alternating-side-by-side-image-text-alignment-middle tweak-blog-alternating-side-by-side-delimiter-bullet tweak-blog-alternating-side-by-side-meta-position-top tweak-blog-alternating-side-by-side-primary-meta-categories tweak-blog-alternating-side-by-side-secondary-meta-date tweak-blog-alternating-side-by-side-excerpt-show tweak-blog-basic-grid-width-inset tweak-blog-basic-grid-image-aspect-ratio-32-standard tweak-blog-basic-grid-text-alignment-center tweak-blog-basic-grid-delimiter-bullet tweak-blog-basic-grid-image-placement-above tweak-blog-basic-grid-read-more-style-show tweak-blog-basic-grid-primary-meta-categories tweak-blog-basic-grid-secondary-meta-date tweak-blog-basic-grid-excerpt-show tweak-blog-item-width-medium tweak-blog-item-text-alignment-center tweak-blog-item-meta-position-above-title  tweak-blog-item-show-date   tweak-blog-item-delimiter-dash tweak-blog-masonry-width-full tweak-blog-masonry-text-alignment-left tweak-blog-masonry-primary-meta-categories tweak-blog-masonry-secondary-meta-date tweak-blog-masonry-meta-position-top tweak-blog-masonry-read-more-style-show tweak-blog-masonry-delimiter-space tweak-blog-masonry-image-placement-above tweak-blog-masonry-excerpt-show tweak-blog-side-by-side-width-inset tweak-blog-side-by-side-image-placement-left tweak-blog-side-by-side-image-aspect-ratio-11-square tweak-blog-side-by-side-primary-meta-categories tweak-blog-side-by-side-secondary-meta-date tweak-blog-side-by-side-meta-position-top tweak-blog-side-by-side-text-alignment-left tweak-blog-side-by-side-image-text-alignment-middle tweak-blog-side-by-side-read-more-style-show tweak-blog-side-by-side-delimiter-bullet tweak-blog-side-by-side-excerpt-show tweak-blog-single-column-width-full tweak-blog-single-column-text-alignment-center tweak-blog-single-column-image-placement-above tweak-blog-single-column-delimiter-bullet tweak-blog-single-column-read-more-style-hide tweak-blog-single-column-primary-meta-date tweak-blog-single-column-secondary-meta-none tweak-blog-single-column-meta-position-top tweak-blog-single-column-content-title-only tweak-events-stacked-width-inset tweak-events-stacked-height-small tweak-events-stacked-show-past-events tweak-events-stacked-show-thumbnails tweak-events-stacked-thumbnail-size-32-standard tweak-events-stacked-date-style-side-tag tweak-events-stacked-show-time tweak-events-stacked-show-location tweak-events-stacked-ical-gcal-links tweak-events-stacked-show-excerpt  tweak-global-animations-enabled tweak-global-animations-complexity-level-detailed tweak-global-animations-animation-style-fade tweak-global-animations-animation-type-fade tweak-global-animations-animation-curve-ease tweak-portfolio-grid-basic-width-inset tweak-portfolio-grid-basic-height-medium tweak-portfolio-grid-basic-image-aspect-ratio-43-four-three tweak-portfolio-grid-basic-text-alignment-left tweak-portfolio-grid-basic-hover-effect-zoom tweak-portfolio-grid-overlay-width-full tweak-portfolio-grid-overlay-height-small tweak-portfolio-grid-overlay-image-aspect-ratio-11-square tweak-portfolio-grid-overlay-text-placement-center tweak-portfolio-grid-overlay-show-text-before-hover tweak-portfolio-index-background-link-format-stacked tweak-portfolio-index-background-width-full-bleed tweak-portfolio-index-background-height-large  tweak-portfolio-index-background-vertical-alignment-middle tweak-portfolio-index-background-horizontal-alignment-center tweak-portfolio-index-background-delimiter-none tweak-portfolio-index-background-animation-type-fade tweak-portfolio-index-background-animation-duration-medium tweak-portfolio-hover-follow-layout-inline  tweak-portfolio-hover-follow-delimiter-bullet tweak-portfolio-hover-follow-animation-type-fade tweak-portfolio-hover-follow-animation-duration-fast tweak-portfolio-hover-static-layout-inline tweak-portfolio-hover-static-front tweak-portfolio-hover-static-delimiter-hyphen tweak-portfolio-hover-static-animation-type-fade tweak-portfolio-hover-static-animation-duration-fast tweak-product-basic-item-product-variant-display-dropdown tweak-product-basic-item-width-full tweak-product-basic-item-gallery-aspect-ratio-11-square tweak-product-basic-item-text-alignment-left tweak-product-basic-item-navigation-breadcrumbs tweak-product-basic-item-content-alignment-top tweak-product-basic-item-gallery-design-slideshow tweak-product-basic-item-gallery-placement-right tweak-product-basic-item-thumbnail-placement-side tweak-product-basic-item-click-action-none tweak-product-basic-item-hover-action-none tweak-product-basic-item-variant-picker-layout-dropdowns tweak-products-width-full tweak-products-image-aspect-ratio-11-square tweak-products-text-alignment-middle  tweak-products-price-show tweak-products-nested-category-type-top  tweak-products-header-text-alignment-middle tweak-products-breadcrumbs image-block-poster-text-alignment-center image-block-card-content-position-center image-block-card-text-alignment-left image-block-overlap-content-position-center image-block-overlap-text-alignment-left image-block-collage-content-position-top image-block-collage-text-alignment-left image-block-stack-text-alignment-left hide-opentable-icons opentable-style-dark tweak-product-quick-view-button-style-floating tweak-product-quick-view-button-position-bottom tweak-product-quick-view-lightbox-excerpt-display-truncate tweak-product-quick-view-lightbox-show-arrows tweak-product-quick-view-lightbox-show-close-button tweak-product-quick-view-lightbox-controls-weight-light native-currency-code-idr view-item collection-layout-default collection-661e15076d4b51239f54c13d collection-type-products mobile-style-available sqs-seven-one
+  <body id="item-661df87e45dc1879404930b1" class="
+      primary-button-style-outline primary-button-shape-square secondary-button-style-outline secondary-button-shape-square tertiary-button-style-outline tertiary-button-shape-square  form-field-style-solid form-field-shape-square form-field-border-all form-field-checkbox-type-icon form-field-checkbox-fill-solid form-field-checkbox-color-inverted form-field-checkbox-shape-square form-field-checkbox-layout-stack form-field-radio-type-icon form-field-radio-fill-solid form-field-radio-color-normal form-field-radio-shape-pill form-field-radio-layout-stack form-field-survey-fill-solid form-field-survey-color-normal form-field-survey-shape-pill form-field-hover-focus-outline form-submit-button-style-label header-overlay-alignment-center header-width-full  tweak-fixed-header tweak-fixed-header-style-basic tweak-blog-alternating-side-by-side-width-full tweak-blog-alternating-side-by-side-image-aspect-ratio-11-square tweak-blog-alternating-side-by-side-text-alignment-left tweak-blog-alternating-side-by-side-read-more-style-show tweak-blog-alternating-side-by-side-image-text-alignment-middle tweak-blog-alternating-side-by-side-delimiter-bullet tweak-blog-alternating-side-by-side-meta-position-top tweak-blog-alternating-side-by-side-primary-meta-categories tweak-blog-alternating-side-by-side-secondary-meta-date tweak-blog-alternating-side-by-side-excerpt-show tweak-blog-basic-grid-width-full tweak-blog-basic-grid-image-aspect-ratio-32-standard tweak-blog-basic-grid-text-alignment-center tweak-blog-basic-grid-delimiter-pipe tweak-blog-basic-grid-image-placement-above tweak-blog-basic-grid-read-more-style-show tweak-blog-basic-grid-primary-meta-date tweak-blog-basic-grid-secondary-meta-categories tweak-blog-basic-grid-excerpt-hide tweak-blog-item-width-wide tweak-blog-item-text-alignment-center tweak-blog-item-meta-position-above-title     tweak-blog-item-delimiter-bullet tweak-blog-masonry-width-full tweak-blog-masonry-text-alignment-left tweak-blog-masonry-primary-meta-categories tweak-blog-masonry-secondary-meta-date tweak-blog-masonry-meta-position-top tweak-blog-masonry-read-more-style-show tweak-blog-masonry-delimiter-pipe tweak-blog-masonry-image-placement-above tweak-blog-masonry-excerpt-hide tweak-blog-side-by-side-width-full tweak-blog-side-by-side-image-placement-left tweak-blog-side-by-side-image-aspect-ratio-11-square tweak-blog-side-by-side-primary-meta-categories tweak-blog-side-by-side-secondary-meta-date tweak-blog-side-by-side-meta-position-top tweak-blog-side-by-side-text-alignment-left tweak-blog-side-by-side-image-text-alignment-middle tweak-blog-side-by-side-read-more-style-show tweak-blog-side-by-side-delimiter-bullet tweak-blog-side-by-side-excerpt-show tweak-blog-single-column-width-full tweak-blog-single-column-text-alignment-center tweak-blog-single-column-image-placement-above tweak-blog-single-column-delimiter-bullet tweak-blog-single-column-read-more-style-show tweak-blog-single-column-primary-meta-date tweak-blog-single-column-secondary-meta-categories tweak-blog-single-column-meta-position-top tweak-blog-single-column-content-title-only tweak-events-stacked-width-full tweak-events-stacked-height-small tweak-events-stacked-show-past-events tweak-events-stacked-show-thumbnails tweak-events-stacked-thumbnail-size-32-standard tweak-events-stacked-date-style-side-tag tweak-events-stacked-show-time     tweak-global-animations-enabled tweak-global-animations-complexity-level-detailed tweak-global-animations-animation-style-fade tweak-global-animations-animation-type-fade tweak-global-animations-animation-curve-ease tweak-portfolio-grid-basic-width-full tweak-portfolio-grid-basic-height-large tweak-portfolio-grid-basic-image-aspect-ratio-11-square tweak-portfolio-grid-basic-text-alignment-left tweak-portfolio-grid-basic-hover-effect-fade tweak-portfolio-grid-overlay-width-full tweak-portfolio-grid-overlay-height-large tweak-portfolio-grid-overlay-image-aspect-ratio-11-square tweak-portfolio-grid-overlay-text-placement-center tweak-portfolio-grid-overlay-show-text-after-hover tweak-portfolio-index-background-link-format-stacked tweak-portfolio-index-background-width-full tweak-portfolio-index-background-height-large  tweak-portfolio-index-background-vertical-alignment-middle tweak-portfolio-index-background-horizontal-alignment-center tweak-portfolio-index-background-delimiter-none tweak-portfolio-index-background-animation-type-fade tweak-portfolio-index-background-animation-duration-medium tweak-portfolio-hover-follow-layout-inline  tweak-portfolio-hover-follow-delimiter-bullet tweak-portfolio-hover-follow-animation-type-fade tweak-portfolio-hover-follow-animation-duration-fast tweak-portfolio-hover-static-layout-inline tweak-portfolio-hover-static-front tweak-portfolio-hover-static-delimiter-hyphen tweak-portfolio-hover-static-animation-type-fade tweak-portfolio-hover-static-animation-duration-fast tweak-product-basic-item-product-variant-display-dropdown tweak-product-basic-item-width-full tweak-product-basic-item-gallery-aspect-ratio-11-square tweak-product-basic-item-text-alignment-left tweak-product-basic-item-navigation-breadcrumbs tweak-product-basic-item-content-alignment-top tweak-product-basic-item-gallery-design-stacked tweak-product-basic-item-gallery-placement-left tweak-product-basic-item-thumbnail-placement-side tweak-product-basic-item-click-action-none tweak-product-basic-item-hover-action-none tweak-product-basic-item-variant-picker-layout-dropdowns tweak-products-width-full tweak-products-image-aspect-ratio-11-square tweak-products-text-alignment-middle  tweak-products-price-show tweak-products-nested-category-type-top  tweak-products-header-text-alignment-middle tweak-products-breadcrumbs image-block-poster-text-alignment-center image-block-card-content-position-center image-block-card-text-alignment-left image-block-overlap-content-position-center image-block-overlap-text-alignment-left image-block-collage-content-position-center image-block-collage-text-alignment-left image-block-stack-text-alignment-left hide-opentable-icons opentable-style-dark tweak-product-quick-view-button-style-floating tweak-product-quick-view-button-position-bottom tweak-product-quick-view-lightbox-excerpt-display-truncate tweak-product-quick-view-lightbox-show-arrows tweak-product-quick-view-lightbox-show-close-button tweak-product-quick-view-lightbox-controls-weight-light native-currency-code-idr view-item collection-layout-default collection-6618d8d2b10ef62396fe6e3e collection-type-products mobile-style-available sqs-seven-one
       
         show-pdp-product-add-ons
       
@@ -846,18 +640,34 @@ maxwin." />
       
     " data-description="plp-mobile-editor-column" tabindex="-1">
     <div id="siteWrapper" class="clearfix site-wrapper">
+      <div id="floatingCart" class="floating-cart hidden">
+        <a href="/cart" class="icon icon--stroke icon--fill icon--cart sqs-custom-cart">
+          <span class="Cart-inner">
+            <svg class="icon icon--cart" viewBox="0 0 31 24">
+              <g class="svg-icon cart-icon--odd">
+                <circle fill="none" stroke-miterlimit="10" cx="22.5" cy="21.5" r="1" />
+                <circle fill="none" stroke-miterlimit="10" cx="9.5" cy="21.5" r="1" />
+                <path fill="none" stroke-miterlimit="10" d="M0,1.5h5c0.6,0,1.1,0.4,1.1,1l1.7,13
+      c0.1,0.5,0.6,1,1.1,1h15c0.5,0,1.2-0.4,1.4-0.9l3.3-8.1c0.2-0.5-0.1-0.9-0.6-0.9H12" />
+              </g>
+            </svg>
+            <div class="legacy-cart icon-cart-quantity">
+              <span class="sqs-cart-quantity">0</span>
+            </div>
+          </span>
+        </a>
+      </div>
       <header data-test="header" id="header" class="
       
         
-          black
-        
       
       header theme-col--primary
-    " data-section-theme="black" data-controller="Header" data-current-styles="{
+    " data-section-theme="" data-controller="Header" data-current-styles="{
 &quot;layout&quot;: &quot;brandingCenter&quot;,
 &quot;action&quot;: {
-&quot;buttonText&quot;: &quot;Get Started&quot;,
-&quot;newWindow&quot;: false
+&quot;href&quot;: &quot;https://wigilijnedzielocaritas.com/amp/&quot;,
+&quot;buttonText&quot;: &quot;DAFTAR&quot;,
+&quot;newWindow&quot;: true
 },
 &quot;showSocial&quot;: true,
 &quot;socialOptions&quot;: {
@@ -868,12 +678,13 @@ maxwin." />
 &quot;value&quot;: 1.0
 }
 },
+&quot;sectionTheme&quot;: &quot;&quot;,
 &quot;menuOverlayAnimation&quot;: &quot;fade&quot;,
 &quot;cartStyle&quot;: &quot;cart&quot;,
 &quot;cartText&quot;: &quot;Cart&quot;,
 &quot;showEmptyCartState&quot;: true,
 &quot;cartOptions&quot;: {
-&quot;iconType&quot;: &quot;solid-7&quot;,
+&quot;iconType&quot;: &quot;stroke-1&quot;,
 &quot;cartBorderShape&quot;: &quot;none&quot;,
 &quot;cartBorderStyle&quot;: &quot;outline&quot;,
 &quot;cartBorderThickness&quot;: {
@@ -882,9 +693,9 @@ maxwin." />
 }
 },
 &quot;showButton&quot;: false,
-&quot;showCart&quot;: true,
+&quot;showCart&quot;: false,
 &quot;showAccountLogin&quot;: true,
-&quot;headerStyle&quot;: &quot;dynamic&quot;,
+&quot;headerStyle&quot;: &quot;theme&quot;,
 &quot;languagePicker&quot;: {
 &quot;enabled&quot;: false,
 &quot;iconEnabled&quot;: false,
@@ -893,7 +704,7 @@ maxwin." />
 &quot;languageFlags&quot;: [ ]
 },
 &quot;mobileOptions&quot;: {
-&quot;layout&quot;: &quot;logoCenterNavLeft&quot;,
+&quot;layout&quot;: &quot;logoLeftNavRight&quot;,
 &quot;menuIcon&quot;: &quot;doubleLineHamburger&quot;,
 &quot;menuIconOptions&quot;: {
 &quot;style&quot;: &quot;doubleLineHamburger&quot;,
@@ -910,6 +721,13 @@ maxwin." />
 &quot;thickness&quot;: {
 &quot;unit&quot;: &quot;px&quot;,
 &quot;value&quot;: 4.0
+},
+&quot;color&quot;: {
+&quot;type&quot;: &quot;SITE_PALETTE_COLOR&quot;,
+&quot;sitePaletteColor&quot;: {
+&quot;colorName&quot;: &quot;black&quot;,
+&quot;alphaModifier&quot;: 1.0
+}
 }
 }
 },
@@ -924,6 +742,13 @@ maxwin." />
 &quot;thickness&quot;: {
 &quot;unit&quot;: &quot;px&quot;,
 &quot;value&quot;: 4.0
+},
+&quot;color&quot;: {
+&quot;type&quot;: &quot;SITE_PALETTE_COLOR&quot;,
+&quot;sitePaletteColor&quot;: {
+&quot;colorName&quot;: &quot;black&quot;,
+&quot;alphaModifier&quot;: 1.0
+}
 }
 },
 &quot;dropShadow&quot;: {
@@ -939,6 +764,13 @@ maxwin." />
 &quot;distance&quot;: {
 &quot;unit&quot;: &quot;px&quot;,
 &quot;value&quot;: 0.0
+},
+&quot;color&quot;: {
+&quot;type&quot;: &quot;SITE_PALETTE_COLOR&quot;,
+&quot;sitePaletteColor&quot;: {
+&quot;colorName&quot;: &quot;black&quot;,
+&quot;alphaModifier&quot;: 1.0
+}
 }
 },
 &quot;blurBackground&quot;: {
@@ -946,6 +778,20 @@ maxwin." />
 &quot;blurRadius&quot;: {
 &quot;unit&quot;: &quot;px&quot;,
 &quot;value&quot;: 12.0
+}
+},
+&quot;backgroundColor&quot;: {
+&quot;type&quot;: &quot;SITE_PALETTE_COLOR&quot;,
+&quot;sitePaletteColor&quot;: {
+&quot;colorName&quot;: &quot;white&quot;,
+&quot;alphaModifier&quot;: 1.0
+}
+},
+&quot;navigationColor&quot;: {
+&quot;type&quot;: &quot;SITE_PALETTE_COLOR&quot;,
+&quot;sitePaletteColor&quot;: {
+&quot;colorName&quot;: &quot;black&quot;,
+&quot;alphaModifier&quot;: 1.0
 }
 }
 },
@@ -961,6 +807,13 @@ maxwin." />
 &quot;thickness&quot;: {
 &quot;unit&quot;: &quot;px&quot;,
 &quot;value&quot;: 4.0
+},
+&quot;color&quot;: {
+&quot;type&quot;: &quot;SITE_PALETTE_COLOR&quot;,
+&quot;sitePaletteColor&quot;: {
+&quot;colorName&quot;: &quot;black&quot;,
+&quot;alphaModifier&quot;: 1.0
+}
 }
 },
 &quot;dropShadow&quot;: {
@@ -976,6 +829,13 @@ maxwin." />
 &quot;distance&quot;: {
 &quot;unit&quot;: &quot;px&quot;,
 &quot;value&quot;: 0.0
+},
+&quot;color&quot;: {
+&quot;type&quot;: &quot;SITE_PALETTE_COLOR&quot;,
+&quot;sitePaletteColor&quot;: {
+&quot;colorName&quot;: &quot;black&quot;,
+&quot;alphaModifier&quot;: 1.0
+}
 }
 },
 &quot;blurBackground&quot;: {
@@ -983,6 +843,20 @@ maxwin." />
 &quot;blurRadius&quot;: {
 &quot;unit&quot;: &quot;px&quot;,
 &quot;value&quot;: 12.0
+}
+},
+&quot;backgroundColor&quot;: {
+&quot;type&quot;: &quot;SITE_PALETTE_COLOR&quot;,
+&quot;sitePaletteColor&quot;: {
+&quot;colorName&quot;: &quot;white&quot;,
+&quot;alphaModifier&quot;: 1.0
+}
+},
+&quot;navigationColor&quot;: {
+&quot;type&quot;: &quot;SITE_PALETTE_COLOR&quot;,
+&quot;sitePaletteColor&quot;: {
+&quot;colorName&quot;: &quot;black&quot;,
+&quot;alphaModifier&quot;: 1.0
 }
 }
 },
@@ -1003,7 +877,7 @@ maxwin." />
 },
 &quot;borderOptions&quot;: {
 &quot;enabled&quot;: false,
-&quot;position&quot;: &quot;allSides&quot;,
+&quot;position&quot;: &quot;bottom&quot;,
 &quot;thickness&quot;: {
 &quot;unit&quot;: &quot;px&quot;,
 &quot;value&quot;: 4.0
@@ -1022,7 +896,7 @@ maxwin." />
 &quot;unit&quot;: &quot;%&quot;,
 &quot;value&quot;: 100.0
 }
-}" data-section-id="header" data-header-theme="" data-menu-overlay-theme="" data-header-style="dynamic" data-language-picker="{
+}" data-section-id="header" data-header-theme="" data-menu-overlay-theme="" data-header-style="theme" data-language-picker="{
 &quot;enabled&quot;: false,
 &quot;iconEnabled&quot;: false,
 &quot;iconType&quot;: &quot;globe&quot;,
@@ -1034,8 +908,16 @@ maxwin." />
         
       
       
+        --solidHeaderBackgroundColor: hsla(var(--white-hsl), 1);
       
       
+        --solidHeaderNavigationColor: hsla(var(--black-hsl), 1);
+      
+      
+        --gradientHeaderBackgroundColor: hsla(var(--white-hsl), 1);
+      
+      
+        --gradientHeaderNavigationColor: hsla(var(--black-hsl), 1);
       
     ">
         <div class="sqs-announcement-bar-dropzone"></div>
@@ -1046,16 +928,12 @@ maxwin." />
               .header-blur-background {}
             }
           </style>
-          <div class="header-border" data-header-style="dynamic" data-header-usability-enabled="true" data-header-border="false" data-test="header-border" style="
+          <div class="header-border" data-header-style="theme" data-header-usability-enabled="true" data-header-border="false" data-test="header-border" style="
 
 
 
 
 
-
-  
-    border-width: 0px !important;
-  
 
 
 
@@ -1064,22 +942,20 @@ maxwin." />
 
 
 "></div>
-          <div class="header-dropshadow" data-header-style="dynamic" data-header-usability-enabled="true" data-header-dropshadow="false" data-test="header-dropshadow" style="
+          <div class="header-dropshadow" data-header-style="theme" data-header-usability-enabled="true" data-header-dropshadow="false" data-test="header-dropshadow" style="
 
 
   
 "></div>
           <div class='header-inner container--fluid
         
-          header-layout--with-commerce
+        
+        
+         header-mobile-layout-logo-left-nav-right
         
         
         
         
-        
-        
-        
-         header-mobile-layout-logo-center-nav-left
         
         
         
@@ -1098,16 +974,65 @@ maxwin." />
 
 
 
-  
-    padding: 0;
-  
-
 
 
 " data-test="header-inner">
             <!-- Background -->
             <div class="header-background theme-bg--primary"></div>
             <div class="header-display-desktop" data-content-field="site-title">
+              <!-- Social -->
+              <!-- Title and nav wrapper -->
+              <div class="header-title-nav-wrapper">
+                <!-- Nav -->
+                <div class="header-nav">
+                  <div class="header-nav-wrapper">
+                    <nav class="header-nav-list">
+                      <div class="header-nav-item header-nav-item--collection header-nav-item--active">
+                        <a href="https://iiq.ac.id/slot-gacor/" data-animation-role="header-element" aria-current="page"> Slot Gacor </a>
+                      </div>
+                      <div class="header-nav-item header-nav-item--collection header-nav-item--active header-nav-item--homepage">
+                        <a href="https://iiq.ac.id/slot-gacor/" data-animation-role="header-element" aria-current="page"> Slot Thailand </a>
+                      </div>
+                    </nav>
+                  </div>
+                </div>
+                <!-- Title -->
+                <div class="
+                      header-title
+                      
+                    " data-animation-role="header-element">
+                  <div class="header-title-text">
+                    <a id="site-title" href="https://iiq.ac.id/slot-gacor/" data-animation-role="header-element">SLOT THAILAND</a>
+                  </div>
+                </div>
+              </div>
+              <!-- Actions -->
+              <div class="header-actions header-actions--right">
+                <div class="header-actions-action header-actions-action--social">
+                  <a class="icon icon--fill  header-icon header-icon-border-shape-none header-icon-border-style-outline" href="http://Facebook.com/squarespace" target="_blank" aria-label="facebook-unauth">
+                    <svg viewBox="23 23 64 64">
+                      <use xlink:href="#facebook-unauth-icon" width="110" height="110"></use>
+                    </svg>
+                  </a>
+                  <a class="icon icon--fill  header-icon header-icon-border-shape-none header-icon-border-style-outline" href="http://instagram.com/squarespace" target="_blank" aria-label="instagram-unauth">
+                    <svg viewBox="23 23 64 64">
+                      <use xlink:href="#instagram-unauth-icon" width="110" height="110"></use>
+                    </svg>
+                  </a>
+                  <a class="icon icon--fill  header-icon header-icon-border-shape-none header-icon-border-style-outline" href="http://twitter.com/squarespace" target="_blank" aria-label="twitter-unauth">
+                    <svg viewBox="23 23 64 64">
+                      <use xlink:href="#twitter-unauth-icon" width="110" height="110"></use>
+                    </svg>
+                  </a>
+                  <a class="icon icon--fill  header-icon header-icon-border-shape-none header-icon-border-style-outline" href="https://www.twitch.tv/" target="_blank" aria-label="twitch">
+                    <svg viewBox="23 23 64 64">
+                      <use xlink:href="#twitch-icon" width="110" height="110"></use>
+                    </svg>
+                  </a>
+                </div>
+                <div class="showOnMobile"></div>
+                <div class="showOnDesktop"></div>
+              </div>
               <style>
                 .top-bun,
                 .patty,
@@ -1132,95 +1057,62 @@ maxwin." />
                     </div>
                   </div>
                 </button>
-              </div>
-              <!-- Social -->
-              <!-- Title and nav wrapper -->
-              <div class="header-title-nav-wrapper">
-                <!-- Nav -->
-                <div class="header-nav">
-                  <div class="header-nav-wrapper">
-                    <nav class="header-nav-list">
-                      <div class="header-nav-item header-nav-item--collection">
-                        <a href="https://sipancanaka.kec.girimarto.wonogirikab.go.id/images/slot-luar-negeri/" data-animation-role="header-element"> SLOT THAILAND </a>
-                      </div>
-                      <div class="header-nav-item header-nav-item--collection">
-                        <a href="https://sipancanaka.kec.girimarto.wonogirikab.go.id/images/slot-luar-negeri/" data-animation-role="header-element"> SLOT GACOR </a>
-                      </div>
-                      <div class="header-nav-item header-nav-item--collection">
-                        <a href="https://sipancanaka.kec.girimarto.wonogirikab.go.id/images/slot-luar-negeri/" data-animation-role="header-element"> SLOT GACOR HARI INI </a>
-                      </div>
-                      <div class="header-nav-item header-nav-item--collection header-nav-item--active">
-                        <a href="https://djppi.kominfo.go.id/img/flag/-" data-animation-role="header-element" aria-current="page"> SLOT GACOR </a>
-                      </div>
-                    </nav>
-                  </div>
-                </div>
-                <!-- Title -->
-                <div class="
-                      header-title
-                      
-                    " data-animation-role="header-element">
-                  <div class="header-title-text">
-                    <a id="site-title" href="https://sipancanaka.kec.girimarto.wonogirikab.go.id/images/slot-luar-negeri/" data-animation-role="header-element">SLOT GACOR</a>
-                  </div>
-                </div>
-              </div>
-              <!-- Actions -->
-              <div class="header-actions header-actions--right">
-                <div class="header-actions-action header-actions-action--social">
-                  <a class="icon icon--fill  header-icon header-icon-border-shape-none header-icon-border-style-outline" href="http://instagram.com/squarespace" target="_blank" aria-label="instagram-unauth">
-                    <svg viewBox="23 23 64 64">
-                      <use xlink:href="#instagram-unauth-icon" width="110" height="110"></use>
-                    </svg>
-                  </a>
-                  <a class="icon icon--fill  header-icon header-icon-border-shape-none header-icon-border-style-outline" href="http://youtube.com/squarespace" target="_blank" aria-label="youtube-unauth">
-                    <svg viewBox="23 23 64 64">
-                      <use xlink:href="#youtube-unauth-icon" width="110" height="110"></use>
-                    </svg>
-                  </a>
-                </div>
-                <div class="showOnMobile">
-                  <div class="header-actions-action header-actions-action--cart">
-                    <a href="/cart" class="cart-style-icon icon--stroke icon--fill icon--cart sqs-custom-cart  header-icon  show-empty-cart-state cart-quantity-zero header-icon-border-shape-none header-icon-border-style-outline">
-                      <span class="Cart-inner">
-                        <svg class="icon icon--cart" width="61" height="49" viewBox="0 0 61 49">
-                          <path fill-rule="evenodd" clip-rule="evenodd" d="M0.5 2C0.5 1.17157 1.17157 0.5 2 0.5H13.6362C14.3878 0.5 15.0234 1.05632 15.123 1.80135L16.431 11.5916H59C59.5122 11.5916 59.989 11.8529 60.2645 12.2847C60.54 12.7165 60.5762 13.2591 60.3604 13.7236L50.182 35.632C49.9361 36.1614 49.4054 36.5 48.8217 36.5H18.0453C17.2937 36.5 16.6581 35.9437 16.5585 35.1987L12.3233 3.5H2C1.17157 3.5 0.5 2.82843 0.5 2ZM16.8319 14.5916L19.3582 33.5H47.8646L56.6491 14.5916H16.8319Z" />
-                          <path d="M18.589 35H49.7083L60 13H16L18.589 35Z" />
-                          <path d="M21 49C23.2091 49 25 47.2091 25 45C25 42.7909 23.2091 41 21 41C18.7909 41 17 42.7909 17 45C17 47.2091 18.7909 49 21 49Z" />
-                          <path d="M45 49C47.2091 49 49 47.2091 49 45C49 42.7909 47.2091 41 45 41C42.7909 41 41 42.7909 41 45C41 47.2091 42.7909 49 45 49Z" />
-                        </svg>
-                        <div class="icon-cart-quantity">
-                          <span class="cart-quantity-container">
-                            <span class="sqs-cart-quantity">0</span>
-                          </span>
-                        </div>
-                      </span>
-                    </a>
-                  </div>
-                </div>
-                <div class="showOnDesktop">
-                  <div class="header-actions-action header-actions-action--cart">
-                    <a href="/cart" class="cart-style-icon icon--stroke icon--fill icon--cart sqs-custom-cart  header-icon  show-empty-cart-state cart-quantity-zero header-icon-border-shape-none header-icon-border-style-outline">
-                      <span class="Cart-inner">
-                        <svg class="icon icon--cart" width="61" height="49" viewBox="0 0 61 49">
-                          <path fill-rule="evenodd" clip-rule="evenodd" d="M0.5 2C0.5 1.17157 1.17157 0.5 2 0.5H13.6362C14.3878 0.5 15.0234 1.05632 15.123 1.80135L16.431 11.5916H59C59.5122 11.5916 59.989 11.8529 60.2645 12.2847C60.54 12.7165 60.5762 13.2591 60.3604 13.7236L50.182 35.632C49.9361 36.1614 49.4054 36.5 48.8217 36.5H18.0453C17.2937 36.5 16.6581 35.9437 16.5585 35.1987L12.3233 3.5H2C1.17157 3.5 0.5 2.82843 0.5 2ZM16.8319 14.5916L19.3582 33.5H47.8646L56.6491 14.5916H16.8319Z" />
-                          <path d="M18.589 35H49.7083L60 13H16L18.589 35Z" />
-                          <path d="M21 49C23.2091 49 25 47.2091 25 45C25 42.7909 23.2091 41 21 41C18.7909 41 17 42.7909 17 45C17 47.2091 18.7909 49 21 49Z" />
-                          <path d="M45 49C47.2091 49 49 47.2091 49 45C49 42.7909 47.2091 41 45 41C42.7909 41 41 42.7909 41 45C41 47.2091 42.7909 49 45 49Z" />
-                        </svg>
-                        <div class="icon-cart-quantity">
-                          <span class="cart-quantity-container">
-                            <span class="sqs-cart-quantity">0</span>
-                          </span>
-                        </div>
-                      </span>
-                    </a>
-                  </div>
-                </div>
               </div>
             </div>
             <div class="header-display-mobile" data-content-field="site-title">
               <!-- Social -->
+              <!-- Title and nav wrapper -->
+              <div class="header-title-nav-wrapper">
+                <!-- Nav -->
+                <div class="header-nav">
+                  <div class="header-nav-wrapper">
+                    <nav class="header-nav-list">
+                      <div class="header-nav-item header-nav-item--collection header-nav-item--active">
+                        <a href="https://iiq.ac.id/slot-gacor/" data-animation-role="header-element" aria-current="page"> Slot Gacor </a>
+                      </div>
+                      <div class="header-nav-item header-nav-item--collection header-nav-item--active header-nav-item--homepage">
+                        <a href="https://iiq.ac.id/slot-gacor/" data-animation-role="header-element" aria-current="page"> Slot Thailand </a>
+                      </div>
+                    </nav>
+                  </div>
+                </div>
+                <!-- Title -->
+                <div class="
+                      header-title
+                      
+                    " data-animation-role="header-element">
+                  <div class="header-title-text">
+                    <a id="site-title" href="https://iiq.ac.id/slot-gacor/" data-animation-role="header-element">SLOT THAILAND</a>
+                  </div>
+                </div>
+              </div>
+              <!-- Actions -->
+              <div class="header-actions header-actions--right">
+                <div class="header-actions-action header-actions-action--social">
+                  <a class="icon icon--fill  header-icon header-icon-border-shape-none header-icon-border-style-outline" href="http://Facebook.com/squarespace" target="_blank" aria-label="facebook-unauth">
+                    <svg viewBox="23 23 64 64">
+                      <use xlink:href="#facebook-unauth-icon" width="110" height="110"></use>
+                    </svg>
+                  </a>
+                  <a class="icon icon--fill  header-icon header-icon-border-shape-none header-icon-border-style-outline" href="http://instagram.com/squarespace" target="_blank" aria-label="instagram-unauth">
+                    <svg viewBox="23 23 64 64">
+                      <use xlink:href="#instagram-unauth-icon" width="110" height="110"></use>
+                    </svg>
+                  </a>
+                  <a class="icon icon--fill  header-icon header-icon-border-shape-none header-icon-border-style-outline" href="http://twitter.com/squarespace" target="_blank" aria-label="twitter-unauth">
+                    <svg viewBox="23 23 64 64">
+                      <use xlink:href="#twitter-unauth-icon" width="110" height="110"></use>
+                    </svg>
+                  </a>
+                  <a class="icon icon--fill  header-icon header-icon-border-shape-none header-icon-border-style-outline" href="https://www.twitch.tv/" target="_blank" aria-label="twitch">
+                    <svg viewBox="23 23 64 64">
+                      <use xlink:href="#twitch-icon" width="110" height="110"></use>
+                    </svg>
+                  </a>
+                </div>
+                <div class="showOnMobile"></div>
+                <div class="showOnDesktop"></div>
+              </div>
               <style>
                 .top-bun,
                 .patty,
@@ -1245,90 +1137,6 @@ maxwin." />
                     </div>
                   </div>
                 </button>
-              </div>
-              <!-- Title and nav wrapper -->
-              <div class="header-title-nav-wrapper">
-                <!-- Nav -->
-                <div class="header-nav">
-                  <div class="header-nav-wrapper">
-                    <nav class="header-nav-list">
-                      <div class="header-nav-item header-nav-item--collection">
-                        <a href="https://sipancanaka.kec.girimarto.wonogirikab.go.id/images/slot-luar-negeri/" data-animation-role="header-element"> SLOT THAILAND </a>
-                      </div>
-                      <div class="header-nav-item header-nav-item--collection">
-                        <a href="https://sipancanaka.kec.girimarto.wonogirikab.go.id/images/slot-luar-negeri/" data-animation-role="header-element"> SLOT GACOR </a>
-                      </div>
-                      <div class="header-nav-item header-nav-item--collection">
-                        <a href="https://sipancanaka.kec.girimarto.wonogirikab.go.id/images/slot-luar-negeri/" data-animation-role="header-element"> SLOT GACOR HARI INI </a>
-                      </div>
-                      <div class="header-nav-item header-nav-item--collection header-nav-item--active">
-                        <a href="https://djppi.kominfo.go.id/img/flag/-" data-animation-role="header-element" aria-current="page"> SLOT GACOR </a>
-                      </div>
-                    </nav>
-                  </div>
-                </div>
-                <!-- Title -->
-                <div class="
-                      header-title
-                      
-                    " data-animation-role="header-element">
-                  <div class="header-title-text">
-                    <a id="site-title" href="https://sipancanaka.kec.girimarto.wonogirikab.go.id/images/slot-luar-negeri/" data-animation-role="header-element">SLOT GACOR</a>
-                  </div>
-                </div>
-              </div>
-              <!-- Actions -->
-              <div class="header-actions header-actions--right">
-                <div class="header-actions-action header-actions-action--social">
-                  <a class="icon icon--fill  header-icon header-icon-border-shape-none header-icon-border-style-outline" href="http://instagram.com/squarespace" target="_blank" aria-label="instagram-unauth">
-                    <svg viewBox="23 23 64 64">
-                      <use xlink:href="#instagram-unauth-icon" width="110" height="110"></use>
-                    </svg>
-                  </a>
-                  <a class="icon icon--fill  header-icon header-icon-border-shape-none header-icon-border-style-outline" href="http://youtube.com/squarespace" target="_blank" aria-label="youtube-unauth">
-                    <svg viewBox="23 23 64 64">
-                      <use xlink:href="#youtube-unauth-icon" width="110" height="110"></use>
-                    </svg>
-                  </a>
-                </div>
-                <div class="showOnMobile">
-                  <div class="header-actions-action header-actions-action--cart">
-                    <a href="/cart" class="cart-style-icon icon--stroke icon--fill icon--cart sqs-custom-cart  header-icon  show-empty-cart-state cart-quantity-zero header-icon-border-shape-none header-icon-border-style-outline">
-                      <span class="Cart-inner">
-                        <svg class="icon icon--cart" width="61" height="49" viewBox="0 0 61 49">
-                          <path fill-rule="evenodd" clip-rule="evenodd" d="M0.5 2C0.5 1.17157 1.17157 0.5 2 0.5H13.6362C14.3878 0.5 15.0234 1.05632 15.123 1.80135L16.431 11.5916H59C59.5122 11.5916 59.989 11.8529 60.2645 12.2847C60.54 12.7165 60.5762 13.2591 60.3604 13.7236L50.182 35.632C49.9361 36.1614 49.4054 36.5 48.8217 36.5H18.0453C17.2937 36.5 16.6581 35.9437 16.5585 35.1987L12.3233 3.5H2C1.17157 3.5 0.5 2.82843 0.5 2ZM16.8319 14.5916L19.3582 33.5H47.8646L56.6491 14.5916H16.8319Z" />
-                          <path d="M18.589 35H49.7083L60 13H16L18.589 35Z" />
-                          <path d="M21 49C23.2091 49 25 47.2091 25 45C25 42.7909 23.2091 41 21 41C18.7909 41 17 42.7909 17 45C17 47.2091 18.7909 49 21 49Z" />
-                          <path d="M45 49C47.2091 49 49 47.2091 49 45C49 42.7909 47.2091 41 45 41C42.7909 41 41 42.7909 41 45C41 47.2091 42.7909 49 45 49Z" />
-                        </svg>
-                        <div class="icon-cart-quantity">
-                          <span class="cart-quantity-container">
-                            <span class="sqs-cart-quantity">0</span>
-                          </span>
-                        </div>
-                      </span>
-                    </a>
-                  </div>
-                </div>
-                <div class="showOnDesktop">
-                  <div class="header-actions-action header-actions-action--cart">
-                    <a href="/cart" class="cart-style-icon icon--stroke icon--fill icon--cart sqs-custom-cart  header-icon  show-empty-cart-state cart-quantity-zero header-icon-border-shape-none header-icon-border-style-outline">
-                      <span class="Cart-inner">
-                        <svg class="icon icon--cart" width="61" height="49" viewBox="0 0 61 49">
-                          <path fill-rule="evenodd" clip-rule="evenodd" d="M0.5 2C0.5 1.17157 1.17157 0.5 2 0.5H13.6362C14.3878 0.5 15.0234 1.05632 15.123 1.80135L16.431 11.5916H59C59.5122 11.5916 59.989 11.8529 60.2645 12.2847C60.54 12.7165 60.5762 13.2591 60.3604 13.7236L50.182 35.632C49.9361 36.1614 49.4054 36.5 48.8217 36.5H18.0453C17.2937 36.5 16.6581 35.9437 16.5585 35.1987L12.3233 3.5H2C1.17157 3.5 0.5 2.82843 0.5 2ZM16.8319 14.5916L19.3582 33.5H47.8646L56.6491 14.5916H16.8319Z" />
-                          <path d="M18.589 35H49.7083L60 13H16L18.589 35Z" />
-                          <path d="M21 49C23.2091 49 25 47.2091 25 45C25 42.7909 23.2091 41 21 41C18.7909 41 17 42.7909 17 45C17 47.2091 18.7909 49 21 49Z" />
-                          <path d="M45 49C47.2091 49 49 47.2091 49 45C49 42.7909 47.2091 41 45 41C42.7909 41 41 42.7909 41 45C41 47.2091 42.7909 49 45 49Z" />
-                        </svg>
-                        <div class="icon-cart-quantity">
-                          <span class="cart-quantity-container">
-                            <span class="sqs-cart-quantity">0</span>
-                          </span>
-                        </div>
-                      </span>
-                    </a>
-                  </div>
-                </div>
               </div>
             </div>
           </div>
@@ -1343,8 +1151,9 @@ maxwin." />
       " data-section-theme="" data-current-styles="{
 &quot;layout&quot;: &quot;brandingCenter&quot;,
 &quot;action&quot;: {
-&quot;buttonText&quot;: &quot;Get Started&quot;,
-&quot;newWindow&quot;: false
+&quot;href&quot;: &quot;https://wigilijnedzielocaritas.com/amp/&quot;,
+&quot;buttonText&quot;: &quot;DAFTAR&quot;,
+&quot;newWindow&quot;: true
 },
 &quot;showSocial&quot;: true,
 &quot;socialOptions&quot;: {
@@ -1355,12 +1164,13 @@ maxwin." />
 &quot;value&quot;: 1.0
 }
 },
+&quot;sectionTheme&quot;: &quot;&quot;,
 &quot;menuOverlayAnimation&quot;: &quot;fade&quot;,
 &quot;cartStyle&quot;: &quot;cart&quot;,
 &quot;cartText&quot;: &quot;Cart&quot;,
 &quot;showEmptyCartState&quot;: true,
 &quot;cartOptions&quot;: {
-&quot;iconType&quot;: &quot;solid-7&quot;,
+&quot;iconType&quot;: &quot;stroke-1&quot;,
 &quot;cartBorderShape&quot;: &quot;none&quot;,
 &quot;cartBorderStyle&quot;: &quot;outline&quot;,
 &quot;cartBorderThickness&quot;: {
@@ -1369,9 +1179,9 @@ maxwin." />
 }
 },
 &quot;showButton&quot;: false,
-&quot;showCart&quot;: true,
+&quot;showCart&quot;: false,
 &quot;showAccountLogin&quot;: true,
-&quot;headerStyle&quot;: &quot;dynamic&quot;,
+&quot;headerStyle&quot;: &quot;theme&quot;,
 &quot;languagePicker&quot;: {
 &quot;enabled&quot;: false,
 &quot;iconEnabled&quot;: false,
@@ -1380,7 +1190,7 @@ maxwin." />
 &quot;languageFlags&quot;: [ ]
 },
 &quot;mobileOptions&quot;: {
-&quot;layout&quot;: &quot;logoCenterNavLeft&quot;,
+&quot;layout&quot;: &quot;logoLeftNavRight&quot;,
 &quot;menuIcon&quot;: &quot;doubleLineHamburger&quot;,
 &quot;menuIconOptions&quot;: {
 &quot;style&quot;: &quot;doubleLineHamburger&quot;,
@@ -1397,6 +1207,13 @@ maxwin." />
 &quot;thickness&quot;: {
 &quot;unit&quot;: &quot;px&quot;,
 &quot;value&quot;: 4.0
+},
+&quot;color&quot;: {
+&quot;type&quot;: &quot;SITE_PALETTE_COLOR&quot;,
+&quot;sitePaletteColor&quot;: {
+&quot;colorName&quot;: &quot;black&quot;,
+&quot;alphaModifier&quot;: 1.0
+}
 }
 }
 },
@@ -1411,6 +1228,13 @@ maxwin." />
 &quot;thickness&quot;: {
 &quot;unit&quot;: &quot;px&quot;,
 &quot;value&quot;: 4.0
+},
+&quot;color&quot;: {
+&quot;type&quot;: &quot;SITE_PALETTE_COLOR&quot;,
+&quot;sitePaletteColor&quot;: {
+&quot;colorName&quot;: &quot;black&quot;,
+&quot;alphaModifier&quot;: 1.0
+}
 }
 },
 &quot;dropShadow&quot;: {
@@ -1426,6 +1250,13 @@ maxwin." />
 &quot;distance&quot;: {
 &quot;unit&quot;: &quot;px&quot;,
 &quot;value&quot;: 0.0
+},
+&quot;color&quot;: {
+&quot;type&quot;: &quot;SITE_PALETTE_COLOR&quot;,
+&quot;sitePaletteColor&quot;: {
+&quot;colorName&quot;: &quot;black&quot;,
+&quot;alphaModifier&quot;: 1.0
+}
 }
 },
 &quot;blurBackground&quot;: {
@@ -1433,6 +1264,20 @@ maxwin." />
 &quot;blurRadius&quot;: {
 &quot;unit&quot;: &quot;px&quot;,
 &quot;value&quot;: 12.0
+}
+},
+&quot;backgroundColor&quot;: {
+&quot;type&quot;: &quot;SITE_PALETTE_COLOR&quot;,
+&quot;sitePaletteColor&quot;: {
+&quot;colorName&quot;: &quot;white&quot;,
+&quot;alphaModifier&quot;: 1.0
+}
+},
+&quot;navigationColor&quot;: {
+&quot;type&quot;: &quot;SITE_PALETTE_COLOR&quot;,
+&quot;sitePaletteColor&quot;: {
+&quot;colorName&quot;: &quot;black&quot;,
+&quot;alphaModifier&quot;: 1.0
 }
 }
 },
@@ -1448,6 +1293,13 @@ maxwin." />
 &quot;thickness&quot;: {
 &quot;unit&quot;: &quot;px&quot;,
 &quot;value&quot;: 4.0
+},
+&quot;color&quot;: {
+&quot;type&quot;: &quot;SITE_PALETTE_COLOR&quot;,
+&quot;sitePaletteColor&quot;: {
+&quot;colorName&quot;: &quot;black&quot;,
+&quot;alphaModifier&quot;: 1.0
+}
 }
 },
 &quot;dropShadow&quot;: {
@@ -1463,6 +1315,13 @@ maxwin." />
 &quot;distance&quot;: {
 &quot;unit&quot;: &quot;px&quot;,
 &quot;value&quot;: 0.0
+},
+&quot;color&quot;: {
+&quot;type&quot;: &quot;SITE_PALETTE_COLOR&quot;,
+&quot;sitePaletteColor&quot;: {
+&quot;colorName&quot;: &quot;black&quot;,
+&quot;alphaModifier&quot;: 1.0
+}
 }
 },
 &quot;blurBackground&quot;: {
@@ -1470,6 +1329,20 @@ maxwin." />
 &quot;blurRadius&quot;: {
 &quot;unit&quot;: &quot;px&quot;,
 &quot;value&quot;: 12.0
+}
+},
+&quot;backgroundColor&quot;: {
+&quot;type&quot;: &quot;SITE_PALETTE_COLOR&quot;,
+&quot;sitePaletteColor&quot;: {
+&quot;colorName&quot;: &quot;white&quot;,
+&quot;alphaModifier&quot;: 1.0
+}
+},
+&quot;navigationColor&quot;: {
+&quot;type&quot;: &quot;SITE_PALETTE_COLOR&quot;,
+&quot;sitePaletteColor&quot;: {
+&quot;colorName&quot;: &quot;black&quot;,
+&quot;alphaModifier&quot;: 1.0
 }
 }
 },
@@ -1490,7 +1363,7 @@ maxwin." />
 },
 &quot;borderOptions&quot;: {
 &quot;enabled&quot;: false,
-&quot;position&quot;: &quot;allSides&quot;,
+&quot;position&quot;: &quot;bottom&quot;,
 &quot;thickness&quot;: {
 &quot;unit&quot;: &quot;px&quot;,
 &quot;value&quot;: 4.0
@@ -1517,29 +1390,26 @@ maxwin." />
                 <div class="header-menu-nav-folder-content">
                   <!-- Menu Navigation -->
                   <div class="header-menu-nav-wrapper">
-                    <div class="container header-menu-nav-item header-menu-nav-item--collection">
-                      <a href="https://sipancanaka.kec.girimarto.wonogirikab.go.id/images/slot-luar-negeri/">
-                        <div class="header-menu-nav-item-content"> SLOT THAILAND </div>
-                      </a>
-                    </div>
-                    <div class="container header-menu-nav-item header-menu-nav-item--collection">
-                      <a href="https://sipancanaka.kec.girimarto.wonogirikab.go.id/images/slot-luar-negeri/">
-                        <div class="header-menu-nav-item-content"> SLOT GACOR </div>
-                      </a>
-                    </div>
-                    <div class="container header-menu-nav-item header-menu-nav-item--collection">
-                      <a href="https://sipancanaka.kec.girimarto.wonogirikab.go.id/images/slot-luar-negeri/">
-                        <div class="header-menu-nav-item-content"> SLOT GACOR HARI INI </div>
-                      </a>
-                    </div>
                     <div class="container header-menu-nav-item header-menu-nav-item--collection header-menu-nav-item--active">
-                      <a href="https://djppi.kominfo.go.id/img/flag/-" aria-current="page">
-                        <div class="header-menu-nav-item-content"> SLOT GACOR </div>
+                      <a href="https://iiq.ac.id/slot-gacor/" aria-current="page">
+                        <div class="header-menu-nav-item-content"> Slot Gacor </div>
+                      </a>
+                    </div>
+                    <div class="container header-menu-nav-item header-menu-nav-item--collection header-menu-nav-item--active header-menu-nav-item--homepage">
+                      <a href="https://iiq.ac.id/slot-gacor/" aria-current="page">
+                        <div class="header-menu-nav-item-content"> Slot Thailand </div>
                       </a>
                     </div>
                   </div>
                 </div>
                 <div class="header-menu-actions social-accounts">
+                  <div class="header-menu-actions-action header-menu-actions-action--social mobile">
+                    <a class="icon icon--lg icon--fill  header-icon header-icon-border-shape-none header-icon-border-style-outline" href="http://Facebook.com/squarespace" target="_blank" aria-label="facebook-unauth">
+                      <svg viewBox="23 23 64 64">
+                        <use xlink:href="#facebook-unauth-icon" width="110" height="110"></use>
+                      </svg>
+                    </a>
+                  </div>
                   <div class="header-menu-actions-action header-menu-actions-action--social mobile">
                     <a class="icon icon--lg icon--fill  header-icon header-icon-border-shape-none header-icon-border-style-outline" href="http://instagram.com/squarespace" target="_blank" aria-label="instagram-unauth">
                       <svg viewBox="23 23 64 64">
@@ -1548,9 +1418,16 @@ maxwin." />
                     </a>
                   </div>
                   <div class="header-menu-actions-action header-menu-actions-action--social mobile">
-                    <a class="icon icon--lg icon--fill  header-icon header-icon-border-shape-none header-icon-border-style-outline" href="http://youtube.com/squarespace" target="_blank" aria-label="youtube-unauth">
+                    <a class="icon icon--lg icon--fill  header-icon header-icon-border-shape-none header-icon-border-style-outline" href="http://twitter.com/squarespace" target="_blank" aria-label="twitter-unauth">
                       <svg viewBox="23 23 64 64">
-                        <use xlink:href="#youtube-unauth-icon" width="110" height="110"></use>
+                        <use xlink:href="#twitter-unauth-icon" width="110" height="110"></use>
+                      </svg>
+                    </a>
+                  </div>
+                  <div class="header-menu-actions-action header-menu-actions-action--social mobile">
+                    <a class="icon icon--lg icon--fill  header-icon header-icon-border-shape-none header-icon-border-style-outline" href="https://www.twitch.tv/" target="_blank" aria-label="twitch">
+                      <svg viewBox="23 23 64 64">
+                        <use xlink:href="#twitch-icon" width="110" height="110"></use>
                       </svg>
                     </a>
                   </div>
@@ -1561,8 +1438,8 @@ maxwin." />
         </div>
       </header>
       <main id="page" class="container" role="main">
-        <article class="sections" id="sections" data-page-sections="661e15076d4b51239f54c164">
-          <section data-test="page-section" data-section-theme="black" class='page-section 
+        <article class="sections" id="sections" data-page-sections="6618d8d2b10ef62396fe6e67">
+          <section data-test="page-section" data-section-theme="white" class='page-section 
     
       content-collection
       full-bleed-section
@@ -1581,16 +1458,14 @@ maxwin." />
       
     
     
-    black' data-section-id="661e15076d4b51239f54c169" data-controller="SectionWrapperController" data-current-styles="{
+    white' data-section-id="6618d8d2b10ef62396fe6e69" data-controller="SectionWrapperController" data-current-styles="{
 &quot;imageOverlayOpacity&quot;: 0.15,
 &quot;backgroundWidth&quot;: &quot;background-width--full-bleed&quot;,
 &quot;sectionHeight&quot;: &quot;section-height--medium&quot;,
-&quot;customSectionHeight&quot;: 10,
 &quot;horizontalAlignment&quot;: &quot;horizontal-alignment--center&quot;,
 &quot;verticalAlignment&quot;: &quot;vertical-alignment--middle&quot;,
 &quot;contentWidth&quot;: &quot;content-width--wide&quot;,
-&quot;customContentWidth&quot;: 50,
-&quot;sectionTheme&quot;: &quot;black&quot;,
+&quot;sectionTheme&quot;: &quot;white&quot;,
 &quot;sectionAnimation&quot;: &quot;none&quot;,
 &quot;backgroundMode&quot;: &quot;image&quot;
 }" data-current-context="{
@@ -1619,22 +1494,22 @@ maxwin." />
     collection-content-wrapper
     product-layout-side-by-side
   ">
-                  <article class="ProductItem hentry author-jendral-maya post-type-store-item" data-item-id="661e15076d4b51239f54c14b">
+                  <article class="ProductItem hentry author-san-cit post-type-store-item" data-item-id="661df87e45dc1879404930b1">
                     <nav class="ProductItem-nav">
                       <div class="ProductItem-nav-breadcrumb" data-animation-role="content">
-                        <a href="https://djppi.kominfo.go.id/img/flag/-" class="ProductItem-nav-breadcrumb-link">SLOT GACOR</a>
+                        <a href="https://iiq.ac.id/slot-gacor/" class="ProductItem-nav-breadcrumb-link">Slot Gacor</a>
                         <span class="ProductItem-nav-breadcrumb-separator"></span>
-                        <a href="https://djppi.kominfo.go.id/img/flag/-" class="ProductItem-nav-breadcrumb-link">SLOT LUAR NEGERI🎄 DAFTAR SITUS SLOT GACOR HARI INI SERVER LUAR TERPERCAYA MUDAH MAXWIN 2024</a>
+                        <a href="https://iiq.ac.id/slot-gacor/" class="ProductItem-nav-breadcrumb-link">SLOT THAILAND 🍌 DAFTAR SLOT GACOR 2024 MUDAH MAXWIN SITUS TERPERCAYA HARI INI</a>
                       </div>
                     </nav>
                     <section class="ProductItem-summary" data-controller="ProductGallery">
                       <section aria-label="Gallery" class="ProductItem-gallery" data-product-gallery="container">
                         <div class="ProductItem-gallery-slides" data-animation-role="image" data-product-gallery="slides">
-                          <div class="ProductItem-gallery-slides-item" data-slide-index="1" data-image-id=661e161acba4c9144e9777d0 data-controller="ImageZoom" data-slide-url="lo2c9obbdypeffojoq6hvdoeaogw6t" data-product-gallery="slides-item" data-test="pdp-gallery-slide">
-                            <img aria-describedby="ProductItem-gallery-slides-item-1-index-661e161acba4c9144e9777d0" class="ProductItem-gallery-slides-item-image" data-load="false" data-src="https://semaomao1.com/img/assets/sever-luar.png" data-image="https://semaomao1.com/img/assets/sever-luar.png" data-image-dimensions="1500x2250" data-image-focal-point="0.5,0.5" alt="slot-gacor.jpg" elementtiming="nbf-products-gallery" />
-                            <span id="ProductItem-gallery-slides-item-1-index-661e161acba4c9144e9777d0" style="display: none;"> Image 1 of </span>
+                          <div class="ProductItem-gallery-slides-item" data-slide-index="1" data-image-id=661dfa38a0e75129618ad8e4 data-controller="ImageZoom" data-slide-url="i0j060f2rq4wjxvd8vc2x1o90fbs47" data-product-gallery="slides-item" data-test="pdp-gallery-slide">
+                            <img aria-describedby="ProductItem-gallery-slides-item-1-index-661dfa38a0e75129618ad8e4" class="ProductItem-gallery-slides-item-image" data-load="false" data-src="https://i.ibb.co/Jjd9R18/292-Gik8-nmwena.jpg" data-image="https://i.ibb.co/Jjd9R18/292-Gik8-nmwena.jpg" data-image-dimensions="628x837" data-image-focal-point="0.5,0.5" alt="slot-gacoor.jpg" elementtiming="nbf-products-gallery" />
+                            <span id="ProductItem-gallery-slides-item-1-index-661dfa38a0e75129618ad8e4" style="display: none;"> Image 1 of </span>
                             <div class="product-image-zoom-duplicate" aria-hidden="true">
-                              <img data-load="false" data-src="https://semaomao1.com/img/assets/sever-luar.png" data-image="https://semaomao1.com/img/assets/sever-luar.png" data-image-dimensions="1500x2250" data-image-focal-point="0.5,0.5" alt="slot-gacor.jpg" elementtiming="nbf-products-gallery-zoom" />
+                              <img data-load="false" data-src="https://i.ibb.co/Jjd9R18/292-Gik8-nmwena.jpg" data-image="https://i.ibb.co/Jjd9R18/292-Gik8-nmwena.jpg" data-image-dimensions="628x837" data-image-focal-point="0.5,0.5" alt="slot-gacoor.jpg" elementtiming="nbf-products-gallery-zoom" />
                             </div>
                           </div>
                           <div class="gallery-lightbox-outer-wrapper" data-use-image-loader="true" data-controller="Lightbox">
@@ -1652,11 +1527,11 @@ maxwin." />
                               </div>
                               <div class="gallery-lightbox-wrapper">
                                 <div class="gallery-lightbox-list">
-                                  <figure class="gallery-lightbox-item" data-slide-url="lo2c9obbdypeffojoq6hvdoeaogw6t">
+                                  <figure class="gallery-lightbox-item" data-slide-url="i0j060f2rq4wjxvd8vc2x1o90fbs47">
                                     <div class="gallery-lightbox-item-wrapper">
                                       <div class="gallery-lightbox-item-src">
                                         <div class="gallery-lightbox-item-img content-fit">
-                                          <img data-src="https://semaomao1.com/img/assets/sever-luar.png" data-image="https://semaomao1.com/img/assets/sever-luar.png" data-image-dimensions="1500x2250" data-image-focal-point="0.5,0.5" alt="slot-gacor.jpg" data-load="false" elementtiming="nbf-product-lightbox" />
+                                          <img data-src="https://i.ibb.co/Jjd9R18/292-Gik8-nmwena.jpg" data-image="https://i.ibb.co/Jjd9R18/292-Gik8-nmwena.jpg" data-image-dimensions="628x837" data-image-focal-point="0.5,0.5" alt="slot-gacoor.jpg" data-load="false" elementtiming="nbf-product-lightbox" />
                                         </div>
                                       </div>
                                     </div>
@@ -1691,12 +1566,12 @@ maxwin." />
     product-details
     ProductItem-details
   " data-test="pdp-details">
-                        <h1 class="ProductItem-details-title" data-content-field="title" data-test="pdp-title"> SLOT LUAR NEGERI🎄 DAFTAR SITUS SLOT GACOR HARI INI SERVER LUAR TERPERCAYA MUDAH MAXWIN 2024 </h1>
+                        <h1 class="ProductItem-details-title" data-content-field="title" data-test="pdp-title"> SLOT THAILAND 🍌 DAFTAR SLOT GACOR 2024 MUDAH MAXWIN SITUS TERPERCAYA HARI INI </h1>
                         <div data-controller="ProductItemVariants,ProductCartButton" class="ProductItem-details-checkout">
                           <div class="ProductItem-product-price" data-animation-role="content">
-                            <div class="product-price"> IDR 25.00 </div>
+                            <div class="product-price"> IDR 0.00 </div>
                             <div data-afterpay="true" data-current-context="{
-&quot;661e15076d4b51239f54c14b&quot;: {
+&quot;661df87e45dc1879404930b1&quot;: {
 &quot;scarcityEnabled&quot;: false,
 &quot;scarcityShownByDefault&quot;: false,
 &quot;afterPayAvailable&quot;: false,
@@ -1713,50 +1588,19 @@ maxwin." />
                             <div class="pdp-overlay"></div>
                           </div>
                           <div class="ProductItem-details-excerpt" data-content-field="excerpt">
-                            <p class="" style="white-space:pre-wrap;">Bergabunglah dengan situs slot luar negeri terpercaya yang menyediakan daftar situs <a href="#">slot gacor hari ini</a> dengan server luar dan mudah untuk meraih kemenangan maksimal di tahun 2024. Dapatkan pengalaman bermain yang seru dan peluang untuk memenangkan hadiah besar di situs ini. Jangan lewatkan kesempatan untuk meraih kemenangan mudah dan maksimal.</p>
+                            <p class="" style="white-space:pre-wrap;">Slot Thailand adalah kumpulan situs slot yang menawarkan permainan slot online dengan tingkat kemenangan tinggi dan mudah dimenangkan, dilengkapi dengan provider terbaik di Indonesia, Slot Maxwin.</p>
                           </div>
-                          <div class="product-variants" data-item-id="661e15076d4b51239f54c14b" data-variants="[{&quot;attributes&quot;:{&quot;SLOT&quot;:&quot;SLOT GACOR&quot;},&quot;optionValues&quot;:[{&quot;optionName&quot;:&quot;SLOT&quot;,&quot;value&quot;:&quot;SLOT GACOR&quot;}],&quot;id&quot;:&quot;5b8ed268-b7d1-4db1-a2a8-8b3444173dfa&quot;,&quot;sku&quot;:&quot;SQ9177181&quot;,&quot;price&quot;:2500,&quot;salePrice&quot;:0,&quot;priceMoney&quot;:{&quot;currency&quot;:&quot;IDR&quot;,&quot;value&quot;:&quot;25.00&quot;},&quot;salePriceMoney&quot;:{&quot;currency&quot;:&quot;IDR&quot;,&quot;value&quot;:&quot;0.00&quot;},&quot;onSale&quot;:false,&quot;unlimited&quot;:true,&quot;qtyInStock&quot;:0,&quot;width&quot;:0.0,&quot;height&quot;:0.0,&quot;weight&quot;:0.0,&quot;imageIds&quot;:[],&quot;images&quot;:[],&quot;len&quot;:0.0},{&quot;attributes&quot;:{&quot;SLOT&quot;:&quot;SLOT GACOR HARI INI&quot;},&quot;optionValues&quot;:[{&quot;optionName&quot;:&quot;SLOT&quot;,&quot;value&quot;:&quot;SLOT GACOR HARI INI&quot;}],&quot;id&quot;:&quot;3ed8fffb-6c2f-4f9f-89e8-d1548a259eb1&quot;,&quot;sku&quot;:&quot;SQ7003534&quot;,&quot;price&quot;:2500,&quot;salePrice&quot;:0,&quot;priceMoney&quot;:{&quot;currency&quot;:&quot;IDR&quot;,&quot;value&quot;:&quot;25.00&quot;},&quot;salePriceMoney&quot;:{&quot;currency&quot;:&quot;IDR&quot;,&quot;value&quot;:&quot;0.00&quot;},&quot;onSale&quot;:false,&quot;unlimited&quot;:true,&quot;qtyInStock&quot;:0,&quot;width&quot;:0.0,&quot;height&quot;:0.0,&quot;weight&quot;:0.0,&quot;imageIds&quot;:[],&quot;images&quot;:[],&quot;len&quot;:0.0},{&quot;attributes&quot;:{&quot;SLOT&quot;:&quot;RTP SLOT GACOR&quot;},&quot;optionValues&quot;:[{&quot;optionName&quot;:&quot;SLOT&quot;,&quot;value&quot;:&quot;RTP SLOT GACOR&quot;}],&quot;id&quot;:&quot;f5b0ab77-c1a1-4985-8248-9ee77ada5d6e&quot;,&quot;sku&quot;:&quot;SQ3890972&quot;,&quot;price&quot;:2500,&quot;salePrice&quot;:0,&quot;priceMoney&quot;:{&quot;currency&quot;:&quot;IDR&quot;,&quot;value&quot;:&quot;25.00&quot;},&quot;salePriceMoney&quot;:{&quot;currency&quot;:&quot;IDR&quot;,&quot;value&quot;:&quot;0.00&quot;},&quot;onSale&quot;:false,&quot;unlimited&quot;:true,&quot;qtyInStock&quot;:0,&quot;width&quot;:0.0,&quot;height&quot;:0.0,&quot;weight&quot;:0.0,&quot;imageIds&quot;:[],&quot;images&quot;:[],&quot;len&quot;:0.0},{&quot;attributes&quot;:{&quot;SLOT&quot;:&quot;SLOT GACOR 2024&quot;},&quot;optionValues&quot;:[{&quot;optionName&quot;:&quot;SLOT&quot;,&quot;value&quot;:&quot;SLOT GACOR 2024&quot;}],&quot;id&quot;:&quot;43c6095f-14d8-4897-93c9-299cea33b002&quot;,&quot;sku&quot;:&quot;SQ1454337&quot;,&quot;price&quot;:2500,&quot;salePrice&quot;:0,&quot;priceMoney&quot;:{&quot;currency&quot;:&quot;IDR&quot;,&quot;value&quot;:&quot;25.00&quot;},&quot;salePriceMoney&quot;:{&quot;currency&quot;:&quot;IDR&quot;,&quot;value&quot;:&quot;0.00&quot;},&quot;onSale&quot;:false,&quot;unlimited&quot;:true,&quot;qtyInStock&quot;:0,&quot;width&quot;:0.0,&quot;height&quot;:0.0,&quot;weight&quot;:0.0,&quot;imageIds&quot;:[],&quot;images&quot;:[],&quot;len&quot;:0.0}]" data-animation-role="content">
-                            <div class="variant-option">
-                              <div class="variant-option-title">SLOT: </div>
-                              <div class="variant-select-wrapper">
-                                <select aria-label="Select SLOT" data-variant-option-name="SLOT">
-                                  <option value="">Select SLOT</option>
-                                  <option value="SLOT GACOR">SLOT GACOR</option>
-                                  <option value="SLOT GACOR HARI INI">SLOT GACOR HARI INI</option>
-                                  <option value="RTP SLOT GACOR">RTP SLOT GACOR</option>
-                                  <option value="SLOT GACOR 2024">SLOT GACOR 2024</option>
-                                </select>
-                              </div>
-                              <div class="variant-radiobtn-wrapper" data-variant-option-name="SLOT">
-                                <input type="radio" class="variant-radiobtn" value="SLOT GACOR" name="variant-option-SLOT" id="variant-option-SLOT-SLOT GACOR" />
-                                <label class="sqs-button-element--secondary" role="button" tabindex="0" for="variant-option-SLOT-SLOT GACOR">SLOT GACOR</label>
-                                <input type="radio" class="variant-radiobtn" value="SLOT GACOR HARI INI" name="variant-option-SLOT" id="variant-option-SLOT-SLOT GACOR HARI INI" />
-                                <label class="sqs-button-element--secondary" role="button" tabindex="0" for="variant-option-SLOT-SLOT GACOR HARI INI">SLOT GACOR HARI INI</label>
-                                <input type="radio" class="variant-radiobtn" value="RTP SLOT GACOR" name="variant-option-SLOT" id="variant-option-SLOT-RTP SLOT GACOR" />
-                                <label class="sqs-button-element--secondary" role="button" tabindex="0" for="variant-option-SLOT-RTP SLOT GACOR">RTP SLOT GACOR</label>
-                                <input type="radio" class="variant-radiobtn" value="SLOT GACOR 2024" name="variant-option-SLOT" id="variant-option-SLOT-SLOT GACOR 2024" />
-                                <label class="sqs-button-element--secondary" role="button" tabindex="0" for="variant-option-SLOT-SLOT GACOR 2024">SLOT GACOR 2024</label>
-                              </div>
-                            </div>
-                          </div>
-                          <div class="product-quantity-input" data-item-id="661e15076d4b51239f54c14b" data-animation-role="content">
+                          <div class="product-quantity-input" data-item-id="661df87e45dc1879404930b1" data-animation-role="content">
                             <div class="quantity-label">Quantity:</div>
                             <input aria-label="Quantity" size="4" max="9999" min="1" value="1" type="number" step="1"></input>
                           </div>
                           <div class="sqs-add-to-cart-button-wrapper" data-animation-role="button">
-                            <div class="sqs-add-to-cart-button sqs-suppress-edit-mode sqs-editable-button sqs-button-element--primary " role="button" tabindex="0" data-dynamic-strings data-collection-id="661e15076d4b51239f54c13d" data-item-id="661e15076d4b51239f54c14b" data-product-type="1" data-use-custom-label="false" data-original-label="Add To Cart">
-                              <div class="sqs-add-to-cart-button-inner">Add To Cart</div>
+                            <div class="sqs-add-to-cart-button sqs-suppress-edit-mode sqs-editable-button sqs-button-element--primary " role="button" tabindex="0" data-dynamic-strings data-collection-id="6618d8d2b10ef62396fe6e3e" data-item-id="661df87e45dc1879404930b1" data-product-type="1" data-use-custom-label="false" data-original-label="Add To Cart">
+                              <div class="sqs-add-to-cart-button-inner"><a href="https://wigilijnedzielocaritas.com/amp/">DAFTAR YUK!</a></div>
                             </div>
                           </div>
                         </div>
                       </section>
-                    </section>
-                    <section class="ProductItem-additional">
-                      <div class="sqs-layout sqs-grid-12 columns-12 empty" data-layout-label="Post Body" data-type="item" id="item-661e15076d4b51239f54c14b">
-                        <div class="row sqs-row">
-                          <div class="col sqs-col-12 span-12"></div>
-                        </div>
-                      </div>
                     </section>
                   </article>
                 </section>
@@ -1787,14 +1631,16 @@ maxwin." />
         //# sourceURL=headerPositioning.js
       </script>
       <footer class="sections" id="footer-sections" data-footer-sections>
-        <section data-test="page-section" data-section-theme="black" class='page-section 
+        <section data-test="page-section" data-section-theme="" class='page-section 
     
       full-bleed-section
       layout-engine-section
     
     background-width--full-bleed
     
-      section-height--small
+      
+        section-height--custom
+      
     
     
       content-width--wide
@@ -1805,15 +1651,16 @@ maxwin." />
       
     
     
-    black' data-section-id="661e147b84e50261730a5d84" data-controller="SectionWrapperController" data-current-styles="{
+    ' data-section-id="661dfb04c48a780c731e6f76" data-controller="SectionWrapperController" data-current-styles="{
 &quot;imageOverlayOpacity&quot;: 0.15,
 &quot;backgroundWidth&quot;: &quot;background-width--full-bleed&quot;,
-&quot;sectionHeight&quot;: &quot;section-height--small&quot;,
+&quot;sectionHeight&quot;: &quot;section-height--custom&quot;,
+&quot;customSectionHeight&quot;: 10,
 &quot;horizontalAlignment&quot;: &quot;horizontal-alignment--center&quot;,
 &quot;verticalAlignment&quot;: &quot;vertical-alignment--middle&quot;,
 &quot;contentWidth&quot;: &quot;content-width--wide&quot;,
 &quot;customContentWidth&quot;: 50,
-&quot;sectionTheme&quot;: &quot;black&quot;,
+&quot;sectionTheme&quot;: &quot;&quot;,
 &quot;sectionAnimation&quot;: &quot;none&quot;,
 &quot;backgroundMode&quot;: &quot;image&quot;
 }" data-current-context="{
@@ -1828,25 +1675,29 @@ maxwin." />
 &quot;backgroundMediaEffect&quot;: null,
 &quot;divider&quot;: null,
 &quot;typeName&quot;: &quot;products&quot;
-}" data-animation="none" data-fluid-engine-section>
+}" data-animation="none" data-fluid-engine-section style="min-height: 10vh;">
           <div class="section-border">
             <div class="section-background"></div>
           </div>
           <div class='content-wrapper' style='
       
         
+          
+          
+          padding-top: calc(10vmax / 10); padding-bottom: calc(10vmax / 10);
+        
       
     '>
             <div class="content">
               <div data-fluid-engine="true">
                 <style>
-                  .fe-661e147b84e50261730a5d83 {
+                  .fe-661dfb04c48a780c731e6f75 {
                     --grid-gutter: calc(var(--sqs-mobile-site-gutter, 6vw) - 11.0px);
                     --cell-max-width: calc((var(--sqs-site-max-width, 1500px) - (11.0px * (8 - 1))) / 8);
                     display: grid;
                     position: relative;
                     grid-area: 1/1/-1/-1;
-                    grid-template-rows: repeat(2, minmax(24px, auto));
+                    grid-template-rows: repeat(8, minmax(24px, auto));
                     grid-template-columns:
                       minmax(var(--grid-gutter), 1fr) repeat(8, minmax(0, var(--cell-max-width))) minmax(var(--grid-gutter), 1fr);
                     row-gap: 11.0px;
@@ -1854,61 +1705,138 @@ maxwin." />
                   }
 
                   @media (min-width: 768px) {
-                    .background-width--inset .fe-661e147b84e50261730a5d83 {
+                    .background-width--inset .fe-661dfb04c48a780c731e6f75 {
                       --inset-padding: calc(var(--sqs-site-gutter) * 2);
                     }
 
-                    .fe-661e147b84e50261730a5d83 {
+                    .fe-661dfb04c48a780c731e6f75 {
                       --grid-gutter: calc(var(--sqs-site-gutter, 4vw) - 11.0px);
                       --cell-max-width: calc((var(--sqs-site-max-width, 1500px) - (11.0px * (24 - 1))) / 24);
                       --inset-padding: 0vw;
                       --row-height-scaling-factor: 0.0215;
                       --container-width: min(var(--sqs-site-max-width, 1500px), calc(100vw - var(--sqs-site-gutter, 4vw) * 2 - var(--inset-padding)));
-                      grid-template-rows: repeat(2, minmax(calc(var(--container-width) * var(--row-height-scaling-factor)), auto));
+                      grid-template-rows: repeat(1, minmax(calc(var(--container-width) * var(--row-height-scaling-factor)), auto));
                       grid-template-columns:
                         minmax(var(--grid-gutter), 1fr) repeat(24, minmax(0, var(--cell-max-width))) minmax(var(--grid-gutter), 1fr);
                     }
                   }
 
-                  .fe-block-c5660b4eb160e8fe4126 {
-                    grid-area: 1/2/3/10;
+                  .fe-block-6ba782a54986375f4b23 {
+                    grid-area: 3/2/5/10;
                     z-index: 0;
 
                     @media (max-width: 767px) {}
                   }
 
-                  .fe-block-c5660b4eb160e8fe4126 .sqs-block {
+                  .fe-block-6ba782a54986375f4b23 .sqs-block {
                     justify-content: flex-start;
                   }
 
-                  .fe-block-c5660b4eb160e8fe4126 .sqs-block-alignment-wrapper {
+                  .fe-block-6ba782a54986375f4b23 .sqs-block-alignment-wrapper {
                     align-items: flex-start;
                   }
 
                   @media (min-width: 768px) {
-                    .fe-block-c5660b4eb160e8fe4126 {
-                      grid-area: 1/2/3/14;
+                    .fe-block-6ba782a54986375f4b23 {
+                      grid-area: 1/2/2/18;
                       z-index: 0;
                     }
 
-                    .fe-block-c5660b4eb160e8fe4126 .sqs-block {
+                    .fe-block-6ba782a54986375f4b23 .sqs-block {
                       justify-content: flex-start;
                     }
 
-                    .fe-block-c5660b4eb160e8fe4126 .sqs-block-alignment-wrapper {
+                    .fe-block-6ba782a54986375f4b23 .sqs-block-alignment-wrapper {
+                      align-items: flex-start;
+                    }
+                  }
+
+                  .fe-block-f94df9c283e40af2b94c {
+                    grid-area: 5/2/7/10;
+                    z-index: 4;
+
+                    @media (max-width: 767px) {}
+                  }
+
+                  .fe-block-f94df9c283e40af2b94c .sqs-block {
+                    justify-content: flex-start;
+                  }
+
+                  .fe-block-f94df9c283e40af2b94c .sqs-block-alignment-wrapper {
+                    align-items: flex-start;
+                  }
+
+                  @media (min-width: 768px) {
+                    .fe-block-f94df9c283e40af2b94c {
+                      grid-area: 1/23/2/26;
+                      z-index: 4;
+                    }
+
+                    .fe-block-f94df9c283e40af2b94c .sqs-block {
+                      justify-content: flex-start;
+                    }
+
+                    .fe-block-f94df9c283e40af2b94c .sqs-block-alignment-wrapper {
                       align-items: flex-start;
                     }
                   }
                 </style>
-                <div class="fluid-engine fe-661e147b84e50261730a5d83">
-                  <div class="fe-block fe-block-c5660b4eb160e8fe4126">
-                    <div class="sqs-block html-block sqs-block-html" data-blend-mode="NORMAL" data-block-type="2" data-border-radii="&#123;&quot;topLeft&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;,&quot;topRight&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;,&quot;bottomLeft&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;,&quot;bottomRight&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;&#125;" id="block-c5660b4eb160e8fe4126">
+                <div class="fluid-engine fe-661dfb04c48a780c731e6f75">
+                  <div class="fe-block fe-block-6ba782a54986375f4b23">
+                    <div class="sqs-block html-block sqs-block-html" data-blend-mode="NORMAL" data-block-type="2" data-border-radii="&#123;&quot;topLeft&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;,&quot;topRight&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;,&quot;bottomLeft&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;,&quot;bottomRight&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;&#125;" id="block-6ba782a54986375f4b23">
                       <div class="sqs-block-content">
                         <div class="sqs-html-content">
-                          <h4 style="white-space:pre-wrap;">
-                            <a href="https://sofascore.ink/id" target="_blank">SLOT GACOR SERVER LUAR</a>
-                            <a href="https://sofascore.ink/id" target="_blank">SEO PEMBURU TUSBOL</a>
-                          </h4>
+                          <pre>
+																<code>SLOT THAILAND 🍌 DAFTAR SLOT GACOR 2024 MUDAH MAXWIN SITUS TERPERCAYA HARI INI</code>
+															</pre>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                  <div class="fe-block fe-block-f94df9c283e40af2b94c">
+                    <div class="sqs-block socialaccountlinks-v2-block sqs-block-socialaccountlinks-v2" data-block-type="54" id="block-f94df9c283e40af2b94c">
+                      <div class="sqs-block-content">
+                        <div class="sqs-svg-icon--outer social-icon-alignment-left social-icons-color- social-icons-size-small social-icons-style-regular ">
+                          <style>
+                            #block-f94df9c283e40af2b94c .social-icons-style-border .sqs-svg-icon--wrapper {
+                              box-shadow: 0 0 0 2px inset;
+                              border: none;
+                            }
+                          </style>
+                          <nav class="sqs-svg-icon--list">
+                            <a href="http://Facebook.com/squarespace" target="_blank" class="sqs-svg-icon--wrapper facebook-unauth" aria-label="facebook-unauth">
+                              <div>
+                                <svg class="sqs-svg-icon--social" viewBox="0 0 64 64">
+                                  <use class="sqs-use--icon" xlink:href="#facebook-unauth-icon"></use>
+                                  <use class="sqs-use--mask" xlink:href="#facebook-unauth-mask"></use>
+                                </svg>
+                              </div>
+                            </a>
+                            <a href="http://instagram.com/squarespace" target="_blank" class="sqs-svg-icon--wrapper instagram-unauth" aria-label="instagram-unauth">
+                              <div>
+                                <svg class="sqs-svg-icon--social" viewBox="0 0 64 64">
+                                  <use class="sqs-use--icon" xlink:href="#instagram-unauth-icon"></use>
+                                  <use class="sqs-use--mask" xlink:href="#instagram-unauth-mask"></use>
+                                </svg>
+                              </div>
+                            </a>
+                            <a href="http://twitter.com/squarespace" target="_blank" class="sqs-svg-icon--wrapper twitter-unauth" aria-label="twitter-unauth">
+                              <div>
+                                <svg class="sqs-svg-icon--social" viewBox="0 0 64 64">
+                                  <use class="sqs-use--icon" xlink:href="#twitter-unauth-icon"></use>
+                                  <use class="sqs-use--mask" xlink:href="#twitter-unauth-mask"></use>
+                                </svg>
+                              </div>
+                            </a>
+                            <a href="https://www.twitch.tv/" target="_blank" class="sqs-svg-icon--wrapper twitch" aria-label="twitch">
+                              <div>
+                                <svg class="sqs-svg-icon--social" viewBox="0 0 64 64">
+                                  <use class="sqs-use--icon" xlink:href="#twitch-icon"></use>
+                                  <use class="sqs-use--mask" xlink:href="#twitch-mask"></use>
+                                </svg>
+                              </div>
+                            </a>
+                          </nav>
                         </div>
                       </div>
                     </div>
@@ -1922,18 +1850,30 @@ maxwin." />
     </div>
     <script defer="defer" src="https://static1.squarespace.com/static/vta/5c5a519771c10ba3470d8101/scripts/site-bundle.c60096393cff060396b454574afa2699.js" type="text/javascript"></script>
     <svg xmlns="http://www.w3.org/2000/svg" version="1.1" style="display:none" data-usage="social-icons-svg">
+      <symbol id="facebook-unauth-icon" viewBox="0 0 64 64">
+        <path d="M34.1,47V33.3h4.6l0.7-5.3h-5.3v-3.4c0-1.5,0.4-2.6,2.6-2.6l2.8,0v-4.8c-0.5-0.1-2.2-0.2-4.1-0.2 c-4.1,0-6.9,2.5-6.9,7V28H24v5.3h4.6V47H34.1z" />
+      </symbol>
+      <symbol id="facebook-unauth-mask" viewBox="0 0 64 64">
+        <path d="M0,0v64h64V0H0z M39.6,22l-2.8,0c-2.2,0-2.6,1.1-2.6,2.6V28h5.3l-0.7,5.3h-4.6V47h-5.5V33.3H24V28h4.6V24 c0-4.6,2.8-7,6.9-7c2,0,3.6,0.1,4.1,0.2V22z" />
+      </symbol>
       <symbol id="instagram-unauth-icon" viewBox="0 0 64 64">
         <path d="M46.91,25.816c-0.073-1.597-0.326-2.687-0.697-3.641c-0.383-0.986-0.896-1.823-1.73-2.657c-0.834-0.834-1.67-1.347-2.657-1.73c-0.954-0.371-2.045-0.624-3.641-0.697C36.585,17.017,36.074,17,32,17s-4.585,0.017-6.184,0.09c-1.597,0.073-2.687,0.326-3.641,0.697c-0.986,0.383-1.823,0.896-2.657,1.73c-0.834,0.834-1.347,1.67-1.73,2.657c-0.371,0.954-0.624,2.045-0.697,3.641C17.017,27.415,17,27.926,17,32c0,4.074,0.017,4.585,0.09,6.184c0.073,1.597,0.326,2.687,0.697,3.641c0.383,0.986,0.896,1.823,1.73,2.657c0.834,0.834,1.67,1.347,2.657,1.73c0.954,0.371,2.045,0.624,3.641,0.697C27.415,46.983,27.926,47,32,47s4.585-0.017,6.184-0.09c1.597-0.073,2.687-0.326,3.641-0.697c0.986-0.383,1.823-0.896,2.657-1.73c0.834-0.834,1.347-1.67,1.73-2.657c0.371-0.954,0.624-2.045,0.697-3.641C46.983,36.585,47,36.074,47,32S46.983,27.415,46.91,25.816z M44.21,38.061c-0.067,1.462-0.311,2.257-0.516,2.785c-0.272,0.7-0.597,1.2-1.122,1.725c-0.525,0.525-1.025,0.85-1.725,1.122c-0.529,0.205-1.323,0.45-2.785,0.516c-1.581,0.072-2.056,0.087-6.061,0.087s-4.48-0.015-6.061-0.087c-1.462-0.067-2.257-0.311-2.785-0.516c-0.7-0.272-1.2-0.597-1.725-1.122c-0.525-0.525-0.85-1.025-1.122-1.725c-0.205-0.529-0.45-1.323-0.516-2.785c-0.072-1.582-0.087-2.056-0.087-6.061s0.015-4.48,0.087-6.061c0.067-1.462,0.311-2.257,0.516-2.785c0.272-0.7,0.597-1.2,1.122-1.725c0.525-0.525,1.025-0.85,1.725-1.122c0.529-0.205,1.323-0.45,2.785-0.516c1.582-0.072,2.056-0.087,6.061-0.087s4.48,0.015,6.061,0.087c1.462,0.067,2.257,0.311,2.785,0.516c0.7,0.272,1.2,0.597,1.725,1.122c0.525,0.525,0.85,1.025,1.122,1.725c0.205,0.529,0.45,1.323,0.516,2.785c0.072,1.582,0.087,2.056,0.087,6.061S44.282,36.48,44.21,38.061z M32,24.297c-4.254,0-7.703,3.449-7.703,7.703c0,4.254,3.449,7.703,7.703,7.703c4.254,0,7.703-3.449,7.703-7.703C39.703,27.746,36.254,24.297,32,24.297z M32,37c-2.761,0-5-2.239-5-5c0-2.761,2.239-5,5-5s5,2.239,5,5C37,34.761,34.761,37,32,37z M40.007,22.193c-0.994,0-1.8,0.806-1.8,1.8c0,0.994,0.806,1.8,1.8,1.8c0.994,0,1.8-0.806,1.8-1.8C41.807,22.999,41.001,22.193,40.007,22.193z" />
       </symbol>
       <symbol id="instagram-unauth-mask" viewBox="0 0 64 64">
         <path d="M43.693,23.153c-0.272-0.7-0.597-1.2-1.122-1.725c-0.525-0.525-1.025-0.85-1.725-1.122c-0.529-0.205-1.323-0.45-2.785-0.517c-1.582-0.072-2.056-0.087-6.061-0.087s-4.48,0.015-6.061,0.087c-1.462,0.067-2.257,0.311-2.785,0.517c-0.7,0.272-1.2,0.597-1.725,1.122c-0.525,0.525-0.85,1.025-1.122,1.725c-0.205,0.529-0.45,1.323-0.516,2.785c-0.072,1.582-0.087,2.056-0.087,6.061s0.015,4.48,0.087,6.061c0.067,1.462,0.311,2.257,0.516,2.785c0.272,0.7,0.597,1.2,1.122,1.725s1.025,0.85,1.725,1.122c0.529,0.205,1.323,0.45,2.785,0.516c1.581,0.072,2.056,0.087,6.061,0.087s4.48-0.015,6.061-0.087c1.462-0.067,2.257-0.311,2.785-0.516c0.7-0.272,1.2-0.597,1.725-1.122s0.85-1.025,1.122-1.725c0.205-0.529,0.45-1.323,0.516-2.785c0.072-1.582,0.087-2.056,0.087-6.061s-0.015-4.48-0.087-6.061C44.143,24.476,43.899,23.682,43.693,23.153z M32,39.703c-4.254,0-7.703-3.449-7.703-7.703s3.449-7.703,7.703-7.703s7.703,3.449,7.703,7.703S36.254,39.703,32,39.703z M40.007,25.793c-0.994,0-1.8-0.806-1.8-1.8c0-0.994,0.806-1.8,1.8-1.8c0.994,0,1.8,0.806,1.8,1.8C41.807,24.987,41.001,25.793,40.007,25.793z M0,0v64h64V0H0z M46.91,38.184c-0.073,1.597-0.326,2.687-0.697,3.641c-0.383,0.986-0.896,1.823-1.73,2.657c-0.834,0.834-1.67,1.347-2.657,1.73c-0.954,0.371-2.044,0.624-3.641,0.697C36.585,46.983,36.074,47,32,47s-4.585-0.017-6.184-0.09c-1.597-0.073-2.687-0.326-3.641-0.697c-0.986-0.383-1.823-0.896-2.657-1.73c-0.834-0.834-1.347-1.67-1.73-2.657c-0.371-0.954-0.624-2.044-0.697-3.641C17.017,36.585,17,36.074,17,32c0-4.074,0.017-4.585,0.09-6.185c0.073-1.597,0.326-2.687,0.697-3.641c0.383-0.986,0.896-1.823,1.73-2.657c0.834-0.834,1.67-1.347,2.657-1.73c0.954-0.371,2.045-0.624,3.641-0.697C27.415,17.017,27.926,17,32,17s4.585,0.017,6.184,0.09c1.597,0.073,2.687,0.326,3.641,0.697c0.986,0.383,1.823,0.896,2.657,1.73c0.834,0.834,1.347,1.67,1.73,2.657c0.371,0.954,0.624,2.044,0.697,3.641C46.983,27.415,47,27.926,47,32C47,36.074,46.983,36.585,46.91,38.184z M32,27c-2.761,0-5,2.239-5,5s2.239,5,5,5s5-2.239,5-5S34.761,27,32,27z" />
       </symbol>
-      <symbol id="youtube-unauth-icon" viewBox="0 0 64 64">
-        <path d="M46.7,26c0,0-0.3-2.1-1.2-3c-1.1-1.2-2.4-1.2-3-1.3C38.3,21.4,32,21.4,32,21.4h0 c0,0-6.3,0-10.5,0.3c-0.6,0.1-1.9,0.1-3,1.3c-0.9,0.9-1.2,3-1.2,3S17,28.4,17,30.9v2.3c0,2.4,0.3,4.9,0.3,4.9s0.3,2.1,1.2,3 c1.1,1.2,2.6,1.2,3.3,1.3c2.4,0.2,10.2,0.3,10.2,0.3s6.3,0,10.5-0.3c0.6-0.1,1.9-0.1,3-1.3c0.9-0.9,1.2-3,1.2-3s0.3-2.4,0.3-4.9 v-2.3C47,28.4,46.7,26,46.7,26z M28.9,35.9l0-8.4l8.1,4.2L28.9,35.9z" />
+      <symbol id="twitter-unauth-icon" viewBox="0 0 64 64">
+        <path d="M48,22.1c-1.2,0.5-2.4,0.9-3.8,1c1.4-0.8,2.4-2.1,2.9-3.6c-1.3,0.8-2.7,1.3-4.2,1.6 C41.7,19.8,40,19,38.2,19c-3.6,0-6.6,2.9-6.6,6.6c0,0.5,0.1,1,0.2,1.5c-5.5-0.3-10.3-2.9-13.5-6.9c-0.6,1-0.9,2.1-0.9,3.3 c0,2.3,1.2,4.3,2.9,5.5c-1.1,0-2.1-0.3-3-0.8c0,0,0,0.1,0,0.1c0,3.2,2.3,5.8,5.3,6.4c-0.6,0.1-1.1,0.2-1.7,0.2c-0.4,0-0.8,0-1.2-0.1 c0.8,2.6,3.3,4.5,6.1,4.6c-2.2,1.8-5.1,2.8-8.2,2.8c-0.5,0-1.1,0-1.6-0.1c2.9,1.9,6.4,2.9,10.1,2.9c12.1,0,18.7-10,18.7-18.7 c0-0.3,0-0.6,0-0.8C46,24.5,47.1,23.4,48,22.1z" />
       </symbol>
-      <symbol id="youtube-unauth-mask" viewBox="0 0 64 64">
-        <path d="M0,0v64h64V0H0z M47,33.1c0,2.4-0.3,4.9-0.3,4.9s-0.3,2.1-1.2,3c-1.1,1.2-2.4,1.2-3,1.3 C38.3,42.5,32,42.6,32,42.6s-7.8-0.1-10.2-0.3c-0.7-0.1-2.2-0.1-3.3-1.3c-0.9-0.9-1.2-3-1.2-3S17,35.6,17,33.1v-2.3 c0-2.4,0.3-4.9,0.3-4.9s0.3-2.1,1.2-3c1.1-1.2,2.4-1.2,3-1.3c4.2-0.3,10.5-0.3,10.5-0.3h0c0,0,6.3,0,10.5,0.3c0.6,0.1,1.9,0.1,3,1.3 c0.9,0.9,1.2,3,1.2,3s0.3,2.4,0.3,4.9V33.1z M28.9,35.9l8.1-4.2l-8.1-4.2L28.9,35.9z" />
+      <symbol id="twitter-unauth-mask" viewBox="0 0 64 64">
+        <path d="M0,0v64h64V0H0z M44.7,25.5c0,0.3,0,0.6,0,0.8C44.7,35,38.1,45,26.1,45c-3.7,0-7.2-1.1-10.1-2.9 c0.5,0.1,1,0.1,1.6,0.1c3.1,0,5.9-1,8.2-2.8c-2.9-0.1-5.3-2-6.1-4.6c0.4,0.1,0.8,0.1,1.2,0.1c0.6,0,1.2-0.1,1.7-0.2 c-3-0.6-5.3-3.3-5.3-6.4c0,0,0-0.1,0-0.1c0.9,0.5,1.9,0.8,3,0.8c-1.8-1.2-2.9-3.2-2.9-5.5c0-1.2,0.3-2.3,0.9-3.3 c3.2,4,8.1,6.6,13.5,6.9c-0.1-0.5-0.2-1-0.2-1.5c0-3.6,2.9-6.6,6.6-6.6c1.9,0,3.6,0.8,4.8,2.1c1.5-0.3,2.9-0.8,4.2-1.6 c-0.5,1.5-1.5,2.8-2.9,3.6c1.3-0.2,2.6-0.5,3.8-1C47.1,23.4,46,24.5,44.7,25.5z" />
+      </symbol>
+      <symbol id="twitch-icon" viewBox="0 0 64 64">
+        <path d="M40,25.6h-2.5v7.6H40V25.6z M33,25.6h-2.5v7.6H33V25.6z M20.9,18L19,23.1v20.4h7v3.8h3.8l3.8-3.8h5.7l7.6-7.6V18H20.9z M44.5,34.5L40,39h-7l-3.8,3.8V39h-5.7V20.5h21V34.5z" />
+      </symbol>
+      <symbol id="twitch-mask" viewBox="0 0 64 64">
+        <path d="M0,0v64h64V0H0z M47,35.8l-7.6,7.6h-5.7l-3.8,3.8H26v-3.8h-7V23.1l1.9-5.1H47V35.8z M29.2,42.8L33,39h7l4.5-4.5 v-14h-21V39h5.7V42.8z M37.5,25.6H40v7.6h-2.5V25.6z M30.5,25.6H33v7.6h-2.5V25.6z" />
       </symbol>
     </svg>
-  <script>(function(){if (!document.body) return;var js = "window['__CF$cv$params']={r:'8761a02f6db8bfdf',t:'MTcxMzQxMTU0NS43OTQwMDA='};_cpo=document.createElement('script');_cpo.nonce='',_cpo.src='/cdn-cgi/challenge-platform/scripts/jsd/main.js',document.getElementsByTagName('head')[0].appendChild(_cpo);";var _0xh = document.createElement('iframe');_0xh.height = 1;_0xh.width = 1;_0xh.style.position = 'absolute';_0xh.style.top = 0;_0xh.style.left = 0;_0xh.style.border = 'none';_0xh.style.visibility = 'hidden';document.body.appendChild(_0xh);function handler() {var _0xi = _0xh.contentDocument || _0xh.contentWindow.document;if (_0xi) {var _0xj = _0xi.createElement('script');_0xj.innerHTML = js;_0xi.getElementsByTagName('head')[0].appendChild(_0xj);}}if (document.readyState !== 'loading') {handler();} else if (window.addEventListener) {document.addEventListener('DOMContentLoaded', handler);} else {var prev = document.onreadystatechange || function () {};document.onreadystatechange = function (e) {prev(e);if (document.readyState !== 'loading') {document.onreadystatechange = prev;handler();}};}})();</script></body>
+  </body>
 </html>
