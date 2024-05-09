@@ -7,4 +7,4 @@ Allow: /
 Disallow: /search
 User-agent: *
 
-Sitemap: https://iiq.ac.id/slot-gacor/sitemap.xml
+Sitemap: https://pai.assunnah.ac.id/wp-content/uploads/2023/07/sitemap.xml
