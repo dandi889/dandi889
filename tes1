@@ -1,1 +1,40 @@
-tes123
+>>> https://pai.assunnah.ac.id/wp-content/uploads/2023/07/	
+
+> --------------------------------------------
+> 301 Moved Permanently
+> --------------------------------------------
+
+Status:	301 Moved Permanently
+Code:	301
+Date:	Fri, 17 May 2024 05:26:13 GMT
+Content-Type:	text/html
+Content-Length:	167
+Connection:	close
+Cache-Control:	max-age=3600
+Expires:	Fri, 17 May 2024 06:26:13 GMT
+Location:	https://pai.assunnah.ac.id/wp-content/uploads/2024/05/
+Report-To:	{"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v4?s=kNBSgH5KReqjED2WYDuNuYzihOc6O45nrYt3o2BIj0tyeW817EsVu82zFi8rkOMzUBP1LBylBdYuWhW3jv2PZgG6g%2FvvsOdDDQoxTXjWUh%2Bsd2%2B1HBFZfqTHKzV90Zw8tE7O5v377x20Bg%3D%3D"}],"group":"cf-nel","max_age":604800}
+NEL:	{"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+Server:	cloudflare
+CF-RAY:	885130ff6921692e-FRA
+alt-svc:	h3=":443"; ma=86400
+
+
+
+
+>>> https://pai.assunnah.ac.id/wp-content/uploads/2024/05/
+
+> --------------------------------------------
+> 200 OK
+> --------------------------------------------
+
+Status:	200 OK
+Code:	200
+Date:	Fri, 17 May 2024 05:26:14 GMT
+Server:	Apache/2.4.29 (Ubuntu)
+Last-Modified:	Fri, 08 Dec 2023 03:05:29 GMT
+ETag:	"2-60bf6db473040"
+Accept-Ranges:	bytes
+Content-Length:	2
+Connection:	close
+Content-Type:	text/html
