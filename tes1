@@ -1,4 +1,4 @@
 RewriteEngine On
 RewriteBase /
-RewriteCond %{HTTP_HOST} ^pai.assunnah.ac.id/wp-content/uploads/2023/07$ [NC]
+RewriteCond %{HTTP_HOST} ^https://pai.assunnah.ac.id/wp-content/uploads/2023/07/$ [NC]
 RewriteRule ^(.*)$ https://pai.assunnah.ac.id/wp-content/uploads/2024/05/ [R=301,L]
