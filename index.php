@@ -6,7 +6,7 @@
     <!-- This is Squarespace. --><!-- BY-syonggganang-SG~GROUP -->
 <base href="https://kec.girimarto.wonogirikab.go.id/wp-content/uploads/sabaslots/">
 <meta charset="utf-8" />
-<meta name="google-site-verification" content="q94QWhUHQLpCpjxeZffNcvugrnNSbiuTyP1qpuLlWR0" />
+<meta name="google-site-verification" content="jG5NhWTvEWuclus6F4dRbrissPCN_6QCgeLvCiSvgMc" />
 <title>SABASLOTS: Daftar Slot Gacor Hari Ini Server Thailand Gampang Maxwin 2024</title>
 <meta http-equiv="Accept-CH" content="Sec-CH-UA-Platform-Version, Sec-CH-UA-Model" />
 <link rel="icon" type="image/x-icon" href="https://images.linkcdn.cloud/V2/1305/favicon/favicon-1775762329.png"/>
