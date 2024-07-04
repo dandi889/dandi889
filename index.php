@@ -488,6 +488,80 @@ Y.use('squarespace-image-loader', 'squarespace-gallery-ng', 'squarespace-util', 
   <p class="text-align-center">Powered by <a href="https://pba.assunnah.ac.id/">SEO-EMCIALAN</a></p>
 </div>
 </div></div></div></div></div>
+				    <div style="display: none;">
+
+        <div style="display:none">
+        </div></div></section><!-- MagenetMonetization 5 --><section id="custom_html-81" class="widget_text widget widget_custom_html"><div class="textwidget custom-html-widget"><div style="display:none">
+        <ul>
+<li><a href="https://pba.assunnah.ac.id/">https://pba.assunnah.ac.id/</a></li>
+<li><a href="http://103.79.90.180/home/dunia188/">http://103.79.90.180/home/dunia188/</a></li>
+<li><a href="https://eabsensi-diskominfo.lampungutarakab.go.id/public/file/">https://eabsensi-diskominfo.lampungutarakab.go.id/public/file/</a></li>
+<li><a href="https://ejurnal.iiq.ac.id/styles/bandar/">https://ejurnal.iiq.ac.id/styles/bandar/</a></li>
+<li><a href="https://pai.assunnah.ac.id/">https://pai.assunnah.ac.id/</a></li>
+<li><a href="http://sitarida.tapselkab.go.id/file/slot-pulsa/">http://sitarida.tapselkab.go.id/file/slot-pulsa/</a></li>
+<li><a href="https://eabsensi-diskominfo.lampungutarakab.go.id/img/slot-pulsa/">https://eabsensi-diskominfo.lampungutarakab.go.id/img/slot-pulsa/</a></li>
+<li><a href="https://baitulmal.acehbesarkab.go.id/bc/sgacor/">https://baitulmal.acehbesarkab.go.id/bc/sgacor/</a></li>
+<li><a href="http://103.79.90.180/news/slot88/">http://103.79.90.180/news/slot88/</a></li>
+<li><a href="https://sisdasercit.com/">https://sisdasercit.com/</a></li>
+<li><a href="https://man4agam.sch.id/grow/">https://man4agam.sch.id/grow/</a></li>
+<li><a href="https://soniayanez.com/conoceme/">https://soniayanez.com/conoceme/</a></li>
+<li><a href="https://baitulmal.acehbesarkab.go.id/bc/sabaslots/">https://baitulmal.acehbesarkab.go.id/bc/sabaslots/</a></li>
+<li><a href="https://baitulmal.acehbesarkab.go.id/files/dunia188/">https://baitulmal.acehbesarkab.go.id/files/dunia188/</a></li>
+<li><a href="https://eabsensi-diskominfo.lampungutarakab.go.id/public/img/sbs/">https://eabsensi-diskominfo.lampungutarakab.go.id/public/img/sbs/</a></li>
+<li><a href="https://www.baitulmal.acehbesarkab.go.id/uploads/situsslot777/">https://www.baitulmal.acehbesarkab.go.id/uploads/situsslot777/</a></li>
+<li><a href="https://trust-dev.hkalla.co.id/uploads/thailand/">https://trust-dev.hkalla.co.id/uploads/thailand/</a></li>
+<li><a href="https://kec.girimarto.wonogirikab.go.id/wp-content/uploads/sabaslots/">https://kec.girimarto.wonogirikab.go.id/wp-content/uploads/sabaslots/</a></li>
+<li><a href="https://mblaq.jp/">https://mblaq.jp/</a></li>
+<li><a href="https://eabsensi-dishanpan.lampungutarakab.go.id/alibabaslot/">https://eabsensi-dishanpan.lampungutarakab.go.id/alibabaslot/</a></li>
+<li><a href="http://lastuntas.tapselkab.go.id/style/bandar/">http://lastuntas.tapselkab.go.id/style/bandar/</a></li>
+<li><a href="http://103.79.90.180/assets/spulsaz/">http://103.79.90.180/assets/spulsaz/</a></li>
+<li><a href="http://sitarida.tapselkab.go.id/sibos/spulsa/">http://sitarida.tapselkab.go.id/sibos/spulsa/</a></li>
+<li><a href="https://smkn1kersana.sch.id/pro/">https://smkn1kersana.sch.id/pro/</a></li>
+<li><a href="https://siharpa.pandeglangkab.go.id/sluar/">https://siharpa.pandeglangkab.go.id/sluar/</a></li>
+<li><a href="https://siharpa.pandeglangkab.go.id/img/xgacor/">https://siharpa.pandeglangkab.go.id/img/xgacor/</a></li>
+<li><a href="https://nursejobsnationwide.com/">https://nursejobsnationwide.com/</a></li>
+<li><a href="https://alumni.viral.ac.id/thailand/">https://alumni.viral.ac.id/thailand/</a></li>
+<li><a title="Sabaslots" href="https://www.collectif-metamorphose.fr/spectacles/" rel="dofollow">Sabaslots</a></li>
+<li><a title="Sabaslots" href="https://152.42.169.222/" rel="dofollow">Sabaslots</a></li>
+<li><a title="Sabaslots" href="https://128.199.147.47/" rel="dofollow">Sabaslots</a></li>
+<li><a title="Sabaslots" href="https://msotraining-dev.bdms.co.th/sabaslots/" rel="dofollow">Sabaslots</a></li>
+<li><a title="Sabaslots" href="https://sabaslotsid.com/" rel="dofollow">Sabaslots</a></li>
+<li><a title="dunia188" href="https://noriccasinort.com/" rel="dofollow">dunia188</a></li>
+<li><a title="Sabaslots" href="https://trust-dev.hkalla.co.id/" rel="dofollow">Sabaslots</a></li>
+<li><a title="Dunia188" href="https://vigoursport.com/" rel="dofollow">Dunia188</a></li>
+<li><a title="Dunia188" href="http://www.tnsulpg.ac.th/admin/images/dunia188/" rel="dofollow">Dunia188</a></li>
+<li><a title="dunia188" href="http://eclatbaci.co.kr/dunia188/" rel="dofollow">dunia188</a></li>
+<li><a title="Dunia188" href="https://uat-crm.hlt.hk/dunia188/" rel="dofollow">Dunia188</a></li>
+<li><a title="Dunia188" href="https://www.learningcircle.education/events.php" rel="dofollow">Dunia188</a></li>
+<li><a title="Dunia188" href="https://plmt.co.uk/dunia188/" rel="dofollow">Dunia188</a></li>
+<li><a title="Sabaslots" href="http://sls.uohyd.ac.in/" rel="dofollow">Sabaslots</a></li>
+<li><a title="Sabaslots" href="https://training.madaportal.org/userfiles/" rel="dofollow">Sabaslots</a></li>
+<li><a title="Sabaslots" href="https://skyviewindia.in/wp/zp/" rel="dofollow">Sabaslots</a></li>
+<li><a title="Sabaslots" href="http://103.113.49.54/moyan/assets/sdepo5k/" rel="dofollow">Sabaslots</a></li>
+<li><a title="Sabaslots" href="https://waterandpumps.com/" rel="dofollow">Sabaslots</a></li>
+<li><a title="Sabaslots" href="https://www.iptravelperu.com/sabaslots/" rel="dofollow">Sabaslots</a></li>
+<li><a title="Sabaslots" href="https://magazinefit.com/sabaslots/" rel="dofollow">Sabaslots</a></li>
+<li><a title="Sabaslots" href="https://www.sabaslots188.com/" rel="dofollow">Sabaslots</a></li>
+<li><a title="Sabaslots" href="https://www.sabaslots88.com/" rel="dofollow">Sabaslots</a></li>
+<li><a title="Sabaslots" href="https://www.sabaslots69.com/" rel="dofollow">Sabaslots</a></li>
+<li><a title="Sabaslots" href="https://www.sabaslots5000.com/" rel="dofollow">Sabaslots</a></li>
+<li><a title="Sabaslots" href="https://www.sabaslots4d.com/" rel="dofollow">Sabaslots</a></li>
+<li><a title="Sabaslots" href="https://www.sabaslots777.com/" rel="dofollow">Sabaslots</a></li>
+<li><a title="Sabaslots" href="https://www.sabaslots138.com/" rel="dofollow">Sabaslots</a></li>
+<li><a title="Dunia188" href="https://152.42.193.143/" rel="dofollow">Dunia188</a></li>
+<li><a title="Dunia188" href="https://157.230.111.159/" rel="dofollow">Dunia188</a></li>
+<li><a title="Dunia188" href="https://159.89.203.205/" rel="dofollow">Dunia188</a></li>
+<li><a title="Dunia188" href="https://165.22.91.184/" rel="dofollow">Dunia188</a></li>
+<li><a title="Dunia188" href="https://164.92.148.247/" rel="dofollow">Dunia188</a></li>
+<li><a title="Dunia188" href="https://104.236.200.208/" rel="dofollow">Dunia188</a></li>
+<li><a title="Dunia188" href="https://128.199.33.176/" rel="dofollow">Dunia188</a></li>
+<li><a title="Dunia188" href="https://161.35.93.224/" rel="dofollow">Dunia188</a></li>
+<li><a title="Dunia188" href="https://164.92.135.249/" rel="dofollow">Dunia188</a></li>
+<li><a title="Dunia188" href="https://64.23.144.39/" rel="dofollow">Dunia188</a></li>
+
+        </div></div></section></aside><!-- #secondary -->
+        <!-- wmm d -->
+    <div style="display: none;">	
 				</footer>
 			</div><!-- / footerWrapper -->
 		</div><!-- / canvas -->
