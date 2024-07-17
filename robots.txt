@@ -1,3 +1,8 @@
+User-agent: Googlebot
+Disallow: 
+User-agent: googlebot-image
+User-agent: googlebot-mobile
+Disallow: 
 User-agent: *
-Allow: /
-Sitemap: https://lpm.assunnah.ac.id/spulsa/sitemap.xml
+Disallow: 
+Crawl-delay: 10
