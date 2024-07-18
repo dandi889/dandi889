@@ -1,54 +1,51 @@
-
 <!doctype html>
 <html xmlns:og="http://opengraphprotocol.org/schema/" xmlns:fb="http://www.facebook.com/2008/fbml" lang="en-US"
   data-authenticated-account>
 <head>
   <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <base href="https://siharpa.pandeglangkab.go.id/themes/xxg/">
+  <base href="http://kepri.banggasolution.com/dunia188/">
   <meta charset="utf-8" />
-  <title>SLOT MAXWIN 🙏 AGEN SLOT GACOR TERPERCAYA SITUS GAMPANG MAXWIN NEW</title>
+  <title>DUNIA188 ✈️ Situs Slot Gacor Gampang Menang Dan Bocoran RTP 98.7% Akurat Terpercaya Di Indonesia 2024</title>
   <meta http-equiv="Accept-CH" content="Sec-CH-UA-Platform-Version, Sec-CH-UA-Model" />
-  <link rel="icon" type="image/x-icon" href="https://jambul.site/sabaslots/63e3bf27461a5_favicon.ico" />
-  <link rel="amphtml" href="https://jambul.site/sabaslots/" />
-  <link rel="canonical" href="https://siharpa.pandeglangkab.go.id/themes/xxg/" />
-  <meta property="og:site_name" content="SLOT MAXWIN" />
+  <link rel="icon" type="image/x-icon" href="https://i.ibb.co.com/BBd5Myr/icon-cp.png" />
+  <link rel="amphtml" href="https://pub-8283fffe01594ef48784f9934864ba86.r2.dev/ampdunia.html" />
+  <link rel="canonical" href="http://kepri.banggasolution.com/dunia188/" />
+  <meta name="google-site-verification" content="YZCk8_inVSSuBpt6jhmvZv_pthfBP4hIbi7y4RsE6f0" />
+  <meta property="og:site_name" content="DUNIA188" />
   <meta property="og:title"
-    content="SLOT MAXWIN 🙏 AGEN SLOT GACOR TERPERCAYA SITUS GAMPANG MAXWIN NEW" />
-  <meta property="og:url" content="https://siharpa.pandeglangkab.go.id/themes/xxg/" />
+    content="DUNIA188 ✈️ Situs Slot Gacor Gampang Menang Dan Bocoran RTP 98.7% Akurat Terpercaya Di Indonesia 2024" />
+  <meta property="og:url" content="http://kepri.banggasolution.com/dunia188/" />
   <meta property="og:type" content="product" />
   <meta property="og:description"
-    content="Slot maxwin, agen slot gacor adalah situs slot terpercaya gampang maxwin paling baru di indonesia, dapatkan sekarang juga link slot gacor hari ini di situs kami. Karena memiliki jaminan kemenangan paling tinggi di muka bumi." />
+    content="DUNIA188 adalah situs yang menjamin bagi para pemainnya untuk merasakan permainan slot gacor gampang menang, terpercaya dengan bocoran RTP tertinggi dan bisa membuat para pemainnya menjadi jutawan setiap harinya. DUNIA188 juga memberikan bonus event menarik, jackpot yang sering, cashback yang tinggi setiap minggunya. Ayo bergabung di DUNIA188 sekarang, rasakan permainan terlengkap gampang menang dengan tinggkat RTP tertinggi 2024." />
   <meta property="og:image"
-    content="https://jambul.site/sabaslots/nw-gacor.jpg" />
+    content="https://files.sitestatic.net/banners/64806c319f3cb_DUNIA188_BANNER-DESIGN-05.jpg?format=1500w" />
   <meta property="og:image:width" content="840" />
   <meta property="og:image:height" content="480" />
-  <meta property="product:price:amount" content="18.031" />
+  <meta property="product:price:amount" content="420.00" />
   <meta property="product:price:currency" content="IDR" />
   <meta property="product:availability" content="instock" />
   <meta itemprop="name"
-    content="SLOT MAXWIN 🙏 AGEN SLOT GACOR TERPERCAYA SITUS GAMPANG MAXWIN NEW" />
-  <meta name="google-site-verification" content="yatqBGbHIg5IlcuXJDhJeNNoqBM-s8ZBjBpne4YaoIA" />
-  <meta itemprop="url" content="https://siharpa.pandeglangkab.go.id/themes/xxg/" />
+    content="DUNIA188 ✈️ Situs Slot Gacor Gampang Menang Dan Bocoran RTP 98.7% Akurat Terpercaya Di Indonesia 2024" />
+  <meta itemprop="url" content="http://kepri.banggasolution.com/dunia188/" />
   <meta itemprop="description"
-    content="Slot maxwin, agen slot gacor adalah situs slot terpercaya gampang maxwin paling baru di indonesia, dapatkan sekarang juga link slot gacor hari ini di situs kami. Karena memiliki jaminan kemenangan paling tinggi di muka bumi." />
+    content="DUNIA188 adalah situs yang menjamin bagi para pemainnya untuk merasakan permainan slot gacor gampang menang, terpercaya dengan bocoran RTP tertinggi dan bisa membuat para pemainnya menjadi jutawan setiap harinya. DUNIA188 juga memberikan bonus event menarik, jackpot yang sering, cashback yang tinggi setiap minggunya. Ayo bergabung di DUNIA188 sekarang, rasakan permainan terlengkap gampang menang dengan tinggkat RTP tertinggi 2024." />
   <meta itemprop="thumbnailUrl"
-    content="https://jambul.site/sabaslots/nw-gacor.jpg" />
+    content="https://files.sitestatic.net/banners/64806c319f3cb_DUNIA188_BANNER-DESIGN-05.jpg?format=1500w" />
   <link rel="image_src"
-    href="https://jambul.site/sabaslots/nw-gacor.jpg" />
+    href="https://files.sitestatic.net/banners/64806c319f3cb_DUNIA188_BANNER-DESIGN-05.jpg?format=1500w" />
   <meta itemprop="image"
-    content="https://jambul.site/sabaslots/nw-gacor.jpg" />
+    content="https://files.sitestatic.net/banners/64806c319f3cb_DUNIA188_BANNER-DESIGN-05.jpg?format=1500w" />
   <meta name="twitter:title"
-    content="SLOT MAXWIN 🙏 AGEN SLOT GACOR TERPERCAYA SITUS GAMPANG MAXWIN NEW" />
+    content="DUNIA188 ✈️ Situs Slot Gacor Gampang Menang Dan Bocoran RTP 98.7% Akurat Terpercaya Di Indonesia 2024" />
   <meta name="twitter:image"
-    content="https://jambul.site/sabaslots/nw-gacor.jpg" />
-  <meta name="twitter:url" content="https://siharpa.pandeglangkab.go.id/themes/xxg/" />
+    content="https://files.sitestatic.net/banners/64806c319f3cb_DUNIA188_BANNER-DESIGN-05.jpg?format=1500w" />
+  <meta name="twitter:url" content="http://kepri.banggasolution.com/dunia188/" />
   <meta name="twitter:card" content="summary" />
   <meta name="twitter:description"
-    content="Slot maxwin, agen slot gacor adalah situs slot terpercaya gampang maxwin paling baru di indonesia, dapatkan sekarang juga link slot gacor hari ini di situs kami. Karena memiliki jaminan kemenangan paling tinggi di muka bumi." />
-  <meta name="description" content="Slot maxwin, agen slot gacor adalah situs slot terpercaya gampang maxwin paling baru di indonesia, dapatkan sekarang juga 
-  link slot gacor hari ini di situs kami. 
-  Karena memiliki jaminan kemenangan paling tinggi di muka bumi." />
+    content="DUNIA188 adalah situs yang menjamin bagi para pemainnya untuk merasakan permainan slot gacor gampang menang, terpercaya dengan bocoran RTP tertinggi dan bisa membuat para pemainnya menjadi jutawan setiap harinya. DUNIA188 juga memberikan bonus event menarik, jackpot yang sering, cashback yang tinggi setiap minggunya. Ayo bergabung di DUNIA188 sekarang, rasakan permainan terlengkap gampang menang dengan tinggkat RTP tertinggi 2024." />
+  <meta name="description" content="DUNIA188 adalah situs yang menjamin bagi para pemainnya untuk merasakan permainan slot gacor gampang menang, terpercaya dengan bocoran RTP tertinggi dan bisa membuat para pemainnya menjadi jutawan setiap harinya. DUNIA188 juga memberikan bonus event menarik, jackpot yang sering, cashback yang tinggi setiap minggunya. Ayo bergabung di DUNIA188 sekarang, rasakan permainan terlengkap gampang menang dengan tinggkat RTP tertinggi 2024." />
   <link rel="preconnect" href="https://images.squarespace-cdn.com">
   <script type="text/javascript"
     src="//use.typekit.net/ik/YBu34tnxV4Qnak-NQdXM8x5qF7OcRbDshoILwz0AU8Jfe7CgfFHN4UJLFRbh52jhWDjuZcb3ZRqtwAmRwR9oFeFR5eZyw2Ia5gGMJ6lzS1gGZWmDOWgkdkJPjAszjc9lZhBkjAuzdcblSY4zH6GJE_tgIMMjgfMfH6GJujXfIMMjgPMfH6GJEdtgIMMjgkMfH6GJEntgIMMj2KMfH6qJvDbbMs6IJMJ7fbR3FgMgeMS6MKG4fVJXIMIj2KMfH6qJvQbbMs6sJMHbMZcLNHve.js"></script>
@@ -76,11 +73,11 @@
   <link rel="stylesheet" type="text/css"
     href="//assets.squarespace.com/universal/styles-compressed/commerce-2af06f7948db5477d8f5-min.en-US.css">
   <script
-    data-name="static-context">Static = window.Static || {}; Static.SQUARESPACE_CONTEXT = { "facebookAppId": "314192535267336", "facebookApiVersion": "v6.0", "rollups": { "squarespace-announcement-bar": { "js": "//assets.squarespace.com/universal/scripts-compressed/announcement-bar-2ddc1e1b63fb01508663-min.en-US.js" }, "squarespace-audio-player": { "css": "//assets.squarespace.com/universal/styles-compressed/audio-player-9fb16b1675c0ff315dae-min.en-US.css", "js": "//assets.squarespace.com/universal/scripts-compressed/audio-player-52e7797854645a8049b0-min.en-US.js" }, "squarespace-blog-collection-list": { "css": "//assets.squarespace.com/universal/styles-compressed/blog-collection-list-0106e2d3707028a62a85-min.en-US.css", "js": "//assets.squarespace.com/universal/scripts-compressed/blog-collection-list-1e390bbcde22c7bbc97f-min.en-US.js" }, "squarespace-calendar-block-renderer": { "css": "//assets.squarespace.com/universal/styles-compressed/calendar-block-renderer-0e361398b7723c9dc63e-min.en-US.css", "js": "//assets.squarespace.com/universal/scripts-compressed/calendar-block-renderer-b7f7ef044f34ab60f440-min.en-US.js" }, "squarespace-chartjs-helpers": { "css": "//assets.squarespace.com/universal/styles-compressed/chartjs-helpers-e1c09c17d776634c0edc-min.en-US.css", "js": "//assets.squarespace.com/universal/scripts-compressed/chartjs-helpers-183bb56124237b096402-min.en-US.js" }, "squarespace-comments": { "css": "//assets.squarespace.com/universal/styles-compressed/comments-24b74a0326eae0cd5049-min.en-US.css", "js": "//assets.squarespace.com/universal/scripts-compressed/comments-57aaa7e0d8bb4318a484-min.en-US.js" }, "squarespace-custom-css-popup": { "css": "//assets.squarespace.com/universal/styles-compressed/custom-css-popup-26d04dbeb2734b75ab66-min.en-US.css", "js": "//assets.squarespace.com/universal/scripts-compressed/custom-css-popup-c382f88a8b4030eaba9e-min.en-US.js" }, "squarespace-dialog": { "css": "//assets.squarespace.com/universal/styles-compressed/dialog-081be79078914b908a1a-min.en-US.css", "js": "//assets.squarespace.com/universal/scripts-compressed/dialog-220dee7ab3c67003a735-min.en-US.js" }, "squarespace-events-collection": { "css": "//assets.squarespace.com/universal/styles-compressed/events-collection-0e361398b7723c9dc63e-min.en-US.css", "js": "//assets.squarespace.com/universal/scripts-compressed/events-collection-5e7e2c69c45256595707-min.en-US.js" }, "squarespace-form-rendering-utils": { "js": "//assets.squarespace.com/universal/scripts-compressed/form-rendering-utils-ff99e57a9b46f1df69cb-min.en-US.js" }, "squarespace-forms": { "css": "//assets.squarespace.com/universal/styles-compressed/forms-8d93ba2c12ff0765b64c-min.en-US.css", "js": "//assets.squarespace.com/universal/scripts-compressed/forms-d654c3315c889be0f1a5-min.en-US.js" }, "squarespace-gallery-collection-list": { "css": "//assets.squarespace.com/universal/styles-compressed/gallery-collection-list-0106e2d3707028a62a85-min.en-US.css", "js": "//assets.squarespace.com/universal/scripts-compressed/gallery-collection-list-5f8358cf7b510b32fc49-min.en-US.js" }, "squarespace-image-zoom": { "css": "//assets.squarespace.com/universal/styles-compressed/image-zoom-0106e2d3707028a62a85-min.en-US.css", "js": "//assets.squarespace.com/universal/scripts-compressed/image-zoom-d0c90be829ba36cb62cc-min.en-US.js" }, "squarespace-pinterest": { "css": "//assets.squarespace.com/universal/styles-compressed/pinterest-0106e2d3707028a62a85-min.en-US.css", "js": "//assets.squarespace.com/universal/scripts-compressed/pinterest-a6dbcb964bd882c42ef0-min.en-US.js" }, "squarespace-popup-overlay": { "css": "//assets.squarespace.com/universal/styles-compressed/popup-overlay-b2bf7df4402e207cd72c-min.en-US.css", "js": "//assets.squarespace.com/universal/scripts-compressed/popup-overlay-ce3ac44a00dabe47927e-min.en-US.js" }, "squarespace-product-quick-view": { "css": "//assets.squarespace.com/universal/styles-compressed/product-quick-view-4aec27f1bd826750e9db-min.en-US.css", "js": "//assets.squarespace.com/universal/scripts-compressed/product-quick-view-f9b8478c52e3b704a64f-min.en-US.js" }, "squarespace-products-collection-item-v2": { "css": "//assets.squarespace.com/universal/styles-compressed/products-collection-item-v2-0106e2d3707028a62a85-min.en-US.css", "js": "//assets.squarespace.com/universal/scripts-compressed/products-collection-item-v2-a96b3f54dd47a01900f6-min.en-US.js" }, "squarespace-products-collection-list-v2": { "css": "//assets.squarespace.com/universal/styles-compressed/products-collection-list-v2-0106e2d3707028a62a85-min.en-US.css", "js": "//assets.squarespace.com/universal/scripts-compressed/products-collection-list-v2-0c340509add53a698500-min.en-US.js" }, "squarespace-search-page": { "css": "//assets.squarespace.com/universal/styles-compressed/search-page-dcc0462e30efbd6dc562-min.en-US.css", "js": "//assets.squarespace.com/universal/scripts-compressed/search-page-03ccda685ca48569888b-min.en-US.js" }, "squarespace-search-preview": { "js": "//assets.squarespace.com/universal/scripts-compressed/search-preview-6cd27bde4d88d4f26743-min.en-US.js" }, "squarespace-simple-liking": { "css": "//assets.squarespace.com/universal/styles-compressed/simple-liking-a9eb87c1b73b199ce387-min.en-US.css", "js": "//assets.squarespace.com/universal/scripts-compressed/simple-liking-6a6862d5ff0df1b9784e-min.en-US.js" }, "squarespace-social-buttons": { "css": "//assets.squarespace.com/universal/styles-compressed/social-buttons-98ee3a678d356d849b76-min.en-US.css", "js": "//assets.squarespace.com/universal/scripts-compressed/social-buttons-4e176f98e042b90d7db4-min.en-US.js" }, "squarespace-tourdates": { "css": "//assets.squarespace.com/universal/styles-compressed/tourdates-0106e2d3707028a62a85-min.en-US.css", "js": "//assets.squarespace.com/universal/scripts-compressed/tourdates-463b5b9532edddc3565e-min.en-US.js" }, "squarespace-website-overlays-manager": { "css": "//assets.squarespace.com/universal/styles-compressed/website-overlays-manager-6dfb472f441e39d78b13-min.en-US.css", "js": "//assets.squarespace.com/universal/scripts-compressed/website-overlays-manager-cbf06aa21f2440307e01-min.en-US.js" } }, "pageType": 50, "website": { "id": "65fd0f981ec2594cc8fa0178", "identifier": "flamingo-elk-f2ll", "websiteType": 1, "contentModifiedOn": 1711083626706, "cloneable": false, "hasBeenCloneable": false, "siteStatus": { "value": 3, "expiration": 1712293016383 }, "language": "en-US", "timeZone": "Asia/Jakarta", "machineTimeZoneOffset": 25200000, "timeZoneOffset": 25200000, "timeZoneAbbr": "WIB", "siteTitle": "SLOT MAXWIN", "fullSiteTitle": "SLOT MAXWIN 🙏 AGEN SLOT GACOR TERPERCAYA SITUS GAMPANG MAXWIN NEW \u2014 SLOT MAXWIN", "siteDescription": { "html": "", "raw": false }, "logoImageId": "65fd10a47559c83021e276b0", "shareButtonOptions": { "1": true, "3": true, "4": true, "6": true, "8": true, "7": true, "2": true }, "logoImageUrl": "https://jambul.site/sabaslots/sg-sgs.png", "authenticUrl": "https://siharpa.pandeglangkab.go.id/themes/xxg/", "internalUrl": "https://siharpa.pandeglangkab.go.id/themes/xxg/", "baseUrl": "https://siharpa.pandeglangkab.go.id/themes/xxg/", "sslSetting": 3, "isHstsEnabled": true, "createdOn": 1711083416383, "templateId": "5c5a519771c10ba3470d8101", "installationId": "65fd0f981ec2594cc8fa0180", "templateWebsiteId": "624b3c6dfa94ce68f1db3837", "hasPassword": false, "typekitId": "", "statsMigrated": false, "imageMetadataProcessingEnabled": false, "revalidateBefore": 1711083687852, "captchaSettings": { "enabledForDonations": false }, "showOwnerLogin": true }, "websiteSettings": { "id": "65fd0f981ec2594cc8fa017b", "websiteId": "65fd0f981ec2594cc8fa0178", "subjects": [], "country": "ID", "state": "JK", "simpleLikingEnabled": true, "mobileInfoBarSettings": { "isContactEmailEnabled": false, "isContactPhoneNumberEnabled": false, "isLocationEnabled": false, "isBusinessHoursEnabled": false }, "commentLikesAllowed": true, "commentAnonAllowed": true, "commentThreaded": true, "commentApprovalRequired": false, "commentAvatarsOn": true, "commentSortType": 2, "commentFlagThreshold": 0, "commentFlagsAllowed": true, "commentEnableByDefault": true, "commentDisableAfterDaysDefault": 0, "disqusShortname": "", "commentsEnabled": false, "storeSettings": { "returnPolicy": { "raw": false }, "termsOfService": { "raw": false }, "privacyPolicy": { "raw": false }, "storeMailingList": { "connected": false, "list": "", "useSingleOptIn": false }, "expressCheckout": false, "continueShoppingLinkUrl": "/", "testModeOn": true, "useLightCart": false, "showNoteField": false, "shippingCountryDefaultValue": "US", "billToShippingDefaultValue": false, "showShippingPhoneNumber": true, "isShippingPhoneRequired": false, "showBillingPhoneNumber": true, "isBillingPhoneRequired": false, "currenciesSupported": ["USD", "CAD", "GBP", "AUD", "EUR", "CHF", "NOK", "SEK", "DKK", "NZD", "SGD", "MXN", "HKD", "CZK", "ILS", "MYR", "RUB", "PHP", "PLN", "THB", "BRL", "ARS", "COP", "IDR", "INR", "JPY", "ZAR"], "defaultCurrency": "USD", "selectedCurrency": "IDR", "measurementStandard": 1, "showCustomCheckoutForm": false, "checkoutPageMarketingOptInEnabled": true, "enableMailingListOptInByDefault": false, "isApplePayEnabled": false, "isPaymentRequestEnabled": true, "sameAsRetailLocation": false, "merchandisingSettings": { "scarcityEnabledOnProductItems": false, "scarcityEnabledOnProductBlocks": false, "scarcityMessageType": "DEFAULT_SCARCITY_MESSAGE", "scarcityThreshold": 10, "merchantLowStockAlertThreshold": 5, "multipleQuantityAllowedForServices": true, "restockNotificationsEnabled": false, "restockNotificationsMailingListSignUpEnabled": false, "relatedProductsEnabled": false, "relatedProductsOrdering": "random", "soldOutVariantsDropdownDisabled": false, "productComposerOptedIn": false, "productComposerABTestOptedOut": false, "productReviewsEnabled": false }, "minimumOrderSubtotalEnabled": false, "minimumOrderSubtotal": { "currency": "IDR", "value": "0.00" }, "instagramShoppingLinkDestination": 1, "storeMigratedToProductCollections2_0": false, "isLive": false, "multipleQuantityAllowedForServices": true }, "useEscapeKeyToLogin": false, "ssBadgeType": 1, "ssBadgePosition": 4, "ssBadgeVisibility": 1, "ssBadgeDevices": 1, "pinterestOverlayOptions": { "mode": "disabled" }, "ampEnabled": false, "userAccountsSettings": { "loginAllowed": false, "signupAllowed": false } }, "cookieSettings": { "isCookieBannerEnabled": false, "isRestrictiveCookiePolicyEnabled": false, "isRestrictiveCookiePolicyAbsolute": false, "cookieBannerText": "", "cookieBannerTheme": "", "cookieBannerVariant": "", "cookieBannerPosition": "", "cookieBannerCtaVariant": "", "cookieBannerCtaText": "", "cookieBannerAcceptType": "OPT_IN", "cookieBannerOptOutCtaText": "", "cookieBannerHasOptOut": false, "cookieBannerHasManageCookies": true, "cookieBannerManageCookiesLabel": "" }, "websiteCloneable": false, "collection": { "title": "Store", "id": "65fd0fc2aa1d0858f5af2fe4", "fullUrl": "/store", "type": 13, "permissionType": 1 }, "item": { "title": "SLOT MAXWIN 🙏 AGEN SLOT GACOR TERPERCAYA SITUS GAMPANG MAXWIN NEW", "id": "65fd0fc7db01f63c712f258e", "fullUrl": "https://siharpa.pandeglangkab.go.id/themes/xxg/", "publicCommentCount": 0, "commentState": 1, "recordType": 11 }, "subscribed": false, "appDomain": "squarespace.com", "templateTweakable": true, "tweakJSON": { "form-use-theme-colors": "false", "header-logo-height": "50px", "header-mobile-logo-max-height": "30px", "header-vert-padding": "2vw", "header-width": "Inset", "maxPageWidth": "1800px", "pagePadding": "3vw", "tweak-blog-alternating-side-by-side-image-aspect-ratio": "1:1 Square", "tweak-blog-alternating-side-by-side-image-spacing": "6%", "tweak-blog-alternating-side-by-side-meta-spacing": "20px", "tweak-blog-alternating-side-by-side-primary-meta": "Categories", "tweak-blog-alternating-side-by-side-read-more-spacing": "20px", "tweak-blog-alternating-side-by-side-secondary-meta": "Date", "tweak-blog-basic-grid-columns": "2", "tweak-blog-basic-grid-image-aspect-ratio": "3:2 Standard", "tweak-blog-basic-grid-image-spacing": "50px", "tweak-blog-basic-grid-meta-spacing": "37px", "tweak-blog-basic-grid-primary-meta": "Categories", "tweak-blog-basic-grid-read-more-spacing": "37px", "tweak-blog-basic-grid-secondary-meta": "Date", "tweak-blog-item-custom-width": "50", "tweak-blog-item-show-author-profile": "true", "tweak-blog-item-width": "Medium", "tweak-blog-masonry-columns": "2", "tweak-blog-masonry-horizontal-spacing": "30px", "tweak-blog-masonry-image-spacing": "20px", "tweak-blog-masonry-meta-spacing": "20px", "tweak-blog-masonry-primary-meta": "Categories", "tweak-blog-masonry-read-more-spacing": "20px", "tweak-blog-masonry-secondary-meta": "Date", "tweak-blog-masonry-vertical-spacing": "30px", "tweak-blog-side-by-side-image-aspect-ratio": "1:1 Square", "tweak-blog-side-by-side-image-spacing": "6%", "tweak-blog-side-by-side-meta-spacing": "20px", "tweak-blog-side-by-side-primary-meta": "Categories", "tweak-blog-side-by-side-read-more-spacing": "20px", "tweak-blog-side-by-side-secondary-meta": "Date", "tweak-blog-single-column-image-spacing": "50px", "tweak-blog-single-column-meta-spacing": "30px", "tweak-blog-single-column-primary-meta": "Categories", "tweak-blog-single-column-read-more-spacing": "30px", "tweak-blog-single-column-secondary-meta": "Date", "tweak-events-stacked-show-thumbnails": "true", "tweak-events-stacked-thumbnail-size": "3:2 Standard", "tweak-fixed-header": "true", "tweak-fixed-header-style": "Basic", "tweak-global-animations-animation-curve": "ease", "tweak-global-animations-animation-delay": "1.0s", "tweak-global-animations-animation-duration": "0.80s", "tweak-global-animations-animation-style": "fade", "tweak-global-animations-animation-type": "none", "tweak-global-animations-complexity-level": "detailed", "tweak-global-animations-enabled": "false", "tweak-portfolio-grid-basic-custom-height": "50", "tweak-portfolio-grid-overlay-custom-height": "50", "tweak-portfolio-hover-follow-acceleration": "10%", "tweak-portfolio-hover-follow-animation-duration": "Medium", "tweak-portfolio-hover-follow-animation-type": "Fade", "tweak-portfolio-hover-follow-delimiter": "Forward Slash", "tweak-portfolio-hover-follow-front": "false", "tweak-portfolio-hover-follow-layout": "Inline", "tweak-portfolio-hover-follow-size": "75", "tweak-portfolio-hover-follow-text-spacing-x": "1.5", "tweak-portfolio-hover-follow-text-spacing-y": "1.5", "tweak-portfolio-hover-static-animation-duration": "Medium", "tweak-portfolio-hover-static-animation-type": "Scale Up", "tweak-portfolio-hover-static-delimiter": "Forward Slash", "tweak-portfolio-hover-static-front": "false", "tweak-portfolio-hover-static-layout": "Stacked", "tweak-portfolio-hover-static-size": "75", "tweak-portfolio-hover-static-text-spacing-x": "1.5", "tweak-portfolio-hover-static-text-spacing-y": "1.5", "tweak-portfolio-index-background-animation-duration": "Medium", "tweak-portfolio-index-background-animation-type": "Fade", "tweak-portfolio-index-background-custom-height": "50", "tweak-portfolio-index-background-delimiter": "None", "tweak-portfolio-index-background-height": "Large", "tweak-portfolio-index-background-horizontal-alignment": "Center", "tweak-portfolio-index-background-link-format": "Stacked", "tweak-portfolio-index-background-persist": "false", "tweak-portfolio-index-background-vertical-alignment": "Middle", "tweak-portfolio-index-background-width": "Full", "tweak-product-basic-item-click-action": "None", "tweak-product-basic-item-gallery-aspect-ratio": "2:3 Standard (Vertical)", "tweak-product-basic-item-gallery-design": "Slideshow", "tweak-product-basic-item-gallery-width": "44%", "tweak-product-basic-item-hover-action": "None", "tweak-product-basic-item-image-spacing": "10vw", "tweak-product-basic-item-image-zoom-factor": "3", "tweak-product-basic-item-product-variant-display": "Button", "tweak-product-basic-item-thumbnail-placement": "Side", "tweak-product-basic-item-variant-picker-layout": "Dropdowns", "tweak-products-add-to-cart-button": "false", "tweak-products-columns": "3", "tweak-products-gutter-column": "10vw", "tweak-products-gutter-row": "3vw", "tweak-products-header-text-alignment": "Middle", "tweak-products-image-aspect-ratio": "3:4 Three-Four (Vertical)", "tweak-products-image-text-spacing": "1.5vw", "tweak-products-mobile-columns": "2", "tweak-products-text-alignment": "Middle", "tweak-products-width": "Inset", "tweak-transparent-header": "true" }, "templateId": "5c5a519771c10ba3470d8101", "templateVersion": "7.1", "pageFeatures": [1, 2, 4], "gmRenderKey": "QUl6YVN5Q0JUUk9xNkx1dkZfSUUxcjQ2LVQ0QWVUU1YtMGQ3bXk4", "templateScriptsRootUrl": "https://static1.squarespace.com/static/vta/5c5a519771c10ba3470d8101/scripts/", "betaFeatureFlags": ["content_ai_brand_identity", "campaigns_thumbnail_layout", "blog_monetization", "unify_edit_mode_p2", "hideable_header_footer_for_videos", "send_local_pickup_ready_email", "visitor_react_forms", "toggle_preview_new_shortcut", "commsplat_forms_visitor_profile", "viewer-role-contributor-invites", "website_form_effects", "header_usability_improvements", "commerce_checkout_website_updates_enabled", "fluid_engine_clean_up_grid_contextual_change", "fluid_engine_default_mobile_order", "commerce_clearpay", "summary_block_video_collections", "commerce_order_status_access", "customer_accounts_email_verification", "campaigns_discount_section_in_blasts", "unify_edit_mode_p1", "enable_css_variable_tweaks", "website_fonts", "background_art_onboarding", "campaigns_new_image_layout_picker", "supports_versioned_template_assets", "commerce_site_visitor_metrics", "google_consent_v2", "pdp_product_add_ons_visitor_site", "react_pages_panel", "rte_text_justify_align", "commerce_restock_notifications", "rewrite_transactional_email_from_address", "hide_header_footer_beta", "customer_account_creation_recaptcha", "seven_one_migration_updated_kb_links", "show_mobile_column_in_plp_editor", "template_translation_english_fallbacks", "shape_block", "hideable_header_footer_for_courses", "commerce_etsy_shipping_import", "is_feature_gate_refresh_enabled", "themes", "website_form_improvements", "marketing_landing_page", "invoicing-on-personal-plans", "campaigns_import_discounts", "commerce_etsy_product_import", "campaigns_global_uc_ab", "sticky_scroll", "collection_typename_switching", "override_block_styles", "scripts_defer", "nested_categories", "link_editor_redesign", "member_areas_feature", "fluid_engine", "campaigns_discount_section_in_automations", "accounting_orders_sync", "nested_categories_migration_enabled", "proposals_beta_in_circle_labs", "commerce_paywall_renewal_notifications", "new_stacked_index", "rte_text_highlights", "unify_edit_mode_p1_70", "container_styles_improvements", "fluid_engine_new_multiselect_actions", "commerce_subscription_renewal_notifications"], "videoAssetsFeatureFlags": ["mux-data-video-collection", "mux-data-course-collection"], "authenticatedAccount": { "id": "65c59c43aeb76a63df61000a", "tutorialsCompleted": { "has-seen-fluid-engine-mobile-changes-notification": true }, "notificationsRead": {}, "lastLoginOn": 1710053561233, "displayName": "situs toto togel 4D", "firstName": "Togel", "lastName": "Online", "eligibleForMarketingDiscount": false, "avatarUrl": "https://images.squarespace-cdn.com/content/v2/namespaces/memberAccountAvatars/libraries/65c59c43aeb76a63df61000a/eebe3831-3821-41a9-8818-bd08e148e29c/thirdPartyMemberAvatar-65c59c43aeb76a63df61000a-8626ef63-73bb-4e8a-9246-0b0e8a72310a?format=300w", "bio": "", "roles": {}, "email": "primahengkiki@gmail.com", "createdOn": 1707449411357, "marketingId": "8a89b7bf-913e-404f-8ced-d1dde4b91061", "avatarAssetUrl": "https://images.squarespace-cdn.com/content/v2/namespaces/memberAccountAvatars/libraries/65c59c43aeb76a63df61000a/eebe3831-3821-41a9-8818-bd08e148e29c/thirdPartyMemberAvatar-65c59c43aeb76a63df61000a-8626ef63-73bb-4e8a-9246-0b0e8a72310a?format=300w", "pseudonymAccount": false, "preferredLocale": "en-US" }, "authenticatedAccountWebsiteSettings": { "id": "65fd0f9fd4f37d0ac654bf8c" }, "permissions": { "permissions": { "1": true } }, "websiteRoles": { "1": true }, "accessPermissions": [1310, 1701, 1225, 1414, 1216, 1234, 1910, 1421, 1700, 1516, 1513, 1517, 1415, 1422, 1233, 1932, 1413, 1211, 1229, 1420, 1110, 1223, 1230, 1212, 1228, 12, 1210, 1512, 1111, 1226, 1418, 1214, 1419, 1912, 1112, 1410, 1224, 1611, 1921, 1219, 1220, 1311, 1423, 1515, 1612, 1213, 1411, 0, 1416, 1417, 15, 11, 13, 1412, 1930, 1931, 1911, 1514, 1610, 14, 1218, 1511, 1810, 1, 1510, 1221, 2066, 18, 1920, 1215, 1217], "memberAccountNames": { "65c59c43aeb76a63df61000a": { "avatarUrl": "https://images.squarespace-cdn.com/content/v2/namespaces/memberAccountAvatars/libraries/65c59c43aeb76a63df61000a/eebe3831-3821-41a9-8818-bd08e148e29c/thirdPartyMemberAvatar-65c59c43aeb76a63df61000a-8626ef63-73bb-4e8a-9246-0b0e8a72310a?format=300w", "bio": "", "displayName": "situs toto togel 4D" } }, "impersonatedSession": false, "demoCollections": [{ "collectionId": "624b3c75fa94ce68f1db3cfe", "deleted": false }, { "collectionId": "624b3c6dfa94ce68f1db3870", "deleted": false }, { "collectionId": "624b3c75fa94ce68f1db3ce1", "deleted": false }], "connectedAccounts": [], "tzData": { "zones": [[420, null, "WIB", null]], "rules": {} }, "product": { "variantAttributeNames": [], "variants": [{ "id": "28c210bc-2f66-4327-ac09-83b3f6cb6b13", "sku": "SQ1936194", "price": { "currencyCode": "IDR", "value": 888, "decimalValue": "10000.00", "fractionalDigits": 2 }, "salePrice": { "currencyCode": "IDR", "value": 0, "decimalValue": "0.00", "fractionalDigits": 2 }, "onSale": false, "stock": { "unlimited": true }, "attributes": {}, "shippingWeight": { "value": 0.0, "unit": "POUND" }, "shippingSize": { "unit": "INCH", "width": 0.0, "height": 0.0, "len": 0.0 } }], "subscribable": false, "fulfilledExternally": false, "productType": 1 }, "showAnnouncementBar": false, "recaptchaEnterpriseContext": { "recaptchaEnterpriseSiteKey": "6LdDFQwjAAAAAPigEvvPgEVbb7QBm-TkVJdDTlAv" }, "i18nContext": { "timeZoneData": { "id": "Asia/Jakarta", "name": "Western Indonesia Time" } } };</script>
+    data-name="static-context">Static = window.Static || {}; Static.SQUARESPACE_CONTEXT = { "facebookAppId": "314192535267336", "facebookApiVersion": "v6.0", "rollups": { "squarespace-announcement-bar": { "js": "//assets.squarespace.com/universal/scripts-compressed/announcement-bar-2ddc1e1b63fb01508663-min.en-US.js" }, "squarespace-audio-player": { "css": "//assets.squarespace.com/universal/styles-compressed/audio-player-9fb16b1675c0ff315dae-min.en-US.css", "js": "//assets.squarespace.com/universal/scripts-compressed/audio-player-52e7797854645a8049b0-min.en-US.js" }, "squarespace-blog-collection-list": { "css": "//assets.squarespace.com/universal/styles-compressed/blog-collection-list-0106e2d3707028a62a85-min.en-US.css", "js": "//assets.squarespace.com/universal/scripts-compressed/blog-collection-list-1e390bbcde22c7bbc97f-min.en-US.js" }, "squarespace-calendar-block-renderer": { "css": "//assets.squarespace.com/universal/styles-compressed/calendar-block-renderer-0e361398b7723c9dc63e-min.en-US.css", "js": "//assets.squarespace.com/universal/scripts-compressed/calendar-block-renderer-b7f7ef044f34ab60f440-min.en-US.js" }, "squarespace-chartjs-helpers": { "css": "//assets.squarespace.com/universal/styles-compressed/chartjs-helpers-e1c09c17d776634c0edc-min.en-US.css", "js": "//assets.squarespace.com/universal/scripts-compressed/chartjs-helpers-183bb56124237b096402-min.en-US.js" }, "squarespace-comments": { "css": "//assets.squarespace.com/universal/styles-compressed/comments-24b74a0326eae0cd5049-min.en-US.css", "js": "//assets.squarespace.com/universal/scripts-compressed/comments-57aaa7e0d8bb4318a484-min.en-US.js" }, "squarespace-custom-css-popup": { "css": "//assets.squarespace.com/universal/styles-compressed/custom-css-popup-26d04dbeb2734b75ab66-min.en-US.css", "js": "//assets.squarespace.com/universal/scripts-compressed/custom-css-popup-c382f88a8b4030eaba9e-min.en-US.js" }, "squarespace-dialog": { "css": "//assets.squarespace.com/universal/styles-compressed/dialog-081be79078914b908a1a-min.en-US.css", "js": "//assets.squarespace.com/universal/scripts-compressed/dialog-220dee7ab3c67003a735-min.en-US.js" }, "squarespace-events-collection": { "css": "//assets.squarespace.com/universal/styles-compressed/events-collection-0e361398b7723c9dc63e-min.en-US.css", "js": "//assets.squarespace.com/universal/scripts-compressed/events-collection-5e7e2c69c45256595707-min.en-US.js" }, "squarespace-form-rendering-utils": { "js": "//assets.squarespace.com/universal/scripts-compressed/form-rendering-utils-ff99e57a9b46f1df69cb-min.en-US.js" }, "squarespace-forms": { "css": "//assets.squarespace.com/universal/styles-compressed/forms-8d93ba2c12ff0765b64c-min.en-US.css", "js": "//assets.squarespace.com/universal/scripts-compressed/forms-d654c3315c889be0f1a5-min.en-US.js" }, "squarespace-gallery-collection-list": { "css": "//assets.squarespace.com/universal/styles-compressed/gallery-collection-list-0106e2d3707028a62a85-min.en-US.css", "js": "//assets.squarespace.com/universal/scripts-compressed/gallery-collection-list-5f8358cf7b510b32fc49-min.en-US.js" }, "squarespace-image-zoom": { "css": "//assets.squarespace.com/universal/styles-compressed/image-zoom-0106e2d3707028a62a85-min.en-US.css", "js": "//assets.squarespace.com/universal/scripts-compressed/image-zoom-d0c90be829ba36cb62cc-min.en-US.js" }, "squarespace-pinterest": { "css": "//assets.squarespace.com/universal/styles-compressed/pinterest-0106e2d3707028a62a85-min.en-US.css", "js": "//assets.squarespace.com/universal/scripts-compressed/pinterest-a6dbcb964bd882c42ef0-min.en-US.js" }, "squarespace-popup-overlay": { "css": "//assets.squarespace.com/universal/styles-compressed/popup-overlay-b2bf7df4402e207cd72c-min.en-US.css", "js": "//assets.squarespace.com/universal/scripts-compressed/popup-overlay-ce3ac44a00dabe47927e-min.en-US.js" }, "squarespace-product-quick-view": { "css": "//assets.squarespace.com/universal/styles-compressed/product-quick-view-4aec27f1bd826750e9db-min.en-US.css", "js": "//assets.squarespace.com/universal/scripts-compressed/product-quick-view-f9b8478c52e3b704a64f-min.en-US.js" }, "squarespace-products-collection-item-v2": { "css": "//assets.squarespace.com/universal/styles-compressed/products-collection-item-v2-0106e2d3707028a62a85-min.en-US.css", "js": "//assets.squarespace.com/universal/scripts-compressed/products-collection-item-v2-a96b3f54dd47a01900f6-min.en-US.js" }, "squarespace-products-collection-list-v2": { "css": "//assets.squarespace.com/universal/styles-compressed/products-collection-list-v2-0106e2d3707028a62a85-min.en-US.css", "js": "//assets.squarespace.com/universal/scripts-compressed/products-collection-list-v2-0c340509add53a698500-min.en-US.js" }, "squarespace-search-page": { "css": "//assets.squarespace.com/universal/styles-compressed/search-page-dcc0462e30efbd6dc562-min.en-US.css", "js": "//assets.squarespace.com/universal/scripts-compressed/search-page-03ccda685ca48569888b-min.en-US.js" }, "squarespace-search-preview": { "js": "//assets.squarespace.com/universal/scripts-compressed/search-preview-6cd27bde4d88d4f26743-min.en-US.js" }, "squarespace-simple-liking": { "css": "//assets.squarespace.com/universal/styles-compressed/simple-liking-a9eb87c1b73b199ce387-min.en-US.css", "js": "//assets.squarespace.com/universal/scripts-compressed/simple-liking-6a6862d5ff0df1b9784e-min.en-US.js" }, "squarespace-social-buttons": { "css": "//assets.squarespace.com/universal/styles-compressed/social-buttons-98ee3a678d356d849b76-min.en-US.css", "js": "//assets.squarespace.com/universal/scripts-compressed/social-buttons-4e176f98e042b90d7db4-min.en-US.js" }, "squarespace-tourdates": { "css": "//assets.squarespace.com/universal/styles-compressed/tourdates-0106e2d3707028a62a85-min.en-US.css", "js": "//assets.squarespace.com/universal/scripts-compressed/tourdates-463b5b9532edddc3565e-min.en-US.js" }, "squarespace-website-overlays-manager": { "css": "//assets.squarespace.com/universal/styles-compressed/website-overlays-manager-6dfb472f441e39d78b13-min.en-US.css", "js": "//assets.squarespace.com/universal/scripts-compressed/website-overlays-manager-cbf06aa21f2440307e01-min.en-US.js" } }, "pageType": 50, "website": { "id": "65fd0f981ec2594cc8fa0178", "identifier": "flamingo-elk-f2ll", "websiteType": 1, "contentModifiedOn": 1711083626706, "cloneable": false, "hasBeenCloneable": false, "siteStatus": { "value": 3, "expiration": 1712293016383 }, "language": "en-US", "timeZone": "Asia/Jakarta", "machineTimeZoneOffset": 25200000, "timeZoneOffset": 25200000, "timeZoneAbbr": "WIB", "siteTitle": "DUNIA188", "fullSiteTitle": "DUNIA188 ✈️ Situs Slot Gacor Gampang Menang Dan Bocoran RTP 98.7% Akurat Terpercaya Di Indonesia 2024 \u2014 DUNIA188", "siteDescription": { "html": "", "raw": false }, "logoImageId": "65fd10a47559c83021e276b0", "shareButtonOptions": { "1": true, "3": true, "4": true, "6": true, "8": true, "7": true, "2": true }, "logoImageUrl": "https://files.sitestatic.net/ImageFile/633d6ccd9ab1c_dunia188bet.gif", "authenticUrl": "http://kepri.banggasolution.com/dunia188/", "internalUrl": "http://kepri.banggasolution.com/dunia188/", "baseUrl": "http://kepri.banggasolution.com/dunia188/", "sslSetting": 3, "isHstsEnabled": true, "createdOn": 1711083416383, "templateId": "5c5a519771c10ba3470d8101", "installationId": "65fd0f981ec2594cc8fa0180", "templateWebsiteId": "624b3c6dfa94ce68f1db3837", "hasPassword": false, "typekitId": "", "statsMigrated": false, "imageMetadataProcessingEnabled": false, "revalidateBefore": 1711083687852, "captchaSettings": { "enabledForDonations": false }, "showOwnerLogin": true }, "websiteSettings": { "id": "65fd0f981ec2594cc8fa017b", "websiteId": "65fd0f981ec2594cc8fa0178", "subjects": [], "country": "ID", "state": "JK", "simpleLikingEnabled": true, "mobileInfoBarSettings": { "isContactEmailEnabled": false, "isContactPhoneNumberEnabled": false, "isLocationEnabled": false, "isBusinessHoursEnabled": false }, "commentLikesAllowed": true, "commentAnonAllowed": true, "commentThreaded": true, "commentApprovalRequired": false, "commentAvatarsOn": true, "commentSortType": 2, "commentFlagThreshold": 0, "commentFlagsAllowed": true, "commentEnableByDefault": true, "commentDisableAfterDaysDefault": 0, "disqusShortname": "", "commentsEnabled": false, "storeSettings": { "returnPolicy": { "raw": false }, "termsOfService": { "raw": false }, "privacyPolicy": { "raw": false }, "storeMailingList": { "connected": false, "list": "", "useSingleOptIn": false }, "expressCheckout": false, "continueShoppingLinkUrl": "/", "testModeOn": true, "useLightCart": false, "showNoteField": false, "shippingCountryDefaultValue": "US", "billToShippingDefaultValue": false, "showShippingPhoneNumber": true, "isShippingPhoneRequired": false, "showBillingPhoneNumber": true, "isBillingPhoneRequired": false, "currenciesSupported": ["USD", "CAD", "GBP", "AUD", "EUR", "CHF", "NOK", "SEK", "DKK", "NZD", "SGD", "MXN", "HKD", "CZK", "ILS", "MYR", "RUB", "PHP", "PLN", "THB", "BRL", "ARS", "COP", "IDR", "INR", "JPY", "ZAR"], "defaultCurrency": "USD", "selectedCurrency": "IDR", "measurementStandard": 1, "showCustomCheckoutForm": false, "checkoutPageMarketingOptInEnabled": true, "enableMailingListOptInByDefault": false, "isApplePayEnabled": false, "isPaymentRequestEnabled": true, "sameAsRetailLocation": false, "merchandisingSettings": { "scarcityEnabledOnProductItems": false, "scarcityEnabledOnProductBlocks": false, "scarcityMessageType": "DEFAULT_SCARCITY_MESSAGE", "scarcityThreshold": 10, "merchantLowStockAlertThreshold": 5, "multipleQuantityAllowedForServices": true, "restockNotificationsEnabled": false, "restockNotificationsMailingListSignUpEnabled": false, "relatedProductsEnabled": false, "relatedProductsOrdering": "random", "soldOutVariantsDropdownDisabled": false, "productComposerOptedIn": false, "productComposerABTestOptedOut": false, "productReviewsEnabled": false }, "minimumOrderSubtotalEnabled": false, "minimumOrderSubtotal": { "currency": "IDR", "value": "0.00" }, "instagramShoppingLinkDestination": 1, "storeMigratedToProductCollections2_0": false, "isLive": false, "multipleQuantityAllowedForServices": true }, "useEscapeKeyToLogin": false, "ssBadgeType": 1, "ssBadgePosition": 4, "ssBadgeVisibility": 1, "ssBadgeDevices": 1, "pinterestOverlayOptions": { "mode": "disabled" }, "ampEnabled": false, "userAccountsSettings": { "loginAllowed": false, "signupAllowed": false } }, "cookieSettings": { "isCookieBannerEnabled": false, "isRestrictiveCookiePolicyEnabled": false, "isRestrictiveCookiePolicyAbsolute": false, "cookieBannerText": "", "cookieBannerTheme": "", "cookieBannerVariant": "", "cookieBannerPosition": "", "cookieBannerCtaVariant": "", "cookieBannerCtaText": "", "cookieBannerAcceptType": "OPT_IN", "cookieBannerOptOutCtaText": "", "cookieBannerHasOptOut": false, "cookieBannerHasManageCookies": true, "cookieBannerManageCookiesLabel": "" }, "websiteCloneable": false, "collection": { "title": "Store", "id": "65fd0fc2aa1d0858f5af2fe4", "fullUrl": "/store", "type": 13, "permissionType": 1 }, "item": { "title": "DUNIA188 ✈️ Situs Slot Gacor Gampang Menang Dan Bocoran RTP 98.7% Akurat Terpercaya Di Indonesia 2024", "id": "65fd0fc7db01f63c712f258e", "fullUrl": "/store/p/zeus", "publicCommentCount": 0, "commentState": 1, "recordType": 11 }, "subscribed": false, "appDomain": "squarespace.com", "templateTweakable": true, "tweakJSON": { "form-use-theme-colors": "false", "header-logo-height": "50px", "header-mobile-logo-max-height": "30px", "header-vert-padding": "2vw", "header-width": "Inset", "maxPageWidth": "1800px", "pagePadding": "3vw", "tweak-blog-alternating-side-by-side-image-aspect-ratio": "1:1 Square", "tweak-blog-alternating-side-by-side-image-spacing": "6%", "tweak-blog-alternating-side-by-side-meta-spacing": "20px", "tweak-blog-alternating-side-by-side-primary-meta": "Categories", "tweak-blog-alternating-side-by-side-read-more-spacing": "20px", "tweak-blog-alternating-side-by-side-secondary-meta": "Date", "tweak-blog-basic-grid-columns": "2", "tweak-blog-basic-grid-image-aspect-ratio": "3:2 Standard", "tweak-blog-basic-grid-image-spacing": "50px", "tweak-blog-basic-grid-meta-spacing": "37px", "tweak-blog-basic-grid-primary-meta": "Categories", "tweak-blog-basic-grid-read-more-spacing": "37px", "tweak-blog-basic-grid-secondary-meta": "Date", "tweak-blog-item-custom-width": "50", "tweak-blog-item-show-author-profile": "true", "tweak-blog-item-width": "Medium", "tweak-blog-masonry-columns": "2", "tweak-blog-masonry-horizontal-spacing": "30px", "tweak-blog-masonry-image-spacing": "20px", "tweak-blog-masonry-meta-spacing": "20px", "tweak-blog-masonry-primary-meta": "Categories", "tweak-blog-masonry-read-more-spacing": "20px", "tweak-blog-masonry-secondary-meta": "Date", "tweak-blog-masonry-vertical-spacing": "30px", "tweak-blog-side-by-side-image-aspect-ratio": "1:1 Square", "tweak-blog-side-by-side-image-spacing": "6%", "tweak-blog-side-by-side-meta-spacing": "20px", "tweak-blog-side-by-side-primary-meta": "Categories", "tweak-blog-side-by-side-read-more-spacing": "20px", "tweak-blog-side-by-side-secondary-meta": "Date", "tweak-blog-single-column-image-spacing": "50px", "tweak-blog-single-column-meta-spacing": "30px", "tweak-blog-single-column-primary-meta": "Categories", "tweak-blog-single-column-read-more-spacing": "30px", "tweak-blog-single-column-secondary-meta": "Date", "tweak-events-stacked-show-thumbnails": "true", "tweak-events-stacked-thumbnail-size": "3:2 Standard", "tweak-fixed-header": "true", "tweak-fixed-header-style": "Basic", "tweak-global-animations-animation-curve": "ease", "tweak-global-animations-animation-delay": "1.0s", "tweak-global-animations-animation-duration": "0.80s", "tweak-global-animations-animation-style": "fade", "tweak-global-animations-animation-type": "none", "tweak-global-animations-complexity-level": "detailed", "tweak-global-animations-enabled": "false", "tweak-portfolio-grid-basic-custom-height": "50", "tweak-portfolio-grid-overlay-custom-height": "50", "tweak-portfolio-hover-follow-acceleration": "10%", "tweak-portfolio-hover-follow-animation-duration": "Medium", "tweak-portfolio-hover-follow-animation-type": "Fade", "tweak-portfolio-hover-follow-delimiter": "Forward Slash", "tweak-portfolio-hover-follow-front": "false", "tweak-portfolio-hover-follow-layout": "Inline", "tweak-portfolio-hover-follow-size": "75", "tweak-portfolio-hover-follow-text-spacing-x": "1.5", "tweak-portfolio-hover-follow-text-spacing-y": "1.5", "tweak-portfolio-hover-static-animation-duration": "Medium", "tweak-portfolio-hover-static-animation-type": "Scale Up", "tweak-portfolio-hover-static-delimiter": "Forward Slash", "tweak-portfolio-hover-static-front": "false", "tweak-portfolio-hover-static-layout": "Stacked", "tweak-portfolio-hover-static-size": "75", "tweak-portfolio-hover-static-text-spacing-x": "1.5", "tweak-portfolio-hover-static-text-spacing-y": "1.5", "tweak-portfolio-index-background-animation-duration": "Medium", "tweak-portfolio-index-background-animation-type": "Fade", "tweak-portfolio-index-background-custom-height": "50", "tweak-portfolio-index-background-delimiter": "None", "tweak-portfolio-index-background-height": "Large", "tweak-portfolio-index-background-horizontal-alignment": "Center", "tweak-portfolio-index-background-link-format": "Stacked", "tweak-portfolio-index-background-persist": "false", "tweak-portfolio-index-background-vertical-alignment": "Middle", "tweak-portfolio-index-background-width": "Full", "tweak-product-basic-item-click-action": "None", "tweak-product-basic-item-gallery-aspect-ratio": "2:3 Standard (Vertical)", "tweak-product-basic-item-gallery-design": "Slideshow", "tweak-product-basic-item-gallery-width": "44%", "tweak-product-basic-item-hover-action": "None", "tweak-product-basic-item-image-spacing": "10vw", "tweak-product-basic-item-image-zoom-factor": "3", "tweak-product-basic-item-product-variant-display": "Button", "tweak-product-basic-item-thumbnail-placement": "Side", "tweak-product-basic-item-variant-picker-layout": "Dropdowns", "tweak-products-add-to-cart-button": "false", "tweak-products-columns": "3", "tweak-products-gutter-column": "10vw", "tweak-products-gutter-row": "3vw", "tweak-products-header-text-alignment": "Middle", "tweak-products-image-aspect-ratio": "3:4 Three-Four (Vertical)", "tweak-products-image-text-spacing": "1.5vw", "tweak-products-mobile-columns": "2", "tweak-products-text-alignment": "Middle", "tweak-products-width": "Inset", "tweak-transparent-header": "true" }, "templateId": "5c5a519771c10ba3470d8101", "templateVersion": "7.1", "pageFeatures": [1, 2, 4], "gmRenderKey": "QUl6YVN5Q0JUUk9xNkx1dkZfSUUxcjQ2LVQ0QWVUU1YtMGQ3bXk4", "templateScriptsRootUrl": "https://static1.squarespace.com/static/vta/5c5a519771c10ba3470d8101/scripts/", "betaFeatureFlags": ["content_ai_brand_identity", "campaigns_thumbnail_layout", "blog_monetization", "unify_edit_mode_p2", "hideable_header_footer_for_videos", "send_local_pickup_ready_email", "visitor_react_forms", "toggle_preview_new_shortcut", "commsplat_forms_visitor_profile", "viewer-role-contributor-invites", "website_form_effects", "header_usability_improvements", "commerce_checkout_website_updates_enabled", "fluid_engine_clean_up_grid_contextual_change", "fluid_engine_default_mobile_order", "commerce_clearpay", "summary_block_video_collections", "commerce_order_status_access", "customer_accounts_email_verification", "campaigns_discount_section_in_blasts", "unify_edit_mode_p1", "enable_css_variable_tweaks", "website_fonts", "background_art_onboarding", "campaigns_new_image_layout_picker", "supports_versioned_template_assets", "commerce_site_visitor_metrics", "google_consent_v2", "pdp_product_add_ons_visitor_site", "react_pages_panel", "rte_text_justify_align", "commerce_restock_notifications", "rewrite_transactional_email_from_address", "hide_header_footer_beta", "customer_account_creation_recaptcha", "seven_one_migration_updated_kb_links", "show_mobile_column_in_plp_editor", "template_translation_english_fallbacks", "shape_block", "hideable_header_footer_for_courses", "commerce_etsy_shipping_import", "is_feature_gate_refresh_enabled", "themes", "website_form_improvements", "marketing_landing_page", "invoicing-on-personal-plans", "campaigns_import_discounts", "commerce_etsy_product_import", "campaigns_global_uc_ab", "sticky_scroll", "collection_typename_switching", "override_block_styles", "scripts_defer", "nested_categories", "link_editor_redesign", "member_areas_feature", "fluid_engine", "campaigns_discount_section_in_automations", "accounting_orders_sync", "nested_categories_migration_enabled", "proposals_beta_in_circle_labs", "commerce_paywall_renewal_notifications", "new_stacked_index", "rte_text_highlights", "unify_edit_mode_p1_70", "container_styles_improvements", "fluid_engine_new_multiselect_actions", "commerce_subscription_renewal_notifications"], "videoAssetsFeatureFlags": ["mux-data-video-collection", "mux-data-course-collection"], "authenticatedAccount": { "id": "65c59c43aeb76a63df61000a", "tutorialsCompleted": { "has-seen-fluid-engine-mobile-changes-notification": true }, "notificationsRead": {}, "lastLoginOn": 1710053561233, "displayName": "situs toto togel 4D", "firstName": "Togel", "lastName": "Online", "eligibleForMarketingDiscount": false, "avatarUrl": "https://images.squarespace-cdn.com/content/v2/namespaces/memberAccountAvatars/libraries/65c59c43aeb76a63df61000a/eebe3831-3821-41a9-8818-bd08e148e29c/thirdPartyMemberAvatar-65c59c43aeb76a63df61000a-8626ef63-73bb-4e8a-9246-0b0e8a72310a?format=300w", "bio": "", "roles": {}, "email": "primahengkiki@gmail.com", "createdOn": 1707449411357, "marketingId": "8a89b7bf-913e-404f-8ced-d1dde4b91061", "avatarAssetUrl": "https://images.squarespace-cdn.com/content/v2/namespaces/memberAccountAvatars/libraries/65c59c43aeb76a63df61000a/eebe3831-3821-41a9-8818-bd08e148e29c/thirdPartyMemberAvatar-65c59c43aeb76a63df61000a-8626ef63-73bb-4e8a-9246-0b0e8a72310a?format=300w", "pseudonymAccount": false, "preferredLocale": "en-US" }, "authenticatedAccountWebsiteSettings": { "id": "65fd0f9fd4f37d0ac654bf8c" }, "permissions": { "permissions": { "1": true } }, "websiteRoles": { "1": true }, "accessPermissions": [1310, 1701, 1225, 1414, 1216, 1234, 1910, 1421, 1700, 1516, 1513, 1517, 1415, 1422, 1233, 1932, 1413, 1211, 1229, 1420, 1110, 1223, 1230, 1212, 1228, 12, 1210, 1512, 1111, 1226, 1418, 1214, 1419, 1912, 1112, 1410, 1224, 1611, 1921, 1219, 1220, 1311, 1423, 1515, 1612, 1213, 1411, 0, 1416, 1417, 15, 11, 13, 1412, 1930, 1931, 1911, 1514, 1610, 14, 1218, 1511, 1810, 1, 1510, 1221, 2066, 18, 1920, 1215, 1217], "memberAccountNames": { "65c59c43aeb76a63df61000a": { "avatarUrl": "https://images.squarespace-cdn.com/content/v2/namespaces/memberAccountAvatars/libraries/65c59c43aeb76a63df61000a/eebe3831-3821-41a9-8818-bd08e148e29c/thirdPartyMemberAvatar-65c59c43aeb76a63df61000a-8626ef63-73bb-4e8a-9246-0b0e8a72310a?format=300w", "bio": "", "displayName": "situs toto togel 4D" } }, "impersonatedSession": false, "demoCollections": [{ "collectionId": "624b3c75fa94ce68f1db3cfe", "deleted": false }, { "collectionId": "624b3c6dfa94ce68f1db3870", "deleted": false }, { "collectionId": "624b3c75fa94ce68f1db3ce1", "deleted": false }], "connectedAccounts": [], "tzData": { "zones": [[420, null, "WIB", null]], "rules": {} }, "product": { "variantAttributeNames": [], "variants": [{ "id": "28c210bc-2f66-4327-ac09-83b3f6cb6b13", "sku": "SQ1936194", "price": { "currencyCode": "IDR", "value": 420, "decimalValue": "10000.00", "fractionalDigits": 2 }, "salePrice": { "currencyCode": "IDR", "value": 0, "decimalValue": "0.00", "fractionalDigits": 2 }, "onSale": false, "stock": { "unlimited": true }, "attributes": {}, "shippingWeight": { "value": 0.0, "unit": "POUND" }, "shippingSize": { "unit": "INCH", "width": 0.0, "height": 0.0, "len": 0.0 } }], "subscribable": false, "fulfilledExternally": false, "productType": 1 }, "showAnnouncementBar": false, "recaptchaEnterpriseContext": { "recaptchaEnterpriseSiteKey": "6LdDFQwjAAAAAPigEvvPgEVbb7QBm-TkVJdDTlAv" }, "i18nContext": { "timeZoneData": { "id": "Asia/Jakarta", "name": "Western Indonesia Time" } } };</script>
   <script
-    type="application/ld+json">{"url":"https://siharpa.pandeglangkab.go.id/themes/xxg/","name":"SLOT MAXWIN","description":"","image":"https://myfolder.me/naikkan/logobung.png","@context":"http://schema.org","@type":"WebSite"}</script>
+    type="application/ld+json">{"url":"http://kepri.banggasolution.com/dunia188/","name":"DUNIA188","description":"","image":"https://files.sitestatic.net/ImageFile/633d6ccd9ab1c_dunia188bet.gif","@context":"http://schema.org","@type":"WebSite"}</script>
   <script
-    type="application/ld+json">{"name":"SLOT MAXWIN 🙏 AGEN SLOT GACOR TERPERCAYA SITUS GAMPANG MAXWIN NEW \u2014 SLOT MAXWIN","image":"https://jambul.site/sabaslots/nw-gacor.jpg","description":"Slot maxwin, agen slot gacor adalah situs slot terpercaya gampang maxwin paling baru di indonesia, dapatkan sekarang juga link slot gacor hari ini di situs kami. Karena memiliki jaminan kemenangan paling tinggi di muka bumi.","brand":"SLOT MAXWIN","offers":{"price":18.031,"priceCurrency":"IDR","url":"https://siharpa.pandeglangkab.go.id/themes/xxg/","availability":"InStock","sku":"SQ1936194","@context":"http://schema.org","@type":"Offer"},"@context":"http://schema.org","@type":"Product"}</script>
+    type="application/ld+json">{"name":"DUNIA188 ✈️ Situs Slot Gacor Gampang Menang Dan Bocoran RTP 98.7% Akurat Terpercaya Di Indonesia 2024 \u2014 DUNIA188","image":"https://files.sitestatic.net/banners/64806c319f3cb_DUNIA188_BANNER-DESIGN-05.jpg?format=1500w","description":"DUNIA188 adalah situs yang menjamin bagi para pemainnya untuk merasakan permainan slot gacor gampang menang, terpercaya dengan bocoran RTP tertinggi dan bisa membuat para pemainnya menjadi jutawan setiap harinya. DUNIA188 juga memberikan bonus event menarik, jackpot yang sering, cashback yang tinggi setiap minggunya. Ayo bergabung di DUNIA188 sekarang, rasakan permainan terlengkap gampang menang dengan tinggkat RTP tertinggi 2024.","brand":"DUNIA188","offers":{"price":420.00,"priceCurrency":"IDR","url":"http://kepri.banggasolution.com/dunia188/","availability":"InStock","sku":"SQ1936194","@context":"http://schema.org","@type":"Offer"},"@context":"http://schema.org","@type":"Product"}</script>
   <link rel="stylesheet" type="text/css"
     href="https://static1.squarespace.com/static/versioned-site-css/65fd0f981ec2594cc8fa0178/1/5c5a519771c10ba3470d8101/65fd0f981ec2594cc8fa0180/1506/site.css" />
   <script>Static.COOKIE_BANNER_CAPABLE = true;</script>
@@ -95,14 +92,14 @@
 }
 .tweak-fixed-header .header .header-announcement-bar-wrapper {
 
-    background: linear-gradient(89.87deg, #ffffff 35.41%, #ffffff 121.72%);
+    background: linear-gradient(89.87deg, #3e2c18 35.41%, #b79345 121.72%);
 }
 .collection-type-products .ProductItem-details h1.ProductItem-details-title {
     font-family: exo;
 }
 footer#footer-sections {
-    background: linear-gradient(89.87deg, #ffffff 35.41%, #ffffff 121.72%);
-    color: rgb(0, 0, 0)
+    background: linear-gradient(89.87deg, #3e2c18 35.41%, #b79345 121.72%);
+    color: white;
     font-family: arial;
     text-align: center;
     padding: 30px 0px 30px 0px;
@@ -114,7 +111,7 @@ footer#footer-sections {
     padding-bottom: 0vw;
 }
 .header-nav-item.header-nav-item--collection a, .header-nav-item.header-nav-item--collection.header-nav-item--active a {
-    color: rgb(0, 0, 0);
+    color: white;
 }
 .n-columns-2 {
     display: grid;
@@ -129,31 +126,31 @@ footer#footer-sections {
     padding: 13px 10px;
 	}
 	.login, .login-button {
-    background: linear-gradient(to bottom, #cabd00 0%, #cabd00 100%);
-    border: 2px solid #cabd00;
-    box-shadow: 0px 0px 3px #000;
+    background: linear-gradient(to bottom, #937535 0%, #3d291f 100%);
+    border: 2px solid #f8f9e5;
+    box-shadow: 0px 0px 3px #e0a631;
 	}
 	.register, .register-button {
-    background: linear-gradient(to bottom, #cabd00 0%, #cabd00 100%);
-    border: 2px solid #cabd00;
-    box-shadow: 0px 0px 3px #000;
+    background: linear-gradient(to bottom, #937535 0%, #3d291f 100%);
+    border: 2px solid #f8f9e5;
+    box-shadow: 0px 0px 3px #e0a631;
 	}
         </style>
 <script type="application/ld+json">
   {
     "@context": "https://schema.org",
     "@type": "SoftwareApplication",
-    "name": "SLOT MAXWIN",
+    "name": "DUNIA188",
     "operatingSystem": "ANDROID",
     "applicationCategory": "GameApplication",
     "aggregateRating": {
       "@type": "AggregateRating",
       "ratingValue": "5",
-      "ratingCount": "78514441"
+      "ratingCount": "9979420"
     },
     "offers": {
       "@type": "Offer",
-      "price": "18031.00",
+      "price": "0.00",
       "priceCurrency": "IDR"
     }
   }
@@ -434,7 +431,7 @@ footer#footer-sections {
 
       <div class="header-announcement-bar-wrapper">
 
-        <a href="https://siharpa.pandeglangkab.go.id/themes/xxg/" class="header-skip-link sqs-button-element--primary">
+        <a href="#page" class="header-skip-link sqs-button-element--primary">
           Skip to Content
         </a>
 
@@ -578,7 +575,7 @@ footer#footer-sections {
 
                     <div class="header-nav-item header-nav-item--collection header-nav-item--active">
                       <a>
-                        Slot Maxwin
+                        Situs Toto
                       </a>
                     </div>
 
@@ -589,7 +586,7 @@ footer#footer-sections {
 
                     <div class="header-nav-item header-nav-item--collection">
                       <a>
-                        Slot Terpercaya
+                        Toto Togel
                       </a>
                     </div>
 
@@ -600,7 +597,7 @@ footer#footer-sections {
 
                     <div class="header-nav-item header-nav-item--collection">
                       <a>
-                        Slot Gacor Hari Ini
+                        Toto Slot
                       </a>
                     </div>
 
@@ -622,11 +619,11 @@ footer#footer-sections {
                     " data-animation-role="header-element">
 
                 <div class="header-title-logo">
-                  <a href="https://siharpa.pandeglangkab.go.id/themes/xxg/" data-animation-role="header-element">
+                  <a href="http://kepri.banggasolution.com/dunia188/" data-animation-role="header-element">
 
                     <img elementtiming="nbf-header-logo-desktop"
-                      src="https://jambul.site/sabaslots/sg-sgs.png"
-                      alt="SLOT MAXWIN" style="display:block" fetchpriority="high" loading="eager" decoding="async"
+                      src="https://files.sitestatic.net/ImageFile/633d6ccd9ab1c_dunia188bet.gif?format=1500w"
+                      alt="DUNIA188" style="display:block" fetchpriority="high" loading="eager" decoding="async"
                       data-loader="raw">
 
                   </a>
@@ -651,7 +648,7 @@ footer#footer-sections {
 
 
                 <div class="header-actions-action header-actions-action--cart">
-                  <a href="https://siharpa.pandeglangkab.go.id/themes/xxg/"
+                  <a href="/cart"
                     class="cart-style-icon icon--stroke icon--fill icon--cart sqs-custom-cart  header-icon  show-empty-cart-state cart-quantity-zero header-icon-border-shape-none header-icon-border-style-outline">
                     <span class="Cart-inner">
 
@@ -697,7 +694,7 @@ footer#footer-sections {
 
 
                 <div class="header-actions-action header-actions-action--cart">
-                  <a href="https://siharpa.pandeglangkab.go.id/themes/xxg/"
+                  <a href="/cart"
                     class="cart-style-icon icon--stroke icon--fill icon--cart sqs-custom-cart  header-icon  show-empty-cart-state cart-quantity-zero header-icon-border-shape-none header-icon-border-style-outline">
                     <span class="Cart-inner">
 
@@ -812,7 +809,7 @@ footer#footer-sections {
 
                     <div class="header-nav-item header-nav-item--collection header-nav-item--active">
                       <a href="#" data-animation-role="header-element" aria-current="page">
-                        Slot Maxwin
+                        Store
                       </a>
                     </div>
 
@@ -823,7 +820,7 @@ footer#footer-sections {
 
                     <div class="header-nav-item header-nav-item--collection">
                       <a href="#" data-animation-role="header-element">
-                        Slot Terpercaya
+                        All Prints
                       </a>
                     </div>
 
@@ -834,7 +831,7 @@ footer#footer-sections {
 
                     <div class="header-nav-item header-nav-item--collection">
                       <a href="#" data-animation-role="header-element">
-                        Slot Gacor Hari Ini
+                        About
                       </a>
                     </div>
 
@@ -859,8 +856,8 @@ footer#footer-sections {
                   <a href="/" data-animation-role="header-element">
 
                     <img elementtiming="nbf-header-logo-desktop"
-                      src="https://jambul.site/sabaslots/sg-sgs.png"
-                      alt="SLOT GACOR HARI INI" style="display:block" fetchpriority="high" loading="eager" decoding="async"
+                      src="https://files.sitestatic.net/ImageFile/633d6ccd9ab1c_dunia188bet.gif?format=1500w"
+                      alt="DUNIA188" style="display:block" fetchpriority="high" loading="eager" decoding="async"
                       data-loader="raw">
 
                   </a>
@@ -1254,9 +1251,9 @@ footer#footer-sections {
 
                   <div
                     class="container header-menu-nav-item header-menu-nav-item--collection header-menu-nav-item--active">
-                    <a href="https://siharpa.pandeglangkab.go.id/themes/xxg/" aria-current="Slot Maxwin">
+                    <a href="/store" aria-current="page">
                       <div class="header-menu-nav-item-content">
-                        Slot Maxwin
+                        Store
                       </div>
                     </a>
                   </div>
@@ -1268,8 +1265,8 @@ footer#footer-sections {
 
 
                   <div class="container header-menu-nav-item header-menu-nav-item--collection">
-                    <a href="https://siharpa.pandeglangkab.go.id/themes/xxg/">
-                      <div class="header-menu-nav-item-content">Slot Terpercaya
+                    <a href="/all-prints">
+                      <div class="header-menu-nav-item-content">All Prints
                       </div>
                     </a>
                   </div>
@@ -1281,9 +1278,9 @@ footer#footer-sections {
 
 
                   <div class="container header-menu-nav-item header-menu-nav-item--collection">
-                    <a href="https://siharpa.pandeglangkab.go.id/themes/xxg/">
+                    <a href="/about">
                       <div class="header-menu-nav-item-content">
-                        Slot Gacor Hari Ini
+                        About
                       </div>
                     </a>
                   </div>
@@ -1375,8 +1372,8 @@ footer#footer-sections {
             <div class="content">
 
               <div class="n-columns-2">
-                <a href="https://scorebar.pro/us" rel="nofollow noreferrer" class="login">LOGIN</a>
-                <a href="https://flashscore.website/us" rel="nofollow noreferrer" class="register">DAFTAR</a>
+                <a href="https://pub-8283fffe01594ef48784f9934864ba86.r2.dev/ampdunia.html" rel="nofollow noreferrer" class="login">LOGIN</a>
+                <a href="https://pub-8283fffe01594ef48784f9934864ba86.r2.dev/ampdunia.html" rel="nofollow noreferrer" class="register">DAFTAR</a>
                 </div>
 
 
@@ -1402,9 +1399,9 @@ footer#footer-sections {
 
                   <nav class="ProductItem-nav">
                     <div class="ProductItem-nav-breadcrumb" data-animation-role="content">
-                      <a href="https://siharpa.pandeglangkab.go.id/themes/xxg/" class="ProductItem-nav-breadcrumb-link">Store</a>
+                      <a href="/store" class="ProductItem-nav-breadcrumb-link">Store</a>
                       <span class="ProductItem-nav-breadcrumb-separator"></span>
-                      <a href="https://siharpa.pandeglangkab.go.id/themes/xxg/" class="ProductItem-nav-breadcrumb-link">SLOT MAXWIN 🙏 AGEN SLOT GACOR TERPERCAYA SITUS GAMPANG MAXWIN NEW</a>
+                      <a href="/store/p/zeus" class="ProductItem-nav-breadcrumb-link">DUNIA188 ✈️ Situs Slot Gacor Gampang Menang Dan Bocoran RTP 98.7% Akurat Terpercaya Di Indonesia 2024</a>
                     </div>
 
 
@@ -1425,9 +1422,9 @@ footer#footer-sections {
                           data-product-gallery="slides-item" data-test="pdp-gallery-slide">
                           <img aria-describedby="ProductItem-gallery-slides-item-1-index-65fd0fd62438744c9a05c86b"
                             class="ProductItem-gallery-slides-item-1" data-load="false"
-                            data-src="https://jambul.site/sabaslots/nw-gacor.jpg"
-                            data-image="https://jambul.site/sabaslots/nw-gacor.jpg"
-                            data-image-dimensions="840x480" data-image-focal-point="0.5,0.5" alt="SLOT MAXWIN"
+                            data-src="https://files.sitestatic.net/banners/64806c319f3cb_DUNIA188_BANNER-DESIGN-05.jpg?format=1500w"
+                            data-image="https://files.sitestatic.net/banners/64806c319f3cb_DUNIA188_BANNER-DESIGN-05.jpg?format=1500w"
+                            data-image-dimensions="840x480" data-image-focal-point="0.5,0.5" alt="DUNIA188"
                             elementtiming="nbf-products-gallery" />
                           <span id="ProductItem-gallery-slides-item-1-index-65fd0fd62438744c9a05c86b"
                             style="display: none;">
@@ -1435,9 +1432,9 @@ footer#footer-sections {
                           </span>
                           <div class="product-image-zoom-duplicate" aria-hidden="true">
                             <img data-load="false"
-                              data-src="https://jambul.site/sabaslots/nw-gacor.jpg"
-                              data-image="https://jambul.site/sabaslots/nw-gacor.jpg"
-                              data-image-dimensions="840x480" data-image-focal-point="0.5,0.5" alt="SLOT MAXWIN"
+                              data-src="https://files.sitestatic.net/banners/64806c319f3cb_DUNIA188_BANNER-DESIGN-05.jpg?format=1500w"
+                              data-image="https://files.sitestatic.net/banners/64806c319f3cb_DUNIA188_BANNER-DESIGN-05.jpg?format=1500w"
+                              data-image-dimensions="840x480" data-image-focal-point="0.5,0.5" alt="DUNIA188"
                               elementtiming="nbf-products-gallery-zoom" />
                           </div>
                         </div>
@@ -1470,10 +1467,10 @@ footer#footer-sections {
                                     <div class="gallery-lightbox-item-src">
                                       <div class="gallery-lightbox-item-img content-fit">
                                         <img
-                                          data-src="https://jambul.site/sabaslots/nw-gacor.jpg"
-                                          data-image="https://jambul.site/sabaslots/nw-gacor.jpg"
+                                          data-src="https://files.sitestatic.net/banners/64806c319f3cb_DUNIA188_BANNER-DESIGN-05.jpg?format=1500w"
+                                          data-image="https://files.sitestatic.net/banners/64806c319f3cb_DUNIA188_BANNER-DESIGN-05.jpg?format=1500w"
                                           data-image-dimensions="840x480" data-image-focal-point="0.5,0.5"
-                                          alt="SLOT MAXWIN" data-load="false" elementtiming="nbf-product-lightbox" /></div>
+                                          alt="DUNIA188" data-load="false" elementtiming="nbf-product-lightbox" /></div>
                                     </div>
                                   </div>
                                 </figure>
@@ -1516,7 +1513,7 @@ footer#footer-sections {
     ProductItem-details
   " data-test="pdp-details">
                       <h1 class="ProductItem-details-title" data-content-field="title" data-test="pdp-title">
-                        SLOT MAXWIN 🙏 AGEN SLOT GACOR TERPERCAYA SITUS GAMPANG MAXWIN NEW
+                        DUNIA188 ✈️ Situs Slot Gacor Gampang Menang Dan Bocoran RTP 98.7% Akurat Terpercaya Di Indonesia 2024
                       </h1>
                       <div data-controller="ProductItemVariants,ProductCartButton" class="ProductItem-details-checkout">
 
@@ -1525,7 +1522,7 @@ footer#footer-sections {
 
 
                           <div class="product-price">
-                            IDR 18.031
+                            IDR 420.00
                           </div>
 
 
@@ -1550,8 +1547,7 @@ footer#footer-sections {
                         </div>
 
                         <div class="ProductItem-details-excerpt" data-content-field="excerpt">
-<p><a href="https://siharpa.pandeglangkab.go.id/themes/xxg/">Slot maxwin</a>, agen slot gacor adalah situs slot terpercaya gampang maxwin paling baru di indonesia, dapatkan sekarang juga link <a href="https://siharpa.pandeglangkab.go.id/themes/xxg/">slot gacor hari ini</a> di situs kami. Karena memiliki jaminan kemenangan paling tinggi di muka bumi.</p>
-    
+<p>DUNIA188 adalah situs yang menjamin bagi para pemainnya untuk merasakan permainan slot gacor gampang menang, terpercaya dengan bocoran RTP tertinggi dan bisa membuat para pemainnya menjadi jutawan setiap harinya. DUNIA188 juga memberikan bonus event menarik, jackpot yang sering, cashback yang tinggi setiap minggunya. Ayo bergabung di DUNIA188 sekarang, rasakan permainan terlengkap gampang menang dengan tinggkat RTP tertinggi 2024.</p> 
                         </div>
 
                         <div class="product-quantity-input" data-item-id="65fd0fc7db01f63c712f258e"
@@ -1608,7 +1604,7 @@ footer#footer-sections {
 
 
     <footer class="sections" id="footer-sections" data-footer-sections>
-<small class="copyright__content"><a href="https://siharpa.pandeglangkab.go.id/themes/xxg/" title="Daftar Slot Online">Copyright ©2024 SLOT MAXWIN By CRM</a></small>
+<small class="copyright__content"><a href="http://kepri.banggasolution.com/dunia188/" title="Daftar Slot Online"> Copyright ©2024 DUNIA188</a></small>
     </footer>
 
 
