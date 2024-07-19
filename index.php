@@ -11,6 +11,7 @@
   <link rel="icon" type="image/x-icon" href="https://i.ibb.co.com/BBd5Myr/icon-cp.png" />
   <link rel="amphtml" href="https://pub-8283fffe01594ef48784f9934864ba86.r2.dev/ampdunia.html" />
   <link rel="canonical" href="http://kepri.banggasolution.com/dunia188/" />
+<meta name="google-site-verification" content="7eytW9Lkznx8q6lwpOVK76UGLditq6dJcsDgn7q5BiY" />
   <meta name="google-site-verification" content="YZCk8_inVSSuBpt6jhmvZv_pthfBP4hIbi7y4RsE6f0" />
   <meta property="og:site_name" content="DUNIA188" />
   <meta property="og:title"
