@@ -43,7 +43,7 @@
     <style amp-boilerplate>body{-webkit-animation:-amp-start 8s steps(1,end) 0s 1 normal both;-moz-animation:-amp-start 8s steps(1,end) 0s 1 normal both;-ms-animation:-amp-start 8s steps(1,end) 0s 1 normal both;animation:-amp-start 8s steps(1,end) 0s 1 normal both}@-webkit-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@-moz-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@-ms-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@-o-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}</style>
     <noscript><style amp-boilerplate>body{-webkit-animation:none;-moz-animation:none;-ms-animation:none;animation:none}</style></noscript>
     <script async src='https://cdn.ampproject.org/v0.js'></script>
-    <style amp-custom>*{box-sizing:border-box;margin:0;padding:0}*{margin:0;padding:0}body{background-color:#000;font-family:'Courier New',monospace}.container{display:flex;align-items:center;justify-content:center;flex-direction:column;flex-wrap:nowrap;padding-bottom:20px}.container_foto{flex-direction:column;display:flex;width:100%;padding-top:30px;justify-content:center;align-items:center}.foto_img{max-width:100px;border-radius:100%}.nombre{padding-top:10px;padding-bottom:10px;font-size:2rem;font-family:'Courier New',monospace;color:#fcda05}.nombre h1{color:#a00909;font-size:20px;text-align:center;animation:glitch 2s infinite}.container_enlaces{display:flex;align-items:center;justify-content:center;flex-direction:column;width:100%;text-align:center;gap:20px}.enlaces{background-color:#141a177d;backdrop-filter:blur(4px);min-width:200;padding:20px;align-items:center;text-decoration:none;color:#fff;transition-duration:.7s;font-size:1rem;border:1px #a00909 solid;animation:glitch 1.5s infinite}.enlaces:hover{background-color:#fcda05;color:#222831;transition-duration:.7s}.footer{padding-top:20px;color:#fca605;font-family:'Fira Code',monospace;font-size:.6rem}@keyframes glitch{0%{transform:translate(2px,2px);text-shadow:-1px -1px #970000}25%{transform:translate(-2px,-2px);text-shadow:2px -1px #ffe600}50%{transform:translate(2px,-2px);text-shadow:1px 1px #970000}75%{transform:translate(-2px,2px);text-shadow:-2px 1px #ffe600}100%{transform:translate(2px,2px);text-shadow:-1px -1px #970000}}p{color:#fff;text-align:center}.col-xs-6{position:relative;min-height:1px;color:#fff;padding-right:15px;padding-left:15px;font-family:Roboto,"Noto Sans","Noto Sans JP","Noto Sans KR","Noto Naskh Arabic","Noto Sans Thai","Noto Sans Hebrew","Noto Sans Bengali",sans-serif}.col-xs-6{float:left}.col-xs-6{width:200%}@media (min-width:768px)</style>
+    <style amp-custom>*{box-sizing:border-box;margin:0;padding:0}*{margin:0;padding:0}body{background-color:#000;font-family:'Courier New',monospace}.container{display:flex;align-items:center;justify-content:center;flex-direction:column;flex-wrap:nowrap;padding-bottom:20px}.container_foto{flex-direction:column;display:flex;width:100%;padding-top:30px;justify-content:center;align-items:center}.foto_img{max-width:100px;border-radius:100%}.nombre{padding-top:10px;padding-bottom:10px;font-size:2rem;font-family:'Courier New',monospace;color:#fcda05}.nombre h1{color:#a00909;font-size:20px;text-align:center;animation:glitch 2s infinite}.container_enlaces{display:flex;align-items:center;justify-content:center;flex-direction:column;width:100%;text-align:center;gap:20px}.enlaces{background-color:#141a177d;backdrop-filter:blur(4px);min-width:200;padding:20px;align-items:center;text-decoration:none;color:#fff;transition-duration:.7s;font-size:1rem;border:1px #a00909 solid;animation:glitch 1.5s infinite}.enlaces:hover{background-color:#fcda05;color:#222831;transition-duration:.7s}.footer{padding-top:20px;color:#fca605;font-family:'Fira Code',monospace;font-size:.6rem}@keyframes glitch{0%{transform:translate(2px,2px);text-shadow:-1px -1px #970000}25%{transform:translate(-2px,-2px);text-shadow:2px -1px #ffe600}50%{transform:translate(2px,-2px);text-shadow:1px 1px #970000}75%{transform:translate(-2px,2px);text-shadow:-2px 1px #ffe600}100%{transform:translate(2px,2px);text-shadow:-1px -1px #970000}}p{color:#fff;text-align:center}.col-xs-6{position:relative;min-height:1px;color:#fff;padding-right:15px;padding-left:15px}.col-xs-6{float:center}.col-xs-6{width:200%}@media (min-width:768px)</style>
   </head>
   <body>
     <header class="container">
@@ -55,23 +55,23 @@
     <section class="container">
       <div class="container_enlaces">
       <div class="col-xs-6 text-center">
-		<a href="https://bit.ly/situspools" ><amp-img height="60" width="200" alt="Daftar POOLSTOTO" src="https://sg-grup.s3.ap-southeast-2.amazonaws.com/poolstoto.webp">
+		<a href="https://bit.ly/situspools" ><amp-img height="60" width="200" alt="Daftar POOLSTOTO" src="https://sg-grup.s3.ap-southeast-2.amazonaws.com/poolstoto.webp" class="enlaces">
 		</amp-img></a>
-		<a href="https://bit.ly/situspanen" ><amp-img height="60" width="200" alt="Daftar PANEN303" src="https://sg-grup.s3.ap-southeast-2.amazonaws.com/panen303.webp">
+		<a href="https://bit.ly/situspanen" ><amp-img height="60" width="200" alt="Daftar PANEN303" src="https://sg-grup.s3.ap-southeast-2.amazonaws.com/panen303.webp" class="enlaces">
 		</amp-img></a>
         </div>
         </br>
         <div class="col-xs-6 text-center">
-		<a href="https://bit.ly/situssaba" ><amp-img height="60" width="200" alt="Daftar SABASLOTS" src="https://sg-grup.s3.ap-southeast-2.amazonaws.com/sabaslots.webp">
+		<a href="https://bit.ly/situssaba" ><amp-img height="60" width="200" alt="Daftar SABASLOTS" src="https://sg-grup.s3.ap-southeast-2.amazonaws.com/sabaslots.webp" class="enlaces"> 
 		</amp-img></a>
-		<a href="https://bit.ly/situsaston" ><amp-img height="60" width="200" alt="Daftar ASTON777" src="https://sg-grup.s3.ap-southeast-2.amazonaws.com/aston777.webp">
+		<a href="https://bit.ly/situsaston" ><amp-img height="60" width="200" alt="Daftar ASTON777" src="https://sg-grup.s3.ap-southeast-2.amazonaws.com/aston777.webp" class="enlaces">
 		</amp-img></a>
         </div>
 </br>
         <div class="col-xs-6 text-center">
-		<a href="https://bit.ly/3YeS0jy" ><amp-img height="60" width="200" alt="Daftar DUNIA188" src="https://sg-grup.s3.ap-southeast-2.amazonaws.com/dunia188.webp">
+		<a href="https://bit.ly/3YeS0jy" ><amp-img height="60" width="200" alt="Daftar DUNIA188" src="https://sg-grup.s3.ap-southeast-2.amazonaws.com/dunia188.webp" class="enlaces">
 		</amp-img></a>
-		<a href="https://bit.ly/situsslo" ><amp-img height="60" width="200" alt="Daftar SITUSSLOT777" src="https://sg-grup.s3.ap-southeast-2.amazonaws.com/situsslot777.webp">
+		<a href="https://bit.ly/situsslo" ><amp-img height="60" width="200" alt="Daftar SITUSSLOT777" src="https://sg-grup.s3.ap-southeast-2.amazonaws.com/situsslot777.webp" class="enlaces">
 		</amp-img></a>
       </div>
 </div>
