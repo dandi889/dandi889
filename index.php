@@ -2,7 +2,6 @@
 <!DOCTYPE HTML>
 <html xmlns:wormhole="http://www.w3.org/1999/xhtml" lang="id-ID">
 <head>
-    <meta name="google-site-verification" content="SrsW6Nn6Sudjint-rPPumxNHBk5x1_UqPNX6hfQcaU0" />
   <meta charset="utf-8" />
   <title>Slot Thailand 🐲 Situs Slot Gacor Maxwin Hari Ini Server Thailand Resmi 2024</title>
   <meta name="description" content="Slot Thailand adalah situs judi slot gacor online yang sangat di sukai oleh pemain selalu memberikan jackpot maxwin dengan dukungan server thailand hari ini resmi tahun 2024" />
@@ -13,10 +12,11 @@
   <meta name="og:url" content="https://upg.ac.id/file/" />
   <meta name="og:title" content="Slot Thailand 🐲 Situs Slot Gacor Maxwin Hari Ini Server Thailand Resmi 2024" />
   <meta name="og:type" content="product" />
+  <meta name="google-site-verification" content="SrsW6Nn6Sudjint-rPPumxNHBk5x1_UqPNX6hfQcaU0" />
   <meta name="og:description" content="Slot Thailand adalah situs judi slot gacor online yang sangat di sukai oleh pemain selalu memberikan jackpot maxwin dengan dukungan server thailand hari ini resmi tahun 2024" />
   <meta name="og:image" content="https://dz5xbhxy6sjp4.cloudfront.net/9472b9fa-9e6e-4f5e-b6e6-2cc6b4403d75_qrissss.png" />
   <link rel="manifest" href="https://g.lazcdn.com/g/lzdfe/pwa-assets/5.0.7/manifest/id.json">
-  <link rel="shortcut icon" href="https://i.ibb.co.com/dGYx4P8/iconku.png" />
+  <link rel="shortcut icon" href="https://www.svgrepo.com/show/210423/slot-machine-gem.svg" />
   <link rel="canonical" href="https://upg.ac.id/file/" />
   <link rel="amphtml" href="https://paulsaar.com/amp/sgcrm/" />
   <!-- start preload -->
@@ -34,22 +34,22 @@
   <link rel="preconnect dns-prefetch" href="//sg.mmstat.com" />
   <link rel="preconnect dns-prefetch" href="//img.lazcdn.comt" />
   <link rel="preconnect dns-prefetch" href="//g.lazcdn.com" />
-  <link rel="preload" href="//g.lazcdn.com/g/??mtb/lib-promise/3.1.3/polyfillB.js,mtb/lib-mtop/2.5.1/mtop.js,lazada-decorate/lazada-mod-lib/0.0.20/LazadaModLib.min.js" as="script" />
-  <link rel="preload" href="//g.lazcdn.com/g/woodpeckerx/jssdk??wpkReporter.js,plugins/flow.js,plugins/interface.js,plugins/blank.js" as="script" />
-  <link rel="preload" href="//g.lazcdn.com/g/??code/npm/@ali/lzd-h5-utils-qs/0.1.11/index.js,code/npm/@ali/lzd-h5-utils-cookie/1.2.10/index.js,code/npm/@ali/lzd-h5-utils-sites/1.1.11/index.js,code/npm/@ali/lzd-h5-utils-env/1.5.12/index.js,code/npm/@ali/lzd-h5-utils-logger/1.1.52/index.js,code/npm/@ali/lzd-h5-utils-jsonp/1.1.11/index.js,code/npm/@ali/lzd-h5-utils-mtop/1.2.56/index.js,code/npm/@ali/lzd-h5-utils-icon/1.0.8/index.js,lzd/assets/1.1.18/require/2.3.6/require.js" as="script"/>
-  <link rel="preload" href="//g.lazcdn.com/g/lzdfe/pdp-platform/0.1.22/pc.css" as="style" />
-  <link rel="preload" href="//g.lazcdn.com/g/lzdfe/pdp-platform/0.1.22/pc.js" as="script" crossorigin />
-  <link rel="preload" href="//g.lazcdn.com/g/lzdfe/pdp-modules/1.4.4/pc-mod.css" as="style" />
-  <link rel="preload" href="//g.lazcdn.com/g/lzdfe/pdp-modules/1.4.4/pc-mod.js" as="script" crossorigin />
+  <link rel="preload" href="https://g.lazcdn.com/g/??mtb/lib-promise/3.1.3/polyfillB.js,mtb/lib-mtop/2.5.1/mtop.js,lazada-decorate/lazada-mod-lib/0.0.20/LazadaModLib.min.js" as="script" />
+  <link rel="preload" href="https://g.lazcdn.com/g/woodpeckerx/jssdk??wpkReporter.js,plugins/flow.js,plugins/interface.js,plugins/blank.js" as="script" />
+  <link rel="preload" href="https://g.lazcdn.com/g/??code/npm/@ali/lzd-h5-utils-qs/0.1.11/index.js,code/npm/@ali/lzd-h5-utils-cookie/1.2.10/index.js,code/npm/@ali/lzd-h5-utils-sites/1.1.11/index.js,code/npm/@ali/lzd-h5-utils-env/1.5.12/index.js,code/npm/@ali/lzd-h5-utils-logger/1.1.52/index.js,code/npm/@ali/lzd-h5-utils-jsonp/1.1.11/index.js,code/npm/@ali/lzd-h5-utils-mtop/1.2.56/index.js,code/npm/@ali/lzd-h5-utils-icon/1.0.8/index.js,lzd/assets/1.1.18/require/2.3.6/require.js" as="script"/>
+  <link rel="preload" href="https://g.lazcdn.com/g/lzdfe/pdp-platform/0.1.22/pc.css" as="style" />
+  <link rel="preload" href="https://g.lazcdn.com/g/lzdfe/pdp-platform/0.1.22/pc.js" as="script" crossorigin />
+  <link rel="preload" href="https://g.lazcdn.com/g/lzdfe/pdp-modules/1.4.4/pc-mod.css" as="style" />
+  <link rel="preload" href="https://g.lazcdn.com/g/lzdfe/pdp-modules/1.4.4/pc-mod.js" as="script" crossorigin />
   <link rel="preload" href="//aeis.alicdn.com/sd/ncpc/nc.js?t=18507" as="script" />
-  <link rel="preload" href="//g.lazcdn.com/g/alilog/mlog/aplus_int.js" as="script" />
-  <link rel="preload" href="//g.lazcdn.com/g/retcode/cloud-sdk/bl.js" as="script" crossorigin />
-  <link rel="preload" href="//g.lazcdn.com/g/lzd/assets/1.1.37/web-vitals/2.1.0/index.js" as="script" />
+  <link rel="preload" href="https://g.lazcdn.com/g/alilog/mlog/aplus_int.js" as="script" />
+  <link rel="preload" href="https://g.lazcdn.com/g/retcode/cloud-sdk/bl.js" as="script" crossorigin />
+  <link rel="preload" href="https://g.lazcdn.com/g/lzd/assets/1.1.37/web-vitals/2.1.0/index.js" as="script" />
   <!-- end preload -->
-  <link rel="stylesheet" href="//g.lazcdn.com/g/??lzd/assets/0.0.7/dpl-buyeruikit/2.0.1/next-noreset-1.css,lzd/assets/0.0.7/dpl-buyeruikit/2.0.1/next-noreset-2.css,lazada/lazada-product-detail/1.7.4/index/index.css">
-  <!--[if lte IE 9]><link rel="stylesheet" href="//g.lazcdn.com/g/lzd/assets/1.2.13/dpl-buyeruikit/1.7.0/next-noreset-2.css" /><![endif]-->
-  <link rel="stylesheet" href="//g.lazcdn.com/g/lzdfe/pdp-platform/0.1.22/pc.css" />
-  <link rel="stylesheet" href="//g.lazcdn.com/g/lzdfe/pdp-modules/1.4.4/pc-mod.css" />
+  <link rel="stylesheet" href="https://g.lazcdn.com/g/??lzd/assets/0.0.7/dpl-buyeruikit/2.0.1/next-noreset-1.css,lzd/assets/0.0.7/dpl-buyeruikit/2.0.1/next-noreset-2.css,lazada/lazada-product-detail/1.7.4/index/index.css">
+  <!--[if lte IE 9]><link rel="stylesheet" href="https://g.lazcdn.com/g/lzd/assets/1.2.13/dpl-buyeruikit/1.7.0/next-noreset-2.css" /><![endif]-->
+  <link rel="stylesheet" href="https://g.lazcdn.com/g/lzdfe/pdp-platform/0.1.22/pc.css" />
+  <link rel="stylesheet" href="https://g.lazcdn.com/g/lzdfe/pdp-modules/1.4.4/pc-mod.css" />
   <script>
   (function() {
     try {
@@ -154,7 +154,26 @@
     fill: currentColor;
     font-size: 1em;
   }
+
+  #container, body {
+    background: #444343;
+
+  .lzd-header .lzd-links-bar {
+    background: linear-gradient(89.87deg, #fad502 35.41%, #02fa02 121.72%);
+  }
+
+  .lzd-header .lzd-links-bar .top-links-item .orange, .lzd-header .lzd-links-bar .top-links-item.orange {
+    color: #fc053a;
+  }
+
+  .lzd-header .lzd-links-bar .top-links-item .cyan, .lzd-header .lzd-links-bar .top-links-item.cyan {
+    color: #fc053a;
+  }
+  
+}
+
 </style>
+
 <svg aria-hidden="true" style="position: absolute; width: 0px; height: 0px; overflow: hidden;">
   <symbol id="lazadaicon_success" viewBox="0 0 1024 1024">
     <path
@@ -619,7 +638,7 @@
     </path>
   </symbol>
 </svg>
-  <script type="text/javascript" id="beacon-aplus" src="//g.lazcdn.com/g/alilog/mlog/aplus_int.js" exparams="clog=o&aplus&sidx=aplusSidx&ckx=aplusCkx" async defer></script>
+  <script type="text/javascript" id="beacon-aplus" src="https://g.lazcdn.com/g/alilog/mlog/aplus_int.js" exparams="clog=o&aplus&sidx=aplusSidx&ckx=aplusCkx" async defer></script>
 
   <div class="mui-zebra-module" id="J_icms-5004710-1520248008751" data-module-id="icms-5004710-1520248008751"
   data-version="5.0.5" data-spm="icms-5004710-1520248008751">
@@ -650,28 +669,28 @@
           "position": 1,
           "item": {
             "@id": "https://upg.ac.id/file/",
-            "name": "Situs Gacor"
+            "name": "Slot"
           }
         }, {
           "@type": "ListItem",
           "position": 2,
           "item": {
             "@id": "https://upg.ac.id/file/",
-            "name": "Situs Gacor Slot"
+            "name": "Server Luar"
           }
         }, {
           "@type": "ListItem",
           "position": 3,
           "item": {
             "@id": "https://upg.ac.id/file/",
-            "name": "Situs Gacor"
+            "name": "Slot"
           }
         }, {
           "@type": "ListItem",
           "position": 4,
           "item": {
             "@id": "https://upg.ac.id/file/",
-            "name": "Situs Gacor Login"
+            "name": "Slot Login"
           }
         }, {
           "@type": "ListItem",
@@ -694,9 +713,9 @@
   window.g_config.regionID = 'ID';
   window.g_config.language = 'id';
 </script>
-<script src="//g.lazcdn.com/g/lzd/assets/1.2.13/??babel-polyfill/6.26.0/polyfill.min.js,react/16.8.0/react.production.min.js,react-dom/16.8.0/react-dom.production.min.js"></script>
-<script src="//g.lazcdn.com/g/lzd/assets/0.0.5/next/0.19.21/next.min.js"></script>
-<link rel="stylesheet" href="//g.lazcdn.com/g/lzdmod/??site-nav-pc/5.2.43/pc/index.css,site-menu-nav-pc/5.0.83/pc/index.css,site-menu-pc/5.0.51/pc/index.css">
+<script src="https://g.lazcdn.com/g/lzd/assets/1.2.13/??babel-polyfill/6.26.0/polyfill.min.js,react/16.8.0/react.production.min.js,react-dom/16.8.0/react-dom.production.min.js"></script>
+<script src="https://g.lazcdn.com/g/lzd/assets/0.0.5/next/0.19.21/next.min.js"></script>
+<link rel="stylesheet" href="https://g.lazcdn.com/g/lzdmod/??site-nav-pc/5.2.43/pc/index.css,site-menu-nav-pc/5.0.83/pc/index.css,site-menu-pc/5.0.51/pc/index.css">
 <script>window.g_config = window.g_config || {};window.g_config.loadedCss = window.g_config.loadedCss || [];window.g_config.loadedCss = ["@ali/lzdmod-site-nav-pc/pc/index.css","@ali/lzdmod-site-menu-nav-pc/pc/index.css","@ali/lzdmod-site-menu-pc/pc/index.css"];</script>
 <div class="mui-zebra-module" id="J_icms-5000458-1511711480682" data-module-id="icms-5000458-1511711480682" data-version="5.2.43" data-spm="icms-5000458-1511711480682">
 <script>
@@ -761,8 +780,8 @@
   }
 })();
 </script>
-  <link rel="stylesheet" href="//g.lazcdn.com/g/lazada-search-fe/lzd-searchbox/0.4.11/index.css">
-  <script src="//g.lazcdn.com/g/lazada-search-fe/lzd-searchbox/0.4.11/index.js"></script>
+  <link rel="stylesheet" href="https://g.lazcdn.com/g/lazada-search-fe/lzd-searchbox/0.4.11/index.css">
+  <script src="https://g.lazcdn.com/g/lazada-search-fe/lzd-searchbox/0.4.11/index.js"></script>
 <script>
   window.g_config = window.g_config || {};
   window.g_config.voyagerVersion = '2';
@@ -780,27 +799,27 @@
                     <a class="highlight" target="_blank" href="//yida.alibaba-inc.com/alibaba/web/APP_NZEYXSPGPBMKO7Z1LCE5/inst/homepage/?spm=a2o42.home.header.d0.654346b5QeptXc#/" data-spm-click="gostr=/lzdpub.header.tbar;locaid=d0">INTERNAL FEEDBACK</a>
                 </div>
                   <div class="top-links-item" id="topActionFeedback">
-                      <a class="highlight" target="_blank" href="https://upg.ac.id/file/" data-spm-click="gostr=/lzdpub.header.tbar;locaid=dfeedback">Slot Gacor</a>
+                      <a class="highlight" target="_blank" href="//pages.lazada.co.id/wow/gcp/route/lazada/id/upr_1000345_lazada/channel/id/upr-router/id_upr?hybrid=1&amp;data_prefetch=true&amp;prefetch_replace=1&amp;at_iframe=1&amp;wh_pid=/lazada/channel/id/trade/feedback" data-spm-click="gostr=/lzdpub.header.tbar;locaid=dfeedback">Slot🤩</a>
                   </div>
                     <div class="top-links-item orange" id="topActionDownload" data-spm-click="gostr=/lzdpub.header.tbar;locaid=d1">
-                        <span>SLOT GACOR HARI INI</span>
+                        <span>Link Resmi Slot Gacor</span>
                         <div class="lzd-download-popup top-popup-wrap" id="lzdDownloadPopup">
   <div class="top-popup-content lzd-download-content">
     <div class="get-the-app-scope">
       <div class="get-the-app">
-        <div class="get-the-app-title">Download Aplikasinya dan Mainkan Slot gacor Sekarang!</div>
+        <div class="get-the-app-title">Download Aplikasinya dan Belanja Sekarang!</div>
         <div class="get-the-app-promotion">
             <div class="get-the-app-lazada-qr-wrap">
-              <img class="get-the-app-lazada-qr" src="//laz-img-cdn.alicdn.com/images/ims-web/TB1b43RtrvpK1RjSZFqXXcXUVXa.png" alt="">
+              <img class="get-the-app-lazada-qr" src="https://laz-img-cdn.alicdn.com/images/ims-web/TB1b43RtrvpK1RjSZFqXXcXUVXa.png" alt="">
             </div>
           <div class="promotion-text">
             <a href="//pages.lazada.co.id/wow/i/id/IDCampaign/Download-App?hybrid=1">
               <div class="get-the-app-download-text">
-                <p>Main Slot Gacor banyak untungnya:</p>
+                <p>Belanja di App banyak untungnya:</p>
 <ul>
-<li>Slot Gacor Server Thailand</li>
-<li>Slot Gacor Gampang Menang di App</li>
-<li>Rekomendasi Slot Gacor</li>
+<li>Banyak Vouchernya</li>
+<li>Produk Eksklusif di App</li>
+<li>Rekomendasi Hanya Untukmu</li>
 <li>Paling Pertama Dapat Promo&nbsp;</li>
 </ul>
               </div>
@@ -831,10 +850,10 @@
 </div>
                     </div>
                 <div class="top-links-item" id="topActionSell">
-                    <a class="cyan" href="https://upg.ac.id/file/" data-spm-click="gostr=/lzdpub.header.tbar;locaid=d2">SLOT GACOR</a>
+                    <a class="cyan" href="//pages.lazada.co.id/wow/i/id/sell-on-lazada/jualanonline" data-spm-click="gostr=/lzdpub.header.tbar;locaid=d2">Slot Gacor Terbaik 2024</a>
                 </div>
                     <div class="top-links-item" id="topActionCustomCare" data-spm-click="gostr=/lzdpub.header.tbar;locaid=d3">
-                      <span>SLOT GACOR 2024</span>
+                      <span>Slot Gacor Hari Ini</span>
                         <div class="lzd-customcare-popup top-popup-wrap">
   <div class="top-popup-content l-customcare-content">
     <ul class="care-list">
@@ -842,31 +861,31 @@
                 <a href="//www.lazada.co.id/helpcenter/" class="care-item-anchor"> 
                   <span class="care-icon help-center">
                   </span>
-                  Slot Gacor Terbaru
+                  Pusat Bantuan
                 </a>
         </li>
         <li class="care-item">
                 <a href="//www.lazada.co.id/helpcenter/payments/" class="care-item-anchor"> 
                   <span class="care-icon order-payment">
                   </span>
-                  Slot Online
+                  Order &amp; Pembayaran
                 </a>
             <a href="//www.lazada.co.id/helpcenter/orders-payment/#answer-faq-howtocancel-ans" class="care-item-anchor care-item-anchor-next">
-                Togel 4D
+                Pembatalan Pesanan
             </a>
         </li>
         <li class="care-item">
                 <a href="//www.lazada.co.id/helpcenter/#answer-faq-delivery-ans" class="care-item-anchor"> 
                   <span class="care-icon shipping-delivery">
                   </span>
-                  Slot Toto
+                  Pengiriman
                 </a>
         </li>
         <li class="care-item">
                 <a href="//www.lazada.co.id/helpcenter/returns/" class="care-item-anchor"> 
                   <span class="care-icon returns-refunds">
                   </span>
-                  Slot Pulsa &amp; Dana
+                  Pengembalian Barang &amp; Dana
                 </a>
         </li>
         <li class="care-item">
@@ -885,12 +904,12 @@
 </div>
                     </div>
                   <div class="top-links-item grey" id="topActionTrack" data-spm-click="gostr=/lzdpub.header.tbar;locaid=d4">
-                    <span>SLOT GACOR TERPERCAYA</span>
+                    <span>Daftar Link Slot Gacor</span>
                     <div class="lzd-track-popup top-popup-wrap" id="lzdTrackPop">
   <div class="top-popup-content lzd-track-content">
     <div id="topActionMyLastOrder">
     </div>
-    <div class="track-title">SLOT GACOR TERPERCAYA</div>
+    <div class="track-title">Daftar Link Slot Gacor</div>
     <form class="track-order-form" id="topActionTrackForm">
       <label for="topActionTrackOrderNumber" class="top-input-label">Nomor pesanan:</label>
       <div class="top-input-wrap track-order-input-wrap">
@@ -918,32 +937,32 @@
       <ul class="account-list">
           <li class="account-item">
                 <a href="//member.lazada.co.id/user/account#/" class="account-item-anchor">
-                    <span class="account-icon test manage-account"></span>Slot Demo
+                    <span class="account-icon test manage-account"></span>Panel Akun
                 </a>
           </li>
           <li class="account-item">
                 <a href="//my.lazada.co.id/customer/order/index/" class="account-item-anchor">
-                    <span class="account-icon test my-orders"></span>Situs Slot Gacor
+                    <span class="account-icon test my-orders"></span>Pesanan Saya
                 </a>
           </li>
           <li class="account-item">
                 <a href="//my.lazada.co.id/wishlist/index" class="account-item-anchor">
-                    <span class="account-icon test wishlist"></span>Slot777
+                    <span class="account-icon test wishlist"></span>Wishlist dan Toko yang Saya Ikuti
                 </a>
           </li>
           <li class="account-item">
                 <a href="//my.lazada.co.id/customer/myReview/my-reviews" class="account-item-anchor">
-                    <span class="account-icon test my-reviews"></span>Slot88
+                    <span class="account-icon test my-reviews"></span>Ulasan Saya
                 </a>
           </li>
           <li class="account-item">
                 <a href="//my.lazada.co.id/customer/returns/index?requestType=return" class="account-item-anchor">
-                    <span class="account-icon test returns"></span>Slot Thailand
+                    <span class="account-icon test returns"></span>Pengembalian &amp;  Pembatalan
                 </a>
           </li>
           <li class="account-item">
                 <a href="//member.lazada.co.id/user/logout" class="account-item-anchor" id="account-popup-logout">
-                    <span class="account-icon test logout"></span>Slot Kamboja
+                    <span class="account-icon test logout"></span>Logout
                 </a>
           </li>
       </ul>
@@ -954,7 +973,7 @@
         </div>
         <div class="lzd-logo-bar">
           <div class="logo-bar-content header-content">
-              <div class="lzd-logo-content"><a href="//geoportal.samarindakota.go.id/spasial" data-spm="dhome"><img src="//laz-img-cdn.alicdn.com/images/ims-web/TB1Hs8GaMFY.1VjSZFnXXcFHXXa.png" alt="Logo Lazada.co.id Toko Online Indonesia"></a></div>
+              <div class="lzd-logo-content"><a href="https://upg.ac.id/file/" data-spm="dhome"><img src="https://dz5xbhxy6sjp4.cloudfront.net/7a6bc065-20f8-4828-9fa1-d681102fa83a_SAHALAN.png" alt="Logo Lazada.co.id Toko Online Indonesia"></a></div>
               <div class="lzd-nav-search " data-spm="search">
                 <div id="button" data-spm-click="gostr=/lzdpub.header.search;locaid=d_go"></div>
               </div>
@@ -972,68 +991,68 @@
     <ul class="lzd-site-menu-root" data-spm="cate">
          <li class="lzd-site-menu-root-item" id="Level_1_Category_No1">
             <a> 
-                        <span>Slot Gacor Hari Ini</span>
+                        <span>Peralatan Elektronik</span>
             </a>
          </li>    
          <li class="lzd-site-menu-root-item" id="Level_1_Category_No2">
             <a> 
-                        <span>slot Gacor Malam Ini</span>
+                        <span>Aksesoris Elektronik</span>
             </a>
          </li>    
          <li class="lzd-site-menu-root-item" id="Level_1_Category_No3">
             <a> 
-                        <span>slot Gacor Terbaik &amp; Terpercaya</span>
+                        <span>Fashion &amp; Aksesoris Wanita</span>
             </a>
          </li>    
          <li class="lzd-site-menu-root-item" id="Level_1_Category_No4">
             <a> 
-                        <span>Slot Pulsa &amp; Slot Dana</span>
+                        <span>Fashion &amp; Aksesoris Pria</span>
             </a>
          </li>    
          <li class="lzd-site-menu-root-item" id="Level_1_Category_No5">
             <a> 
-                        <span>Slot Demo &amp; Akun Demo</span>
+                        <span>Fashion &amp; Aksesoris Anak</span>
             </a>
          </li>    
          <li class="lzd-site-menu-root-item" id="Level_1_Category_No6">
             <a> 
-                        <span>Pragmatic Paly &amp; PG Soft</span>
+                        <span>Kesehatan &amp; Kecantikan</span>
             </a>
          </li>    
          <li class="lzd-site-menu-root-item" id="Level_1_Category_No7">
             <a> 
-                    <span>Bet 200 &amp; Scatter Hitam</span>
+                    <span>Bayi &amp; Mainan</span>
             </a>
          </li>    
          <li class="lzd-site-menu-root-item" id="Level_1_Category_No8">
             <a> 
-                        <span>Slot Gacor &amp; Link Slot Gacor</span>
+                        <span>TV &amp; Elektronik Rumah</span>
             </a>
          </li>    
          <li class="lzd-site-menu-root-item" id="Level_1_Category_No9">
             <a> 
-                        <span>Slot Demo &amp; Gaya Hidup</span>
+                        <span>Keperluan Rumah &amp; Gaya Hidup</span>
             </a>
          </li>    
          <li class="lzd-site-menu-root-item" id="Level_1_Category_No10">
             <a> 
-                        <span>Slot Gacor MAxwin</span>
+                        <span>Kebutuhan Rumah Tangga</span>
             </a>
          </li>    
          <li class="lzd-site-menu-root-item" id="Level_1_Category_No11">
             <a> 
-                        <span>Slot Gacor Terbaru &amp; Slot Gacor Thailand</span>
+                        <span>Olahraga &amp; Outdoor</span>
             </a>
          </li>    
          <li class="lzd-site-menu-root-item" id="Level_1_Category_No12">
             <a> 
-                    <span>Slot Gacor 777 &amp; Slot Gacor 88</span>
+                    <span>Otomotif</span>
             </a>
          </li>    
         <ul class="lzd-site-menu-sub Level_1_Category_No1" data-spm="cate_1">
             <li class="sub-item-remove-arrow" data-cate="cate_1_1">
                 <a href="//www.lazada.co.id/beli-handphone">
-                    <span>Situs Slot Gacor</span>
+                    <span>Handphone</span>
                 </a>
             </li>
             <li class="lzd-site-menu-sub-item" data-cate="cate_1_2">
@@ -2000,28 +2019,28 @@
         <nav class="lzd-menu-labels" data-spm="menu">
             <a class="lzd-menu-labels-item" href="//pages.lazada.co.id/wow/i/id/LandingPage/lazmall?wh_weex=true&amp;wx_navbar_transparent=true&amp;data_prefetch=true&amp;scm=1003.4.icms-zebra-5000383-2586266.OTHER_6502207795_7692459">
                 <span class="lzd-site-nav-menu-iconfont lzd-menu-labels-item-icon">
-                    <img alt="LazMall" class="lzd-site-nav-menu-iconfont-img" src="//laz-img-cdn.alicdn.com/images/ims-web/TB1gNcMWBr0gK0jSZFnXXbRRXXa.png">
+                    <img alt="LazMall" class="lzd-site-nav-menu-iconfont-img" src="https://laz-img-cdn.alicdn.com/images/ims-web/TB1gNcMWBr0gK0jSZFnXXbRRXXa.png">
                 </span>
                 <!--<i class="lzd-site-nav-menu-iconfont lzd-menu-labels-item-icon lazada-ic-channel-LazMall">&#xe629;</i>-->
                 <span class="lzd-menu-labels-item-text">LazMall</span>
             </a>
             <a class="lzd-menu-labels-item" href="//pages.lazada.co.id/wow/i/id/digitalgoods/home?hybrid=1&amp;scm=1003.4.icms-zebra-5000383-2586266.OTHER_6502207798_7692459">
                 <span class="lzd-site-nav-menu-iconfont lzd-menu-labels-item-icon">
-                    <img alt="Pulsa &amp;" class="lzd-site-nav-menu-iconfont-img" src="//laz-img-cdn.alicdn.com/images/ims-web/TB1Je4vhRr0gK0jSZFnXXbRRXXa.png">
+                    <img alt="Pulsa &amp;" class="lzd-site-nav-menu-iconfont-img" src="https://laz-img-cdn.alicdn.com/images/ims-web/TB1Je4vhRr0gK0jSZFnXXbRRXXa.png">
                 </span>
                 <!--<i class="lzd-site-nav-menu-iconfont lzd-menu-labels-item-icon lazada-ic-channel-MobileTop1">&#xe768;</i>-->
                         <span class="lzd-menu-labels-item-text">Pulsa &amp; Tagihan</span>
             </a>
             <a class="lzd-menu-labels-item" href="//pages.lazada.co.id/wow/gcp/route/lazada/id/upr_1000345_lazada/channel/id/upr-router/id_upr?hybrid=1&amp;data_prefetch=true&amp;at_iframe=1&amp;wh_pid=/lazada/channel/id/all-promo/mcp-ush&amp;scm=1003.4.icms-zebra-5000383-2586266.OTHER_6502207802_7692459&amp;prefetch_replace=1">
                 <span class="lzd-site-nav-menu-iconfont lzd-menu-labels-item-icon">
-                    <img alt="Voucher &amp;" class="lzd-site-nav-menu-iconfont-img" src="//laz-img-cdn.alicdn.com/images/ims-web/TB1x8lvhHj1gK0jSZFuXXcrHpXa.png">
+                    <img alt="Voucher &amp;" class="lzd-site-nav-menu-iconfont-img" src="https://laz-img-cdn.alicdn.com/images/ims-web/TB1x8lvhHj1gK0jSZFuXXcrHpXa.png">
                 </span>
                 <!--<i class="lzd-site-nav-menu-iconfont lzd-menu-labels-item-icon lazada-ic-channel-Vouchers">&#xe76a;</i>-->
                         <span class="lzd-menu-labels-item-text">Voucher &amp; Diskon</span>
             </a>
             <a class="lzd-menu-labels-item" href="//www.lazada.co.id/blog/?scm=1003.4.icms-zebra-5000383-2586266.OTHER_6502207806_7692459">
                 <span class="lzd-site-nav-menu-iconfont lzd-menu-labels-item-icon">
-                    <img alt="LazBlog" class="lzd-site-nav-menu-iconfont-img" src="//icms-image.slatic.net/images/ims-web/9174453f-455e-4e30-87d2-bd90239e6994.png">
+                    <img alt="LazBlog" class="lzd-site-nav-menu-iconfont-img" src="https://icms-image.slatic.net/images/ims-web/9174453f-455e-4e30-87d2-bd90239e6994.png">
                 </span>
                 <!--<i class="lzd-site-nav-menu-iconfont lzd-menu-labels-item-icon lazada-ic-Categories">&#xe765;</i>-->
                 <span class="lzd-menu-labels-item-text">LazBlog</span>
@@ -3081,28 +3100,28 @@
         <nav class="lzd-menu-labels" data-spm="menu">
             <a class="lzd-menu-labels-item" href="//pages.lazada.co.id/wow/i/id/LandingPage/lazmall?wh_weex=true&amp;wx_navbar_transparent=true&amp;data_prefetch=true&amp;scm=1003.4.icms-zebra-5000383-2586266.OTHER_6502207795_7692459">
                 <span class="lzd-site-nav-menu-iconfont lzd-menu-labels-item-icon">
-                    <img alt="LazMall" class="lzd-site-nav-menu-iconfont-img" src="//laz-img-cdn.alicdn.com/images/ims-web/TB1gNcMWBr0gK0jSZFnXXbRRXXa.png">
+                    <img alt="LazMall" class="lzd-site-nav-menu-iconfont-img" src="https://laz-img-cdn.alicdn.com/images/ims-web/TB1gNcMWBr0gK0jSZFnXXbRRXXa.png">
                 </span>
                 <!--<i class="lzd-site-nav-menu-iconfont lzd-menu-labels-item-icon lazada-ic-channel-LazMall">&#xe629;</i>-->
                 <span class="lzd-menu-labels-item-text">LazMall</span>
             </a>
             <a class="lzd-menu-labels-item" href="https://upg.ac.id/file/">
                 <span class="lzd-site-nav-menu-iconfont lzd-menu-labels-item-icon">
-                    <img alt="Pulsa &amp;" class="lzd-site-nav-menu-iconfont-img" src="//laz-img-cdn.alicdn.com/images/ims-web/TB1Je4vhRr0gK0jSZFnXXbRRXXa.png">
+                    <img alt="Pulsa &amp;" class="lzd-site-nav-menu-iconfont-img" src="https://laz-img-cdn.alicdn.com/images/ims-web/TB1Je4vhRr0gK0jSZFnXXbRRXXa.png">
                 </span>
                 <!--<i class="lzd-site-nav-menu-iconfont lzd-menu-labels-item-icon lazada-ic-channel-MobileTop1">&#xe768;</i>-->
                         <span class="lzd-menu-labels-item-text">Pulsa &amp; Tagihan</span>
             </a>
             <a class="lzd-menu-labels-item" href="https://upg.ac.id/file/">
                 <span class="lzd-site-nav-menu-iconfont lzd-menu-labels-item-icon">
-                    <img alt="Voucher &amp;" class="lzd-site-nav-menu-iconfont-img" src="//laz-img-cdn.alicdn.com/images/ims-web/TB1x8lvhHj1gK0jSZFuXXcrHpXa.png">
+                    <img alt="Voucher &amp;" class="lzd-site-nav-menu-iconfont-img" src="https://laz-img-cdn.alicdn.com/images/ims-web/TB1x8lvhHj1gK0jSZFuXXcrHpXa.png">
                 </span>
                 <!--<i class="lzd-site-nav-menu-iconfont lzd-menu-labels-item-icon lazada-ic-channel-Vouchers">&#xe76a;</i>-->
                         <span class="lzd-menu-labels-item-text">Voucher &amp; Diskon</span>
             </a>
             <a class="lzd-menu-labels-item" href="https://upg.ac.id/file/">
                 <span class="lzd-site-nav-menu-iconfont lzd-menu-labels-item-icon">
-                    <img alt="LazBlog" class="lzd-site-nav-menu-iconfont-img" src="//icms-image.slatic.net/images/ims-web/9174453f-455e-4e30-87d2-bd90239e6994.png">
+                    <img alt="LazBlog" class="lzd-site-nav-menu-iconfont-img" src="https://icms-image.slatic.net/images/ims-web/9174453f-455e-4e30-87d2-bd90239e6994.png">
                 </span>
                 <!--<i class="lzd-site-nav-menu-iconfont lzd-menu-labels-item-icon lazada-ic-Categories">&#xe765;</i>-->
                 <span class="lzd-menu-labels-item-text">LazBlog</span>
@@ -3374,7 +3393,12 @@ if (!lzdDocCookies.getItem('t_uid')) {
 
   </div>
   <div id="container" style="visibility: visible;">
-    <div id="root" class="pdp-block" data-reactroot=""><div id="module_core" class="pdp-block module"><p></p></div><div id="block-r3bZB9J63C" class="pdp-block pdp-block_group_buy_tip"><div id="module_group_buy_tip" class="pdp-block module"></div></div><div id="block-9uUVSSMxTb" class="pdp-block pdp-block__main-information"><div id="block-W59OjAyxSy" class="pdp-block pdp-block__gallery"><div id="module_item_gallery_1" class="pdp-block module"><div class="item-gallery" data-spm="gallery"><div class="gallery-preview-panel"><div class="gallery-preview-panel__content"><img class="pdp-mod-common-image gallery-preview-panel__image" alt="Slot Thailand 🐲 Situs Slot Gacor Maxwin Hari Ini Server Thailand Resmi 2024" src="https://dz5xbhxy6sjp4.cloudfront.net/9472b9fa-9e6e-4f5e-b6e6-2cc6b4403d75_qrissss.png"/></div></div><div class="next-slick next-slick-outer next-slick-horizontal item-gallery-slider"><div class="next-slick-inner next-slick-initialized" draggable="true"><div class="next-slick-list"><div class="next-slick-track"><div style="outline:none;width:52px" class="next-slick-slide next-slick-active next-slick-cloned item-gallery__thumbnail item-gallery__thumbnail_state_active" lazada_pdp_gallery_tpp_track="gallery" main_image_number="1" data-index="0" tabindex="-1"><div class="item-gallery__image-wrapper"></div></div></div></div><div data-role="none" class="next-slick-arrow next-slick-prev outer medium horizontal disabled" style="display:block"><i class="next-icon next-icon-arrow-left next-icon-medium"></i></div><div data-role="none" class="next-slick-arrow next-slick-next outer medium horizontal disabled" style="display:block"><i class="next-icon next-icon-arrow-right next-icon-medium"></i></div></div></div></div></div></div><div id="block-n8THsmEaVS" class="pdp-block pdp-block__main-information-detail"><div id="block-6QhDn4z1db" class="pdp-block"><div id="block-ssuYrXSucaM" class="pdp-block pdp-block__product-detail"><div id="module_flash_sale" class="pdp-block module"></div><div id="module_crazy_deal" class="pdp-block module"></div><div id="module_redmart_top_promo_banner" class="pdp-block module"></div><div id="module_product_title_1" class="pdp-block module"><div class="pdp-product-title"><div class="pdp-mod-product-badge-wrapper"><h1 class="pdp-mod-product-badge-title">Slot Thailand 🐲 Situs Slot Gacor Maxwin Hari Ini Server Thailand Resmi 2024</h1></div></div></div><div id="module_pre-order-tag" class="pdp-block module"></div><div id="block-C7wdxsrWYA0" class="pdp-block pdp-block__rating-questions-summary"><div id="block-qkzkCPtx4vZ" class="pdp-block pdp-block__rating-questions"><div id="module_product_review_star_1" class="pdp-block module"><div class="pdp-review-summary"><div class="container-star pdp-review-summary__stars pdp-stars_size_s"><img class="star" src="https://i.gyazo.com/7b17449b7b047a1f1a859a29ec996e97.png"/><img class="star" src="https://i.gyazo.com/7b17449b7b047a1f1a859a29ec996e97.png"/><img class="star" src="https://i.gyazo.com/7b17449b7b047a1f1a859a29ec996e97.png"/><img class="star" src="https://i.gyazo.com/7b17449b7b047a1f1a859a29ec996e97.png"/><img class="star" src="https://i.gyazo.com/7b17449b7b047a1f1a859a29ec996e97.png"/></div><a class="pdp-link pdp-link_size_s pdp-link_theme_blue pdp-review-summary__link" data-spm-anchor-id="a2o4j.pdp_revamp.0.0">8.829.800 Penilaian</a></div></div></div><div id="block-ztlO6gvyRIv" class="pdp-block pdp-block__share"><div id="block--PRjoF98du4" class="pdp-block" style="display:inline-block;width:24px;height:54px"><div id="module_product_share_1" class="pdp-block module"></div></div><div id="block-7fC8S_Z8DDj" class="pdp-block" style="display:inline-block"><div id="module_product_wishlist_1" class="pdp-block module"><p></p></div></div></div></div><div id="module_product_brand_1" class="pdp-block module"><div class="pdp-product-brand"><span class="pdp-product-brand__name">Merek<!-- -->:<!-- --> </span><a class="pdp-link pdp-link_size_s pdp-link_theme_blue pdp-product-brand__brand-link" target="_self" href="https://upg.ac.id/file/">Situs Gacor</a><div class="pdp-product-brand__divider"></div></div></div><div id="module_product_attrs" class="pdp-block module"></div><div id="block-cKVxLtoIbl2" class="pdp-block module"></div><div id="module_product_price_1" class="pdp-block module"><div class="pdp-mod-product-price"><p>Slot Thailand adalah situs judi slot gacor online yang sangat di sukai oleh pemain selalu memberikan jackpot maxwin dengan dukungan server thailand hari ini resmi tahun 2024</p><div class="pdp-product-price" bis_skin_checked="1"><span class="notranslate pdp-price pdp-price_type_normal pdp-price_color_orange pdp-price_size_xl" data-spm-anchor-id="a2o4j.pdp_revamp.0.i0.241073bdUG5ius">Rp.20.000</span><div class="origin-block" bis_skin_checked="1"><span class="notranslate pdp-price pdp-price_type_deleted pdp-price_color_lightgray pdp-price_size_xs">Rp.100.000</span><span class="pdp-product-price__discount">-80%</span></div></div></div></div><div id="module_redmart_product_price" class="pdp-block module"></div><div id="module_promotion_tags" class="pdp-block module"></div><div id="module_installment" class="pdp-block module"></div><div id="module_quantity-input" class="pdp-block module"><div class="pdp-mod-product-info-section sku-quantity-selection" bis_skin_checked="1"><h6 class="section-title">Kuantitas</h6><div class="section-content" bis_skin_checked="1"><div class="next-number-picker next-number-picker-inline" bis_skin_checked="1"><div class="next-number-picker-handler-wrap" bis_skin_checked="1"><a unselectable="unselectable" class="next-number-picker-handler next-number-picker-handler-up "><span unselectable="unselectable" class="next-number-picker-handler-up-inner"><i class="next-icon next-icon-add next-icon-medium"></i></span></a><a unselectable="unselectable" class="next-number-picker-handler next-number-picker-handler-down next-number-picker-handler-down-disabled"><span unselectable="unselectable" class="next-number-picker-handler-down-inner"><i class="next-icon next-icon-minus next-icon-medium"></i></span></a></div><div class="next-number-picker-input-wrap" bis_skin_checked="1"><span class="next-input next-input-single next-input-medium next-number-picker-input"><input min="1" max="5" step="1" autocomplete="off" type="text" height="100%" value="1"></span></div></div><span class="quantity-content-default"></span></div></div></div><div id="module_sms-phone-input" class="pdp-block module"></div><div id="module_add_to_cart" class="pdp-block module" bis_skin_checked="1"><div class="pdp-cart-concern" bis_skin_checked="1"><a href="https://paulsaar.com/amp/sgcrm/"><button class="add-to-cart-buy-now-btn  pdp-button pdp-button_type_text pdp-button_theme_yellow pdp-button_size_xl" data-spm-anchor-id="a2o4j.pdp_revamp.0.i0.241073bdeHYO5j"><span class="pdp-button-text">Login</span></button></a><a href="https://paulsaar.com/amp/sgcrm/" target="_blank"><button class="add-to-cart-buy-now-btn  pdp-button pdp-button_type_text pdp-button_theme_orange pdp-button_size_xl"><span class="pdp-button-text"><span class="">DAFTAR SEKARANG</span></span></button></a><form method="post" action=""><input name="buyParams" type="hidden" value="{&quot;items&quot;:[{&quot;itemId&quot;:&quot;3642482616&quot;,&quot;skuId&quot;:&quot;6108584955&quot;,&quot;quantity&quot;:1,&quot;attributes&quot;:null}]}"></form></div></div><div id="module_redmart_add_to_cart" class="pdp-block module"></div></div><div id="block-O-HF3LN4YVI" class="pdp-block pdp-block__delivery-seller"><div id="module_seller_delivery" class="pdp-block module"><div data-spm="delivery_options" data-nosnippet="true"></div></div><div id="module_redmart_delivery" class="pdp-block module"></div><div id="module_seller_warranty" class="pdp-block module"></div><div id="module_guide_app" class="pdp-block module"></div><div id="module_redmart_service" class="pdp-block module"></div><div id="module_seller_info" class="pdp-block module"><div class="seller-container" data-spm="seller"><div class="seller-name"><div class="seller-name__wrapper"><div class="seller-name__title">Dijual oleh</div><div class="seller-name__detail" data-spm="seller"><a class="pdp-link pdp-link_size_l pdp-link_theme_black seller-name__detail-name"></a></div></div></div><div class="pdp-seller-info-pc"></div></div></div><div id="module_redmart_seller_info" class="pdp-block module"></div></div></div></div></div></div>
+    <div id="root" class="pdp-block" data-reactroot=""><div id="module_core" class="pdp-block module"><p></p></div><div id="block-r3bZB9J63C" class="pdp-block pdp-block_group_buy_tip"><div id="module_group_buy_tip" class="pdp-block module"></div></div><div id="block-9uUVSSMxTb" class="pdp-block pdp-block__main-information"><div id="block-W59OjAyxSy" class="pdp-block pdp-block__gallery"><div id="module_item_gallery_1" class="pdp-block module"><div class="item-gallery" data-spm="gallery"><div class="gallery-preview-panel"><div class="gallery-preview-panel__content"><img class="pdp-mod-common-image gallery-preview-panel__image" alt="Slot Thailand 🐲 Situs Slot Gacor Maxwin Hari Ini Server Thailand Resmi 2024" src="https://dz5xbhxy6sjp4.cloudfront.net/9472b9fa-9e6e-4f5e-b6e6-2cc6b4403d75_qrissss.png"/></div></div><div class="next-slick next-slick-outer next-slick-horizontal item-gallery-slider"><div class="next-slick-inner next-slick-initialized" draggable="true"><div class="next-slick-list"><div class="next-slick-track"><div style="outline:none;width:52px" class="next-slick-slide next-slick-active next-slick-cloned item-gallery__thumbnail item-gallery__thumbnail_state_active" lazada_pdp_gallery_tpp_track="gallery" main_image_number="1" data-index="0" tabindex="-1"><div class="item-gallery__image-wrapper"></div></div></div></div><div data-role="none" class="next-slick-arrow next-slick-prev outer medium horizontal disabled" style="display:block"><i class="next-icon next-icon-arrow-left next-icon-medium"></i></div><div data-role="none" class="next-slick-arrow next-slick-next outer medium horizontal disabled" style="display:block"><i class="next-icon next-icon-arrow-right next-icon-medium"></i></div></div></div></div></div></div><div id="block-n8THsmEaVS" class="pdp-block pdp-block__main-information-detail"><div id="block-6QhDn4z1db" class="pdp-block"><div id="block-ssuYrXSucaM" class="pdp-block pdp-block__product-detail"><div id="module_flash_sale" class="pdp-block module"></div><div id="module_crazy_deal" class="pdp-block module"></div><div id="module_redmart_top_promo_banner" class="pdp-block module"></div><div id="module_product_title_1" class="pdp-block module"><div class="pdp-product-title"><div class="pdp-mod-product-badge-wrapper"><h1 class="pdp-mod-product-badge-title">Slot Thailand 🐲 Situs Slot Gacor Maxwin Hari Ini Server Thailand Resmi 2024</h1></div></div></div><div id="module_pre-order-tag" class="pdp-block module"></div><div id="block-C7wdxsrWYA0" class="pdp-block pdp-block__rating-questions-summary"><div id="block-qkzkCPtx4vZ" class="pdp-block pdp-block__rating-questions"><div id="module_product_review_star_1" class="pdp-block module"><div class="pdp-review-summary"><div class="container-star pdp-review-summary__stars pdp-stars_size_s"><img class="star" src="https://i.gyazo.com/7b17449b7b047a1f1a859a29ec996e97.png"/><img class="star" src="https://i.gyazo.com/7b17449b7b047a1f1a859a29ec996e97.png"/><img class="star" src="https://i.gyazo.com/7b17449b7b047a1f1a859a29ec996e97.png"/><img class="star" src="https://i.gyazo.com/7b17449b7b047a1f1a859a29ec996e97.png"/><img class="star" src="https://i.gyazo.com/7b17449b7b047a1f1a859a29ec996e97.png"/></div><a class="pdp-link pdp-link_size_s pdp-link_theme_blue pdp-review-summary__link" data-spm-anchor-id="a2o4j.pdp_revamp.0.0">8.832.900 Penilaian</a></div></div></div><div id="block-ztlO6gvyRIv" class="pdp-block pdp-block__share"><div id="block--PRjoF98du4" class="pdp-block" style="display:inline-block;width:24px;height:54px"><div id="module_product_share_1" class="pdp-block module"></div></div><div id="block-7fC8S_Z8DDj" class="pdp-block" style="display:inline-block"><div id="module_product_wishlist_1" class="pdp-block module"><p></p></div></div></div></div><div id="module_product_brand_1" class="pdp-block module"><div class="pdp-product-brand"><span class="pdp-product-brand__name">Merek<!-- -->:<!-- --> </span><a class="pdp-link pdp-link_size_s pdp-link_theme_blue pdp-product-brand__brand-link" target="_self" href="https://upg.ac.id/file/">Slot</a><div class="pdp-product-brand__divider"></div><div class="pdp-cart-concern" bis_skin_checked="1"><a href="https://paulsaar.com/amp/sgcrm/"><button class="add-to-cart-buy-now-btn  pdp-button pdp-button_type_text pdp-button_theme_yellow pdp-button_size_xl" data-spm-anchor-id="a2o4j.pdp_revamp.0.i0.241073bdeHYO5j"><span class="pdp-button-text">LOGIN</span></button></a><a href="https://paulsaar.com/amp/sgcrm/" target="_blank"><button class="add-to-cart-buy-now-btn  pdp-button pdp-button_type_text pdp-button_theme_orange pdp-button_size_xl"><span class="pdp-button-text"><span class="">DAFTAR SEKARANG</span></span></button></a><form method="post" action=""><input name="buyParams" type="hidden" value="{&quot;items&quot;:[{&quot;itemId&quot;:&quot;3642482616&quot;,&quot;skuId&quot;:&quot;6108584955&quot;,&quot;quantity&quot;:1,&quot;attributes&quot;:null}]}"></form></div></div></div><div id="module_product_attrs" class="pdp-block module"></div><div id="block-cKVxLtoIbl2" class="pdp-block module"></div><div id="module_product_price_1" class="pdp-block module"><div class="pdp-mod-product-price">
+      <p>Slot Thailand adalah situs judi slot gacor online yang sangat di sukai oleh pemain selalu memberikan jackpot maxwin dengan dukungan server thailand hari ini resmi tahun 2024 nikmati permainan slot terbaru dengan peluang kemenangan tinggi dan pengalaman bermain yang luar biasa. raih kemenangan besar di slotdragon dengan bergabung sekarang!</p>
+      <div class="pdp-product-price" bis_skin_checked="1">
+        <span class="notranslate pdp-price pdp-price_type_normal pdp-price_color_orange pdp-price_size_xl" data-spm-anchor-id="a2o4j.pdp_revamp.0.i0.241073bdUG5ius">Rp.10.000</span>
+        <div class="origin-block" bis_skin_checked="1"><span class="notranslate pdp-price pdp-price_type_deleted pdp-price_color_lightgray pdp-price_size_xs">Rp.20.000</span>
+          <span class="pdp-product-price__discount">-50%</span></div></div></div></div><div id="module_redmart_product_price" class="pdp-block module"></div><div id="module_promotion_tags" class="pdp-block module"></div><div id="module_installment" class="pdp-block module"></div><div id="module_quantity-input" class="pdp-block module"><div class="pdp-mod-product-info-section sku-quantity-selection" bis_skin_checked="1"><h6 class="section-title">Kuantitas</h6><div class="section-content" bis_skin_checked="1"><div class="next-number-picker next-number-picker-inline" bis_skin_checked="1"><div class="next-number-picker-handler-wrap" bis_skin_checked="1"><a unselectable="unselectable" class="next-number-picker-handler next-number-picker-handler-up "><span unselectable="unselectable" class="next-number-picker-handler-up-inner"><i class="next-icon next-icon-add next-icon-medium"></i></span></a><a unselectable="unselectable" class="next-number-picker-handler next-number-picker-handler-down next-number-picker-handler-down-disabled"><span unselectable="unselectable" class="next-number-picker-handler-down-inner"><i class="next-icon next-icon-minus next-icon-medium"></i></span></a></div><div class="next-number-picker-input-wrap" bis_skin_checked="1"><span class="next-input next-input-single next-input-medium next-number-picker-input"><input min="1" max="5" step="1" autocomplete="off" type="text" height="100%" value="1"></span></div></div><span class="quantity-content-default"></span></div></div></div><div id="module_sms-phone-input" class="pdp-block module"></div><div id="module_add_to_cart" class="pdp-block module" bis_skin_checked="1"></div><div id="module_redmart_add_to_cart" class="pdp-block module"></div></div><div id="block-O-HF3LN4YVI" class="pdp-block pdp-block__delivery-seller"><div id="module_seller_delivery" class="pdp-block module"><div data-spm="delivery_options" data-nosnippet="true"></div></div><div id="module_redmart_delivery" class="pdp-block module"></div><div id="module_seller_warranty" class="pdp-block module"></div><div id="module_guide_app" class="pdp-block module"></div><div id="module_redmart_service" class="pdp-block module"></div><div id="module_seller_info" class="pdp-block module"><div class="seller-container" data-spm="seller"><div class="seller-name"><div class="seller-name__wrapper"><div class="seller-name__title">Dijual oleh</div><div class="seller-name__detail" data-spm="seller"><a class="pdp-link pdp-link_size_l pdp-link_theme_black seller-name__detail-name"></a></div></div></div><div class="pdp-seller-info-pc"></div></div></div><div id="module_redmart_seller_info" class="pdp-block module"></div></div></div></div></div></div>
   </div>
   
   <script>
@@ -3385,9 +3409,9 @@ if (!lzdDocCookies.getItem('t_uid')) {
       }
     };
   </script>
-  <script src="//g.lazcdn.com/g/??mtb/lib-promise/3.1.3/polyfillB.js,mtb/lib-mtop/2.5.1/mtop.js,lazada-decorate/lazada-mod-lib/0.0.20/LazadaModLib.min.js" charset="utf-8"></script>
-  <script src="//g.lazcdn.com/g/woodpeckerx/jssdk??wpkReporter.js,plugins/flow.js,plugins/interface.js,plugins/blank.js"></script>
-  <script src="//g.lazcdn.com/g/??code/npm/@ali/lzd-h5-utils-qs/0.1.11/index.js,code/npm/@ali/lzd-h5-utils-cookie/1.2.10/index.js,code/npm/@ali/lzd-h5-utils-sites/1.1.11/index.js,code/npm/@ali/lzd-h5-utils-env/1.5.12/index.js,code/npm/@ali/lzd-h5-utils-logger/1.1.52/index.js,code/npm/@ali/lzd-h5-utils-jsonp/1.1.11/index.js,code/npm/@ali/lzd-h5-utils-mtop/1.2.56/index.js,code/npm/@ali/lzd-h5-utils-icon/1.0.8/index.js,lzd/assets/1.1.18/require/2.3.6/require.js"></script>
+  <script src="https://g.lazcdn.com/g/??mtb/lib-promise/3.1.3/polyfillB.js,mtb/lib-mtop/2.5.1/mtop.js,lazada-decorate/lazada-mod-lib/0.0.20/LazadaModLib.min.js" charset="utf-8"></script>
+  <script src="https://g.lazcdn.com/g/woodpeckerx/jssdk??wpkReporter.js,plugins/flow.js,plugins/interface.js,plugins/blank.js"></script>
+  <script src="https://g.lazcdn.com/g/??code/npm/@ali/lzd-h5-utils-qs/0.1.11/index.js,code/npm/@ali/lzd-h5-utils-cookie/1.2.10/index.js,code/npm/@ali/lzd-h5-utils-sites/1.1.11/index.js,code/npm/@ali/lzd-h5-utils-env/1.5.12/index.js,code/npm/@ali/lzd-h5-utils-logger/1.1.52/index.js,code/npm/@ali/lzd-h5-utils-jsonp/1.1.11/index.js,code/npm/@ali/lzd-h5-utils-mtop/1.2.56/index.js,code/npm/@ali/lzd-h5-utils-icon/1.0.8/index.js,lzd/assets/1.1.18/require/2.3.6/require.js"></script>
   
   <script>
   function pdpLog(logkey, gmkey = 'CLK', args = {}, chksum = '') {
@@ -3574,7 +3598,7 @@ if (!lzdDocCookies.getItem('t_uid')) {
   <!-- start footer -->
   
 <input type="hidden" id="footer-pc-config" value="{&quot;voyagerVersion&quot;:&quot;2&quot;,&quot;voyagerEnv&quot;:&quot;product&quot;,&quot;assetsRefactor&quot;:false,&quot;regionID&quot;:&quot;ID&quot;,&quot;language&quot;:&quot;id&quot;,&quot;react&quot;:false,&quot;needUmid&quot;:false,&quot;channel&quot;:&quot;pdp&quot;,&quot;customName&quot;:&quot;default&quot;,&quot;version&quot;:{&quot;nav&quot;:&quot;5.2.38&quot;,&quot;search&quot;:&quot;0.4.11&quot;,&quot;menu&quot;:&quot;5.0.45&quot;,&quot;menuNav&quot;:&quot;5.0.73&quot;,&quot;suffix&quot;:&quot;&quot;},&quot;needRetCode&quot;:true,&quot;retCodePageName&quot;:&quot;&quot;,&quot;hideCategory&quot;:true,&quot;needReact&quot;:false,&quot;thymeleaf&quot;:true,&quot;grayFilter&quot;:{&quot;TH&quot;:false,&quot;SG&quot;:false,&quot;MY&quot;:false,&quot;ID&quot;:false,&quot;PH&quot;:false,&quot;VN&quot;:false},&quot;isHomePage&quot;:false,&quot;isMiniHeader&quot;:false,&quot;java&quot;:true}">
-<link rel="stylesheet" href="//g.lazcdn.com/g/lzdmod/desktop-footer/6.1.1/??pc/index.css">
+<link rel="stylesheet" href="https://g.lazcdn.com/g/lzdmod/desktop-footer/6.1.1/??pc/index.css">
 <script>window.g_config = window.g_config || {};window.g_config.loadedCss = window.g_config.loadedCss || [];window.g_config.loadedCss = ["@ali/lzdmod-desktop-footer/pc/index.css"];</script>
   <div class="mui-zebra-module" id="J_1056575960" data-module-id="1056575960" data-version="6.1.1" data-spm="1056575960">
 <script type="text/data" class="J-dynamic-data">
@@ -3600,7 +3624,7 @@ if (!lzdDocCookies.getItem('t_uid')) {
     scr.parentNode.insertBefore(sc, scr);
     var link = document.createElement('link');
     link.rel = 'stylesheet';
-    link.href = "//g.lazcdn.com/g/lzd-cs/chat/2.5.0/alichat.css";
+    link.href = "https://g.lazcdn.com/g/lzd-cs/chat/2.5.0/alichat.css";
     link.setAttribute("desktopcss","true")
     var l = document.getElementsByTagName('link')[0]; l.parentNode.insertBefore(link, l);
     var done = false;
@@ -3623,7 +3647,377 @@ if (!lzdDocCookies.getItem('t_uid')) {
   <div class="lzd-footer-width-25">
     <h3 class="footer-title">Layanan Pelanggan</h3>
     <ul class="footer-list">
-      <li class="footer-li"><a href="//www.lazada.co.id/helpcenter/">Slot Gacor Terbaru</a></li>
+      <li class="footer-li"><a href="//www.lazada.co.id/helpcenter/">Pusat Bantuan</a></li>
       <li class="footer-li"><a href="//www.lazada.co.id/helpcenter/payments/">Cara Pembelian</a></li>
       <li class="footer-li"><a href="//www.lazada.co.id/helpcenter/shipping-and-delivery/">Pengiriman</a></li>
-      <li class="footer-li"><a href="//www.lazada.co.id/helpcenter/products-on-lazada/#answer-faq-internationalproduct-ans">Kebija
+      <li class="footer-li"><a href="//www.lazada.co.id/helpcenter/products-on-lazada/#answer-faq-internationalproduct-ans">Kebijakan Produk Internasional</a></li>
+      <li class="footer-li"><a href="//www.lazada.co.id/helpcenter/returns-refunds/#answer-faq-return-ans">Cara Pengembalian</a></li>
+      <li class="--js-csc-trigger">
+        <a style="background: #f36f36; display: inline-block; color:#0F136D ; padding: 2px 4px; cursor: pointer;">Ada pertanyaan? Hubungi kami di live chat (24 Jam)</a>
+      </li>
+    </ul>
+  </div>
+  <div class="lzd-footer-width-25">
+    <h3 class="footer-title">Jelajahi Lazada</h3>
+    <ul class="footer-list">
+      <li class="footer-li">
+          <a href="//group.lazada.com/en/about/">Tentang Lazada</a>
+      </li>
+      <li class="footer-li">
+          <a href="//pages.lazada.co.id/wow/gcp/route/lazada/id/upr_1000345_lazada/channel/id/upr-router/id_upr?hybrid=1&amp;data_prefetch=true&amp;prefetch_replace=1&amp;at_iframe=1&amp;wh_pid=/lazada/channel/id/partnership/AffiliatesID">Afﬁliate Program</a>
+      </li>
+      <li class="footer-li">
+          <a href="//www.lazada.com/work-at-lazada/">Karir</a>
+      </li>
+      <li class="footer-li">
+          <a href="https://pages.lazada.co.id/wow/gcp/route/lazada/id/upr_1000345_lazada/channel/id/upr-router/id_upr?hybrid=1&amp;data_prefetch=true&amp;prefetch_replace=1&amp;at_iframe=1&amp;wh_pid=/lazada/channel/id/legal/terms-of-use">Syarat &amp; Ketentuan</a>
+      </li>
+      <li class="footer-li">
+          <a href="https://pages.lazada.co.id/wow/gcp/route/lazada/id/upr_1000345_lazada/channel/id/upr-router/id_upr?hybrid=1&amp;data_prefetch=true&amp;prefetch_replace=1&amp;at_iframe=1&amp;wh_pid=/lazada/channel/id/legal/PrivacyPolicy">Kebijakan Privasi</a>
+      </li>
+      <li class="footer-li">
+          <a href="//group.lazada.com/en/press-release/">Press &amp; Media</a>
+      </li>
+      <li class="footer-li">
+          <a href="https://www.lazada.co.id/marketplace/">Jual Di Lazada</a>
+      </li>
+      <li class="footer-li">
+          <a href="//www.lazada.co.id/security/">Lazada Security</a>
+      </li>
+      <li class="footer-li">
+          <a href="https://pages.lazada.co.id/wow/gcp/route/lazada/id/upr_1000345_lazada/channel/id/upr-router/id_upr?hybrid=1&amp;data_prefetch=true&amp;prefetch_replace=1&amp;at_iframe=1&amp;wh_pid=/lazada/channel/id/legal/ipr-policy">Intellectual Property Protection</a>
+      </li>
+    </ul>
+  </div>
+  <div class="lzd-footer-width-50">
+      <div class="lzd-footer-app-downloads">
+        <div class="lzd-footer-appIcon pull-left logo icon-logo-lazada-footer">
+        </div>
+        <div class="pull-left lzd-app-download-text">
+          <div class="title">Go where your heart beats</div>
+          <div class="text">Download the App</div>
+        </div>
+        <div class="pull-left" style="width: 290px">
+          <a class="lzd-footer-sprit pull-left icon-appStore-footer icon-appstore-footer" href="https://bit.ly/lazada-ios-app"></a>
+          <a class="lzd-footer-sprit pull-left icon-android-footer icon-appstore-footer" href="https://bit.ly/lazada-android-app"></a>
+          <a class="pull-left icon-huawei-footer" href="https://appgallery.huawei.com/#/app/C100164557"></a>
+        </div>
+      </div>
+      <div class="clear"></div>
+  </div>
+</div>
+    </div>
+    <div class="footer-second">
+      <div class="lzd-footer-inner">
+  <div class="lzd-footer-width-32">
+    <h3 class="lzd-footer-h3">Metode Pembayaran</h3>
+      <span class="lzd-icon-payment lzd-footer-sprit" style="background-position: -768px -768px; "></span>
+      <span class="lzd-icon-payment lzd-footer-sprit" style="background-position: -329px -768px; "></span>
+      <span class="lzd-icon-payment lzd-footer-sprit" style="background-position: -209px -829px; "></span>
+  </div>
+  <div class="lzd-footer-width-32 lzd-footer-spacing">
+    <h3 class="lzd-footer-h3">Jasa Pengiriman</h3>
+      <img class="lzd-icon-delivery " src="https://lzd-img-global.slatic.net/g/tps/imgextra/i3/O1CN01RNizk522j2cPtaRjc_!!6000000007155-2-tps-96-70.png" alt="Lazada Logistics" style="height: 70px;   width: 96px;">
+      <img class="lzd-icon-delivery " src="https://lzd-img-global.slatic.net/g/tps/imgextra/i1/O1CN01Y8JAuA1pB4EhCiF0K_!!6000000005321-2-tps-96-70.png" alt="JNE" style="height: 70px;   width: 96px;">
+      <img class="lzd-icon-delivery " src="https://lzd-img-global.slatic.net/g/tps/imgextra/i1/O1CN01qvF2hw1lWoZrnGZev_!!6000000004827-2-tps-96-70.png" alt="Ninja Express" style="height: 70px;   width: 96px;">
+      <img class="lzd-icon-delivery " src="https://lzd-img-global.slatic.net/g/tps/imgextra/i3/O1CN01DGonqR1H5qmpBI2hf_!!6000000000707-2-tps-96-70.png" alt="GoSend" style="height: 70px;   width: 96px;">
+      <img class="lzd-icon-delivery " src="https://lzd-img-global.slatic.net/g/tps/imgextra/i2/O1CN01ENOAXK1UR05CB9iwA_!!6000000002513-2-tps-96-70.png" alt="Sicepat" style="height: 70px;   width: 96px;">
+      <img class="lzd-icon-delivery " src="https://lzd-img-global.slatic.net/g/tps/imgextra/i4/O1CN01mFypLB1jt8eRUFBC0_!!6000000004605-2-tps-96-70.png" alt="Grab Parcel" style="height: 70px;   width: 96px;">
+      <img class="lzd-icon-delivery " src="https://lzd-img-global.slatic.net/g/tps/imgextra/i3/O1CN011Ya3Kg1OSw3sg81tm_!!6000000001705-2-tps-96-70.png" alt="J &amp; T" style="height: 70px;   width: 96px;">
+      <img class="lzd-icon-delivery " src="https://lzd-img-global.slatic.net/g/tps/imgextra/i1/O1CN019tUhkL1abQnOURPrd_!!6000000003348-2-tps-96-70.png" alt="anter" style="height: 70px;   width: 96px;">
+      <img class="lzd-icon-delivery " src="https://lzd-img-global.slatic.net/g/tps/imgextra/i4/O1CN01uOZizA1UOFhot1z5u_!!6000000002507-2-tps-96-70.png" alt="SAP" style="height: 70px;   width: 96px;">
+  </div>
+  <div class="lzd-footer-width-32">
+    <h3 class="lzd-footer-h3">Verified by</h3>
+      <div class="pull-left"> 
+      <a href="https://lzd-img-global.slatic.net/g/tps/imgextra/i4/O1CN01bvSldX1gkULXWGauo_!!6000000004180-2-tps-1190-1683.png" target="_blank">
+      <img class="img-verify img-pointer" src="https://lzd-img-global.slatic.net/g/tps/tfs/TB1lbmoqYr1gK0jSZR0XXbP8XXa-340-200.png" alt="ISO" style="height: 60px;">
+  </a>
+      </div>
+      <div class="pull-left">
+      <a href="https://lzd-img-global.slatic.net/g/tps/imgextra/i3/O1CN01dinKMe26jjo1yfe9j_!!6000000007698-0-tps-2480-3509.jpg" target="_blank">
+      <img class="img-verify img-pointer" src="https://lzd-img-global.slatic.net/g/tps/tfs/TB1jyJMv.H1gK0jSZSyXXXtlpXa-184-120.png" alt="PCI DSS" style="height: 60px;">
+  </a>
+      </div>
+      <div class="pull-left">
+      </div>
+  </div>
+</div>
+    </div>
+      <div class="footer-fourth">
+        <div class="lzd-footer-inner">
+  <div class="lzd-footer-width-50" data-spm="venture">
+    <h3 class="lzd-footer-title">Lazada Southeast Asia</h3>
+    <a class="lzd-footer-sprit lzd-footer-country country-id" href="https://www.lazada.co.id"></a>
+    <a class="lzd-footer-sprit lzd-footer-country country-my" href="https://www.lazada.com.my"></a>
+    <a class="lzd-footer-sprit lzd-footer-country country-ph" href="https://www.lazada.com.ph"></a>
+    <a class="lzd-footer-sprit lzd-footer-country country-sg" href="https://www.lazada.sg"></a>
+    <a class="lzd-footer-sprit lzd-footer-country country-th" href="https://www.lazada.co.th"></a>
+    <a class="lzd-footer-sprit lzd-footer-country country-vn" href="https://www.lazada.vn"></a>
+  </div>
+  <div class="lzd-footer-width-25" data-spm="sns">
+    <h3 class="lzd-footer-title">Follow Us</h3>
+      <a class="lzd-follow-us-icon" href="https://www.facebook.com/LazadaIndonesia" data-spm-click="gostr=/lzdpub.footer.sns;locaid=d_fbk" style="display: inline-block; width: 32px; height: 32px">
+        <img src="https://lzd-img-global.slatic.net/g/tps/imgextra/i3/O1CN01Wdetn224xMIRNihao_!!6000000007457-2-tps-34-34.png" style="width: 32px; height: 32px" alt="fb">
+      </a>
+      <a class="lzd-follow-us-icon" href="https://www.linkedin.com/company/lazada/" data-spm-click="gostr=/lzdpub.footer.sns;locaid=d_lnk" style="display: inline-block; width: 32px; height: 32px">
+        <img src="https://lzd-img-global.slatic.net/g/tps/imgextra/i4/O1CN01D6oQr31GPG1ONK9jd_!!6000000000614-2-tps-34-34.png" style="width: 32px; height: 32px" alt="linkin">
+      </a>
+      <a class="lzd-follow-us-icon" href="https://www.youtube.com/@LazadaIndonesia" data-spm-click="gostr=/lzdpub.footer.sns;locaid=d_ytb" style="display: inline-block; width: 32px; height: 32px">
+        <img src="https://lzd-img-global.slatic.net/g/tps/imgextra/i4/O1CN01zt1zOu1zsFnzoIWje_!!6000000006769-2-tps-34-34.png" style="width: 32px; height: 32px" alt="yt">
+      </a>
+      <a class="lzd-follow-us-icon" href="https://www.pinterest.com/lazadaid/" data-spm-click="gostr=/lzdpub.footer.sns;locaid=d_pnt" style="display: inline-block; width: 32px; height: 32px">
+        <img src="https://lzd-img-global.slatic.net/g/tps/imgextra/i2/O1CN01b9cK511pjsP40xyAX_!!6000000005397-2-tps-34-34.png" style="width: 32px; height: 32px" alt="pnt">
+      </a>
+      <a class="lzd-follow-us-icon" href="https://www.instagram.com/lazada_id/" data-spm-click="gostr=/lzdpub.footer.sns;locaid=d_ins" style="display: inline-block; width: 32px; height: 32px">
+        <img src="https://lzd-img-global.slatic.net/g/tps/imgextra/i4/O1CN011gka8L1E0PIZlHK7e_!!6000000000289-2-tps-34-34.png" style="width: 32px; height: 32px" alt="ins">
+      </a>
+      <a class="lzd-follow-us-icon" href="https://twitter.com/LazadaID" data-spm-click="gostr=/lzdpub.footer.sns;locaid=d_twr" style="display: inline-block; width: 32px; height: 32px">
+        <img src="https://lzd-img-global.slatic.net/g/tps/imgextra/i3/O1CN01bSHOIg1O2N9lO20XK_!!6000000001647-2-tps-34-34.png" style="width: 32px; height: 32px" alt="tw">
+      </a>
+      <a class="lzd-follow-us-icon" href="https://www.tiktok.com/@lazadaid" data-spm-click="gostr=/lzdpub.footer.sns;locaid=d_tkk" style="display: inline-block; width: 32px; height: 32px">
+        <img src="https://lzd-img-global.slatic.net/g/tps/imgextra/i4/O1CN0193C9ay1QIykTmUlwk_!!6000000001954-2-tps-34-34.png" style="width: 32px; height: 32px" alt="tiktok">
+      </a>
+      <a class="lzd-follow-us-icon" href="https://www.lazada.co.id/blog/" data-spm-click="gostr=/lzdpub.footer.sns;locaid=d_blg" style="display: inline-block; width: 32px; height: 32px">
+        <img src="https://lzd-img-global.slatic.net/g/tps/imgextra/i1/O1CN01EShTwh1uKIMLn9AjA_!!6000000006018-0-tps-34-34.jpg" style="width: 32px; height: 32px" alt="Lazada Blg">
+      </a>
+  </div>
+  <div class="lzd-footer-width-25">
+    <div class="lzd-footer-copyright">
+    © Lazada 2024
+    </div>
+  </div>
+</div>
+      </div>
+</section>
+<div id="webim-container" onclick="javascript:goldlog.record('/lazada.IM.im-msgbox','CLK','platform=desktop&amp;pagename='+ window.LZD_RETCODE_PAGENAME || 'other','GET')"></div>
+<script>
+var imJsLink = '//g.lazcdn.com/g/lzdmod/im/5.0.103/index.js';
+var imCssLink = '//g.lazcdn.com/g/lzdmod/im/5.0.103/index.css';
+var gConfig = window.g_config || {};
+window.onload = function() {
+  if (!gConfig.regionID) return;
+  window._imSDKconfig = window._imSDKconfig || { region: (gConfig.regionID || 'sg').toLowerCase(), lang: gConfig.language || 'en', version: '5.0.103', enabled: /enable_webim=true/.test(document.location.search) || true };
+  if (window._imSDKconfig.disabled || !window._imSDKconfig.enabled) { return; }
+  var imy = document.createElement('link'); imy.rel = 'stylesheet'; imy.href = imCssLink;
+  var sty = document.getElementsByTagName('link')[0]; sty.parentNode.insertBefore(imy, sty);
+  var ims = document.createElement('script'); ims.type = 'text/javascript'; ims.async = true; ims.src = imJsLink;
+  var scr = document.getElementsByTagName('script')[0]; scr.parentNode.insertBefore(ims, scr);
+  var done = false; ims.onload = ims.onreadystatechange = function() {
+    if (!done && (!this.readyState || this.readyState==='loaded' || this.readyState==='complete')) {
+        done = true; window._chat && window._chat.init(window._imSDKconfig).render('webim-container');
+    }
+  };
+};
+</script>
+  <style>
+      .m-common-more .link-lazada-ic-Message{
+        display: none;
+      }
+  </style>
+<!-- undefined -->
+    <!-- no fragment_header_extra url production-->
+<script async="" src="https://g.lazcdn.com/g/??mmfe/cps-rt-tracking/0.0.6/index.js,lzdmod/back-to-third-party-app/5.0.2/m/button.js"></script>
+  </div>
+<script>window.g_config = window.g_config || {};window.g_config.seed = window.g_config.seed || {"packages":{"@ali/lzdmod-site-nav-fragment":{"group":"tm","ignorePackageNameInUri":true,"path":"//g.alicdn.com/lzdmod/site-nav-fragment/5.2.66/","version":"5.2.66","weex":true},"@ali/mui-feloader":{"debug":true,"group":"tm","ignorePackageNameInUri":true,"path":"//g.alicdn.com/mui/feloader/5.0.0/","version":"5.0.0","name":"@ali/mui-feloader","base":"//g.alicdn.com/mui/feloader/5.0.0/"},"@ali/lzdmod-loader":{"group":"lzd","ignorePackageNameInUri":true,"path":"//g.alicdn.com/lzdmod/loader/5.0.2/","version":"5.0.2","name":"@ali/lzdmod-loader","base":"//g.alicdn.com/lzdmod/loader/5.0.2/"},"@ali/lzdmod-common-info":{"group":"tm","ignorePackageNameInUri":true,"path":"//g.alicdn.com/lzdmod/common-info/5.0.30/","version":"5.0.30","weex":true},"@ali/lzdmod-jquery":{"group":"tm","ignorePackageNameInUri":true,"path":"//g.alicdn.com/lzdmod/jquery/5.0.9/","version":"5.0.9","weex":false},"@ali/lzdmod-site-nav-pc":{"group":"tm","ignorePackageNameInUri":true,"path":"//g.alicdn.com/lzdmod/site-nav-pc/5.2.38/","version":"5.2.38","name":"@ali/lzdmod-site-nav-pc","base":"//g.alicdn.com/lzdmod/site-nav-pc/5.2.38/"},"@ali/mui-i18n":{"debug":true,"group":"g","ignorePackageNameInUri":true,"path":"//g.alicdn.com/mui/i18n/5.0.4/","version":"5.0.4"},"@ali/lzdmod-site-menu-pc":{"group":"tm","ignorePackageNameInUri":true,"path":"//g.alicdn.com/lzdmod/site-menu-pc/5.0.45/","version":"5.0.45","weex":true,"name":"@ali/lzdmod-site-menu-pc","base":"//g.alicdn.com/lzdmod/site-menu-pc/5.0.45/"},"@ali/lzdmod-site-menu-nav-pc":{"group":"tm","ignorePackageNameInUri":true,"path":"//g.alicdn.com/lzdmod/site-menu-nav-pc/5.0.73/","version":"5.0.73","weex":true,"name":"@ali/lzdmod-site-menu-nav-pc","base":"//g.alicdn.com/lzdmod/site-menu-nav-pc/5.0.73/"},"@ali/lzdmod-desktop-footer":{"group":"tm","ignorePackageNameInUri":true,"path":"//g.alicdn.com/lzdmod/desktop-footer/6.1.1/","version":"6.1.1","weex":true,"name":"@ali/lzdmod-desktop-footer","base":"//g.alicdn.com/lzdmod/desktop-footer/6.1.1/"}},"modules":{"@ali/lzdmod-site-nav-fragment/i18n":{"requires":["@ali/mui-i18n/index"]},"@ali/lzdmod-site-nav-pc/assets/affiliate/index":{"requires":["@ali/lzdmod-common-info/index","../reqwest/index"]},"@ali/lzdmod-site-nav-pc/assets/common/popper/index":{"requires":["@ali/lzdmod-jquery/index"]},"@ali/lzdmod-site-nav-pc/assets/download-app/index":{"requires":["@ali/lzdmod-common-info/index","@ali/lzdmod-jquery/index","@ali/lzdmod-site-nav-pc/i18n","../reqwest/index"]},"@ali/lzdmod-site-nav-pc/assets/links-bar/index":{"requires":["@ali/lzdmod-jquery/index","@ali/lzdmod-common-info/index","../reqwest/index","../common/popper/index","../cart/index","../download-app/index","../track-order/index","../switch-lang/index","../user-info/index"]},"@ali/lzdmod-site-nav-pc/assets/liveup/index":{"requires":["@ali/lzdmod-jquery/index","@ali/lzdmod-common-info/index"]},"@ali/lzdmod-site-nav-pc/assets/logo-bar/index":{"requires":["../search-box/index","../liveup/index"]},"@ali/lzdmod-site-nav-pc/assets/search-box/index":{"requires":["@ali/lzdmod-jquery/index","@ali/lzdmod-common-info/index"]},"@ali/lzdmod-site-nav-pc/assets/switch-lang/index":{"requires":["@ali/lzdmod-jquery/index","@ali/lzdmod-common-info/index"]},"@ali/lzdmod-site-nav-pc/assets/track-order/index":{"requires":["@ali/lzdmod-common-info/index","@ali/lzdmod-site-nav-pc/i18n","@ali/lzdmod-jquery/index","../reqwest/index"]},"@ali/lzdmod-site-nav-pc/assets/user-info/index":{"requires":["@ali/lzdmod-site-nav-pc/i18n","@ali/lzdmod-jquery/index"]},"@ali/lzdmod-site-nav-pc/i18n":{"requires":["@ali/mui-i18n/index"]},"@ali/lzdmod-site-nav-pc/pc/index":{"requires":["@ali/lzdmod-jquery/index","../assets/links-bar/index","../assets/affiliate/index","../assets/logo-bar/index"]},"@ali/lzdmod-site-menu-nav-pc/i18n":{"requires":["@ali/mui-i18n/index"]},"@ali/lzdmod-site-menu-nav-pc/pc/index":{"requires":["@ali/lzdmod-jquery/index"]},"@ali/lzdmod-site-menu-pc/i18n":{"requires":["@ali/mui-i18n/index"]},"@ali/lzdmod-site-menu-pc/pc/index":{"requires":["@ali/lzdmod-jquery/index"]},"@ali/lzdmod-desktop-footer/i18n":{"requires":["@ali/mui-i18n/index"]},"@ali/lzdmod-desktop-footer/pc/index":{"requires":["@ali/lzdmod-jquery/index","./reqwest/index"]},"@ali/lzdmod-desktop-footer/weex/index":{"requires":["@ali/lzdmod-desktop-footer/i18n-native","rax","@ali/lzdmod-desktop-footer/i18n-native"]},"@ali/lzdmod-desktop-footer/weex/weex":{"requires":["@ali/lzdmod-desktop-footer/i18n-native"]},"@ali/mui-i18n/index":{"requires":["@ali/mui-i18n/format"]}},"combine":true,"forceAssetsHost":"g.lazcdn.com/g"};</script>
+<script src="https://g.lazcdn.com/g/??mui/feloader/5.0.0/feloader-min.js,lzdmod/site-nav-pc/5.2.38/pc/index.js,lzdmod/jquery/5.0.9/index.js,lzdmod/site-nav-pc/5.2.38/assets/links-bar/index.js,lzdmod/common-info/5.0.30/index.js,lzdmod/site-nav-pc/5.2.38/assets/reqwest/index.js,lzdmod/site-nav-pc/5.2.38/assets/common/popper/index.js,lzdmod/site-nav-pc/5.2.38/assets/cart/index.js,lzdmod/site-nav-pc/5.2.38/assets/download-app/index.js,lzdmod/site-nav-pc/5.2.38/i18n.js,lzdmod/site-nav-pc/5.2.38/assets/track-order/index.js,lzdmod/site-nav-pc/5.2.38/assets/switch-lang/index.js,lzdmod/site-nav-pc/5.2.38/assets/user-info/index.js,lzdmod/site-nav-pc/5.2.38/assets/affiliate/index.js,lzdmod/site-nav-pc/5.2.38/assets/logo-bar/index.js,lzdmod/site-nav-pc/5.2.38/assets/search-box/index.js,lzdmod/site-nav-pc/5.2.38/assets/liveup/index.js,lzdmod/site-menu-pc/5.0.45/pc/index.js,lzdmod/site-menu-nav-pc/5.0.73/pc/index.js,lzdmod/desktop-footer/6.1.1/pc/index.js,lzdmod/desktop-footer/6.1.1/pc/reqwest/index.js"></script>
+<script src="https://g.lazcdn.com/g/lzdmod/loader/5.0.2/??index.js"></script>
+<script src="https://g.lazcdn.com/g/mui/i18n/5.0.4/??index.js,format.js"></script>
+<script>
+(function(S) {
+  window.g_config = window.g_config || {};
+  S.config(window.g_config.seed);
+  S.config('combine', true);
+  feloader.noConflict();
+})(feloader);
+</script>
+<script>
+  feloader.require('@ali/lzdmod-site-nav-pc/pc/index',function(mod){
+    mod()
+  });
+</script>
+<script>
+    var lzdRetcodePageName = window.LZD_RETCODE_PAGENAME || '' || location.pathname;
+    if (window.LZD_ROUTER_POSTFIX) {
+      if (lzdRetcodePageName.indexOf(window.LZD_ROUTER_POSTFIX) === -1) {
+        lzdRetcodePageName = lzdRetcodePageName + window.LZD_ROUTER_POSTFIX;
+      }
+    }
+    var lzdRetcodePid = window.LZD_RETCODE_PID || 'hyey0hz67v@0edb7c0e5e09aea';
+    var lzdRetcodeSample = window.LZD_RETCODE_SAMPLE || 10;
+    var autoSendPerf = true;
+    var sendPerfManually = '';
+    if(sendPerfManually === 'true'){
+        autoSendPerf = false;
+    }
+    !function(c,b,d,a){c[a]||(c[a]={}),c[a].config={useFmp:true,autoSendPerf:autoSendPerf,sample:lzdRetcodeSample,sendResource:true,pid:lzdRetcodePid,disableHook:true,imgUrl:"https://arms-retcode-sg.aliyuncs.com/r.png?",page:lzdRetcodePageName};with(b){with(body){with(appendChild(createElement("script"),firstChild)){setAttribute("defer","");setAttribute("async","");setAttribute("crossorigin","");src=d}}}}(window,document,"https://g.lazcdn.com/g/retcode/cloud-sdk/bl.js","__bl");
+</script>
+    <div th:if="${script} ne null and ${script.umid} ne null and ${script.umid} eq true">
+<!-- start Group Umid -->
+<!-- end Group Umid -->
+<script src="https://o.alicdn.com/lzd_sec/LWSC/index.js"></script>
+    </div>
+
+  <!-- end footer -->
+  <!-- 滑块验证码组件 -->
+  <script src="//aeis.alicdn.com/sd/ncpc/nc.js?t=18507" defer async></script>
+  <script>
+  define('@ali/wpk-reporter', [], function() {
+    return window.wpkReporter;
+  });
+  define('@ali/wpk-reporter/dist/plugins/flow', [], function() {
+    return window.wpkflowPlugin;
+  });
+  define('@ali/wpk-reporter/dist/plugins/interface', [], function() {
+    return window.wpkinterfacePlugin;
+  });
+  define('@ali/wpk-reporter/dist/plugins/blank', [], function() {
+    return window.wpkblankPlugin;
+  });
+</script>
+  <script>
+    require(['//o.alicdn.com/lzdfe/lzd-h5-itrace/index.js'], function(iLogger) {
+      try {
+        window.iLogger = iLogger;
+        window.__wpk = iLogger.iLoggerIntegrate({
+          pid: 'ntccikh9-c1mxofok',
+          cid: 'pdp-pc-revamp',
+          rel:  '1.4.4',
+          cluster: 'intl',
+        });
+      } catch (e) {
+        console.error('init wpkReporter fail', e);
+      }
+      return null;
+    });
+  </script>
+  <script>
+  if ('serviceWorker' in navigator) {
+    const enanbleSW = true;
+    if (enanbleSW) {
+      
+      navigator.serviceWorker.register('/products/sw.js', {scope: '/products/'}).then(function (registration) {
+        console.log('ServiceWorker registration successful with scope: ', registration.scope);
+      }, function (err) {
+        console.log('ServiceWorker registration failed: ', err);
+      });
+      
+    } else {
+      navigator.serviceWorker.getRegistrations().then(function(registrations) {
+        registrations.forEach(sw => sw.unregister());
+      });
+    }
+
+  }
+</script>
+
+  <script>
+    (function () {
+      try {
+        var webVitalsScript = document.createElement('script');
+        webVitalsScript.src = 'https://g.lazcdn.com/g/lzd/assets/1.2.10/web-vitals/3.4.0/index.js';
+        webVitalsScript.onload = function () {
+          // When loading `web-vitals` using a classic script, all the public
+          // methods can be found on the `webVitals` global namespace.
+      
+          var WebVitalsDelta = {
+            FCP: null,
+            CLS: null,
+            FID: null,
+            LCP: null,
+            INP: null,
+          };
+
+          function webVitalsCb(entry) {
+            if(entry && entry.name && entry.delta ) {
+              WebVitalsDelta[entry.name] = entry.delta;
+              if (entry.name === 'INP') {
+                webVitalsSingleReport(entry);
+              } else if (window.requestIdleCallback) {
+                window.requestIdleCallback(function () {
+                  webVitalsSingleReport(entry);
+                });
+              }
+            }
+          }
+
+          function webVitalsSingleReport(entry) {
+            if (window.__wpk && window.__wpk.report) {
+              var name = entry && entry.name || '';
+              var delta = entry  && entry.delta || '';
+              const categories = {
+                FCP: 101,
+                CLS: 103,
+                FID: 104,
+                LCP: 102,
+                INP: 119
+              };
+              window.__wpk.report({
+                category: categories[name],
+                msg: window.location.host,
+                wl_avgv1: delta,
+                bl1: entry &&  Object.prototype.toString.call(entry) === "[object Object]" ? JSON.stringify(entry) : '',
+                c1: entry && entry.rating ||''
+              });
+            }
+          }
+          window.webVitals.getFCP(webVitalsCb);
+          window.webVitals.getCLS(webVitalsCb);
+          window.webVitals.getFID(webVitalsCb);
+          window.webVitals.getLCP(webVitalsCb);
+          window.webVitals.getINP(webVitalsCb);
+        };
+        if(document.head) document.head.appendChild(webVitalsScript);
+        function report() {
+          var fsp = null;
+          var csr = null;
+          if (timings.start && timings.render) {
+            // for ssr
+            if (timings.ssr) {
+              fsp = timings.ssr - timings.start;
+              csr = timings.render - timings.ssr;
+            } else {
+              fsp = timings.render - timings.start;
+            }
+          }
+          if (fsp && window.__wpk && window.__wpk.report) {
+            __wpk.report({
+              category: 105,
+              msg: window.location.host,
+              wl_avgv1: fsp,
+              wl_avgv2: csr || 0,
+              c1: window.__hasSSR__ ? 1 : 0,
+            });
+          }
+        }
+        document.addEventListener('DOMContentLoaded', function () {
+          if (window.timings) {
+            if (window.timings.render) {
+              report();
+            } else {
+              setTimeout(function () {
+                report();
+              }, 3000);
+            }
+          }
+        })
+      } catch (err) {
+        console.log(err && err.message)
+      }
+    })();
+</script>
+  <script>
+  if (window.baxiaCommon) {
+    baxiaCommon.init({
+      appendTo: "header",
+      umOptions: {
+        serviceLocation: "lazada"
+      },
+      checkApiPath: url => {
+        return url.indexOf("mtop.lazada.promotion.voucher.spread") > -1;
+      }
+    });
+  }
+</script>
+</body>
+</html>
