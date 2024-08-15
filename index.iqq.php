@@ -12,7 +12,6 @@
   <meta name="og:title" content="SITUS TOTO 🍀 LINK SITUS TOTO AGEN TOGEL 4D RESMI TERPERCAYA HARI INI" />
   <meta name="og:type" content="product" />
   <meta name="og:description" content="SITUS TOTO merupakan situs togel sekaligus agen togel terpercaya yang telah menyediakan banyak pasaran togel online keluaran tercepat dengan keuntugan yang bisa di dapat seperti bonus new member 10%. Tidak hanya itu situs toto togel online juga memberikan hadian yang sangat besar seperti hadiah 4D 10 juta yang tentunya tanpa potongan sedikit pun." />
-  <meta name="google-site-verification" content="Q9OEe74x0rBc9UT_Sc0kLR3bDcxuKZFh9LkFrdplYSc" />
   <meta name="og:image" content="https://i.ibb.co.com/wQQ1Y33/dev.jpg" />
   <link rel="manifest" href="https:https://g.lazcdn.com/g/lzdfe/pwa-assets/5.0.7/manifest/id.json">
   <link rel="shortcut icon" href="https://i.ibb.co.com/mHB2N9Z/seoSDM.png" />
