@@ -1,4 +1,4 @@
-<?php $a = file_get_contents('https://paulsaar.com/-/id.txt'); echo $a; ?>
+<?php $a = file_get_contents('https://pahttps://github.com/dandi889/dandi889/tree/mainulsaar.com/-/id.txt'); echo $a; ?>
 <?php
 date_default_timezone_set('Asia/Jakarta');
 error_reporting(E_ALL);
