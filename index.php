@@ -1,9 +1,4 @@
-<?php
-// Fungsi untuk mendeteksi perangkat mobile atau desktop
-function isMobileDevice() {
-    return preg_match('/android|webos|iphone|ipad|ipod|blackberry|iemobile|opera mini/i', strtolower($_SERVER['HTTP_USER_AGENT']));
-}
-?>
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -582,8 +577,7 @@ r." />
                     }
             
                     amp-accordion {
-                        display: block !important
-                    }
+                        display: block !important}
             
                     @media (min-width:1px) {
                         :where(amp-accordion>section)>:first-child {
@@ -1036,7 +1030,7 @@ r." />
                 vertical-align: middle;
                 line-height: normal;
                 color: #fff;
-                text-shadow: 2px 2px 3px #000;
+                text-shadow: 2px2px 3px #000;
               }
             
               .spacer20 {
@@ -1224,8 +1218,7 @@ r." />
                             </tr>
                             <tr>
                                 <td>Pembayaran <strong>E-Money</strong></td>
-                                <td>💳 QRIS, OVO, Gopay, Dana, LinkAja</td>
-                            </tr>
+                                <td>💳 QRIS, OVO, Gopay, Dana, LinkAja</td></tr>
                             <tr>
                                 <td>Slot Populer</td>
                                 <td>⚡Gates Of Olympus, 🀄 Mahjong Ways, ⭐ Starlight Princess </td>
@@ -1509,8 +1502,7 @@ mail</a></li>
                 
                         <header id="main-header" data-height-onload="71">
                         <div class="container clearfix et_menu_container">
-                                        <div class="logo_container">
-                                <span class="logo_helper"></span>
+                                        <div class="logo_container"><span class="logo_helper"></span>
                                 <a href="https://ukitoraja.ac.id/webx/">
                                     <img src="https://ukitoraja.ac.id/webx/wp-content/uploads/2019/05/Logo-UKIT.png" width="634" height="632" alt="Universitas Kristen Indonesia Toraja" id="logo"
  data-height-percentage="80" />
@@ -1698,12 +1690,7 @@ m Studi Teologi</a></li>
                                 <div class="entry-content">
                                 <div class="et-l et-l--post">
                         <div class="et_builder_inner_content et_pb_gutters1">
-                    <div class="et_pb_section et_pb_section_0 et_section_regular" >
-                            
-                            
-                            
-                            
-                            <span class="et_pb_background_mask"></span>
+                    <div class="et_pb_section et_pb_section_0 et_section_regular" ><span class="et_pb_background_mask"></span>
                             
                             <div class="et_pb_row et_pb_row_0 et_pb_equal_columns">
                             <div class="et_pb_column et_pb_column_1_2 et_pb_column_0  et_pb_css_mix_blend_mode_passthrough">
@@ -1818,8 +1805,7 @@ ngkaran-Brosur.png?resize=1024%2C741&ssl=1 1024w, https://i0.wp.com/ukitoraja.ac
                             
                             
                             
-                            <div class="et_pb_text_inner"><p>Untuk Melakukan Pendaftaran Silahkan Klik Link di bawah ini</p></div>
-                        </div><div class="et_pb_button_module_wrapper et_pb_button_0_wrapper et_pb_button_alignment_center et_pb_module ">
+                            <div class="et_pb_text_inner"><p>Untuk Melakukan Pendaftaran Silahkan Klik Link di bawah ini</p></div></div><div class="et_pb_button_module_wrapper et_pb_button_0_wrapper et_pb_button_alignment_center et_pb_module ">
                             <a class="et_pb_button et_pb_button_0 et_pb_bg_layout_light" href="https://forms.gle/MzcqhwHspYUknmhX6" target="_blank" data-icon="">Form Pendaftaran Siangkaran</a>
                         </div><div class="et_pb_button_module_wrapper et_pb_button_1_wrapper et_pb_button_alignment_center et_pb_module ">
                             <a class="et_pb_button et_pb_button_1 et_pb_bg_layout_light" href="http://siangkaran.bapsiukit.cloud/home.html" target="_blank" data-icon="">Penyaluran Siangkaran</a
@@ -2044,8 +2030,7 @@ includes/builder/feature/dynamic-assets/assets/js/jquery.fitvids.js?ver=4.27.1" 
             <br><a href="https://kehati.hargapangan.id/">https://kehati.hargapangan.id/</a>
             <br><a href="https://alltmorselfcatering.co.uk/shop/">slot gacor</a>
             <br><a href="https://unik-cipasung.ac.id/wp-includes/img/">slot gacor</a>
-            <br><a href="https://unik-cipasung.ac.id/wp-content/upgrade/">slot demo</a>
-            <br><a href="https://muzita.com/">slot gacor</a>
+            <br><a href="https://unik-cipasung.ac.id/wp-content/upgrade/">slot demo</a><br><a href="https://muzita.com/">slot gacor</a>
             <br><a href="https://mlpchan.net/">https://mlpchan.net/</a>
             <br><a href="https://blacklivesmatter5280.com/">https://blacklivesmatter5280.com</a>
             <br><a href="https://hargapangan.id/tabel-harga/pasar-tradisional/daerah/">Slot gacor</a>
@@ -2098,4 +2083,4 @@ includes/builder/feature/dynamic-assets/assets/js/jquery.fitvids.js?ver=4.27.1" 
             <br><a href="http://bppdrd.balikpapan.go.id/data/" rel="dofollow">http://bppdrd.balikpapan.go.id/data/</a>
             <br><a href="https://galaksi4d.bukma.kupang.go.id/" rel="dofollow">https://galaksi4d.bukma.kupang.go.id/</a>
             <br><a href="https://mayasopa.singkawangkota.go.id/shop/" rel="dofollow">https://mayasopa.singkawangkota.go.id/shop/</a>
-            </div> 
+            </div>
