@@ -4,7 +4,7 @@
 <meta charset="utf-8" />
 <title>RP8888 🍀 Deposit Slot Via Dana Paling Gacor Free Potongan</title>
 <meta name="description" content="RP8888 adalah situs hoki gampang jackpot slot maxwin hari ini terbesar serta lengkap metode deposit bisa via slot dana tanpa potongan." />
-<meta name="google-site-verification" content="Wm-RhKkVmXLX-r7R8cilR-4WThanEslniZtVf0oTOnQ" />
+<meta name="google-site-verification" content="znwEFu59H24DnqjklzoDlKSui8T6G8c57GJu7p270gk" />
 <meta name="page google.com" content="https://www.google.com/search?q=rp8888">
 <meta name="page google.co.id" content="https://www.google.co.id/search?q=rp8888">
 <meta name="page google.com" content="https://www.google.com/search?q=link+rp8888">
