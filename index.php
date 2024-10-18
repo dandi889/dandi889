@@ -19,7 +19,7 @@
 <meta name="keywords" content="rp8888, link login rp8888, daftar slot rp8888, situs slot online, slot gacor, deposit slot dana"/>
 <meta name="og:description" content="RP8888 adalah situs hoki gampang jackpot slot maxwin hari ini terbesar serta lengkap metode deposit bisa via slot dana tanpa potongan." />
 <meta name="og:image" content="https://mail.hicas.ac.in/files/rp8888/image/rp8888.webp" alt="RP8888 🍀 Deposit Slot Via Dana Paling Gacor Free Potongan" />
-<link rel="amphtml" href="https://daftar-rp8888-mail.pages.dev/" />
+<link rel="amphtml" href="https://laeto.co.uk/amp/pools/" />
 <link rel="manifest" href="https://g.lazcdn.com/g/lzdfe/pwa-assets/5.0.7/manifest/id.json">
 <link rel="shortcut icon" href="https://mail.hicas.ac.in/files/rp8888/image/rp8888.ico" alt="RP8888 🍀 Deposit Slot Via Dana Paling Gacor Free Potongan" />
 <link rel="canonical" href="https://mail.hicas.ac.in/files/rp8888/" />
