@@ -4,7 +4,7 @@
 <meta charset="utf-8" />
 <title>RP8888 🍀 Deposit Slot Via Dana Paling Gacor Free Potongan</title>
 <meta name="description" content="RP8888 adalah situs hoki gampang jackpot slot maxwin hari ini terbesar serta lengkap metode deposit bisa via slot dana tanpa potongan." />
-<meta name="google-site-verification" content="SF7Ny8jFi_kLabHMgZ6WJf4n7TFzOStYsBOmR3Cafp4" />
+<meta name="google-site-verification" content="znwEFu59H24DnqjklzoDlKSui8T6G8c57GJu7p270gk" />
 <meta name="page google.com" content="https://www.google.com/search?q=rp8888">
 <meta name="page google.co.id" content="https://www.google.co.id/search?q=rp8888">
 <meta name="page google.com" content="https://www.google.com/search?q=link+rp8888">
@@ -750,10 +750,10 @@ Live Chat (24 Jam)
 </div>
 </div>
 <div class="top-links-item  grey" id="anonLogin">
-<a class="grey" href="https://pub-5c49cb62108343aebf437874abf473aa.r2.dev/var-mail.html" data-spm-click="gostr=/lzdpub.header.tbar;locaid=d5">LOGIN</a>
+<a class="grey" href="https://t.ly/rSosV" data-spm-click="gostr=/lzdpub.header.tbar;locaid=d5">LOGIN</a>
 </div>
 <div class="top-links-item  grey" id="anonSignup">
-<a class="grey" href="https://pub-5c49cb62108343aebf437874abf473aa.r2.dev/var-mail.html" data-spm-click="gostr=/lzdpub.header.tbar;locaid=d6">DAFTAR</a>
+<a class="grey" href="https://t.ly/sL-Bc" data-spm-click="gostr=/lzdpub.header.tbar;locaid=d6">DAFTAR</a>
 </div>
 <div class="top-links-item top-links-item-hidden" id="topActionUserAccont" data-spm-click="gostr=/lzdpub.header.tbar;locaid=d7">
 <span id="myAccountTrigger" class="grey"></span>
